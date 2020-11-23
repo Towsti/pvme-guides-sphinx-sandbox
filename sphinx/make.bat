@@ -10,11 +10,11 @@ if "%SPHINXBUILD%" == "" (
 set SOURCEDIR=source
 set BUILDDIR=build
 
-if "%1" == "github-page" (
+if "%1" == "github-pages" (
 	%SPHINXBUILD% -M clean %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 	%SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 	del "..\docs\" /s /f /q
-	copy "build\html\." "..\docs\"
+	xcopy "build\html\." "..\docs\" /E/H
 	git add "..\docs"
 	git commit -m "generated docs"
 	git push
