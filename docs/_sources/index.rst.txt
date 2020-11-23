@@ -1,16 +1,17 @@
-.. pvme-guides documentation master file, created by
-   sphinx-quickstart on Mon Nov 23 12:04:21 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to pvme-guides's documentation!
-=======================================
+Table Of Contents
+=================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
 
-
+    pvme-guides/dpm-advice
+    pvme-guides/getting-started
+    pvme-guides/high-tier-pvm
+    pvme-guides/information
+    pvme-guides/low-tier-pvm
+    pvme-guides/mid-tier-pvm
+    pvme-guides/miscellaneous-information
+    pvme-guides/upgrading-info
 
 Indices and tables
 ==================

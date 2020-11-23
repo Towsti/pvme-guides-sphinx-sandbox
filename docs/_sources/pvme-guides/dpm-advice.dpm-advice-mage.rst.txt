@@ -1,0 +1,700 @@
+dpm-advice-mage
+===============
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |conc| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |comb| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |chain| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asr| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |drider| image:: https://cdn.discordapp.com/emojis/656785090994503700.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |lunge4| image:: https://cdn.discordapp.com/emojis/736522494315593759.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |praeswand| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |noxstaff| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |impercore| image:: https://cdn.discordapp.com/emojis/643166751067996160.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+﻿In RuneScape PvM, the meta at the time of writing is about pushing out as much damage in as little time as possible. It is important to understand that good and efficient PvM, especially at the higher tiers, is about squeezing out as much damage as possible in between mechanics. This channel will go over general damage output lessons, ability prioritizations, crafting a rotation, a learning path, common mistakes, and tips and tricks.
+
+
+
+
+
+Abbreviations
+^^^^^^^^^^^^^
+
+DPM - damage per minute, a measure of how much damage is done over a minute time
+
+
+
+DPS – damage per second, or in-general referring to damage
+
+
+
+DW – dual wield, a wand/orb or wand/book weapon
+
+
+
+2h – Two hand, a staff weapon
+
+
+
+Juggling/Swapping – Generally referring to switching between dual wield and 2h weapons to gain access to more damaging abilities
+
+
+
+Camping – Refers to using only one type of weapon, ie. 2h camping or DW camping
+
+
+
+Rotation – Refers to the usage of abilities and managing ability cooldowns
+
+
+
+Switch – Refers to a weapon or gear item that is equipped and use temporarily for its effects
+
+
+
+Auto – an auto attack, damage based on which spell tier is used in your spellbook
+
+
+
+Tick – A unit of time in which a game action can occur. Runescape's tick is 0.6 seconds in duration
+
+
+
+Lossless - meaning no ticks are lost in performing an action
+
+
+
+GCD - global cooldown. An innate cooldown built into every ability. Lasts for 3 ticks (1.8 seconds)
+
+
+
+For more abbreviations, see Evil Lucario's list of common PVM Lingo and Abbreviations: <https://docs.google.com/document/d/1yZmDhx-SJsrVo0iTNwgMN3YsuJ9CrHcySd3hptvz3Ds/>
+
+
+
+
+
+Revo++
+^^^^^^
+
+Revolution++ is a combat mode wherein you can toggle the game to automatically activate basic, threshold, and ultimate abilities automatically upon reaching the required adrenaline. While we do not encourage using Revo++ as it limits the amount of control a player has over their own rotation, it is low-input and low maintenance. Revo++ can be desirable for afking, low-effort pvm, or slayer tasks. Here is an ability bar we recommend for Revo++. Using this recommended ability bar with zero player input you can achieve a DPM of roughly 130k.
+
+
+
+To toggle on revolution++ and highlight how many abilities to trigger with it, click the cog icon on your ability bar: 
+
+
+
+.. image:: https://i.imgur.com/Dn6UDOV.png
+
+
+
+.. image:: https://i.imgur.com/4L0aa2h.png
+
+
+
+Revolution
+^^^^^^^^^^
+
+Revolution (not revo++) is a combat mode wherein basic abilities are used automatically by the game but threshold and ultimate abilities are manually activated. Newer players may find this combat mode helpful starting out as it allows for some control over your rotation but doesn't overburden you with managing basic abilities. Below is an ability bar we recommend to use for revolution. Note that the thresholds and ultimate abilities can be placed in any order as it does not matter where they are on the bar − you will be manually activating them. 
+
+
+
+If you are new to using revolution, simply let revo use basic abilities for you. Activate sunshine  |Sunshine|  once you reach 100% adrenaline. From there use your thresholds whenever you reach 50% adrenaline (wm |wm| , asphyx |asphyx| , deep impact |deep| ). Repeat.
+
+Following this simple repeating pattern of *Build to 100% → Sunshine → Thresholds → Repeat*, one can expect to reach around 150k dpm with low-medium player input.
+
+.. image:: https://i.imgur.com/ihbsrD9.png
+
+
+
+
+
+Full Manual
+^^^^^^^^^^^
+
+Full Manual is a combat mode wherein all abilities are manually activated by the player. No automatic inputs from the game means no damaging abilities will be done, therefore this mode requires high input from the player. The benefit of this mode is that it allows for the greatest degree of control over which abilities are used in any given scenario. Most high level pvmers opt to use this combat mode. While it does not matter where you place your abilities on your bar with full manual, you may still find it helpful to organize your bar based on basics to thresholds to ultimate. Refer to the revolution bars as examples.
+
+
+
+Transitioning from revo to full manual can seem intimidating but all it takes is practice. Most players start by letting revolution activate basics while they manually input thresholds and ultimates. The next step would be to manually activate basic abilities too, with revolution still active as a failsafe. Once you feel confident in activating basic abilities manually, try turning off revolution.
+
+
+
+An exercise to help you here is to only use basics for a full minute of combat on a combat dummy. Your goal is to not lose any ticks between basic abilities, either due to cooldowns or due to not manually activating the next ability fast enough. Once you get comfortable at a combat dummy, try on a real boss such as GWD1 (Graador/Kr'il/Kree) or GWD2 (Vindicta). *There is no easy "trick" to skip past the practice. It takes time to learn full manual so stick with it!*
+
+
+
+
+
+Ability Prioritizations & Building a Rotation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Generally speaking, high damaging abilities should be prioritized and used more often than low damaging abilities. However, there's a catch. High damaging abilities often come with long cooldowns. If you use all of the high damaging abilities at once, you will be forced to wait for cooldowns before you may use them again – during which time you are forced to use low damage abilities. To circumvent this, the trick is to use 'filler abilities' – decent damage AND short cooldowns – in-between your high damaging abilities in order to pace your cooldowns.
+
+
+
+See this image for an idea of which abilities should be prioritized based on damage (in a vacuum)
+
+.. image:: https://i.imgur.com/T2LGvgy.png
+
+
+
+
+
+When building a rotation, ability prioritizations AND cooldowns should be on your mind. Filler abilities such as Sonic Wave |sonic|  and Concentrated Blast |conc|  should be used in-between high damage abilities such as Dragon Breath |dbreath| , Corruption Blast |corruptblast| , Impact-Flanking |impact| , and Combust-Walk |comb| . Any basic ability with damage lower than Sonic/Conc would be considered a weak ability (wrack |wrack| , tuska |Tuskas| , sacrifice |Sacrifice| , impact |impact|  without flanking, chain |chain|  on 1v1).
+
+
+
+If you are 2h or DW camping, you will be limited to only one filler ability (Sonic Wave or Concentrated Blast, respectively). Thus, try to utilize Sonic Wave or Concentrated Blast as often as possible in your rotation. A basic pattern of *Sonic |sonic|  → Ability → Ability → Repeat* is recommended for camping rotations.
+
+
+
+For weapon juggling, you will have access to both Sonic Wave and Concentrated Blast as filler abilities. This lets you have more breathing room in what rotations and fillers you create. While there is no singular rotation that is *best* here, a general pattern of *Sonic |sonic|  → Ability → Conc |conc|  → Ability → Repeat* will give you strong dps. 
+
+
+
+
+
+Measuring DPM - Challenge Gems and Runemetrics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A good way to get an understand of where you are in terms of DPM is by placing a challenge gem at Combat Academy at Lumbridge and doing a 5 minute gem. Use your best armor, weapon, supreme or elder overloads, and the best DPS prayers you have available. After 5 minutes, divide your score by 5 to figure out your DPM. For example, a 750,000 score on a gem means 150k DPM.  From here, it becomes easier to understand where your focus should lie as you progress up the DPM ladder.
+
+
+
+You may also use Runemetrics to measure your DPM. Simply set the mode to stopwatch on the Runemetrics tab and after 5 minutes of combat stop to evaluate your score.
+
+
+
+
+
+Rules for a 5 minute challenge gem at dummies:
+
+ • Dummy must be in normal mode
+
+ • 0% adrenaline start
+
+ • No aura
+
+ • No Vulnerability
+
+ • No familiar/dreadnips
+
+ • No weapon poison or Cinderbanes
+
+ • No active pocket slot item
+
+ • No ruby bakriminel bolts
+
+ • No Amulet of Zealots
+
+ • AoE damage will be subtracted
+
+
+
+Here's an example of what should be brought to DPM practice with challenge gems. Your best gear for the style being used, adrenaline or replenishment potions, overloads, and ring of vigour. Other items to consider bringing if you have them are: planted feet switch, flanking switch, lunging switch, dragon rider amulet, guthix staff, powerburst of overkill, and blast diffusion boots.
+
+.. image:: https://i.imgur.com/Bot78Z2.png
+
+
+
+**DPS 5 minute gem thresholds:**
+
+These values are for referential purposes and assume you are using at least T90 weapons with T80 DPS armour. These thresholds apply to all combat styles, but they were written with magic in mind and they may differ slightly for melee and ranged.
+
+
+
+ • Below 750k: *Beginner.* Your DPS is likely not good enough to deal with most higher end boss mechanics. Don't get discouraged if you're at this point; all it takes is practice and experience.
+
+
+
+ • 750k: *Low.* This is close to the highest point you can reach while still heavily relying on Revolution. At this point, you should consider learning to full manual. It may take while to get anywhere with it, but it is very rewarding in the end.
+
+
+
+ • 800k: *Mid-low.* While still not great DPS, it is likely good enough for casual kills at most end game bosses.
+
+
+
+ • 850k: *Mid-high.* A decent value, easily achievable by adding switches to a good base rotation.
+
+
+
+ • 900k: *High.* This requires a very solid rotation. Most end game PvMers sit at this value. You may want to consider upgrading your gear at this point if you're still at T90 weapons or T95 prayers.
+
+
+
+ • 950k: *Very high.* If you're here, it means you just need to iron out the finer details in your rotation to advance.
+
+
+
+ • 1000k+: *Top-end.* You're very well off. There's always room for improvement, but you're close to the damage cap.
+
+
+
+Courtesy of <@269233963460067340> and thanks to Boss School!
+
+
+
+
+
+Learning Path
+^^^^^^^^^^^^^
+
+
+
+
+
+110k/120k DPM
+^^^^^^^^^^^^^
+
+At this stage, it is likely that there's a fundamental lack of understanding regarding how to build a rotation, and when to perform certain abilities. We recommend starting out with this revolution bar below. Remember to use Sunshine when it's off cooldown (Ult once every minute), and use a ring of vigour switch and an adrenaline potion. It is extremely important to learn how to cancel channels at this stage. Otherwise your DPS will suffer greatly.
+
+
+
+.. image:: https://i.imgur.com/ihbsrD9.png
+
+
+
+An Example of Cancelled v. Uncancelled channeling (Snipe)
+
+.. image:: https://i.imgur.com/6uH4KVg.mp4
+
+
+
+Evil Lucario's guide on cancelling channels
+
+https://www.youtube.com/watch?v=unCtj7IosVA
+
+
+
+
+
+130k/140k DPM
+^^^^^^^^^^^^^
+
+At this stage it is very important to learn a good ultimate rotation. It is encouraged in a 5 minute gem to do 5 Sunshines. Learning which thresholds to prioritize and use in an ultimate is extremely important to maximize your dpm. If you haven't already, you should get a planted feet switch in order to gain +8 seconds on your Sunshine. It is critical to focus on being able to fit in 6 thresholds in a Sunshine with an Adrenaline Potion, and 5 thresholds without an Adrenaline potion. Not having a planted feet switch will also cut your ultimates short by 1 threshold, generally speaking. Here it is also useful to start thinking about how strong certain abilities are by reading through the information in <#562827048914124800>. 
+
+This section also assumes no Flanking Switches, which will be covered in the next section.
+
+Your threshold order in Sunshine should be:
+
+
+
+With no flanking OR Blast Diffusion Boots: 
+
+Wild Magic  |wm|  → Asphyxiate  |asphyx|  → (Auto Attack + 100% Detonate  |deto|  + Dragon Breath  |dbreath|  stack) → Wild Magic  |wm|  → Asphyxiate  |asphyx| 
+
+
+
+
+
+
+
+150k DPM
+^^^^^^^^
+
+At this stage, pushing to the next will almost certainly require the usage of a Planted Feet switch, as well as a Flanking switch. Start incorporating these switches if you haven't already. Once flanking can be used, the threshold prioritization in ultimates is as follows:
+
+
+
+With Flanking:
+
+Adrenaline Potion:
+
+Wild Magic  |wm|  → Asphyxiate  |asphyx|  → Deep Impact  |deep|  → Wild Magic  |wm|  → Asphyxiate  |asphyx|  → Deep Impact  |deep| 
+
+
+
+Without Adrenaline Potion:
+
+Wild Magic  |wm|  → Deep Impact  |deep|  → Asphyxiate  |asphyx|  → Wild Magic  |wm|  → Deep Impact  |deep| 
+
+
+
+
+
+With Blast Diffusion Boots:
+
+Adrenaline Potion:
+
+Wild Magic  |wm|  → Asphyxiate  |asphyx|  → 3t 80% Detonate  |deto|  → Wild Magic  |wm|  → Asphyxiate  |asphyx|  → Deep Impact  |deep| 
+
+
+
+OR
+
+
+
+3t 80% Detonate  |deto|  → Wild Magic  |wm|  → Deep Impact  |deep|  → Asphyxiate  |asphyx|  → Wild Magic  |wm|  → Deep Impact  |deep| 
+
+
+
+Without Adrenaline Potion:
+
+Wild Magic  |wm|  → 3t 80% Detonate  |deto|  → Asphyxiate  |asphyx|  → Wild Magic  |wm|  → Deep Impact  |deep| 
+
+
+
+
+
+
+
+Additionally, there are two other techniques to learn at this stage:
+
+ • Start your Sunshine with a planted feet wand, then quickly swap to your Staff and hit your auto attack before the GCD is over. This forces an 2h auto attack which deals an extra 1-4k damage each time you activate Sunshine.
+
+ • Remember to use your flanking switch for impact |impact|  basics. Using flanking on impact improves that ability from 100% ability damage to 220% ability damage and is often overlooked by inexperienced players.
+
+
+
+Furthermore, you may benefit from taking a look at a list of common mistakes made during combat/gems at this stage of dpm: <#622623001694699560>. It is very likely that by fixing a couple of these mistakes listed here, you will reach the next milestone of dpm.
+
+
+
+
+
+160k DPM+
+^^^^^^^^^
+
+Once you're at 160k DPM, reaching higher levels of DPM will require either lots of min-max optimizations, luck (not worth focusing on), or incorporating weapon switches.
+
+
+
+Min-max optimizations refers to additional gear switches to squeeze out dps by just a hair. Items include asylum surgeon ring switch |asr| , dragon rider amulet |drider|  switch, and a lunging  |lunge4|  switch. If you choose to go down this route, the idea is to equip an item momentarily for its effects, then unequip once you've used it. An example would be equipping Dragon Rider Amulet every time you dragonbreath for its chance of burn damage, then re-equipping Amulet of Souls |aosor|  (better stats) after you've used dragonbreath. 
+
+
+
+At this point we encourage you to incorporate weapon switching to reach higher DPMs. Switching between 2h and DW will open up access to using both Sonic Wave |sonic|  (2h basic) and Concentrated Blast |conc|  (DW basic) abilities – both have a 5 second cooldown and both are good damage at 157% ability damage. 
+
+
+
+Link to a 4taa guide: https://youtu.be/HmZR1BBwsK0 by <@162317885044293632>. 
+
+
+
+
+
+
+
+170/180k+ DPM
+^^^^^^^^^^^^^
+
+Congratulations! This is about as far as you can go without weapon switching.
+
+If you would like to progress further up you will have to learn weapon switching.
+
+
+
+Assuming 4taa, here are some general tips and optimizations to make for furthering your DPM.
+
+
+
+ •  A strong sense of ability prioritization is the backbone of proficient 4taa. Since 4taa leads to slower ability usage, you should have more time to consider what ability to use next. Use this time to consider what is your next strongest ability. An exercise to help you here is to only use basics for a full minute of combat on a combat dummy. During this minute try your best at not using any abilities lower than 157% damage (Sonic or Conc should be your worst abilities). For the purposes of this exercise, pretend combust can be walked (even though dummies can't be walked). 
+
+ • Remember than you cannot auto attack after a channeled ability. This means that in your rhythm of Auto – Ability – Ability, your channeled ability should be the first ability between the two abilities.
+
+ • Consider reorganizing your keybinds to make 4ting easier. This is for especially if you struggle with executing Auto |AirSurge|  Conc |conc|  or Auto |AirSurge|  Asphyx |asphyx| .
+
+ • Make sure your timing for Auto attack is correct. Inefficient 4t is a very detrimental to dps as you will be doing abilities slower AND you will be missing autos. Therefore it is very important to get the rhythm of 4t down and be able to consistently do 2h autos.
+
+
+
+As always, take a look through <#622623001694699560> for common mistakes. Even fixing one or two of these can have a siginicant impact on your dpm!
+
+
+
+
+
+
+
+4 tick Auto Attack Guide
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+The basic principles is you can do lossless spellcasting by hitting a spell from actionbar (lossless meaning you don't lose ticks performing the action). This lets you auto the same tick as you use an ability (input is auto → abil)
+
+
+
+When you can autoattack is based on a delay depending on your weapon speed:  |praeswand|  = 4t and  |noxstaff|  = 6t
+
+
+
+Your delay after an action is given by max(currentdelay, delay from action)
+
+Implications from this are that if you do a wand ability you'll be able to autoattack 4 ticks after. If you do a staff ability, you will be able to autoattack 7 ticks after.
+
+
+
+
+
+**A simple step-by-step practice rotation on how to 4 tick auto attack.**
+
+Things you need:
+
+ 1) Wand  |praeswand|  + Orb  |impercore|  
+
+ 2) Staff  |noxstaff|  
+
+ 3) Runes  |Airrune|  
+
+ 4) The basic abilities Sonic Blast  |sonic| , Concentration blast  |conc| , Wrack  |wrack| , and auto attack  |AirSurge|  on your ability bar.
+
+
+
+**Step 1**
+
+Equip Wand  |praeswand|  + Orb  |impercore| , acquire a target, and wrack  |wrack| 
+
+
+
+**Step 2**
+
+Equip staff  |noxstaff| 
+
+Press Auto attack -> Sonic. 
+
+(  |AirSurge|  →  |sonic|  )
+
+
+
+**Step 3**
+
+Equip Wand/Orb and Wrack.
+
+( |praeswand|  +  |impercore|  →  |wrack| )
+
+
+
+Steps 2-3 demonstrated 
+
+.. image:: https://i.imgur.com/B03UBE3.mp4
+
+
+
+
+
+**Step 4**
+
+Equip Staff, wait 1 tick after gcd and press Auto attack → Equip Wand/Orb → Concentrated Blast.
+
+(  |noxstaff|  →  |AirSurge|  →  |praeswand|  +  |impercore|  →  |conc|  )
+
+
+
+**Step 5**
+
+Use Wrack with Wand/Orb still equipped.
+
+(  |wrack|  )
+
+
+
+**Step 6**
+
+Equip Staff and wait 1 tick after gcd. Repeat steps 2-6.
+
+
+
+Steps 4-6 demonstrated 
+
+.. image:: https://i.imgur.com/nUH6Fro.mp4
+
+
+
+
+
+**Steps 2-6 in one video**
+
+Entire rotation:  |noxstaff|  →  |AirSurge|   |sonic|  →  |praeswand|  +  |impercore|  +  |wrack|  →  |noxstaff|  →  |AirSurge|  +  |praeswand|  +  |impercore|   +  |conc|  →  |wrack|  → repeat
+
+https://youtu.be/RVpzQgtG--Y
+
+
+
+
+
+**4taa Additional info**
+
+1) **Note that this is just a practice rotation.** Wrack is generally not a good basic ability to use in combat and is only utilized here due to it's very short cooldown. In real combat, replace Wrack with Dragon Breath  |dbreath| , Corruption Blast  |corruptblast| , Impact  |impact| , Wild Magic  |wm| , etc.
+
+
+
+2) When practising, set the combat dummy to 'Max Hit Mode' then take note of how much damage your Staff auto attack deals compared to a Wand auto attack. To benefit from 4taa, you want to consistently do Staff auto attacks.
+
+
+
+3) Step 4 must be done in quick succession; all inputs must be done within one tick. To make this easier on yourself try keybinding your Wand/Orb/Auto in an easy to reach set of keystrokes.
+
+
+
+4) This guide only covers the basic pattern of 4taa. Once you're confident in performing steps 1-6, try to mix and match other basic abilities to create your own 4taa rotation. See <#534567464370044928> for example 4taa rotations.
+
+
+
+For even more additional info, this video approaches 4taa in an even simpler step-by-step process along with explanations.
+
+https://www.youtube.com/watch?v=HmZR1BBwsK0 by <@!162317885044293632>.
+
+
+
+
+
+Examples of Good Rotations
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+0% Start Rotations by <@!236559830121185290>
+
+Staff Only
+
+.. image:: https://i.imgur.com/86JdLZq.png
+
+
+
+
+
+4TAA
+
+.. image:: https://i.imgur.com/CrJ3Ee1.png
+
+
+
+Should result in 950k (190k dpm) 5 minute gems if followed *exactly*.
+
+
+
+
+
+Examples of Good Challenge Gems
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+These are posted here to encourage watching the rotations used
+
+
+
+Staff Only Courtesy of <@!236559830121185290> (885k score, 177k DPM)
+
+
+
+**Disclaimer:** Getting an optimal staff camp rotation is **not required** before learning 4TAA. If you want to do more damage, it will be **easier to learn to 4TAA.**
+
+
+
+<https://youtu.be/QUyUt_QEyMw>
+
+
+
+4TAA Courtesy of <@!236559830121185290>  (1002k score, 200k DPM)
+
+https://youtu.be/XkDqJFcck4I
+
+
+
+
+
+Niche Tricks
+^^^^^^^^^^^^
+
+There are some niche tricks available for increasing DPM. These tricks are generally meant for people with a very strong understanding of the combat system in RuneScape, and are encouraged only in cases where you're hovering at the 170k DPM threshold.
+
+
+
+One thing to note is the usage of auto > dual-wield  |asphyx|  rather than auto > 2-handed  |asphyx|  is preferred, as combo abilities reset the auto-attack timer meaning you cannot auto on the next ability with a 2h asphyx rather than a dw one. In most cases, it is better to dw asphyx over 2h asphyx.
+
+
+
+A guide on getting a free extra auto in sunshine when 4Ticking, by <@593106625955495947>
+
+https://www.youtube.com/watch?v=UmsbPrkqrtw
+
+

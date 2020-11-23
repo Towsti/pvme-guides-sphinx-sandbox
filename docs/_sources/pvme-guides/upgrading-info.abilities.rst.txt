@@ -1,0 +1,427 @@
+abilities
+=========
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ds| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |coins| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |stw| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |onsl| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Shard| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Shatter| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |undeadslayer| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dragonslayer| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |demonslayer| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surgecodex| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |escapecodex| image:: https://cdn.discordapp.com/emojis/602561894443778115.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+Abilities
+^^^^^^^^^
+
+
+
+ |Sunshine|   |ds|  **Sunshine/Death Swiftness**
+
+- Unlocked upon completion of The World Wakes
+
+- These are ultimates with a 7x7 range with the following effects for their corresponding styles:
+
+       • Increase your damage by 50%
+
+       • a DoT of 10%-20% that hits every 2 seconds when your primary target of casting is inside the ultimate's range
+
+       • Lasts 30 seconds
+
+- Almost always used in a conjuction with a planted feet switch. This makes them last 37 seconds as opposed to 30 seconds, and it removes their DoT effect
+
+- Priority: `High`
+
+_ _
+
+
+
+ |corruptblast|   |corruptshot|   **Corruption Blast/Shot**
+
+- Unlocked using a Mazcab Codex  |coins|  $data_pvme:Unlocks!B1$
+
+- A bleed ability, and a good basic. 100%-300% abil damage over the course of the bleed
+
+- Each bleed hit is weaker than the last, it is also AoE, it can chain to other mobs without giving you aggro
+
+- Priority: `High`
+
+_ _
+
+
+
+ |bd|  **Bladed Dive**
+
+- Unlocked as a reward from Shattered Worlds
+
+- A great mobility ability, has a 10 tile range from your current position at any angle
+
+- Generally used in conjunction with surge/escape, sometimes on the same tick, for greater mobility
+
+- Also is an AoE ability when used off GCD, goes from 3x3 to 5x5 when stacked with scythe and laceration boots
+
+- Priority: `High`
+
+_ _
+
+
+
+ |mds|   |stw|  **Greater Dazing Shot/Salt the Wound**
+
+- Unlocked as a reward from Shattered Worlds
+
+- Both abilities are unlocked together
+
+
+
+- Greater Dazing Shot
+
+- Gives Dazing Shot a puncture stack each time it is used, max 10
+
+- Stacks last 9 seconds and hit 4 times, dealing 5.8-7.2% abil damage per stack over its duration.
+
+      • Note: Salt the Wound and MDS both reset the stack duration (9 seconds) even if they splash, only MDS will increase puncture count though
+
+      • Note: Puncture bleed does not count for AS building; SS; Araxxor reflect (mirrorbacks do though); personal damage multipliers like scrims; combat exp; personal damage on gems and Nex's blood phase 
+
+- Salt the Wound
+
+- A threshold that deals 37.6-188% abil damage at 0 puncture stacks going up to 73.6-368% with max Puncture stacks
+
+- Generally never used
+
+
+
+- Priority: `Medium`
+
+_ _
+
+
+
+ |devo|  **Devotion**
+
+- Chance to unlock after killing Kree'arra, General Graardor, or their followers in their respective encampments
+
+- Alternatively can be unlocked as a reward from Anima Islands
+
+- When activated all damage dealt whilst using a protection prayer or deflect curse of the same style is reduced to 1 for 10 seconds
+
+- Effect extends by 5 seconds per target killed whilst active, capping at 20 seconds
+
+- Priority: `High`
+
+_ _
+
+
+
+ |Sacrifice|  **Sacrifice**
+
+- Same as Devotion
+
+- a 20-100% abil damage basic
+
+      • Heals 25% of damage done, 100% if it killed target
+
+- Priority: `Low`
+
+_ _
+
+
+
+ |Tuskas|  **Tuska's Wrath**
+
+- Unlocked as a reward from Anima Islands
+
+- When on slayer task, you deal 100 x Slayer level to target assuming it is the monster you are assigned with a 15k damage cap. This gives it a 120 second CD.
+
+      • Note: This also translates to some bosses like Magister on a Soul Devourer task
+
+- Otherwise it deals 30-110% abil damage with a 15 second CD
+
+- Generally only used as a filler ability if you mess up your rotation, should not be a regular part of your rotation.
+
+- Priority: `Low generally, Higher if you are going to slay`
+
+_ _
+
+
+
+ |onsl|  **Onslaught**
+
+- Unlocked using a Mazcab Codex  |coins|  $data_pvme:Unlocks!B1$
+
+- An ability that deals 50-150% damage at first, with each hit increasing by 11-33% per hit. At first it uses 25% adren per hit, afterwards it takes life points dealing 25% of the damage you dealt as recoil. After 10 hits the damage against you starts increasing by 1k per hit (e.g. at 12 hits you will take +2k damage + the recoil)
+
+- Priority: `High if you can use it somewhere, Low otherwise`
+
+_ _
+
+
+
+ |Shard|   |Shatter|  **Storm Shards/Shatter**
+
+- Unlocked using a Mazcab Codex  |coins|  $data_pvme:Unlocks!B1$
+
+
+
+- Storm shards:
+
+- Deals 75-95% abil damage (average 85%) as a Storm Shard stack instead of direct damage, for a cap of 10
+
+    • Note: Shards themselves are unaffected by things such as Berserk, Sunshine etc.
+
+- Generally used on timegated parts of bosses or if you need to do a lot of burst at once with shatter
+
+
+
+- Shatter:
+
+- Releases all the stored shards once at once dealing damage equivalent to the stored shards, for a cap of 30k damage
+
+    • This hit is affected by stuff like Berserk, Sunshine etc
+
+
+
+- Priority: `High for something like Vorago, Low otherwise`
+
+_ _
+
+
+
+ |limitless|  **Limitless**
+
+- Unlocked using a Limitless ability codex  |coins|  $data_pvme:Unlocks!E1$
+
+- An ability that allows the usage of thresholds under 50% adrenaline for 6 seconds
+
+      • Note: Only activates when below 60% adrenaline
+
+- Generally used when your Adrenaline potion is on cooldown or if you need to squeeze in extra thresholds in a short timeframe
+
+- Priority: `High`
+
+_ _
+
+
+
+ |ingen|  **Ingenuity of the Humans**
+
+- Unlocked using an Ingenuity of the Humans ability codex  |coins|  $data_pvme:Unlocks!B6$
+
+- An ability that guarantees your next attack within 6 seconds hits.
+
+- Priority: `High`
+
+_ _
+
+
+
+ |undeadslayer|   |dragonslayer|   |demonslayer|  **X Slayers**
+
+- Unlocked using a X Slayer ability codex
+
+    •  |undeadslayer|  Undead Slayer  |coins|  $data_pvme:Unlocks!B3$
+
+    •  |dragonslayer|  Dragon Slayer  |coins|  $data_pvme:Unlocks!B5$
+
+    •  |demonslayer|  Demon Slayer  |coins|  $data_pvme:Unlocks!B4$
+
+- There is one for Dragons, Undead and Demons
+
+- When used you will deal 15% more damage against X creature of the same type for 10 seconds (17ticks)
+
+- Generally used when you are going to use strong abilities against said creature
+
+- Priority: `High if you can use it, Low otherwise`
+
+_ _
+
+
+
+ |surgecodex|  **Double Surge**
+
+- Unlocked using a Double Surge codex  |coins|  $data_pvme:Unlocks!B7$
+
+- Gives Surge 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
+
+    • Note: The cooldown is based on the first surge/escape
+
+    • Note: Can change the cooldown between charges at the Anachronia Lectern
+
+- Generally just used for mobility, overall a QOL unlocked
+
+- Priority: `Medium`
+
+_ _
+
+
+
+ |escapecodex|  **Double Escape**
+
+- Unlocked using a Double Escape codex  |coins|  $data_pvme:Unlocks!B8$
+
+- Gives escape 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
+
+    • Note: The cooldown is based on the first surge/escape
+
+    • Note: Can change the cooldown between charges at the Anachronia Lectern     
+
+- Generally just used for mobility, overall a QOL unlocked
+
+- Priority: `Medium`
+
+_ _
+
+
+
+ |Reprisal|  **Reprisal**
+
+- Unlocked using a Reprisal Ability Codex  |coins|  $data_pvme:Unlocks!B9$
+
+- When activated it tracks all damage taken from all sources for up to 6 seconds (can release early by clicking it again) with a damage cap of 10k
+
+      • Note: It releases the damage on whatever you were targetting when you activated it
+
+- Damage is boosted by Zerk auras + Vulnerabiltiy
+
+- Generally used when you are going to take a large amount of damage at once, like Vorago's TS attack
+
+- Priority: `High if you do something like Vorago, Low otherwise`
+
+_ _
+
+
+
+ |gbarge|  **Greater Barge**
+
+- Unlocked using a Greater Barge ability codex  |coins|  $data_pvme:Unlocks!B10$
+
+- Works like normal barge, except, each tick the player is not damaging an enemy barge gains +10% ability damage capping at 10 ticks. Additionally, if it has been atleast 4.8s (8 ticks) since you have last hit a target using barge will allow you to turn a channeled ability used within the next 6s (10 ticks) into a DoT
+
+- Generally used within Zerk combined with Apot or Limitless, as well as Zgs spec
+
+- Priority: `High`
+
+_ _
+
+
+
+ |gflurry|  **Greater Flurry**
+
+- Unlocked using a Greater Flurry ability codex  |coins|  $data_pvme:Unlocks!B11$
+
+- When used against a single target it deals 94-157% damage per hit and reduces Berserk CD by 1.2s per successful hit up to a max of 4.8s reduction
+
+    • Note: When used as an AoE does the same damage as normal flurry, but still reduces Zerk CD
+
+    • Note: When bled the first hit does its AoE version of damage, then normal single target damage for the remaining hits
+
+- Generally used by cancelling after 2 hits (cancelled on GCD) or 3 hits, depends on rotation
+
+- Priority: `Medium`
+
+_ _
+
+
+
+ |gfury|  **Greater Fury**
+
+- Unlocked using a Greater Fury ability codex  |coins|  $data_pvme:Unlocks!B12$
+
+- Turns fury into a non-channeled 157% ability, as well as giving it the ability to guarantee your next hit is a critical hit if fury had been a critical hit.
+
+       • Note: Can be worse than normal fury, but marginally assuming no grim. With grim it is usually better
+
+- Priority: `Medium`
+
+

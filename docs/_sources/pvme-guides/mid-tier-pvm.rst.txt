@@ -1,0 +1,20 @@
+mid-tier-pvm
+============
+
+.. toctree::
+    :maxdepth: 2
+
+    mid-tier-pvm.corporeal-beast
+    mid-tier-pvm.dragonkin-laboratory
+    mid-tier-pvm.fight-kiln
+    mid-tier-pvm.gregorovic
+    mid-tier-pvm.helwyr
+    mid-tier-pvm.kalphite-king
+    mid-tier-pvm.legiones
+    mid-tier-pvm.nex-duo
+    mid-tier-pvm.nex-solo
+    mid-tier-pvm.queen-black-dragon
+    mid-tier-pvm.temple-of-aminishi
+    mid-tier-pvm.the-shadow-reef
+    mid-tier-pvm.twin-furies
+    mid-tier-pvm.vindicta  
