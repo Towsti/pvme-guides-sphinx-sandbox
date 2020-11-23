@@ -1,5 +1,8 @@
 # Sphinx
-/docs/build
+/sphinx/build
 
 # PyCharm
 .idea
+
+# Python
+*.pyc
