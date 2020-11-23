@@ -107,7 +107,7 @@ class Channel(object):
         for i, line in enumerate(file_lines):
             line_formatted, modified_line = self.format_line(line, metadata)
 
-            if line.lower().startswith("> **__table of contents__**"):
+            if line.lower().startswith(("> **__table of contents__**", "__**Table of Contents**__")):
                 file_lines = file_lines[0:i]
                 break
 
