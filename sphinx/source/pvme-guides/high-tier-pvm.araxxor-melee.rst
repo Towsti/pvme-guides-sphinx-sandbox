@@ -1,0 +1,660 @@
+araxxor-melee
+=============
+
+.. |pheromone| image:: https://cdn.discordapp.com/emojis/643122483641188372.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spiderlegtop| image:: https://cdn.discordapp.com/emojis/643122501521768491.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |araxxifang| image:: https://cdn.discordapp.com/emojis/643148203604049940.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |araxyteegg| image:: https://cdn.discordapp.com/emojis/643149217313062913.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |VampScrim| image:: https://cdn.discordapp.com/emojis/513201294262009874.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |berserker| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |brawler| image:: https://cdn.discordapp.com/emojis/643505376917979138.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |noxscythe| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |immort| image:: https://cdn.discordapp.com/emojis/535541258538582017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Berserk| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |NaturalInstinct| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DBA| image:: https://cdn.discordapp.com/emojis/603979368850653216.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |destroy| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mwspear| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodtendrils| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |accel| image:: https://cdn.discordapp.com/emojis/756236265472524418.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |terramaul| image:: https://cdn.discordapp.com/emojis/602561894829522954.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |assault| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |StormShards| image:: https://cdn.discordapp.com/emojis/536256663641128971.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Shatter| image:: https://cdn.discordapp.com/emojis/536256673904328704.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+**Araxxor**
+
+.. image:: https://i.imgur.com/LF3YAeJ.png
+
+
+
+Introduction 
+^^^^^^^^^^^^^
+
+
+
+Araxxor is an araxyte spider who lives in the Araxyte lair, a cave beneath the Haunted Woods, just south of Port Phasmatys. He can be fought solo or duo, although he is considerably stronger if you duo. When there are two people fighting instead of one, Araxxor's attacks are doubled, and the higher of the two base rage values is used. This includes minion spawns and its strength in general.
+
+
+
+
+
+The fight is heavily influenced by the players choice. The player must choose from one of the available paths at the beginning of the fight by burning one of the giant webs near entrance of the hive and waiting one minute until the chosen path becomes available. The player's choice of path will affect Araxxor's combat mechanics throughout the rest of the fight. Only two of the three paths are available on any given day.
+
+
+
+
+
+Despite displaying a "None" weakness in the combat interface, Araxxor's 3 different forms actually have weaknesses in line with the combat triangle. Players carrying an araxyte pheromone in their inventory will cause Araxxor to spawn using a combat style favourable to the player. For example, using ranged to fight Araxxor while holding an araxyte pheromone in one's inventory will cause Araxxor to spawn using Magic. If utilizing a pheromone, take care to enter the fight wielding your primary weapon or Araxxor can inadvertently spawn as a combat style you are weak to (i.e. entering the battle with your enhanced excalibur equipped will cause Araxxor to spawn as a melee type). Araxxor cannot be hurt by familiars or dreadnips.
+
+
+
+It is highly recomended to use the NopeNopeNope perk from POF; it may be obtained by keeping an elder spider along with a farm totem in each medium paddock
+
+
+
+
+
+Drops
+^^^^^
+
+
+
+His drops include components for three level 90 two-handed weapons, one for each combat style, along with a pet, with multiple skins to be unlocked for the pet through achievements.
+
+
+
+-  |pheromone|   **Pheromone** `1/(50-[Enrage/20])`
+
+-  |spiderlegtop|   **Leg piece** `1/40 (1/70 in duo)`
+
+-  |araxxifang|   **Hilt** `1/120  (1/200 in duo)`
+
+-  |araxyteegg|   **Araxyte egg** `1/500 (200 threshold)`
+
+
+
+
+
+It is recommended to use melee as it will result in the smoothest and fastest kills. Range may be used when learning but using mage is always a bad idea since this will spawn the melee version of rax which applies bleeds; this makes it harder to learn and is a nuisance in general.
+
+
+
+
+
+Presets
+^^^^^^^
+
+
+
+**Intermediate Preset**
+
+Once comfortable, it is encouraged to switch to killing Araxxor with a melee setup and a scythe. Stay at halberd range (2 squares) so as to not receive melee auto attacks, and DPS away. Melee has higher inherent damage output than range, so the kills will become smoother. A  |VampScrim|  will also help you keep your life points high. It is recommended to take salves or some other method of poison prevention, as the range version will repeatedly poison you and eat away at an antipoison timer.
+
+
+
+Once food is easier to conserve, switch from a Pack Yak to a Blood Nihil for higher accuracy. As a meleer,  |berserker|  should be used when possible, and your highest tier  |brawler|  otherwise.
+
+
+
+.. image:: https://i.imgur.com/icgAKRU.png
+
+
+
+**Experienced Preset**
+
+
+
+Once more seasoned at the boss, it is recommended to start incorporating a DW/2H switching rotation with melee. This allows for very high DPS output.
+
+
+
+A combat dummy is brought for building adrenaline during the P4 transition. If you want efficient kph, use the grimoire, if you want efficient gp/hr, use vamp scrim. If choosing to use a grim it is mainly beneficial to use during phase 2,3 and 4; at higher enrages it would be better to just camp the vamp scrim. Jellies are used for healing over time without losing adrenaline. Sailfish and brews can be used for panic eating. A  |noxscythe|  can be brought for helping to AoE minions that may spawn when Path 1 is open, as well as to stay safe outside of melee distance on higher enrages as needed. ZGS and SGB are brought for their respective special attacks.
+
+-  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+
+(Runes for  |disrupt| )
+
+
+
+.. image:: https://i.imgur.com/aDE1bMT.png
+
+
+
+
+
+Mechanics
+^^^^^^^^^
+
+
+
+`Note:` Araxxor will use a special attack every 5 auto attacks. Generally, this should be prepared for by using anticipate  |anti|  or freedom  |freedom|  before the 5th auto attack, so the player is not pulled in by cleave or receives a long bind for coccoon. Araxxor will never use the same special twice in a row. For example, if araxxor cleaves, the next special will not be a cleave.
+
+
+
+**Standing in scythe distance**
+
+In order to take advantage of the 2 tile range of halberds you must stand out of melee distance. This can easily be practiced anywhere, however for p4 there are some indicators which can help you.
+
+Below is an image of "scythe range" for phase 4, with a recommended visual position.
+
+.. image:: https://i.imgur.com/ib6Qnu8.jpg
+
+
+
+And following is a clip for better visual representation
+
+https://youtu.be/daiPvzj7J40
+
+
+
+
+
+**Cleave**
+
+Dealing with cleave is rather simple. If you have not used anticipate  |anti|  or freedom  |freedom|  beforehand, you will be pulled in and have roughly 2 ticks to react to cleave. Simply move away from Araxxor to avoid taking damage. Cleave is particularly deadly at high enrages, as it has very high KO potential.
+
+_ _
+
+
+
+**Cocoon**
+
+You will take damage for every tick you are still inside the cocoon. When wrapped in the cocoon, simply spam click to escape. The length of this special can be greatly shortened by using anticipate  |anti|  or freedom  |freedom|  beforehand.
+
+
+
+
+
+**Web Shield**
+
+Araxxor covers himself with a web and heals himself. This special reflects a random % of the damage you deal back to you. To deal with this mechanic, simply do not attack. It is also a great mechanic to heal off of with resonance, by firing an ability and using resonance to heal from it. It is recommended to use quake if meleeing since it hits slow enough for you to equip a shield and catch the resonance. For range it is recommended to use snipe for the same reason. Be wary of crackling and aftershock proccing during this because it can reflect a lot of unexpected damage back.
+
+
+
+
+
+**Minion Spawn**
+
+When path 1 is open, this special can occur on Phase 2 if Path 1 was taken, or on Phase 3/4 regardless of which path was taken. Araxxor has 20 total minions it can spawn. It spawns them in 4 waves of 5 spiders each. Outside of Phase 4, there is a predictable order to these spawns. Each of the first 3 waves will contain a special spider, either a mirrorback or pulsing. 
+
+
+
+In the first wave, it's the **third** to spawn. 
+
+In the second wave, it's the **second** to spawn.
+
+In the third wave, it's the **first** to spawn.
+
+There is no special spider in the fourth wave.
+
+
+
+Deal with this mechanic by getting off right before the special spider spawns, and killing it asap. Killing the remaining spiders is optional but can help you take less damage if the phase goes slowly.
+
+
+
+
+
+**Egg Bomb**
+
+Araxxor will spawn a group of 2 or 3 eggs, and fire a slow moving projectile at you. To mitigate damage, simply stand on the eggs. The projectile will explode, and kill all eggs within a 4x4 radius. If 3 eggs are exploded, the player will only take 300 damage. 2 exploded will result in 1200 damage, 1 exploded results in 2100 damage, and ignoring the mechanic will result in 3000 damage. If eggs are not exploded, then they will hatch into spiders as well. The first special attack on phase 2 for top path will always be egg bomb.
+
+
+
+
+
+**Instakill Spider**
+
+Only occurs on p2 if acid path is taken or p3 if acid path is open. Araxxor will perform a melee attack animation and send out a projectile which will leave a green mark where it lands; the spider will spawn here. You will see the spider spawn and start walking towards you with a gauge bar above its head that fills up. when it fills up fully the spider will explode and you will be safe. If it touches you before the bar fills up it will explode on you and deal a severe amount of damage. its speed is variable. On p2, if you're already at the HP threshold and waiting for the phase to end, either barricade  |cade|  or immortality  |immort|  to negate the damage from the spider, or bladed dive  |bd|  away from it if you wish to save your adrenaline. Since phase 3 is a damage gated phase, it's recommended to simply run away from the spider and avoid wasting adrenaline on a defensive ultimate.
+
+
+
+
+
+**Acid Spiders**
+
+On phase 3, Araxxor will sometimes spawn acid spiders. These can be lured to reduce the enrage of the boss by clicking on them and luring them beneath Araxxor, but are generally better off ignored. They are distinct from the instakill spiders encountered, as they do not have a gauge bar, and touching them results in nothing happening. The amount that spawns is related to the amount of acid absorbed in the middle path. You must absorb 50% of the acid in the middle path (100% in duo) in order to proceed to phase 3. If the middle path is not taken, 4 acid spiders will spawn (25% each); this scales down for middle path.
+
+
+
+
+
+**Light Spots**
+
+This occurs the entire time on phase 2 darkness path, and on phase 3 and 4 if path 3 is open. Stand in the light spot to avoid damage. On lower enrages this can be ignored, but starts to hurt at higher enrages.
+
+
+
+
+
+The Fight
+^^^^^^^^^
+
+
+
+**Phase 1**
+
+This phase is timelocked to waiting for the web to burn down. Araxxor should be lowered to ~5k life points before the web is burned down. If doing top path you can optionally use natural instinct when the web is ~80% burnt. If doing path 2 you should use storm shards when they are off cooldown. There is not much else to this phase just dodge Araxxors specs and move to the next phase when the web burns.
+
+
+
+
+
+**Phase 2**
+
+`Top Path`
+
+Optionally phase right after a spec on P1. The first special on P2 is always an egg bomb, this gives you time to dps Araxxor down. Do whatever you can do deal damage quickly on phase 2. If you have greater barge, you should utilize this to increase your burst damage. You should ideally never get a minion spawn on P2
+
+
+
+
+
+`Middle Path`
+
+During this phase Araxxor must be lured to the acid pool and allowed to absorb atleast 55% acid, then moved onto the platform inorder to degrade it. Araxxor should ideally be lured right next to the web during P1, once the web is burned down surge/bd to the ramp (setup guide for this can be seen in the example videos). Make sure to keep using storm shards. Doing this correctly will allow araxxor to start absorbing acid 6 seconds sooner than normal, since he only tries to start absorbing acid every 6 seconds. Once he has absorbed enough acid, surge to top of the ramp and wait for the acid to degrade the platform. Use natural instinct just as the acidity level falls below 20% (assuming you moved to the ramp at the right time). Berserk  |Berserk|  just as you jump off the platform.
+
+
+
+
+
+`Bottom Path`
+
+Phase 2 on bottom path is a timelocked phase where the arena is covered in darkness and you must move to the light spots to avoid taking damage. Araxxor will charge at you at a random interval; this leads to a cutscene where you must dodge his attack. The following inforgraphic shows all four possible movements.
+
+.. image:: https://i.imgur.com/8XrM5tg.jpg
+
+
+
+Dodging the attack correctly will destroy the wall and let you into phase 3. failing it only destroys the wall 50%. This means you must do it once successfully or twice if you mess up. You can move during the wall charge animation once Araxxor has hit the wall. This gives you some extra distance before the animation is over, resulting in you taking less damage from the darkness. You can also use defensive abilities to stay in combat during the wall charge animation. This lets you stay in combat stance and preserve adrenaline. An adrenaline urn or the persistent rage relic can also help with this.
+
+
+
+It is very beneficial to have bladed dive  |bd|  unlocked and mobile perk on some piece of gear, along with double surge unlocked. Position your character to always face the longer part of the hallway. this lets you surge straight and then have control over where you bladed dive ahead of you from there, making it easier to reach the light quickly. If the light spawns behind you, you can simply bladed dive to it.
+
+
+
+Prayer can be conserved on bottom path by turning it off since you won't be attack anything besides the occasional minion and you can just prayer flick the attacks that Araxxor does. You can conserve food by using resonance on Araxxors range/mage attack whenever possible.
+
+
+
+
+
+**Phase 3**
+
+During this phase Araxxor can use special attacks from any of the open paths. General approach is to just DPS as fast as you can while being wary of specs.
+
+ |Berserk|  →  |gbarge|  → DPS (try to bleed a threshold with greater barge  |gbarge|  buff for extra burst damage).
+
+
+
+
+
+**Phase 4**
+
+This is the final phase of the fight, where you will fight Araxxi. Araxxi uses both range or mage attacks if you are not in melee distance. She will alternate her projectile attacks to whatever you are not praying against. If you are in melee distance, Araxxi will use either melee or mage attacks at random. It is recommended to camp melee prayer and flick to mage prayer when you see a mage attack, then back to melee again. At 50k HP Araxxi will stop doing any specials and start hitting faster and harder. She also takes 50% less damage from all hits from 50k-25k hp. At 25k HP she will drain your adrenaline by 50%, and release an acid core. The core will bounce around the room a few times before landing on the player, and doing ticks of damage until the player moves from their tile. After this, the core will bounce around again. This repeats until the boss is dead. It is best to kill the last 25k hp as fast as possible to avoid the acid core from ever touching you.
+
+
+
+At the start of phase 4 you can use 2 defensive abilites in order to gain adrenaline, wait to drop combat and eat up to high hp. Then use devotion right before Araxxi is attackable for a bit of extra protection. 
+
+An example of this can be seen here: https://youtu.be/I536gEqcuNc
+
+
+
+
+
+Advanced Guide
+^^^^^^^^^^^^^^
+
+`Top path`
+
+Phase 1
+
+   • This phase is timegated so it can be used to set yourself up for p2 while you deal damage
+
+   • Use quake  |quake|  and build adren so you are ready to natural instinct  |NaturalInstinct|  when the web burn reaches 50-55%
+
+   • Build adrenaline to 90%+ and use a dragon battleaxe spec  |DBA|   |spec| 
+
+   • Build adrenaline again and zaros godsword spec  |zgs|   |spec|  at ~80% web burn
+
+   • Build adrenaline one more time, get off around 92% web burn and run to the web. finish adren building with defensives if you need.
+
+   • Phase into p2 asap
+
+
+
+
+
+Phase 2
+
+   • Immediately greater barge  |gbarge|  in with the mobile perk →  |destroy| 
+
+   • The rest of Phase 2 depends on when araxxor uses a special attack (it will always be egg bomb).
+
+     ▪︎  |mwspear|   |bloodtendrils|  →  |dismember|   |deci|  →  |mwspear|   |slaughter| 
+
+     ▪︎ Abandon the rotation and start running to phase 3 no matter how far in you were when the egg bombs spec happens. maximizing time before a spec is more important than doing extra damage on phase 2. Use  |bd|  →  |surge|  →  |surge|  to get to phase 3 quickly
+
+        • Optional: Use a  |accel|  when araxxor does the egg bomb spec to get to p3 even faster. To do this you will do  |surge|  →  |bd|  →  |surge|  →  |surge|  →  |bd|  (the last surge should take you into Phase 3, and then you can use the last bladed dive to get closer to rax back in the Phase 2 tunnel). This can save a couple seconds of time during the run from Phase 1 to Phase 3.
+
+   • Build to 100% adren with defensives while running to phase 3. You'll want to berserk  |zerk|   |adrenrenewal|  a couple seconds before you reach p3 so you can build some extra adren for phase 3
+
+
+
+
+
+Phase 3
+
+   • You want to turn around in phase 3 as soon as you enter so it is good to learn where phase 2 ends and where phase 3 begins. Crossing the yellow line in this picture will start phase 3. Since you run 2 tiles at a time you can click back towards phase 2 just before you cross the line and your character should still cross it.
+
+.. image:: https://i.imgur.com/QR0YouB.png
+
+   • Once you start phase 3, run back towards rax and follow this rotation:
+
+ |terramaul|   |gbarge|  +  |vulnbomb|  →  |cleave|  →  |sever|  →  |assault|  +  |vulnbomb|  →  |gflurry|  (2 hit) →  |destroy|  →  |deci| 
+
+
+
+
+
+`Mid path`
+
+Phase 1
+
+   • Walk araxxor so he is right against the web (see section about walking p1)
+
+   • Remember to stack storm shards  |StormShards|  with  |terramaul| 
+
+   • At 99% web burn you can bladed dive  |bd|  + surge  |surge|  into phase 2
+
+     ▪︎ You'll know if you did it correctly if rax  starts absorbing the acid at 1:06 rather than the standard 1:12. This can be delayed if rax does a spec right before the web finishes burning
+
+   • Below is a diagram to help with positioning Araxxor on P1 (Camera facing east)
+
+.. image:: https://i.imgur.com/KtRYknU.jpg
+
+     ▪︎ The yellow line is the line to stand on after walking Araxxor, if you move 1 more square east Araxxor will run into the web and start going west again which could ruin the setup. If you have trouble finding this spot just keep in mind you must stand 1 east of the line where the skulls are (circled in red).
+
+   • Here is a video example on walking Araxxor in P1: https://youtu.be/A_6ah7GF_1k
+
+
+
+
+
+Phase 2
+
+   • Run across the acid pool and stall a shard. Run up 3 tiles onto the ramp. This puts rax as far up the path as he can be while still absorbing acid
+
+.. image:: https://i.imgur.com/U49xswa.jpg
+
+   • Deal damage and remember to keep stacking  |StormShards|  with  |terramaul| 
+
+   • When rax has absorbed 53% acid, you can  |bd|  +  |surge|  up the ramp, then walk 1 tile west so you have room to dodge cleave specials at the top of the ramp
+
+     ▪︎ You'll know you did this correctly if rax goes up to 55% then starts dropping, and you'll get the popup message that the bridge is burning when there is 49% acid left. This is the perfect amount needed.
+
+    • Set up for phase 3
+
+      ▪︎ Natural instinct  |NaturalInstinct|  timing is calculated based on how much acid rax has poured onto the bridge. The timing is roughly when the bridge has absorbed 25-30% acid. Under normal circumstances, this means the popup would appear at 49%, so you would natural instinct when the bar says 24-19%.
+
+    • build to 100% and prepare for p3
+
+
+
+ Phase 3
+
+    •  |terramaul|   |zerk|   |adrenrenewal|  as you are jumping down the ramp →  |gbarge|  +  |vulnbomb|  →  |cleave|  →  |assault|  →  |zgs|  →  |cane|  →  |Shatter|  →  |cleave| 
+
+
+
+
+
+**How to losslessly get 5 storm shards  |StormShards|  on rax before Phase 3**
+
+    • Use storm shard  |StormShards|  on rax as your first ability on Phase one when he becomes walkable, and as soon as it is off cooldown about halfway through Phase 1
+
+    • Use Bladed dive  |bd|  +  |surge|  to get across the pool in Phase 2 and stall a  |StormShards|  on rax by using the ability out of range and clicking under you. Don't use any other abilities or you will lose the stalled shard. Once araxxor starts absorbing acid you can click on him to release the stalled storm shard  |StormShards| .
+
+      ▪︎ Stalling the storm shard like this gets the cooldown timer ticking sooner so you can use another 2 shards losslessly
+
+    • Use another storm shard  |StormShards|  just before you run up the ramp when rax has absorbed enough acid to burn the bridge (~53%)
+
+    • Use one more storm shard  |StormShards|  while waiting for the bridge to burn.
+
+
+
+
+
+`Bottom path`
+
+Phase 1
+
+    • No special setup. Just dps araxxor down to <5k hp
+
+
+
+Phase 2
+
+    • No special setup. Follow the light and wait for the charge. stay at 100% adrenaline.
+
+    • During the charge you can do a defensive ability to stay in combat, then  |zerk|   |adrenrenewal| 
+
+
+
+Phase 3
+
+    •  |terramaul|   |gbarge|  +  |vulnbomb|  →  |cleave|  →  |assault|  +  |vulnbomb|  →  |destroy|  →  |deci| 
+
+
+
+
+
+
+
+`Phase 4`
+
+    • This is the same regardless of which path you took.
+
+    • Spam a defensive or non-mobile surge to gain adren when cutscene ends and drop a dummy.
+
+    • Build adrenaline until araxxi jumps onto araxxor, then stop attacking the dummy and build with defensives so you can charge greater barge  |gbarge| .
+
+    • right after araxxi raises and drops her front legs,  |gbarge|  the dummy with dual wield and  |bd|  to Araxxi and equip  |zgs| .
+
+    • click or target cycle to rax and use a zaros godsword spec  |zgs|   |spec|  + 2h auto +  |vulnbomb|  →  |mwspear|   |dismember|  →  |zgs|   |assault|  →  |cane|  →  |sever|  →  |limitless|   |gflurry|  →  |ingen|   |sgb|   |spec|  →  |cleave|  →  |deci| 
+
+     ▪︎cancel greater flurry after 2 hits or 3 hits depending on araxxi's hp. sgb spec whenever rax has less than 30k hp
+
+
+
+
+
+**Example kills**
+
+`Top Path` https://youtu.be/H-wtms5XHpI
+
+
+
+
+
+`Middle Path` https://www.youtube.com/watch?v=jpHp21Id-3g&feature=youtu.be
+
+
+
+
+
+`Bottom Path` https://youtu.be/znZcD9H_JYM
+
+
+
+

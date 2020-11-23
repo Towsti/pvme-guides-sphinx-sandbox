@@ -1,0 +1,642 @@
+telos-1k-plus-melee
+===================
+
+.. |masterworklegs| image:: https://cdn.discordapp.com/emojis/643847042170355736.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |turt4| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mob| image:: https://cdn.discordapp.com/emojis/689501908628799488.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ch4| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ent| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dragonclaw| image:: https://cdn.discordapp.com/emojis/779048041088024606.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |stickybomb| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |furyofthesmall| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |kalphitedefender| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |malevkite| image:: https://cdn.discordapp.com/emojis/513190159412625411.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |malletops| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mwspear| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |grim| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |armabook| image:: https://cdn.discordapp.com/emojis/513190159051915264.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |VampScrim| image:: https://cdn.discordapp.com/emojis/513201294262009874.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |khopeshmh| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |khopeshoh| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |berserkersfury| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |heightenedsenses| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deathward| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |eofspec| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |assault| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bombard| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |chain| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |escape| image:: https://cdn.discordapp.com/emojis/535541258832052231.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |destroy| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |backhand| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |fbackhand| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodtendrils| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |reflect| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |revenge| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |NaturalInstinct| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vitality| image:: https://cdn.discordapp.com/emojis/654618235097972737.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+**Telos with Melee (1000% to 4000%)**
+
+.. image:: https://i.imgur.com/LD4SNF3.png
+
+
+
+
+
+Introduction
+^^^^^^^^^^^^
+
+Using Melee against Telos is generally more dangerous and risky than Magic. However, you can gain some benefits like less RNG needed on things like volcanic golems and KO protection.
+
+
+
+This guide assumes 1000%+, but some rotations can still work below 1000%, but might need tweaks. Adjust accordingly from there.
+
+
+
+
+
+Notable Enrage Checkpoints and Changes past 999
+
+**1000%** P4 one rock will fall, P5 multiple rocks will fall, immortality no longer works P5, and Telos will freedom stuns and binds with a 16 tick cooldown
+
+**2000%** "So you think you can guard?" Achievement, aka Silver Warden
+
+**2700%** Tendrils damage required caps at 30,000
+
+**3300%** The first prayer drain on P3 will smite you from full unless Telos touches the beam
+
+**4000%** Hard enrage cap; "The True Warden" Achievement, aka Gold Warden
+
+
+
+
+
+Preset
+^^^^^^
+
+
+
+The masterwork legs  |masterworklegs|  are augmented with Turtling 4  |turt4|  + Mobile  |mob|  and Clear Headed 4  |ch4|  for use on P4 and P5. You only need two rune pouches and it's incredibly recommended to have Borrowed Power Entangle  |ent| , although it's not a hard requirement as faster strategies can forgo it.
+
+-  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+
+-  |bluepouch|   **Rune Pouch**  |Waterrune|   |Deathrune|   |Earthrune| 
+
+(Runes for  |borrowedpower|   |disrupt|   |Veng| )
+
+.. image:: https://i.imgur.com/QGd97Bp.png
+
+
+
+
+
+Requirements/Recommended Items
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+
+
+
+**Requirements**
+
+- Two Essences of Finality  |eofor| , one with Statius's warhammer  |swh| , one with dragon claws  |dragonclaw| 
+
+- Clear Headed 4  |ch4|  armour switch (for a longer Anticipation  |anti|  for anti-stun)
+
+- Zaros godsword  |zgs|  (for fast P2)
+
+- Sticky bombs  |stickybomb| 
+
+- Disruption Shield  |disrupt| 
+
+- 94 Archaeology for Fury of the Small  |furyofthesmall|  relic
+
+- Greater Barge  |gbarge| 
+
+- Kalphite defender  |kalphitedefender|  > malevolent kiteshield  |malevkite| 
+
+
+
+**Recommended**
+
+- 117 Farming for malletops  |malletops|  perk (if you use defender  |kalphitedefender| , can skip if you don’t)
+
+- Turtling 4  |turt4|  armour switch (pair this with Clear Headed 4  |ch4|  on that armour switch, required if you use defender  |kalphitedefender| )
+
+- Masterwork spear of annihilation  |mwspear| 
+
+- Erethdor’s grimoire  |grim|  > Armadyl godbook  |armabook|  > Scrimshaw of vampyrism  |VampScrim| 
+
+- T92 Khopeshes  |khopeshmh|   |khopeshoh| 
+
+- Berserker's Fury  |berserkersfury|  or Heightened Senses  |heightenedsenses|  relic
+
+- 117 Archaeology for Death Ward relic  |deathward| 
+
+- Greater Fury  |gfury|  and Flurry  |gflurry| 
+
+
+
+
+
+Phase 1
+^^^^^^^
+
+
+
+Throughout 1000% and 4000%, the P1 rotation will always remain the same. The big objectives are to block and reduce as much damage without needing much defensives and to apply a Barge  |gbarge|  bleed + Hurricane  |cane|  on tendrils perfectly.
+
+
+
+Target cycle +  |swh|   |eofspec|  +  |vulnbomb|  → [ |mwspear|   |slaughter|  if you get a Relentless proc] →  |mwspear|   |dismember|  →  |cleave|  →  |deci|  →  |sever|  [Skip if you did not get a Relentless proc] →  |zerk|  →  |res|  →  |gbarge|  →  |cleave|  →  |deci|  → stall  |assault|  + release right before next ability →  |cane|  →  |cleave| 
+
+
+
+That stalled Assault  |assault|  is important so you line up two Assault hits and Hurricane  |cane|  all on top of each other for tendrils, nearly guaranteeing an instant free or a tick-late free even past 2700% enrage.
+
+
+
+During the Cleave  |cleave|  and Decimate  |deci|  after the initial Berserk  |zerk| , you should be running out of range to bait out Telos’s Magic attacks. This is super important because Telos’s Magic attacks hit far less than his Melee attacks, which makes it much easier to survive when under Berserk  |zerk| , especially as you approach 4000%.
+
+
+
+
+
+After the Cleave  |cleave|  after Hurricane  |cane| , it depends entirely on how much LP Telos has. If he hits 450k right after Cleave  |cleave| , wait until the tick Telos phases, then use Quake  |quake|  + Bladed Dive  |bd|  to the drop-off point. That Quake  |quake|  is important because it lets you carry over that damage to the next phase immediately, giving you a noticeable headstart for P2. This works because AoE abilities like Quake  |quake| , Bombardment  |bombard| , and Chain  |chain|  calculate their damage late enough to be forced into the next phase if you use them on the same tick as phasing to the next phase. Practically speaking, only Quake  |quake|  can be used like this as Cleave  |cleave|  hits too quickly.
+
+
+
+If Telos is not immediately phased after that Cleave  |cleave| , do strong basics like Decimate  |deci|  and Sever  |sever|  to get it down before uppercut happens, then Quake  |quake|  prephase if it lines up nicely. If you do get uppercut, phase him immediately after and prephase with a Quake  |quake| .
+
+
+
+
+
+
+
+Phase 2
+^^^^^^^
+
+
+
+The start of P2 depends on how much autoattacks Telos has before Onslaught and how much adrenaline you have going into P2. If you have over 74% adrenaline, you will want to ZGS spec  |zgs|   |spec|  before bleeding Greater Flurry  |gflurry| , listed as [1]. Otherwise, go with the abilities listed as [2].
+
+
+
+
+
+If 2 autos before Onslaught:
+
+
+
+Wait a tick →  |gbarge|  →  |zgs|   |spec|  [1] OR  |gflurry|  [2] →  |cleave|  [1] OR  |zgs|   |spec|  [2] →  |gflurry|  [1] OR  |cleave|  [2] +  |escape|  on the same tick →  |deci|  +  |bd|  back into ZGS spec →  |mwspear|   |dismember|  + throw  |stickybomb|  right as Telos autos →  |sever|  →  |destroy|  → basics →  |assault|  →  |freedom|  →  |res|  → basics until 300k →  |quake|  prephase
+
+
+
+Waiting that one tick before Barge  |gbarge|  is extremely important, because if you just Barge  |gbarge|  instantly you will deal no damage. So wait a tick for that damage immunity to pass by.
+
+
+
+The Escape  |escape|  and Bladed Dive  |bd|  back in are done to ensure Telos leaves the black beam with zero RNG. It must be perfectly done though, as any other deviation like being late will most likely cause the lure to fail.
+
+
+
+
+
+If 0-1 autos before Onslaught:
+
+
+
+Wait a tick →  |gbarge|  →  |zgs|   |spec|  [1] OR  |gflurry|  [2] →  |cleave|  [1] OR  |zgs|   |spec|  [2] →  |gflurry|  [1] OR  |cleave|  [2] →  |mwspear|   |dismember|  + drag Telos out of the beam →  |backhand|  →  |destroy|  → basics →  |assault|  →  |freedom|  →  |res|  → basics until 300k →  |quake|  prephase
+
+
+
+Try to get Assault  |assault|  in as early as possible, and try to aim to phase before Hold Still as well if you can.
+
+
+
+
+
+If after uppercut on P1:
+
+
+
+Wait a tick →  |gbarge|  →  |destroy|  → switch to 2h  |zgs|  and auto +  |backhand|  →  |fbackhand|  +  |escape|  →  |mwspear|   |dismember|  →  |mwspear|   |slaughter|  + walk →  |assault|  →  |freedom|  →  |res|  → basics and thresholds until 300k →  |quake|  prephase
+
+
+
+Ideally, you should not get this, but in the event you do, that’s what you should do.
+
+
+
+The autoattack with 2h  |zgs|  after Destroy  |destroy|  is known as “5TAA”, or “5T” for short. Basically, after a dual wield  |khopeshmh|   |khopeshoh|  ability, you can switch to your 2h  |zgs|  weapon and force out a quick autoattack two ticks after that ability. Because of the stun duration, this 5T wastes just enough time yet still gains damage to allow for the longest stun duration from a bled Destroy  |destroy|  to Backhand  |backhand|  to Forceful Backhand  |fbackhand| . This will get used in both P3 and P4, so even if you don’t get uppercut on P1 to force this rotation, it’s worth learning this.
+
+
+
+
+
+Phase 3
+^^^^^^^
+
+Wait a tick →  |gbarge|  →  |destroy|  → switch to 2h  |zgs|  and auto +  |backhand|  →  |fbackhand|  +  |bd|  into the beam →  |mwspear|   |dismember|  →  |mwspear|   |bloodtendrils|  →  |mwspear|   |slaughter|  →  |cleave|  →  |assault|  → basics to 150k
+
+
+
+You don’t necessarily need to Quake  |quake|  prephase here because P4 is somewhat time-locked anyway, but it's somewhat helpful to. If you don’t have enough adrenaline to fit in both Blood Tendrils  |mwspear|   |bloodtendrils|  and Slaughter  |mwspear|   |slaughter|  before Assault, just skip Blood Tendrils  |mwspear|   |bloodtendrils|  and do some basics instead.
+
+
+
+In order to make P4 better at higher enrages so you aren’t scrambling for adrenaline, you can lure Telos into the beam and balance the bar. That way, when Telos drains adrenaline right after Assault  |assault| , it’s not large at all. Should the beam spawn on Telos, do this conservatively, else you will have to delay your Assault  |assault|  by one ability so you can use Disruption Shield  |disrupt|  on the explosion losslessly.
+
+
+
+
+
+Phase 4
+^^^^^^^
+
+The goal here is to do as much damage as possible to Telos before he can fire off any special attacks, so rocks are completely skipped. 
+
+
+
+
+
+Wait a tick →  |gbarge|  →  |destroy|  → switch to 2h  |zgs|  and auto +  |backhand|  →  |fbackhand|  →  |swh|   |eofspec| 
+
+
+
+Use limitless  |limitless|  here if you can. If your adrenaline is really dire, skip Statius’s warhammer  |swh|   |eofor|   |eofspec|  and Quake  |quake|  instead.
+
+
+
+For font 1, Resonance  |res|  + Reflect  |reflect|  and build to 100% adrenaline. Wait for the chatbox message “Telos: You dare to defy me?” and throw a sticky bomb  |stickybomb|  on the golems right when that happens. Get out of range from the golems, then Barge  |gbarge|  Telos right as he gets up.
+
+
+
+
+
+Safe rotation (0 Telos autos):
+
+
+
+ |gbarge|  Telos + run back to font →  |destroy|  → wait 2 ticks, 5T auto  |zgs|  if you can +  |backhand|  →  |fbackhand|  →  |quake|  or  |swh|   |eofspec|  if you missed it
+
+
+
+Fast rotation (1 Telos autos):
+
+
+
+ |gbarge|  Telos + run back to font →  |destroy|  → 3 hit  |assault|  →  |cleave|  or  |quake|  or  |swh|   |eofspec|  if you missed it
+
+
+
+
+
+For font 2, do the same thing except you’re tanking everything here, so be prepared to eat up a lot here. This time though, use Revenge  |revenge|  with defender  |kalphitedefender| . Skip Revenge  |revenge|  if you are not using a defender  |kalphitedefender| . Use the same cues as in font 1 and go to town. You can use Devotion  |devo|  here to mitigate damage, but if you’re going for fast font 3, skip that.
+
+
+
+After second instant kill,  |gbarge|  Telos right as the instant kill lands. This pops Telos’s Freedom immediately, delaying his next action. Bleed  |gflurry|  → 3 hit  |destroy|  →  |fbackhand|  for safety, otherwise just use a basic for more adrenaline if you are confident in your DPS.
+
+
+
+
+
+Safe font 3:
+
+
+
+After Telos phases into font 3, turn the corner around the middle beam area and wait for all the golems to line up single-file. Bladed Dive  |bd|  over to the end of the group of three golems and use Ingenuity of the Humans  |ingen|  + Entangle  |ent|  on the closest golem. This traps all golems behind that one golem for 24 seconds, which is more than enough to deal with Telos himself.
+
+
+
+Resonance  |res|  and Reflect  |reflect|  the font, then ZGS spec  |zgs|   |spec|  + adrenaline potion  |adrenrenewal| . Barge  |gbarge|  him with Mobile  |mob| , then stall a Cleave  |cleave| . Release the Cleave  |cleave|  two ticks after the message “Telos is preparing to fire an anima bomb!” and bleed Assault  |assault|  right after. Follow that up with either Destroy  |destroy|  (since it can stun out of range), or Backhand  |backhand|  → Cleave  |cleave|  or Destroy  |destroy|  and finish the job there. Alternatively, just bleed Destroy  |destroy|  right after instant kill, 5T  |zgs|  to Backhand  |backhand|  then Forceful Backhand  |fbackhand| .
+
+
+
+
+
+Fast font 3 (dangerous, experimental for now):
+
+
+
+Immediately head into font 3 and start eating up while using Resonance  |res|  + Reflect  |reflect| . Right at the end of the font, use Devotion  |devo|  and lure the golems away from Telos. Sticky bomb  |stickybomb|  them and Barge  |gbarge|  Telos → Assault  |assault|  → Destroy  |destroy|  → basics until dead. Extremely dangerous however, and not recommended.
+
+
+
+
+
+
+
+Phase 5
+^^^^^^^
+
+Make sure you have Disruption Shield  |disrupt|  active at the start of the phase. That way, Telos and golems cannot KO you at the start of the phase.
+
+
+
+
+
+**Side beam, pure/black golems**
+
+
+
+Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the message “Kill the anima-golems at the correct font to charge it!” appears →  |destroy|  or  |gflurry|  +  |bd|  into the green beam →  |NaturalInstinct|  [1] OR  |reflect|  [2] →  |reflect|  [1] OR  |NaturalInstinct|  [2] →  |swh|   |eofspec|  →  |revenge|  →  |zerk|  +  |vitality|  → step away +  |res|  →  |cade|  with Turtling 4  |turt4|  switch →  |gbarge|  →  |dragonclaw|   |eofspec|  →  |dragonclaw|   |eofspec|  →  |assault|  +  |stickybomb|  to block golems preemptively →  |dragonclaw|   |eofspec|  +  |stickybomb|  preemptively →  |dragonclaw|   |eofspec|  +  |surge|  +  |bd|  two ticks after using it into the virus/red beam →  |destroy|  →  |dragonclaw|   |eofspec|  → basics to 0 LP if somehow not dead
+
+
+
+
+
+**Back beam, pure/corrupt golems**
+
+
+
+Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the message “Kill the anima-golems at the correct font to charge it!” appears →  |destroy|  or  |gflurry|  +  |bd|  as close as possible to the back beam on the left side →  |res|  → stall  |backhand|  + release on Telos within the beam →  |NaturalInstinct|  [1] OR  |reflect|  [2] →  |reflect|  [1] OR  |NaturalInstinct|  [2] →  |swh|   |eofspec|  →  |revenge|  +  |surge|  into the beam away from Telos →  |zerk|  +  |vitality|  →  |anti|  →  |cade|  with Turtling 4  |turt4|  switch →  |gbarge|  →  |dragonclaw|   |eofspec|  →  |dragonclaw|   |eofspec|  →  |assault|  +  |stickybomb|  to block golems preemptively →  |dragonclaw|   |eofspec|  +  |stickybomb|  preemptively →  |dragonclaw|   |eofspec|  +  |bd|  two ticks after using it into the virus/red beam →  |destroy|  →  |dragonclaw|   |eofspec|  → basics to 0 LP if somehow not dead
+
+
+
+
+
+If you want to play it safe and/or you want to ensure you will always be able to kill Telos even after you clear virus, you can use Immortality OR dragon battleaxe instead of Berserk and simply replace the first dragon claw spec with Berserk.
+
+
+
+
+
+**Side beam, volcanic golems**
+
+
+
+Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the message “Kill the anima-golems at the correct font to charge it!” appears →  |destroy|  or  |gflurry|  +  |bd|  into the green beam →  |NaturalInstinct|  [1] OR  |reflect|  [2] →  |reflect|  [1] OR  |NaturalInstinct|  [2] →  |freedom|  →  |swh|   |eofspec|  →  |zerk|  +  |vitality|  →  |revenge|  +  |surge|  into the beam away from Telos →  |anti|  with Clear Headed 4  |ch4|  switch →  |cade|  with Turtling 4  |turt4|  switch →  |gbarge|  →  |dragonclaw|   |eofspec|  →  |dragonclaw|   |eofspec|  →  |assault|  +  |stickybomb|  to block golems preemptively →  |dragonclaw|   |eofspec|  +  |stickybomb|  preemptively →  |dragonclaw|   |eofspec|  +  |surge|  +  |bd|  two ticks after using it into the virus/red beam →  |destroy|  →  |dragonclaw|   |eofspec|  → basics to 0 LP if somehow not dead
+
+
+
+
+
+**Back beam, volcanic golems**
+
+
+
+Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the message “Kill the anima-golems at the correct font to charge it!” appears →  |destroy|  or  |gflurry|  +  |bd|  as close as possible to the back beam on the left side →  |res|  → stall  |backhand|  + release on Telos within the beam →  |NaturalInstinct|  [1] OR  |reflect|  [2] →  |reflect|  [1] OR  |NaturalInstinct|  [2] →  |swh|   |eofspec|  →  |freedom|  +  |surge|  into the beam away from Telos →  |revenge|  →  |zerk|  +  |vitality|  →  |anti|  with Clear Headed 4  |ch4|  switch →  |cade|  with Turtling 4  |turt4|  switch →  |gbarge|  →  |dragonclaw|   |eofspec|  →  |dragonclaw|   |eofspec|  →  |assault|  +  |stickybomb|  to block golems preemptively →  |dragonclaw|   |eofspec|  +  |stickybomb|  preemptively →  |dragonclaw|   |eofspec|  +  |bd|  two ticks after using it into the virus/red beam →  |destroy|  → dragon claw spec  |dragonclaw|  → basics to 0 LP if somehow not dead
+
+
+
+
+
+These have zero RNG with getting stunned at inopportune times. The only risk is a potential rock before Barricade, but that’s very rare. You can also afford to swap Statius’s warhammer with Freedom on side beam for that bit of extra safety if volcanics took their time to start hitting you at the start. And as before, if you are not confident with volcanics out there, you can simply use Immortality instead.
+
+
+
+It’s also a near necessity to wait those two ticks before Barge as well and nail the timing. If you Barge too early, golems can surround you when inside the beam and it can hurt far more, and if you Barge too late your Disruption Shield can no longer guarantee you not getting KOed at the start.
+
+
+
+

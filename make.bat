@@ -7,15 +7,15 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-set SOURCEDIR=source
-set BUILDDIR=build
+set SOURCEDIR=sphinx\source
+set BUILDDIR=sphinx\build
 
 if "%1" == "github-pages" (
 	%SPHINXBUILD% -M clean %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 	%SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
-	del "..\docs\" /s /f /q
-	xcopy "build\html\." "..\docs\" /E/H
-	git add "..\docs"
+	del "docs\" /s /f /q
+	xcopy "sphinx\build\html\." "docs\" /E/H
+	git add "docs"
 	git commit -m "generated docs"
 	git push
 	goto end

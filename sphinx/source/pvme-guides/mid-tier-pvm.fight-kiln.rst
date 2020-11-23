@@ -1,0 +1,240 @@
+fight-kiln
+==========
+
+.. |Attack| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Ranged| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Magic| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+**The Fight Kiln (Courtesy of <@!142860823809884161> and <@!292744647850065920>)**
+
+.. image:: https://i.imgur.com/O63i4K2.png
+
+
+
+Introduction
+^^^^^^^^^^^^
+
+Fight kiln is a fairly easy fight once you know what you are doing and seems harder than it is. Completing the fight rewards you with BIS cape for all three styles. All of the gear and inventories can get switched around based on what you have and how experienced you are. For less experienced people keep the obsidian armour and bring more brews and solids with the best tier of weapon you have. Keep in mind to follow the combat triangle and to use common sense during the waves.
+
+
+
+- 1-9 are mostly weak to  |Attack| 
+
+- 11-19 are mostly weak to  |Ranged| 
+
+- 21-29 are mostly weak to  |Magic| 
+
+- 31 is weak to  |Attack| 
+
+- 32 is weak to  |Magic| 
+
+- 33 is weak to  |Ranged| 
+
+
+
+
+
+Presets
+^^^^^^^
+
+Basic Preset (with obsidian)
+
+.. image:: https://i.imgur.com/EPXLkov.png
+
+
+
+Advanced Preset
+
+-  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
+
+(Runes for  |AirSurge|  and  |Vuln| )
+
+.. image:: https://i.imgur.com/Ofhv2P6.png
+
+
+
+**Explanation**
+
+Steel titan/Ripper demon + summoning flasks is very good on the mobs, particularly the Dills, who are still weak to familiars before their armour is broken. 
+
+Obsidian armour reduces damage taken in the fight kiln and saves inventory space if not willing to bring armour switches.
+
+Otherwise, tri-bridding is the best way to deal with the fight kiln. At the minimum, you want a 2h weapon of every style.
+
+An appropriate amount of prayer is recommended as you will be in the fight kiln for ~20 minutes per kill.
+
+God book or grimoire is recommended for pocket slot.
+
+
+
+
+
+**Wave Breakdown**
+
+• Waves 1-9: There will be mostly rangers with an increasing number of magers and meleers so use melee and switch to kill the others
+
+• Wave 2: Invulnerability Crystal spawn
+
+• Wave 3: Restoration Crystal spawn
+
+• Wave 5: Dill spawn
+
+• Wave 9: All rangers
+
+      - Use zerk on the last  ranger to get zerk for jad
+
+
+
+**WAVE 10: JAD - Spawns South West**
+
+• 1 ranger also spawns SE
+
+Wave 11-19: There will mostly be magers with an increasing spawn of meleers and rangers so use range and switch to kill the others
+
+• Wave 14: Invulnerability Crystal spawn
+
+• Wave 16: Restoration Crystal spawn
+
+• Wave 19: Dill spawn [switch to melee for Dill]
+
+      - Go NE and kill dill quickly then go SW and ds kill all the magers and use last of ds to attack jad
+
+
+
+**WAVE  20: JAD - Spawns South West**
+
+• Also spawns 1 mager SE
+
+• Waves 21-29: There will mostly be meleers with an increasing spawn of mager and rangers so use mage and switch to kill the others
+
+• Wave 26: Invulnerability Crystal spawn
+
+• Wave 28: Restoration Crystal spawn
+
+• Wave 28: 6 Dills spawn w/ a mager [kill mage then swap to melee]
+
+• Wave 29: Sun and DPS meleers and use end of sun on jad
+
+
+
+**WAVE  30: JAD - Spawns South West**
+
+• 3 rapid melee attackers spawn in other corners
+
+
+
+Wave 31: Use Melee
+
+Wave 32: Use Magic
+
+Wave 33: Use Range
+
+
+
+**WAVE 34: JAD - Spawns South East**
+
+• Rapid melee attacker spawns NW; ranger SW
+
+
+
+
+
+**WAVE 35: JAD - Spawns North East**
+
+• Rapid melee attacker spawns NW; ranger SW; mager SE
+
+
+
+
+
+**WAVE 36: DOUBLE JAD - Spawn in both Southern corners**
+
+• Use invulnerability crystals here
+
+.. image:: https://i.imgur.com/hLsQnEw.png
+
+
+
+*If playing on an Australian world*
+
+ǝɹǝɥ slɐʇsʎɹɔ ʎʇᴉlᴉqɐɹǝulnʌuᴉ ǝs∩ <-
+
+**‾‾sɹǝuɹoɔ uɹǝɥʇnoS ɥʇoq uᴉ uʍɐdS - p∀ſ Ǝ˥q∩Op :9Ɛ ƎΛ∀M‾‾**
+
+.. image:: https://i.imgur.com/bB0xUd0.png
+
+
+
+**WAVE 37: Har-Aken**
+
+
+
+.. image:: https://i.imgur.com/gLDiYck.png
+
+
+
+• Spawns tentacles that deal range/mage hits. Build/Heal on these when he is not on the surface
+
+• He never spawns on northern side of platform
+
+• Spam summoning pots
+
+• Can be vulned
+
+• Use sunshine/death's swiftness/berserk as he surfaces
+
+• Spawns after ~72 seconds and is up for ~30 seconds
+
+
+
+
+
+**Tips/Tricks/Extra Thoughts**
+
+- You can use crystals of regeneration in emergencies and to extend onslaught on har-aken if you wanted to (make sure you have sign up just in case because the hits start to add up very quickly)
+
+- Use soul split for the whole fight and use deflects as you see needed as well as devotion (on wave 19 there are a lot of magers so using devotion can help)
+
+- Even though you should be soul splitting the fight **USE PROTECTION PRAYERS ON JAD**
+
+- Make sure to take advantage of the combat triangle whenever possible
+
+- Invuln crystal does not protect you from dill special attack so you should use restoration crystal if getting low and brew is not enough
+
+- Feel free to use tokkul zo if you have excess tokkul from cauldron as that would be the best in slot ring of you are able to sustain it otherwise use ring of death or asylum surgeons ring
+
+- It is helpful to use lantadyme, kwuarm, and spirit weed incense sticks for increased potion duration, weapon poison damage, and scrolls used per hour
+
+

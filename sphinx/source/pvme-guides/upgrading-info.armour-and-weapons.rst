@@ -1,0 +1,1063 @@
+armour-and-weapons
+==================
+
+.. |torvabody| image:: https://cdn.discordapp.com/emojis/643166871285137458.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |masterworkbody| image:: https://cdn.discordapp.com/emojis/643847056527458324.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |tmwbody| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |achtoprimevaltop| image:: https://cdn.discordapp.com/emojis/641344704939819028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cinderbanes| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |NMG| image:: https://cdn.discordapp.com/emojis/513190159441723392.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DTB| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spellcaster| image:: https://cdn.discordapp.com/emojis/643214402169864213.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |detoboots| image:: https://cdn.discordapp.com/emojis/602581956072439828.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Laceration| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |noxscythe| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |drygorelongmh| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |noxstaff| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |seiswand| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |noxbow| image:: https://cdn.discordapp.com/emojis/513190159425208342.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ascmh| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |masterworkspearofannihilation| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |khopeshmh| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sos| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |praeswand| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ecb| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bbc| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gstaff| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mechchin| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Merciless_kiteshield| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |debil| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |elysianspiritshield| image:: https://cdn.discordapp.com/emojis/690976217792250007.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |kalphiterepriser| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |kalphitedefender| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |kalphiterebounder| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |RoD| image:: https://cdn.discordapp.com/emojis/513190159462825984.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asr| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vigour| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |aos| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reaper| image:: https://cdn.discordapp.com/emojis/513190159412494367.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |eof| image:: https://cdn.discordapp.com/emojis/745279787894833313.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |aoskit| image:: https://cdn.discordapp.com/emojis/583430147487563776.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cruelty| image:: https://cdn.discordapp.com/emojis/513190159546712074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |SaraBook| image:: https://cdn.discordapp.com/emojis/574290439482638346.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |grim| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |greenpouch| image:: https://cdn.discordapp.com/emojis/690848914638766082.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Naturerune| image:: https://cdn.discordapp.com/emojis/536252660270104591.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |blackpouch| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Dustrune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |pinkpouch| image:: https://cdn.discordapp.com/emojis/656786565397348361.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Mudrune| image:: https://cdn.discordapp.com/emojis/536252660286881832.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |SBSLunars| image:: https://cdn.discordapp.com/emojis/565726489467682816.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sd| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ent| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cept| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HealOther| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Enfeeble| image:: https://cdn.discordapp.com/emojis/567727986409734145.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |barrowsmalevlegs| image:: https://cdn.discordapp.com/emojis/580177522831130634.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+Armour
+^^^^^^
+
+
+
+
+
+ |torvabody|  **T80 Armour**
+
+- The standard armour for all PvMing
+
+      • Note: Should just opt for Masterwork over Torva due to it costing significantly less.
+
+- Priority: `High`
+
+
+
+
+
+ |masterworkbody|  **T90 Armour**
+
+- Better defensive bonuses, as well as marginal dps increase over T80 armour.
+
+- Priority: `High for Masterwork, Medium for others`
+
+
+
+
+
+ |tmwbody|  **T92 Armour**
+
+- The best armour. Relatively small defense and dps boost vs T90 armour.
+
+      • Note: Due to repair/upkeep costs, none are worth using outside of Elite Dungeons except for Trimmed Masterwork. As such, *the following ONLY applies to this armour. Elite Tectonic and Sirenic do not have set effects at this time.*
+
+      • Note: The Trimmed Masterwork armour's set effect and low upkeep cost is what makes it worthwhile compared to the other T92 armour sets.
+
+      • When wearing 3 or more pieces you will gain 10% damage soak per piece that will be applied as damage over time.
+
+      • Note: Reduces damage of Vengeance recoil, and can negatively impact Reprisal at bosses like Vorago. As both determine their damage from Lifepoints lost, the damage delaying effect can cause them to be less effective.
+
+- Priority: `Low`
+
+
+
+
+
+ |achtoprimevaltop|  **Achto**
+
+- T90 tank armour that has a chance to reset all defensive cooldowns when atleast 3 pieces are worn (2% chance per piece worn).
+
+- Increases damage dealt while wearing a shield/shieldbow at 10% of the equivalent offhand weapon damage based on the shield's level.
+
+- Generally only use in situations where the cooldown reset is useful, or tanking damage has higher importance than the damage you deal.
+
+- Priority: `Low`
+
+
+
+
+
+ |Cinderbanes|  **Cinderbanes**
+
+- BiS gloves for poisonable targets
+
+- Increases the damage poison hits would deal, as well as being able to refresh and proc damage itself
+
+- Priority: `High if you can use them, Low otherwise`
+
+
+
+
+
+ |NMG|  **Nightmare Gauntlets**
+
+- Passive Effect:
+
+      • A 25% increased hitchance when using Snipe
+
+      • Allows you to move whilst using Snipe
+
+      • A bug that lets you 3-tick cast Snipe when using ability queuing as opposed to 4-tick casting without.
+
+- Priority: `High`
+
+
+
+
+
+ |DTB|  **Deathtouch Bracelet**
+
+- Passive Effect:
+
+      • 1/5 chance of reflecting 25-50% damage (~7.5% average reflected) back to the attacker.
+
+      • Note: Unlike the Reflect ability, this does not actually reduce damage received.
+
+- Priority: `High`
+
+
+
+
+
+ |spellcaster|  **Dominion Tower Gloves**
+
+- Of these gloves, the only ones that see any niche use in PvM are *Spellcaster Gloves*. When casting a basic ability or an auto attack with these worn, there is a 5% chance of the following effect being applied:
+
+      • Dealing 25% more damage
+
+      • Binding the target
+
+      • Lowering the target's Magic, Attack, Range, and Defense by 7 levels (does not stack)
+
+      • Delayed abilities (e.g. blitz spells, sonic) will instantly hit the target
+
+- Only really sees use at Vorago
+
+- Priority: `Low for Spellcasters, Very Low for others`
+
+
+
+
+
+ |detoboots|  **Blast Diffusion Boots**
+
+- Halves the charge time of the Detonate ability.
+
+- Generally used as another main threshold for magic. Usually a 3-tick Detonate for 80% charged Detonate (4-tick Detonate is usually only used for its 5x5 AoE)
+
+- Priority: `High`
+
+
+
+
+
+ |Laceration|  **Laceration Boots**
+
+- Allows Bladed Dive to be used with only a mainhand or 2h melee weapon
+
+- Priority: `Medium`
+
+
+
+
+
+Weapons
+^^^^^^^
+
+
+
+ |noxscythe|  **T90 Weapons**
+
+
+
+- Note: In general dual-wield camp > 2h camp at bosses due to marginally better single target dps. Using dual-wield also makes shield, Flanking, and Lunging switches easier and more fluid to use. However, one should be using both dual-wield and 2h weapons in order to use abilities that are normally exclusive to either type. 
+
+
+
+
+
+**Melee**
+
+ |noxscythe|  **Noxious Scythe**
+
+- BiS halberd-range weapon. Good for AoE and staying out of melee distance.
+
+- Special Attack: *Mirrorback*
+
+      • Costs 100% adrenaline
+
+      • Summons a mirrorback spider with 10,000 LP that reduces all damage taken by 50%, reflecting it back to the attacker. The spider is also dealt the same damage.
+
+      • Completely useless in the current game.
+
+- Priority: `High`
+
+
+
+ |drygorelongmh|  **Drygores**
+
+- Note: All Drygore variants will be the same overall dps, maces however will allow you to 5taa should the need arise.
+
+- Priority: `High`
+
+
+
+
+
+**Magic**
+
+ |noxstaff|  **Noxious Staff**
+
+- Special Attack: *Mirrorback*
+
+      • Costs 100% adrenaline
+
+      • Summons a mirrorback spider with 10,000 LP that reduces all damage taken by 50%, reflecting it back to the attacker. The spider is also dealt the same damage.
+
+      • Completely useless in the current game.
+
+- Priority: `High`
+
+
+
+ |seiswand|  **Seismic Wand and Singularity**
+
+- Priority `High`
+
+
+
+
+
+**Ranged**
+
+ |noxbow|  **Noxious Longbow**
+
+- Note: Can make kiting easier due to longer range than Ascension crossbows.
+
+- Special Attack: *Mirrorback*
+
+      • Costs 100% adrenaline
+
+      • Summons a mirrorback spider with 10,000 LP that reduces all damage taken by 50%, reflecting it back to the attacker. The spider is also dealt the same damage.
+
+      • Completely useless in the current game.
+
+- Priority: `Low`
+
+
+
+ |ascmh|  **Ascension Crossbows**
+
+- Typically used with bakriminel bolts making them superior to 2h bows in almost all scenarios.
+
+- Priority: `High`
+
+
+
+
+
+ |zgs|  **T92 Weapons**
+
+**Melee**
+
+ |zgs|  **Zaros Godsword**
+
+- Special Attack: *Blackhole*
+
+      • Costs 50% adrenaline
+
+      • Lasts 21 seconds (35 ticks), with a 60 second cooldown.
+
+      • Creates a 7x7 area that boosts all melee damage by 25%. Enemies positioned within this area take 25%-50% ability damage every 1.8 seconds (3 ticks).
+
+- Priority: `High`
+
+
+
+ |masterworkspearofannihilation|  **Masterwork Spear of Annihilation**
+
+- Passive Effect: Increases duration of melee bleed abilities by 50%.
+
+      • Only affects Dismember, Slaughter, and Blood Tendrils. *Damage over time from the Greater Barge effect is not extended by this weapon.*
+
+      • 2 hits are added to each bleed resulting in 7 total hits.
+
+      • Stacks with Strength Cape perk for Dismember, resulting in 10 total hits.
+
+      • Interacts strangely with Blood Tendrils; Two smaller hits are added to the start of the bleed, and self damage doesn't occur until the fifth hit.
+
+- Priority: `HIGH` 
+
+
+
+ |khopeshmh|  **Khopesh of Tumeken and Khopesh of Elidinis**
+
+- Priority: `Medium`
+
+
+
+
+
+**Magic**
+
+ |Sos|  **Staff of Sliske**
+
+- Special Attack: *From the Shadows*
+
+      • Costs 50% adrenaline
+
+      • Attacks your target five times, dealing 20-100% ability damage each attack
+
+	    • Ignores Telos' damage reduction while channeling the Insta-Kill on P5, but useless otherwise.
+
+- Priority: `Low if 4taa, Medium otherwise`
+
+      • Note: Should prioritize Praesul wand and orb if you 4taa - most abilities are cast dual-wield, and the staff should mainly only be used for auto attacks.
+
+
+
+ |praeswand|  **Praesul Wand and Imperium Core**
+
+- Priority: `Medium`
+
+
+
+**Ranged**
+
+ |sgb|  **Seren Godbow**
+
+- Special Attack: *Crystal Rain*
+
+      • Costs 30% adrenaline
+
+      • 5 arrows are launched, the first landing a tick before the rest. The first will always have an opportunity to hit, the rest depending on if they land on game tiles the target occupies. If the first splashes, the rest will splash as well.
+
+	    • 30 second cooldown.
+
+      • The damage range of the Spec is based a couple factors, refer to the wiki for specifics: <https://runescape.wiki/w/Seren_godbow#Special_attack>
+
+- Generally used on 3x3+ sized monsters, with IoTH if off-style
+
+- Priority: `High if you can use spec, Medium otherwise`
+
+
+
+ |ecb|  **Eldritch Crossbow**
+
+- Special Attack: *Split Soul*
+
+      • Costs 25% adrenaline
+
+      • Instead of healing, Soul Split deals 4x the amount that would have been healed as damage against the target.
+
+	    • Lasts 15 seconds or until the weapon is unequipped.
+
+- Even outside of the special attack, the crossbow can be used for more bolt procs
+
+- Priority: `High if you can use spec, Medium otherwise`
+
+
+
+ |bbc|  **Blightbound Crossbow**
+
+- 25% chance per bow to save Bakriminel Bolts, up to 50% with both crossbows.
+
+- Priority: `Low`
+
+
+
+
+
+**Special Weapons**
+
+ |gstaff|  **Guthix's Staff**
+
+- T60 staff earned from the Mage Arena:
+
+- Special Attack: *Claws of Guthix*
+
+      • Costs 25% adrenaline
+
+      • Deals 140%-300% (220% average) ability damage
+
+      • Lowers the target's defence by 5% of the previous level and applies a debuff that increases the target's affinity values by 2.
+
+- Use cases are in pretty much all high end pvm encounters where hit chance is not 100%. The special attack is also a fairly strong threshold ability alternative.
+
+      • Note: When using the Guthix Staff special you will lose Aftershock stacks unless you 1 tick your special attack. This should be done regardless, and if possible an auto attack should lead into the special attack.
+
+- Priority: `High if you use magic`
+
+
+
+
+
+ |swh|  **Statius Warhammer**
+
+- T78 mainhand weapon that can be upgraded to a T88 superior version.
+
+- Special Attack: *Smash*
+
+      • Costs 35% adrenaline    
+
+      • Deals 83-207% (145% average) ability damage
+
+      • Reduces target's Defence level by 30% and applies a debuff that increases the target's affinity values by 5.
+
+- Generally used in situations where higher hitchance is needed. This is even used when using Magic or Ranged in conjunction with the Ingenuity of the Humans  |ingen|  ability.
+
+- Priority: `High`
+
+
+
+
+
+ |mechchin|  **Mechanical Chinchompas**
+
+- T75 Chinchompa weapon. Has T81.5 damage and will hit up to 9 targets in a 3x3 area around your target. If the target is 2x2 or larger, this 3x3 area will be centered on the southwest-most square the target occupies.
+
+- Generally used in situations where constant AoE damage is more useful than pre-existing AoE abilities.
+
+- Priority: `High if doing any form of chinning, Low otherwise`
+
+
+
+
+
+
+
+Defenders and Shields
+^^^^^^^^^^^^^^^^^^^^^
+
+
+
+ |Merciless_kiteshield|  **T90 Shield**
+
+- BiS Shields
+
+      • Any defensives that scale with shield level (Resonance  |res| , Debilitate  |debil| , and Barricade  |cade| ) will be most effective with a t90 shield
+
+      • Note: The right click voke options of these shields allow you to drop target when using ability queueing
+
+- Priority: `High`
+
+
+
+
+
+ |elysianspiritshield|  **Spirit Shields**
+
+- Tier 75 Shield.
+
+      • Reduces all damage taken by 30%. 6% of the damage received is removed from prayer points.
+
+      • Only useful in places you would shield camp, e.g. raids basing on slow teams.
+
+	  • Lower tier means that Resonance  |res|  and Barricade  |cade|  are rendered less effective. If using these frequently, it would be better to use a T90 shield instead.
+
+- Priority: `Low`
+
+
+
+
+
+ |kalphiterepriser|  **Kalphite Repriser**
+
+- Like all defenders it has the following passives:
+
+      • Allows access to both dual-wield and shield abilities, but only counts as half of its tier for calculations.
+
+      • Provides a 3% accuracy buff.
+
+      • 1/15 to deflect a hit, reducing it by 50-100% damage and providing +20 accuracy for your next attack.
+
+- No real use
+
+- Priority: `Low`
+
+
+
+
+
+ |kalphitedefender|  **Kalphite Defender**
+
+- Like all defenders it has the following passives:
+
+      • Allows access to both dual-wield and shield abilities, but only counts as half of its tier for calculations.
+
+      • Provides a 3% accuracy buff.
+
+      • 1/15 to deflect a hit, reducing it by 50-100% damage and providing +20 accuracy for your next attack.
+
+- Can be taken in place of a shield when meleeing, but no real use otherwise.
+
+- Priority: `Low`
+
+
+
+
+
+ |kalphiterebounder|  **Kalphite Rebounder**
+
+- Like all defenders it has the following passives:
+
+      • Allows access to both dual-wield and shield abilities, but only counts as half of its tier for calculations.
+
+      • Provides a 3% accuracy buff.
+
+      • 1/15 to deflect a hit, reducing it by 50-100% damage and providing +20 accuracy for your next attack.
+
+- Generally only really used at Telos, or places where you can make use of Revenge.
+
+- Priority: `Medium if doing Telos, Low otherwise`
+
+
+
+
+
+Jewellery
+^^^^^^^^^
+
+
+
+ |RoD|  **Ring of Death**
+
+- BiS degradable ring statwise with the following passives:
+
+    • When a target is killed there is a 50% chance of gaining 1% adren per 1,500 max hp of the creature up to 5% adrenaline
+
+    • When a player dies, instead of going to death, the ring uses 15% charge (3% when overcharged) and takes the player to the last respawn spot they visited, keeping their familiar as well
+
+- Can be overcharged by Death for 5 cut onyx and 25 black stone hearts to increase the equipment charge from 100,000 to 500,000. An overcharged ring is denoted by an *(o)* after the name.
+
+- Can be imbued by the Armoursmith in Mazcab for 15,000 teci, adding +2.5 to each style bonus. This results in +27.7 for each style (rounded down to +27), and is denoted by a brighter inventory icon and an *(i)* after the name.
+
+- Generally a camped ring unless comfortable with an Asylum Surgeon's Ring. Very useful when learning content or if reclaim costs are high.
+
+- Priority: `High`
+
+
+
+
+
+ |asr|  **Asylum Surgeon's Ring**
+
+- A ring with the following passives:
+
+       • 10% chance to prevent adrenaline loss of thresholds (30s cooldown)
+
+       • 40% chance of saving 25% of the adrenaline cost of special attacks
+
+- Can be imbued by the Armoursmith in Mazcab for 10,000 teci, adding +2.5 to each style bonus. This results in +23.4 for each style (rounded down to +23), and is denoted by a brighter inventory icon and an *(i)* after the name.
+
+- Usually camped instead of Ring of Death or used as a switch for thresholds.
+
+- Priority: `High if you know what you are doing, Low otherwise`
+
+
+
+
+
+ |vigour|  **Ring of Vigour**
+
+- A ring with the following passives:
+
+       • Save 10% of your adrenaline upon using an ultimate ability
+
+       • Reduce special attack costs by 10%
+
+- Used as a ring switch
+
+- Priority: `High`
+
+
+
+
+
+ |aos|  **Amulet of Souls**
+
+- Passive: 50% chance to make Soul Split heal 25-50% more (~18.75% increase in average healing) and increases protection prayer effectiveness by an additive +10% for a total of 60% damage reduction.
+
+- Priority: `High`
+
+
+
+
+
+ |Reaper|  **Reaper Necklace**
+
+- Passive: All successful hits give a 0.1% hitchance boost for 54s since last attack, capping at 30 stacks for a 3% total increase in hitchance.
+
+- Priority: `High if you need hitchance, Low otherwise`
+
+
+
+
+
+ |eof|  **Essence of Finality amulet**
+
+- Passive: This combines the effect of Amulet of Souls  |aos|  and Reaper Necklace  |Reaper|  into a single amulet.
+
+- Priority: `N/A` (waiting for price to settle)
+
+
+
+
+
+ |aoskit|  **Ornament Kits**
+
+- Refer to the Amulet of Souls  |aos| , Reaper Necklace  |Reaper| , and Essence of Finality  |eof| .
+
+- Provides a +2 (+3 for Essence of Finality) to all style bonuses when combined with the base jewellery.
+
+- Priority: `Low`
+
+
+
+
+
+Miscellaneous
+^^^^^^^^^^^^^
+
+
+
+ |Cruelty|  Scrimshaws
+
+- Scrimshaw of the Elements
+
+       • Adds +5% (normal) or +6.66% (superior) damage to all Magic attacks
+
+- Scrimshaw of Cruelty
+
+       • Adds +5% (normal) or +6.66% (superior) damage to all Ranged attacks
+
+- Priority: `High`
+
+
+
+
+
+ |SaraBook|  **God Books**
+
+- These books come with various effects when active, as well as offering style bonuses as a pocket slot item.
+
+- Generally the only ones with usage are Armadyl books for stationary targets and Saradomin books if moving. Erethdor's Grimoire usually outclasses them both but has a higher upkeep. They are also usually outclassed by scrims for mage/range.
+
+- Typically only used when a creature has a hit cap, such as Nex, or if one does not want to spend the upkeep cost for a Grimoire.
+
+- Priority: `High if Nex, Low otherwise`
+
+
+
+
+
+
+
+ |grim|  **Erethdor's Grimoire**
+
+- When activated, every hit has a 12% chance to become a forced critical hit. This stacks with the Biting perk for a maximum of 18% chance per ability. It also raises your max hit to 15k for critical hits.
+
+- Priority: `High if meleeing or ranging`
+
+
+
+
+
+ |runepouch|  **Large rune pouches**
+
+- Allows you to store 16k of 3 different runes per pouch.
+
+      • Can have more than one pouch
+
+      • Can equip one in ammo slot
+
+- Priority: `High for main pouch, Medium for secondary pouches`
+
+
+
+
+
+**Rune Pouch Setup**
+
+-  |runepouch|  :  |Airrune|   |Chaosrune|   |Soulrune| 
+
+-  |redpouch|  :  |Bloodrune|   |Firerune|   |Bodyrune| 
+
+-  |purppouch|  :  |Cosmicrune|   |Astralrune|   |Lawrune| 
+
+-  |bluepouch|  :  |Waterrune|   |Deathrune|   |Earthrune| 
+
+-  |greenpouch|  :  |Chaosrune|   |Naturerune|   |Soulrune| 
+
+-  |blackpouch|  :  |Soulrune|   |Waterrune|   |Dustrune| 
+
+-  |yellowpouch|  :  |Bloodrune|   |Astralrune|   |Bodyrune| 
+
+-  |pinkpouch|  :  |Deathrune|   |Mudrune|   |Soulrune| 
+
+
+
+
+
+
+
+**Normal Spellbook:**  |runepouch| 
+
+	Spells used:  |AirSurge|   |Vuln| 
+
+
+
+**General Borrowed Power Mage (no Shield Dome):**  |redpouch|  +  |purppouch|  +  |bluepouch| 
+
+	Spells used:  |bloodbarrage|   |icebarrage|   |SBSLunars|   |disrupt|   |Veng| 
+
+
+
+**General Borrowed Power mage (with Shield Dome):**   |redpouch|  +  |purppouch|  +  |pinkpouch| 
+
+	Spells used:  |bloodbarrage|   |icebarrage|   |SBSLunars|   |disrupt|   |Veng|   |sd| 
+
+
+
+**Melee/Ranged Lunars:**  |bluepouch|  +  |yellowpouch| 
+
+	Spells used:  |disrupt|   |Veng| 
+
+
+
+**Telos 1k+:**  |redpouch|  +  |purppouch|  +  |bluepouch|  +  |greenpouch| 
+
+	Spells used:  |bloodbarrage|   |icebarrage|   |SBSLunars|   |disrupt|   |Veng|   |sd|   |ent|   |Vuln| 
+
+
+
+**Vorago:**  |redpouch|  +  |purppouch|  +  |blackpouch| 
+
+	Spells used:  |bloodbarrage|   |SBSLunars|   |disrupt|   |sd|   |Cept|   |HealOther|   |Enfeeble| 
+
+
+
+
+
+ |barrowsmalevlegs|  **Dyed Switches**
+
+- This just means you dye a switch so you can can have t92/t90 damage when making use of a switch like Flank or non-mobile Barge
+
+- Priority: `Low`
+
+
+
+
