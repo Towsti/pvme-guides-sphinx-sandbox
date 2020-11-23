@@ -1,5 +1,7 @@
 # Sphinx
 /sphinx/build
+/sphinx/source/pvme-guides
+/sphinx/source/index.rst
 
 # PyCharm
 .idea
