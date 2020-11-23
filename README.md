@@ -33,3 +33,10 @@ Sandbox project for pvme-guides sphinx documentation that is hosted on Read the 
 1. clone the repository
 2. from the root folder: `make github-pages`
 
+### Linux
+
+todo
+
+## LaTeX PDF
+
+todo
