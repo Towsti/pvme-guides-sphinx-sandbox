@@ -1,2 +1,5 @@
 # Sphinx
 /docs/build
+
+# PyCharm
+.idea
