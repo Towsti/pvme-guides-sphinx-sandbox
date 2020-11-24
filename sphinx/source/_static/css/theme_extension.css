@@ -1,0 +1,16 @@
+/*
+Extend the main theme.
+Separate file because the main theme is likely to change or be generated.
+*/
+.wy-nav-content {
+    max-width: 85% !important;
+}
+
+/*
+img{
+    width:100%; !important
+    max-width:600px; !important
+    height:100%; !important
+    max-height:600px; !important
+}
+*/
