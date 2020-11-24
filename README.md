@@ -40,3 +40,29 @@ todo
 ## LaTeX PDF
 
 todo
+
+## Progress
+
+overview of all the current bugs that need to be resolved and new features.
+
+| description                                                  | status       |
+| ------------------------------------------------------------ | ------------ |
+| `.img` not always shown on a new line (e.g. solak-7s presets) | :red_circle: |
+| `_ _` character not yet removed                              | :red_circle: |
+| add GE prices to perks                                       | :red_circle: |
+| image max-height should be relative                          | :red_circle: |
+| support for ***bold italic*** text                           | :red_circle: |
+| support for <u>underline</u> text                            | :red_circle: |
+| support for <u>**bold underline**</u> text                   | :red_circle: |
+| support for <u>*italic underline*</u> text                   | :red_circle: |
+| support for <u>***bold italic underline***</u> text          | :red_circle: |
+| add logo to the top of navigation bar                        | :red_circle: |
+| minor style change to `l2` navigation (background should contrast more with `l1`) | :red_circle: |
+| improve section identification*                              | :red_circle: |
+| add "generated on: DD/MM/YY" to the top of the navigation bar | :red_circle: |
+| hyperlink support (according the pvme style-guide)           | :red_circle: |
+| embed Youtube/Twitch and other links                         | :red_circle: |
+| automatically display images that don't start with `.img` at the end of a message | :red_circle: |
+|                                                              |              |
+
+*currently the `> __**` format is used to identify sections. This format is not consistently used across all sections and certain sections are not suited for displaying in the navigation bar.
