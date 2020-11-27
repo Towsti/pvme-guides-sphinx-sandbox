@@ -1,43 +1,4 @@
-telos-0-999
-===========
-
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -45,39 +6,47 @@ telos-0-999
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |comb| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |revenge| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |immort| image:: https://cdn.discordapp.com/emojis/535541258538582017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -89,79 +58,13 @@ telos-0-999
     :width: 1.375em
     :height: 1.375em
 
-.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/0BCllNO.png| image:: https://i.imgur.com/0BCllNO.png
 
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://youtu.be/h1v5kS9I50w| raw:: html
 
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DeflectMelee| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/h1v5kS9I50w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |bloodblitz| image:: https://cdn.discordapp.com/emojis/535616247807868938.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |comb| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |iceblitz| image:: https://cdn.discordapp.com/emojis/535613865912696883.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DeflectMage| image:: https://cdn.discordapp.com/emojis/544195487926845462.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |debil| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -169,43 +72,11 @@ telos-0-999
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |meta| image:: https://cdn.discordapp.com/emojis/535533811304497183.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |conc| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gstaff| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |revenge| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |prep| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -213,15 +84,104 @@ telos-0-999
     :width: 1.375em
     :height: 1.375em
 
-.. |immort| image:: https://cdn.discordapp.com/emojis/535541258538582017.png?v=1
+.. |kalphiterebounder| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |meta| image:: https://cdn.discordapp.com/emojis/535533811304497183.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
 
 .. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiterebounder| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |prep| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |debil| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/OA3tZ8J.png| image:: https://i.imgur.com/OA3tZ8J.png
+
+.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/LD4SNF3.png| image:: https://i.imgur.com/LD4SNF3.png
+
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DeflectMage| image:: https://cdn.discordapp.com/emojis/544195487926845462.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |conc| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/898Dtkv.png| image:: https://i.imgur.com/898Dtkv.png
+
+.. |gstaff| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -229,20 +189,84 @@ telos-0-999
     :width: 1.375em
     :height: 1.375em
 
+.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DeflectMelee| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |iceblitz| image:: https://cdn.discordapp.com/emojis/535613865912696883.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/uM4WAIx.png| image:: https://i.imgur.com/uM4WAIx.png
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |onsl| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Telos (Courtesy of <@!319736938020208640>, <@!162317885044293632> and <@!425520655920791553>)**
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/LD4SNF3.png
+.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+telos-0-999
+===========
+
+:bold-underline:`Telos (Courtesy of <@!319736938020208640>, <@!162317885044293632> and <@!425520655920791553>)`
+
+
+
+|https://i.imgur.com/LD4SNF3.png|
+
+
 
 
 
 
 
 Introduction
-^^^^^^^^^^^^
+------------
+
+
+
 
 
 
@@ -260,22 +284,30 @@ On phases 1 and 2, Telos will attack with melee unless players are out of range.
 
 
 
+
 Presets
-^^^^^^^
+-------
 
 
 
-- **Beginner Telos**
+
+
+
+- :bold-underline:`Beginner Telos`
 
 Weapon Poison one dose should be used in conjunction with cinderbanes to rack up damage. An arcane is used for if you get into sticky situations, as the damage reduction can be life saving. Dreadnips can be used for stuns. A wand should be used for p5 if shield camping is needed. A Guthix Staff is used for its special attack, and the nox staff will be used for most DPSing.
 
-.. image:: https://i.imgur.com/uM4WAIx.png
+
+
+|https://i.imgur.com/uM4WAIx.png|
 
 
 
 
 
-- **Advanced Telos**
+
+
+- :bold-underline:`Advanced Telos`
 
 Rune pouches are used to take advantage of ancients spells, allowing for breaking freedom and passive healing + AoE on golems, in addition to using disruption shield to null big hits like SMP. Switches are used for 4taa, nips are no longer used as they can cause unnecessary stalls, cause telos to get stuck in the beam and ruin freedom timing. Rest remains as above, simply with upgraded food available.
 
@@ -287,14 +319,19 @@ Rune pouches are used to take advantage of ancients spells, allowing for breakin
 
 (Runes for  |bloodbarrage|   |icebarrage|   |borrowedpower|   |disrupt|   |Veng| )
 
-.. image:: https://i.imgur.com/0BCllNO.png
+
+
+|https://i.imgur.com/0BCllNO.png|
+
+
 
 
 
 
 
 Enrage Mechanics
-^^^^^^^^^^^^^^^^
+----------------
+
 
 **50%** Virus is added on P2 and P3
 
@@ -320,19 +357,26 @@ Enrage Mechanics
 
 
 
+
 Telos Phasing Diagram
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
+
 
 Note: There was most likely intention of being another special attack but was scrapped, and some spaghetti code leads to Telos just standing there delaying his autos for a tick. This will be referred to as a No Spec. Phasing after Hold Still or Virus P2 will lead to a No Spec first P3. Telos will do 7 auto attacks, stall for a tick, 3 more auto attacks, and Uppercut. Phasing P3 before the No Spec will lead to a No Spec first P4. Telos will do 3 auto attacks, stall for a tick, and Hold Still.
 
-.. image:: https://i.imgur.com/OA3tZ8J.png
+
+
+|https://i.imgur.com/OA3tZ8J.png|
+
+
 
 
 
 
 
 Target Cycling at Telos
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
+
 
 Target cycling can be used to tag earlier on phase 1 and phase 5. Phase 5 is simple - just target cycle as soon as you see Telos' head pop up, or as soon as you see the yellow dot on the minimap. Your target range must be set to max for this to work.
 
@@ -342,6 +386,10 @@ For phase 1, you need to trigger gcd (using devo) wait 2 ticks then surge in (of
 
 https://youtu.be/h1v5kS9I50w
 
+|https://youtu.be/h1v5kS9I50w|
+
+
+
 
 
 
@@ -349,11 +397,16 @@ https://youtu.be/h1v5kS9I50w
 
 
 Phase 1
-^^^^^^^
+-------
 
 
 
-- **Mechanics**
+
+
+
+- :bold-underline:`Mechanics`
+
+
 
 
 
@@ -363,27 +416,33 @@ Phase 1
 
 
 
-    • On P1, a green beam will spawn on telos and then stay for 20 ticks. If stood in the beam the player will gain 10% adrenaline per tick, and their prayer points will be drained slightly, scaling with enrage. While Telos stands in the beam, his attack speed will increase from four ticks per attack to three ticks per attack and his special bar will fill. If his special bar fills on P1, Telos will fire off a So Much Power in place of his next special.
 
-    • The Tendrils special will require you to deal `3,000 + 10 × Enrage` damage, and Telos will also heal himself while channeling this special. Telos also drains your adrenaline while channeling this spec so it's important to clear it quickly.
+- On P1, a green beam will spawn on telos and then stay for 20 ticks. If stood in the beam the player will gain 10% adrenaline per tick, and their prayer points will be drained slightly, scaling with enrage. While Telos stands in the beam, his attack speed will increase from four ticks per attack to three ticks per attack and his special bar will fill. If his special bar fills on P1, Telos will fire off a So Much Power in place of his next special.
 
-        - You should aim to use a high damage ability like dragonbreath, wild magic or guthix staff spec to cancel this. As enrage goes up it becomes increasingly important to stack damage properly, so it's recommended to use  |icebarrage|   |deto|   |wrack|  as these will all hit on the same tick.
+- The Tendrils special will require you to deal ``3,000 + 10 × Enrage`` damage, and Telos will also heal himself while channeling this special. Telos also drains your adrenaline while channeling this spec so it's important to clear it quickly.
 
-    • Surge  |surge| , escape  |escape| , or bladed dive  |bd|  away from the Uppercut 1t after the dialogue window disappears. The timing of avoiding this attack will come with practice. Players must be at least three squares away from their original position to not get hit. Players can also resonance  |res|  or disruption shield  |disrupt|  to negate the typeless damage, but this is not recommended because these are better used on other specials.
+    - You should aim to use a high damage ability like dragonbreath, wild magic or guthix staff spec to cancel this. As enrage goes up it becomes increasingly important to stack damage properly, so it's recommended to use  |icebarrage|   |deto|   |wrack|  as these will all hit on the same tick.
 
-
-
-    • Use Freedom  |freedom|  or Anticipate  |anti|   before Hold Still to avoid the stun, equip wand and shield, and Resonance  |res|   the big melee hit, but be careful not to resonance the attack that comes right before the actual damage. Devotion  |devo|  and Deflect Melee  |DeflectMelee|  is another way to avoid the damage. Move three squares away to avoid the stomp.
-
-       - If you forget to freedom/anticipate, you can manually click your shield in your inventory and spam resonance to negate the stomp hit.
-
-    • Continue to dps and deal with mechanics until phase hp. In general you want to be phasing either immediately after the first tendrils, or even before. This will depend on enrage, gear and skill though.
+- Surge  |surge| , escape  |escape| , or bladed dive  |bd|  away from the Uppercut 1t after the dialogue window disappears. The timing of avoiding this attack will come with practice. Players must be at least three squares away from their original position to not get hit. Players can also resonance  |res|  or disruption shield  |disrupt|  to negate the typeless damage, but this is not recommended because these are better used on other specials.
 
 
 
 
 
-- **Rotations (250%-999%)**
+- Use Freedom  |freedom|  or Anticipate  |anti|   before Hold Still to avoid the stun, equip wand and shield, and Resonance  |res|   the big melee hit, but be careful not to resonance the attack that comes right before the actual damage. Devotion  |devo|  and Deflect Melee  |DeflectMelee|  is another way to avoid the damage. Move three squares away to avoid the stomp.
+
+   - If you forget to freedom/anticipate, you can manually click your shield in your inventory and spam resonance to negate the stomp hit.
+
+- Continue to dps and deal with mechanics until phase hp. In general you want to be phasing either immediately after the first tendrils, or even before. This will depend on enrage, gear and skill though.
+
+
+
+
+
+
+- :bold-underline:`Rotations (250%-999%)`
+
+
 
 
 
@@ -392,6 +451,8 @@ Phase 1
      |Sunshine|   |adrenrenewal|   |bloodblitz|   |comb|  →  |swh|   |ingen|   |spec|  →  |iceblitz|   |freedom|  →  |iceblitz|   |wrack|  →  |dbreath|  →  |iceblitz|   |wm|  →  |wrack|  →  |bloodblitz|   |asphyx|  (3-hit) →  |wrack|  →  |bloodblitz|   |comb|  →   |deto|  (3t) →  |icebarrage|   |deto|   |wrack|   →  |dbreath|  (if high hp  |icebarrage|   |deto|   |deep|  →  |wrack|   →  |dbreath| )
 
 	[Old Rotations: <https://i.imgur.com/v7ncL5c.png>]
+
+
 
 
 
@@ -405,12 +466,19 @@ Phase 1
 
 
 
+
+
 Phase 2
-^^^^^^^
+-------
 
 
 
-- **Mechanics**
+
+
+
+- :bold-underline:`Mechanics`
+
+
 
 
 
@@ -426,36 +494,46 @@ Assuming phase after tendrils and before uppercut.
 
 
 
-    • On P2 a black beam spawns on Telos and stays for 33 ticks. While players stand in the beam, they take and deal 30% reduced damage. While Telos stands in the beam, his special bar will fill and he will take 20% less damage.
 
-    • Telos will fire off Magic Onslaught hits until his bar is empty. He cannot be moved during this, so if he is standing in the beam, players must block the beam to negate the bar filling. Devotion  |devo|  and Deflect Mage  |DeflectMage|  the orange/red attacks if his bar was relatively full before the attack started. Other damage reducing abilities (debilitate  |debil|  and reflect  |reflect| ) will also reduce the damage taken.
+- On P2 a black beam spawns on Telos and stays for 33 ticks. While players stand in the beam, they take and deal 30% reduced damage. While Telos stands in the beam, his special bar will fill and he will take 20% less damage.
 
-    • The virus damage is negligible at low enrages, but it can really cut into your food if not dealt with quickly at higher enrages so you should aim to clear this as quickly as possible.
+- Telos will fire off Magic Onslaught hits until his bar is empty. He cannot be moved during this, so if he is standing in the beam, players must block the beam to negate the bar filling. Devotion  |devo|  and Deflect Mage  |DeflectMage|  the orange/red attacks if his bar was relatively full before the attack started. Other damage reducing abilities (debilitate  |debil|  and reflect  |reflect| ) will also reduce the damage taken.
 
-    • Deal with the other mechanics the same as you would on P1 and dps until phase hp. Ideally you phase before the virus even comes out, but this is heavily influenced by your P1 rotation. It's important not to end the phase with Tendrils as the previous spec unless you are confident dealing with hold still as the first spec on P3.
+- The virus damage is negligible at low enrages, but it can really cut into your food if not dealt with quickly at higher enrages so you should aim to clear this as quickly as possible.
 
-
-
-
-
-- **Rotations (250%-999%)**
+- Deal with the other mechanics the same as you would on P1 and dps until phase hp. Ideally you phase before the virus even comes out, but this is heavily influenced by your P1 rotation. It's important not to end the phase with Tendrils as the previous spec unless you are confident dealing with hold still as the first spec on P3.
 
 
 
-	**Coming soon**
 
-	[Old Rotations: <https://i.imgur.com/tmZu6W6.png>]
+
+
+- :bold-underline:`Rotations (250%-999%)`
+
+
+
+
+
+**Coming soon**
+
+[Old Rotations: <https://i.imgur.com/tmZu6W6.png>]
+
 
 
 
 
 
 Phase 3
-^^^^^^^
+-------
 
 
 
-- **Mechanics**
+
+
+
+- :bold-underline:`Mechanics`
+
+
 
 
 
@@ -471,21 +549,25 @@ Assuming phase after virus and before uppercut.
 
 
 
-    • On P3, a red beam will spawn at a random location, lasting for 33 ticks. While players are standing in the beam, they will take and deal 30% increased damage. While Telos is in the beam, he will deal 30% increased damage.
 
-    • Telos’s special bar is replaced by a balancing bar. When the bar is in the red on the left, Telos will siphon player’s prayer and adrenaline. When the bar is in the red on the right, Telos will send out a shockwave dealing typeless damage. Telos’ bar charges to the right when he is standing in the beam or golems are alive. Telos' bar naturally moves to the left otherwise.
+- On P3, a red beam will spawn at a random location, lasting for 33 ticks. While players are standing in the beam, they will take and deal 30% increased damage. While Telos is in the beam, he will deal 30% increased damage.
 
-    • When the balance is in the red on the right, Telos will emit one shockwave along with Uppercut and Hold Still. Depending on how far the bar is to the right, Telos will emit up to three shockwaves with the virus. The shockwave can easily nuke players at higher enrages. Reflect, debilitate, or even barricade can be used to survive being nuked. On the other end, at 3500%+ enrage, player’s will be smited if Telos is not allowed to step into the beam for a tick.
+- Telos’s special bar is replaced by a balancing bar. When the bar is in the red on the left, Telos will siphon player’s prayer and adrenaline. When the bar is in the red on the right, Telos will send out a shockwave dealing typeless damage. Telos’ bar charges to the right when he is standing in the beam or golems are alive. Telos' bar naturally moves to the left otherwise.
 
-    • When starting out, players can escape into the corner to ensure Telos does not have a beam spawn on him. Once comfortable, it is better to not move from drop down to get into the beam as fast as possible. Once the beam spawns, bladed dive into it to decrease the likelihood Telos walk over you into the beam. 
+- When the balance is in the red on the right, Telos will emit one shockwave along with Uppercut and Hold Still. Depending on how far the bar is to the right, Telos will emit up to three shockwaves with the virus. The shockwave can easily nuke players at higher enrages. Reflect, debilitate, or even barricade can be used to survive being nuked. On the other end, at 3500%+ enrage, player’s will be smited if Telos is not allowed to step into the beam for a tick.
 
-    • The worst case scenario is ending P2 on tendrils because the first spec on P3 will be hold still, so onslaught cannot be fully used to dump dps and the phase can take longer than needed. If this happens, it is often better to just dump thresholds in the beam dealing with mechanics as they come and killing golems if needed. You can also use Limitless  |limitless|  if necessary.
+- When starting out, players can escape into the corner to ensure Telos does not have a beam spawn on him. Once comfortable, it is better to not move from drop down to get into the beam as fast as possible. Once the beam spawns, bladed dive into it to decrease the likelihood Telos walk over you into the beam. 
 
-
-
+- The worst case scenario is ending P2 on tendrils because the first spec on P3 will be hold still, so onslaught cannot be fully used to dump dps and the phase can take longer than needed. If this happens, it is often better to just dump thresholds in the beam dealing with mechanics as they come and killing golems if needed. You can also use Limitless  |limitless|  if necessary.
 
 
-- **Rotations (250%-999%)**
+
+
+
+
+- :bold-underline:`Rotations (250%-999%)`
+
+
 
 
 
@@ -497,12 +579,18 @@ Assuming phase after virus and before uppercut.
 
 
 
+
 Phase 4
-^^^^^^^
+-------
 
 
 
-- **Mechanics**
+
+
+
+- :bold-underline:`Mechanics`
+
+
 
 
 
@@ -518,39 +606,45 @@ Assuming last spec on P3 was Uppercut.
 
 
 
-    • The one new special is the weak anima bomb which can be dealt with using debilitate on Telos or resonance if phasing into a font before hold still.
 
-    • No beams spawn on P4; however, there are three fonts which must be filled and used to negate the instakill attack. The pure font (next to where you drop down) becomes active when Telos is at ¾ hp, volcanic at ½ hp, and corrupt at ¼ hp, moving clockwise around the arena. 
+- The one new special is the weak anima bomb which can be dealt with using debilitate on Telos or resonance if phasing into a font before hold still.
 
-    • Telos’s number of auto attacks between specs carries over from font to font, so if Telos was one auto attack from firing off a weak anima bomb before the font became active, there will only be one attack before the weak anima bomb after the instakill. There is a slight caveat with phasing on hold still that will be discussed later.
+- No beams spawn on P4; however, there are three fonts which must be filled and used to negate the instakill attack. The pure font (next to where you drop down) becomes active when Telos is at ¾ hp, volcanic at ½ hp, and corrupt at ¼ hp, moving clockwise around the arena. 
 
-    • When these fonts become active, Telos is immune to damage and one of each type of golem spawns. Pure golems (green) deal increased damage the longer they are alive. Volcanic golems (red) will occasionally stun and bind players for five ticks. Corrupt golems (black) reduce player’s defensive rating by 1% for each stack up to 100 stacks.
+- Telos’s number of auto attacks between specs carries over from font to font, so if Telos was one auto attack from firing off a weak anima bomb before the font became active, there will only be one attack before the weak anima bomb after the instakill. There is a slight caveat with phasing on hold still that will be discussed later.
 
-    • Players must stand in each font to charge it. Players will take five hits of typeless damage which can be reduced with reflect except for the last hit which can only be negated with barricade.
+- When these fonts become active, Telos is immune to damage and one of each type of golem spawns. Pure golems (green) deal increased damage the longer they are alive. Volcanic golems (red) will occasionally stun and bind players for five ticks. Corrupt golems (black) reduce player’s defensive rating by 1% for each stack up to 100 stacks.
 
-    • After using the font to negate the instakill, player’s defensives will be reset and put on a 10 tick cooldown.
+- Players must stand in each font to charge it. Players will take five hits of typeless damage which can be reduced with reflect except for the last hit which can only be negated with barricade.
 
-    • The priority is to always kill the red golem as quickly as possible to avoid stuns.
+- After using the font to negate the instakill, player’s defensives will be reset and put on a 10 tick cooldown.
 
-    • Barring taking an eternity to get into the first and third fonts, most players will receive a So Much Power in place of the next spec after the second font.
+- The priority is to always kill the red golem as quickly as possible to avoid stuns.
 
-
-
-    • The best way to deal with SMP is to just resonance  |res|  or disruption shield  |disrupt|  the hit as this completely negates the hit while preserving adrenaline. SMP behaves much like Hold Still in the sense that an auto attack comes before the actual big damage. Be sure to resonance the SMP not the auto attack. 
-
-    • When trying to resonance SMP with golems still alive, Surge  |surge|  away so their hits don't snipe Resonance, or Devotion  |devo| , Deflect Melee  |DeflectMelee|  and Resonance  |res|  the SMP.
-
-    • At lower enrages a spirit shield can be used to reduce the hit from SMP to a survivable number.
-
-    • If phasing into the font with one or zero autos before the next spec, Telos will have to be stun-locked to allow for defensives to come off cooldown to deal with SMP. 
-
-    • Continue to dps and deal with mechanics until Telos’s hp hits 0. If <100% enrage, congratulations on loot.
+- Barring taking an eternity to get into the first and third fonts, most players will receive a So Much Power in place of the next spec after the second font.
 
 
 
 
 
-- **Rotations (250%-999%)**
+- The best way to deal with SMP is to just resonance  |res|  or disruption shield  |disrupt|  the hit as this completely negates the hit while preserving adrenaline. SMP behaves much like Hold Still in the sense that an auto attack comes before the actual big damage. Be sure to resonance the SMP not the auto attack. 
+
+- When trying to resonance SMP with golems still alive, Surge  |surge|  away so their hits don't snipe Resonance, or Devotion  |devo| , Deflect Melee  |DeflectMelee|  and Resonance  |res|  the SMP.
+
+- At lower enrages a spirit shield can be used to reduce the hit from SMP to a survivable number.
+
+- If phasing into the font with one or zero autos before the next spec, Telos will have to be stun-locked to allow for defensives to come off cooldown to deal with SMP. 
+
+- Continue to dps and deal with mechanics until Telos’s hp hits 0. If <100% enrage, congratulations on loot.
+
+
+
+
+
+
+- :bold-underline:`Rotations (250%-999%)`
+
+
 
 
 
@@ -564,78 +658,89 @@ If executed properly you won't get any specs this phase - if you do, use disrupt
 
 
 
-    • **On Drop down**
 
-    Slightly dependent on how much adren you have left over from P3. This is the best time to use your adren pot unless already high adren.
+- :bold-underline:`On Drop down`
 
-        - **Assuming 0% start:**
+Slightly dependent on how much adren you have left over from P3. This is the best time to use your adren pot unless already high adren.
 
-             |bloodblitz|  +  |comb|  →  |corruptblast|  →  |bloodblitz|   |asphyx|  (3-hit) >  |wrack|  →  |bloodblitz|   |impact|  →  |deep|  →  |bloodblitz|   |wrack|  
+    - **Assuming 0% start:**
 
-        Can replace  |deep|  with  |dbreath|  if Telos' hp is low. Important thing is to go into the first font with 50%+ adrenaline ideally
+         |bloodblitz|  +  |comb|  →  |corruptblast|  →  |bloodblitz|   |asphyx|  (3-hit) >  |wrack|  →  |bloodblitz|   |impact|  →  |deep|  →  |bloodblitz|   |wrack|  
 
-
-
-
-
-        - **If Telos' freedom is up:**
-
-             |vulnbomb|   |comb|  →  |icebarrage|   |corruptblast|  →  |dbreath|  →  |asphyx|  (3-hit) →  |wrack| 
+    Can replace  |deep|  with  |dbreath|  if Telos' hp is low. Important thing is to go into the first font with 50%+ adrenaline ideally
 
 
 
 
 
-    • **First font**
 
-    When Telos reaches phase hp he'll activate the font and walk over to it. This will cause you to lose your target so (unless you tag a minion) you can use defensive thresholds for free.
+- **If Telos' freedom is up:**
 
-
-
-    Go straight into font, vuln  |vulnbomb|  if possible or wait till after  |revenge| / |reflect| . 
-
-         |res|  (if you still have a target) →  |reflect|  →  |revenge|  → (Tag minion) →  |anti|  →  |prep|  → 4t AoE minions until the font fully charges →  |icebarrage|  and step away from golems → target Telos  |deto|  →  |icebarrage|   |deto|   |wm|  →  |asphyx|  (3-hit) →  |wrack|  if close to phase hp, or continue stunlocking.
-
-         |vulnbomb|   |gstaff|  before going into 2nd font
+     |vulnbomb|   |comb|  →  |icebarrage|   |corruptblast|  →  |dbreath|  →  |asphyx|  (3-hit) →  |wrack| 
 
 
 
 
 
-    • **Second font**
 
-    Can optionally stall for reflect  |reflect|  here (safer and allows you to deto  |deto|  out of the font) or just run straight in, using resonance  |res|  on one of the font hits.
+- :bold-underline:`First font`
 
-    AoE minions again, freezing and stepping away as the font finishes charging. Depending on how many autos you have till SMP, can opt to stall an abil instead of using ice barrage  |icebarrage|  instantly - you'll sometimes get an auto if you do this however.
+When Telos reaches phase hp he'll activate the font and walk over to it. This will cause you to lose your target so (unless you tag a minion) you can use defensive thresholds for free.
 
-        - ** If you stalled for reflect:**
 
-             |icebarrage|   |deto|   |wm|  →  |impact|   |surge|  →  |asphyx|  (3-hit) →  |deep|  →  |bloodbarrage|   |wrack| 
 
-        - **Otherwise:**
+Go straight into font, vuln  |vulnbomb|  if possible or wait till after  |revenge| / |reflect| . 
 
-            (stalled)  |wm|   |corruptblast|  →  |bloodbarrage|   |asphyx|   (3-hit) →  |deep|  →  |bloodbarrage|   |gstaff|  /  |wrack| 
+     |res|  (if you still have a target) →  |reflect|  →  |revenge|  → (Tag minion) →  |anti|  →  |prep|  → 4t AoE minions until the font fully charges →  |icebarrage|  and step away from golems → target Telos  |deto|  →  |icebarrage|   |deto|   |wm|  →  |asphyx|  (3-hit) →  |wrack|  if close to phase hp, or continue stunlocking.
 
+     |vulnbomb|   |gstaff|  before going into 2nd font
 
 
 
 
-    • **Third font**
 
-    Same as first font. Try to go straight into the font without getting a target from the minions →  |reflect|  →  |revenge|  →  |anti|  and 4t AoE minions.
 
-    You want to aim to have high adren going into p5 but  |icebarrage|   |deto|   |wm|  →  |asphyx|  (3-hit) →  |wrack|  should be sufficient to phase.
+- :bold-underline:`Second font`
+
+Can optionally stall for reflect  |reflect|  here (safer and allows you to deto  |deto|  out of the font) or just run straight in, using resonance  |res|  on one of the font hits.
+
+AoE minions again, freezing and stepping away as the font finishes charging. Depending on how many autos you have till SMP, can opt to stall an abil instead of using ice barrage  |icebarrage|  instantly - you'll sometimes get an auto if you do this however.
+
+    - ** If you stalled for reflect:**
+
+         |icebarrage|   |deto|   |wm|  →  |impact|   |surge|  →  |asphyx|  (3-hit) →  |deep|  →  |bloodbarrage|   |wrack| 
+
+    - **Otherwise:**
+
+        (stalled)  |wm|   |corruptblast|  →  |bloodbarrage|   |asphyx|   (3-hit) →  |deep|  →  |bloodbarrage|   |gstaff|  /  |wrack| 
+
+
+
+
+
+
+- :bold-underline:`Third font`
+
+Same as first font. Try to go straight into the font without getting a target from the minions →  |reflect|  →  |revenge|  →  |anti|  and 4t AoE minions.
+
+You want to aim to have high adren going into p5 but  |icebarrage|   |deto|   |wm|  →  |asphyx|  (3-hit) →  |wrack|  should be sufficient to phase.
+
 
 
 
 
 
 Phase 5
-^^^^^^^
+-------
 
 
 
-- **Mechanics**
+
+
+
+- :bold-underline:`Mechanics`
+
+
 
 
 
@@ -649,55 +754,63 @@ Golem Spawn → 10 Autos → Virus → 17 Autos → Instant-Kill Bomb → 2 Auto
 
 
 
-    • At the start Telos will spawn a particular set of six golems (pure, corrupt, or volcanic).
 
-    • On P5 <1000% enrage, a single rock will fall at certain times during the phase. 1000%+ enrage up to five rocks will fall. 
+- At the start Telos will spawn a particular set of six golems (pure, corrupt, or volcanic).
 
-    • All three colored beams will spawn on Telos having the same effects from earlier phases.
+- On P5 <1000% enrage, a single rock will fall at certain times during the phase. 1000%+ enrage up to five rocks will fall. 
 
-    • Fonting is the process of killing the golems at their corresponding font to be used during the insta-kill bomb.
+- All three colored beams will spawn on Telos having the same effects from earlier phases.
 
-    • <1000% enrage just wipe the golems out because immortality can still be used to negate the insta-kill Bomb.
+- Fonting is the process of killing the golems at their corresponding font to be used during the insta-kill bomb.
 
-    • A simple Tsunami  |tsunami|  inside sunshine is enough to wipe golems up to ~350% enrage with some basics to kill any stray golems.
+- <1000% enrage just wipe the golems out because immortality can still be used to negate the insta-kill Bomb.
 
-    • After ~350% a Deto  |deto|  + Tsunami  |tsunami|  will be needed to kill the golems.
+- A simple Tsunami  |tsunami|  inside sunshine is enough to wipe golems up to ~350% enrage with some basics to kill any stray golems.
 
-    • After 1000% golems will have to be fonted if not comfortable zero-fonting. Whittle down the golems with AoEs before clearing the virus and killing them at the font.
+- After ~350% a Deto  |deto|  + Tsunami  |tsunami|  will be needed to kill the golems.
 
-    • The virus will be a random color. Surge  |surge| /bladed dive  |bd|  to the beam to cleanse the virus and back to sunshine/green beam as fast as possible.
+- After 1000% golems will have to be fonted if not comfortable zero-fonting. Whittle down the golems with AoEs before clearing the virus and killing them at the font.
 
-    • If not fonting wait for the next rock to fall, onslaught until either telos dies or the next rock falls.
+- The virus will be a random color. Surge  |surge| /bladed dive  |bd|  to the beam to cleanse the virus and back to sunshine/green beam as fast as possible.
 
-    • <1000% immortality to negate the Insta-Kill Bomb
+- If not fonting wait for the next rock to fall, onslaught until either telos dies or the next rock falls.
 
-    • 1000%+ activate the font and get back onto Telos.
+- <1000% immortality to negate the Insta-Kill Bomb
 
-    • Continue to dps Telos until he dies. Finally, congratulations on loot.
+- 1000%+ activate the font and get back onto Telos.
 
-
-
-
-
-- **Tips and Tricks**
+- Continue to dps Telos until he dies. Finally, congratulations on loot.
 
 
 
-    • To properly tag P5 on the first tick, watch the pure font on the left side, when it does this animation <https://i.imgur.com/H3CceEu.gif>, press target cycle. If using  |vulnbomb|  you must throw it one tick after target cycling. 
 
-    • Telos auto-attacks can hit surprisingly hard, so make sure you use Deflect Magic  |DeflectMage|  at the start of the phase. Use Deflect Melee  |DeflectMelee|  whenever Telos is stunlocked, while minions are alive. Ideally, you should prayer flick between Melee and Magic.
 
-    • Always have a dreadnip deployed. They have a chance of stunning Telos and consequently triggering his freedom timer - especially helpful during P5 start and your onslaught.
 
-    • Telos' freedom is triggered on a set timer, starting from the beginning of P5, as long as you stun or bind him at any point between his freedoms. This means that with a 20-second freedom (on 250-999%), and Asphyxiate having a cooldown of 20 seconds, your Asphyxiate + Deep Impact combo will always stunlock Telos if used properly. Take advantage of this!
+- :bold-underline:`Tips and Tricks`
 
-    • In the event that you get an instant kill, use  |immort|  and  |Sunshine|  and  |vulnbomb| . Rotate defensives such as  |reflect| / |debil| / |devo| / |cade|  while finishing telos. Using  |revenge|  is recommended. Use  |anti|  and  |freedom|  if volcanics. The general idea behind this is to maximize damage output on Telos while having defensives up to tank minions.    
 
-    • Minion luring is important - for side beams, simply standing 1 out of MD will generally lure the golems properly. For back beams, you want to stand 1 out of MD, then move 2 squares back to lure the golems. 
+
+
+
+    - To properly tag P5 on the first tick, watch the pure font on the left side, when it does this animation <https://i.imgur.com/H3CceEu.gif>, press target cycle. If using  |vulnbomb|  you must throw it one tick after target cycling. 
+
+    - Telos auto-attacks can hit surprisingly hard, so make sure you use Deflect Magic  |DeflectMage|  at the start of the phase. Use Deflect Melee  |DeflectMelee|  whenever Telos is stunlocked, while minions are alive. Ideally, you should prayer flick between Melee and Magic.
+
+    - Always have a dreadnip deployed. They have a chance of stunning Telos and consequently triggering his freedom timer - especially helpful during P5 start and your onslaught.
+
+    - Telos' freedom is triggered on a set timer, starting from the beginning of P5, as long as you stun or bind him at any point between his freedoms. This means that with a 20-second freedom (on 250-999%), and Asphyxiate having a cooldown of 20 seconds, your Asphyxiate + Deep Impact combo will always stunlock Telos if used properly. Take advantage of this!
+
+    - In the event that you get an instant kill, use  |immort|  and  |Sunshine|  and  |vulnbomb| . Rotate defensives such as  |reflect| / |debil| / |devo| / |cade|  while finishing telos. Using  |revenge|  is recommended. Use  |anti|  and  |freedom|  if volcanics. The general idea behind this is to maximize damage output on Telos while having defensives up to tank minions.    
+
+    - Minion luring is important - for side beams, simply standing 1 out of MD will generally lure the golems properly. For back beams, you want to stand 1 out of MD, then move 2 squares back to lure the golems. 
 
 Here is an image detailing the lure: 
 
-.. image:: https://i.imgur.com/898Dtkv.png
+
+
+|https://i.imgur.com/898Dtkv.png|
+
+
 
 
 
@@ -707,33 +820,40 @@ Here is an image detailing the lure:
 
 
 
-    • **100-149%**:  |corruptblast|  and  |dbreath|  under Sunshine will kill all of the minions. Telos cannot use Freedom at this enrage - with stuns and a Sunshine rotation, you should be able to kill him before virus.
-
-    • **150-249%**:  |tsunami|  under Sunshine will kill all of the minions. Telos will start using Freedom every 30 seconds, however there is no immunity period after using it. You can either tank the virus with Revenge/Reprisal or clear it. This is easily 0 fontable.
 
 
+- **100-149%**:  |corruptblast|  and  |dbreath|  under Sunshine will kill all of the minions. Telos cannot use Freedom at this enrage - with stuns and a Sunshine rotation, you should be able to kill him before virus.
 
-    • **250-349%**:  |tsunami|  under Sunshine will generally kill all of the minions, but you may need to start using  |corruptblast|  and  |dbreath|  to clear out remainders. Telos will start using Freedom every 20 seconds, with a 6 second immunity period, and will remain that way all the way to 999%. You should start to learn to clear the virus efficiently - use Debilitate on the virus for safety.
-
-    • **350-999%**:  |deto|   |tsunami|  under Sunshine will kill all or most of the minions. Using a Kalphite Rebounder  |kalphiterebounder|  and Revenge  |revenge|  may be useful for dealing with the minions, especially if you have Ruthless on your defender. At this point, you can Debilitate  |debil|  the virus if it comes out, or Barricade  |cade|  if low on food, though neither is strictly necessary. DPS and stunning becomes increasingly important in order to get a 0 font.
+- **150-249%**:  |tsunami|  under Sunshine will kill all of the minions. Telos will start using Freedom every 30 seconds, however there is no immunity period after using it. You can either tank the virus with Revenge/Reprisal or clear it. This is easily 0 fontable.
 
 
 
 
 
-- **Rotations (250%-999%)**
+- **250-349%**:  |tsunami|  under Sunshine will generally kill all of the minions, but you may need to start using  |corruptblast|  and  |dbreath|  to clear out remainders. Telos will start using Freedom every 20 seconds, with a 6 second immunity period, and will remain that way all the way to 999%. You should start to learn to clear the virus efficiently - use Debilitate on the virus for safety.
+
+- **350-999%**:  |deto|   |tsunami|  under Sunshine will kill all or most of the minions. Using a Kalphite Rebounder  |kalphiterebounder|  and Revenge  |revenge|  may be useful for dealing with the minions, especially if you have Ruthless on your defender. At this point, you can Debilitate  |debil|  the virus if it comes out, or Barricade  |cade|  if low on food, though neither is strictly necessary. DPS and stunning becomes increasingly important in order to get a 0 font.
+
+
+
+
+
+
+- :bold-underline:`Rotations (250%-999%)`
+
+
 
 
 
 **Note: Autos are intentionally omitted for the sake of stunlocking**
 
-    • **Start**
+    - :bold-underline:`Start`
 
          |DeflectMage|   |vulnbomb|   |dbreath|  → Run to Left Beam →  |bloodbarrage|    |corruptblast|  
 
 
 
-    • **Left Beam**
+    - :bold-underline:`Left Beam`
 
          |Sunshine|  → ( |anti|  if volcanic) →  |bloodbarrage|    |asphyx|  (3 hit) →  |deep|  >  |bloodbarrage|    |gstaff|  →  |wm|  >  |reflect|  → minions  |deto|  >  |tsunami|  > ( |freedom|  if volcanic) >  |corruptblast|  >  |dbreath|  → Telos  |asphyx|  →  |deep|  →  |cade|  → clear virus after beam change →  |omni|  /  |gstaff|  in green beam →  |onsl|  after rockfall → stuns/threshes/gstaff to finish
 
@@ -741,22 +861,25 @@ Here is an image detailing the lure:
 
 
 
-    • **Right Beam**
 
-         |surge|  after Corrupt (Off GCD) →  |Sunshine|  → ( |anti|  if volcanic) →  |bloodbarrage|    |limitless|   |asphyx|  →  |deep|  →  |bloodbarrage|    |gstaff|  →  |wm|  →  |reflect|  → same strategy as left beam
+- :bold-underline:`Right Beam`
+
+     |surge|  after Corrupt (Off GCD) →  |Sunshine|  → ( |anti|  if volcanic) →  |bloodbarrage|    |limitless|   |asphyx|  →  |deep|  →  |bloodbarrage|    |gstaff|  →  |wm|  →  |reflect|  → same strategy as left beam
 
 
 
-    • **Back Beam**
+- :bold-underline:`Back Beam`
 
-        Wait a tick after GCD  |deep|  →  |bloodbarrage|    |impact|  →  |Sunshine|  → ( |anti|  if volcanic) →  |bloodbarrage|    |asphyx|  →  |wm|  →  |reflect|  > same strategy as left beam
+    Wait a tick after GCD  |deep|  →  |bloodbarrage|    |impact|  →  |Sunshine|  → ( |anti|  if volcanic) →  |bloodbarrage|    |asphyx|  →  |wm|  →  |reflect|  > same strategy as left beam
+
 
 
 
 
 
 Using Luck of the Dwarves at Telos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
+
 
 Telos' chest interacts very curiously to Luck of the Dwarves. You can do a 0-999 streak and then put on your Luck of the Dwarves before you claim, what happens next is that every roll that you previously did during the streak will be refactored with LotD's 1% increase alongside slightly increasing the number of common drops that you can get but most importantly you can reroll a common drop to an unique if you're lucky enough. The most accepted estimate chance for this to happen is around 1/1000. 
 
@@ -764,6 +887,45 @@ Telos' chest interacts very curiously to Luck of the Dwarves. You can do a 0-999
 
 Video Example: https://www.youtube.com/watch?v=LP7T692zU2o
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- **Phase 3**
+
+    - **Mechanics** - $linkmsg_p3mechanics$
+
+	- **Rotations** - $linkmsg_p3rotations$
+
+- **Phase 4**
+
+    - **Mechanics** - $linkmsg_p4mechanics$
+
+	- **Rotations** - $linkmsg_p4rotations$
+
+- **Phase 5**
+
+    - **Mechanics** - $linkmsg_p5mechanics$
+
+    - **Tips and Tricks** - $linkmsg_p5tips$
+
+	- **Enrage** - $linkmsg_p5enrage$
+
+	- **Rotations** - $linkmsg_p5rotations$
+
+- **Luck of the Dwarves** - $linkmsg_lotd$
 
 
 

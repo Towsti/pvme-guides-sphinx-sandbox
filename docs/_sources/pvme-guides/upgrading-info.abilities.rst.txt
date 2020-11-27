@@ -1,11 +1,4 @@
-abilities
-=========
-
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ds| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
+.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -13,11 +6,7 @@ abilities
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |coins| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+.. |ds| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -25,31 +14,11 @@ abilities
     :width: 1.375em
     :height: 1.375em
 
-.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+.. |escapecodex| image:: https://cdn.discordapp.com/emojis/602561894443778115.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |stw| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |onsl| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Shard| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
+.. |coins| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -57,35 +26,7 @@ abilities
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |undeadslayer| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dragonslayer| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |demonslayer| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |surgecodex| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |escapecodex| image:: https://cdn.discordapp.com/emojis/602561894443778115.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+.. |Shard| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -93,7 +34,7 @@ abilities
     :width: 1.375em
     :height: 1.375em
 
-.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -101,8 +42,71 @@ abilities
     :width: 1.375em
     :height: 1.375em
 
+.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |demonslayer| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surgecodex| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |undeadslayer| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. |onsl| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dragonslayer| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |stw| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+abilities
+=========
+
 Abilities
-^^^^^^^^^
+---------
+
 
 
 
@@ -112,17 +116,19 @@ Abilities
 
 - These are ultimates with a 7x7 range with the following effects for their corresponding styles:
 
-       • Increase your damage by 50%
+       - Increase your damage by 50%
 
-       • a DoT of 10%-20% that hits every 2 seconds when your primary target of casting is inside the ultimate's range
+       - a DoT of 10%-20% that hits every 2 seconds when your primary target of casting is inside the ultimate's range
 
-       • Lasts 30 seconds
+       - Lasts 30 seconds
 
 - Almost always used in a conjuction with a planted feet switch. This makes them last 37 seconds as opposed to 30 seconds, and it removes their DoT effect
 
-- Priority: `High`
+- Priority: ``High``
 
-_ _
+
+
+
 
 
 
@@ -134,9 +140,11 @@ _ _
 
 - Each bleed hit is weaker than the last, it is also AoE, it can chain to other mobs without giving you aggro
 
-- Priority: `High`
+- Priority: ``High``
 
-_ _
+
+
+
 
 
 
@@ -150,9 +158,11 @@ _ _
 
 - Also is an AoE ability when used off GCD, goes from 3x3 to 5x5 when stacked with scythe and laceration boots
 
-- Priority: `High`
+- Priority: ``High``
 
-_ _
+
+
+
 
 
 
@@ -170,9 +180,9 @@ _ _
 
 - Stacks last 9 seconds and hit 4 times, dealing 5.8-7.2% abil damage per stack over its duration.
 
-      • Note: Salt the Wound and MDS both reset the stack duration (9 seconds) even if they splash, only MDS will increase puncture count though
+      - Note: Salt the Wound and MDS both reset the stack duration (9 seconds) even if they splash, only MDS will increase puncture count though
 
-      • Note: Puncture bleed does not count for AS building; SS; Araxxor reflect (mirrorbacks do though); personal damage multipliers like scrims; combat exp; personal damage on gems and Nex's blood phase 
+      - Note: Puncture bleed does not count for AS building; SS; Araxxor reflect (mirrorbacks do though); personal damage multipliers like scrims; combat exp; personal damage on gems and Nex's blood phase 
 
 - Salt the Wound
 
@@ -182,9 +192,11 @@ _ _
 
 
 
-- Priority: `Medium`
+- Priority: ``Medium``
 
-_ _
+
+
+
 
 
 
@@ -198,9 +210,11 @@ _ _
 
 - Effect extends by 5 seconds per target killed whilst active, capping at 20 seconds
 
-- Priority: `High`
+- Priority: ``High``
 
-_ _
+
+
+
 
 
 
@@ -210,11 +224,13 @@ _ _
 
 - a 20-100% abil damage basic
 
-      • Heals 25% of damage done, 100% if it killed target
+      - Heals 25% of damage done, 100% if it killed target
 
-- Priority: `Low`
+- Priority: ``Low``
 
-_ _
+
+
+
 
 
 
@@ -224,15 +240,17 @@ _ _
 
 - When on slayer task, you deal 100 x Slayer level to target assuming it is the monster you are assigned with a 15k damage cap. This gives it a 120 second CD.
 
-      • Note: This also translates to some bosses like Magister on a Soul Devourer task
+      - Note: This also translates to some bosses like Magister on a Soul Devourer task
 
 - Otherwise it deals 30-110% abil damage with a 15 second CD
 
 - Generally only used as a filler ability if you mess up your rotation, should not be a regular part of your rotation.
 
-- Priority: `Low generally, Higher if you are going to slay`
+- Priority: ``Low generally, Higher if you are going to slay``
 
-_ _
+
+
+
 
 
 
@@ -242,9 +260,11 @@ _ _
 
 - An ability that deals 50-150% damage at first, with each hit increasing by 11-33% per hit. At first it uses 25% adren per hit, afterwards it takes life points dealing 25% of the damage you dealt as recoil. After 10 hits the damage against you starts increasing by 1k per hit (e.g. at 12 hits you will take +2k damage + the recoil)
 
-- Priority: `High if you can use it somewhere, Low otherwise`
+- Priority: ``High if you can use it somewhere, Low otherwise``
 
-_ _
+
+
+
 
 
 
@@ -258,7 +278,7 @@ _ _
 
 - Deals 75-95% abil damage (average 85%) as a Storm Shard stack instead of direct damage, for a cap of 10
 
-    • Note: Shards themselves are unaffected by things such as Berserk, Sunshine etc.
+    - Note: Shards themselves are unaffected by things such as Berserk, Sunshine etc.
 
 - Generally used on timegated parts of bosses or if you need to do a lot of burst at once with shatter
 
@@ -268,13 +288,15 @@ _ _
 
 - Releases all the stored shards once at once dealing damage equivalent to the stored shards, for a cap of 30k damage
 
-    • This hit is affected by stuff like Berserk, Sunshine etc
+    - This hit is affected by stuff like Berserk, Sunshine etc
 
 
 
-- Priority: `High for something like Vorago, Low otherwise`
+- Priority: ``High for something like Vorago, Low otherwise``
 
-_ _
+
+
+
 
 
 
@@ -284,13 +306,15 @@ _ _
 
 - An ability that allows the usage of thresholds under 50% adrenaline for 6 seconds
 
-      • Note: Only activates when below 60% adrenaline
+      - Note: Only activates when below 60% adrenaline
 
 - Generally used when your Adrenaline potion is on cooldown or if you need to squeeze in extra thresholds in a short timeframe
 
-- Priority: `High`
+- Priority: ``High``
 
-_ _
+
+
+
 
 
 
@@ -300,21 +324,23 @@ _ _
 
 - An ability that guarantees your next attack within 6 seconds hits.
 
-- Priority: `High`
-
-_ _
+- Priority: ``High``
 
 
 
- |undeadslayer|   |dragonslayer|   |demonslayer|  **X Slayers**
 
-- Unlocked using a X Slayer ability codex
 
-    •  |undeadslayer|  Undead Slayer  |coins|  $data_pvme:Unlocks!B3$
 
-    •  |dragonslayer|  Dragon Slayer  |coins|  $data_pvme:Unlocks!B5$
 
-    •  |demonslayer|  Demon Slayer  |coins|  $data_pvme:Unlocks!B4$
+ |undeadslayer|   |dragonslayer|   |demonslayer|  **:underline:`X` Slayers**
+
+- Unlocked using a :underline:`X` Slayer ability codex
+
+    -  |undeadslayer|  Undead Slayer  |coins|  $data_pvme:Unlocks!B3$
+
+    -  |dragonslayer|  Dragon Slayer  |coins|  $data_pvme:Unlocks!B5$
+
+    -  |demonslayer|  Demon Slayer  |coins|  $data_pvme:Unlocks!B4$
 
 - There is one for Dragons, Undead and Demons
 
@@ -322,9 +348,11 @@ _ _
 
 - Generally used when you are going to use strong abilities against said creature
 
-- Priority: `High if you can use it, Low otherwise`
+- Priority: ``High if you can use it, Low otherwise``
 
-_ _
+
+
+
 
 
 
@@ -334,15 +362,17 @@ _ _
 
 - Gives Surge 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
 
-    • Note: The cooldown is based on the first surge/escape
+    - Note: The cooldown is based on the first surge/escape
 
-    • Note: Can change the cooldown between charges at the Anachronia Lectern
+    - Note: Can change the cooldown between charges at the Anachronia Lectern
 
 - Generally just used for mobility, overall a QOL unlocked
 
-- Priority: `Medium`
+- Priority: ``Medium``
 
-_ _
+
+
+
 
 
 
@@ -352,15 +382,17 @@ _ _
 
 - Gives escape 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
 
-    • Note: The cooldown is based on the first surge/escape
+    - Note: The cooldown is based on the first surge/escape
 
-    • Note: Can change the cooldown between charges at the Anachronia Lectern     
+    - Note: Can change the cooldown between charges at the Anachronia Lectern     
 
 - Generally just used for mobility, overall a QOL unlocked
 
-- Priority: `Medium`
+- Priority: ``Medium``
 
-_ _
+
+
+
 
 
 
@@ -370,15 +402,17 @@ _ _
 
 - When activated it tracks all damage taken from all sources for up to 6 seconds (can release early by clicking it again) with a damage cap of 10k
 
-      • Note: It releases the damage on whatever you were targetting when you activated it
+      - Note: It releases the damage on whatever you were targetting when you activated it
 
 - Damage is boosted by Zerk auras + Vulnerabiltiy
 
 - Generally used when you are going to take a large amount of damage at once, like Vorago's TS attack
 
-- Priority: `High if you do something like Vorago, Low otherwise`
+- Priority: ``High if you do something like Vorago, Low otherwise``
 
-_ _
+
+
+
 
 
 
@@ -390,9 +424,11 @@ _ _
 
 - Generally used within Zerk combined with Apot or Limitless, as well as Zgs spec
 
-- Priority: `High`
+- Priority: ``High``
 
-_ _
+
+
+
 
 
 
@@ -402,15 +438,17 @@ _ _
 
 - When used against a single target it deals 94-157% damage per hit and reduces Berserk CD by 1.2s per successful hit up to a max of 4.8s reduction
 
-    • Note: When used as an AoE does the same damage as normal flurry, but still reduces Zerk CD
+    - Note: When used as an AoE does the same damage as normal flurry, but still reduces Zerk CD
 
-    • Note: When bled the first hit does its AoE version of damage, then normal single target damage for the remaining hits
+    - Note: When bled the first hit does its AoE version of damage, then normal single target damage for the remaining hits
 
 - Generally used by cancelling after 2 hits (cancelled on GCD) or 3 hits, depends on rotation
 
-- Priority: `Medium`
+- Priority: ``Medium``
 
-_ _
+
+
+
 
 
 
@@ -420,8 +458,39 @@ _ _
 
 - Turns fury into a non-channeled 157% ability, as well as giving it the ability to guarantee your next hit is a critical hit if fury had been a critical hit.
 
-       • Note: Can be worse than normal fury, but marginally assuming no grim. With grim it is usually better
+       - Note: Can be worse than normal fury, but marginally assuming no grim. With grim it is usually better
 
-- Priority: `Medium`
+- Priority: ``Medium``
+
+
+
+
+
+
+
+
+
+
+
+- **Limitless** - $linkmsg_limitless$
+
+- **Ingenuity of the Humans** - $linkmsg_ingen$
+
+- **:underline:`X` Slayer** - $linkmsg_slayer$
+
+- **Double Surge** - $linkmsg_dblsurge$
+
+- **Double Escape** - $linkmsg_dblescape$
+
+- **Reprisal** - $linkmsg_reprisal$
+
+- **Greater Barge** - $linkmsg_gbarge$
+
+- **Greater Flurry** - $linkmsg_gflurry$
+
+- **Greater Fury** - $linkmsg_gfury$
+
+
+
 
 

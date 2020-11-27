@@ -1,27 +1,4 @@
-telos-stun-guide
-================
-
-.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Imp| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+.. |Deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -29,19 +6,45 @@ telos-stun-guide
     :width: 1.375em
     :height: 1.375em
 
-.. |Wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Ice_Barrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**A soccermom's miniguide on how to stun Telos** (credit to <@214940450216214530> for info and <@435481585379180554> for formatting)
+.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Imp| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+telos-stun-guide
+================
+
+:bold-underline:`A soccermom's miniguide on how to stun Telos` (credit to <@214940450216214530> for info and <@435481585379180554> for formatting)
 
 - Created by rsn "Ideal Gas", <https://twitter.com/ideal_gas_rs> , <https://www.twitch.tv/ideal_gas> 
 
@@ -71,6 +74,7 @@ telos-stun-guide
 
 
 
+
 **Telos' Freedom** 
 
 - Sub 1k, it has a cd of ~20s
@@ -95,7 +99,7 @@ telos-stun-guide
 
 
 
-**How to stun effectively (all phases)**:
+:bold-underline:`How to stun effectively (all phases)`:
 
 - Stun Telos the tick before he is about to auto for maximum stall
 
@@ -109,6 +113,8 @@ https://clips.twitch.tv/EnticingBumblingPeachCclamChamp
 
 
 
+
+
 Notice he does an auto after I impact but only 1, if I asphyxed instead of sonic he still would have done auto 
 
 
@@ -118,6 +124,8 @@ Notice he does an auto after I impact but only 1, if I asphyxed instead of sonic
 -  |Asphyx| , cancel after 3rd hit with  |Imp| ,  |Deep| 
 
 https://clips.twitch.tv/CrispyAcceptablePuppyRickroll
+
+
 
 
 
@@ -141,6 +149,8 @@ https://clips.twitch.tv/WonderfulRenownedSandwichYouWHY
 
 
 
+
+
 - For asphyxiate, if you get off the 4th hit, use another ability then don't 4tick, then stun again. You get that extra ability in without him doing another auto, same as 
 
 impact when he has freedom up
@@ -149,11 +159,13 @@ impact when he has freedom up
 
 
 
-**Common mistakes**:
+:bold-underline:`Common mistakes`:
 
 - Stun as soon as Telos autos 
 
 https://clips.twitch.tv/SmilingHardTubersCopyThis (shoutout to <@113186029862653952>)
+
+
 
 
 
@@ -167,7 +179,7 @@ If he didn't have freedom up, would've done auto 1 tick later so same speed, so 
 
 
 
-**P4**:
+:bold-underline:`P4`:
 
 - At fonts, can damage him with  |Imp|  (+ stacked Auto  |Deto| ) which will proc his freedom, and then (auto)  |Deep|   |Imp|   |Asphyx|  
 
@@ -177,11 +189,13 @@ https://clips.twitch.tv/StupidTangentialAlligatorGOWSkull
 
 
 
+
+
 - Break freedom with  |Ice_Barrage| / |Imp|  when he is charging, then  |Asphyx|  tick before he is about to attack,  |Wrack|   |Imp|  if you want to be safe afterwards, see below
 
 
 
-**P5**:
+:bold-underline:`P5`:
 
 - Always freedoms start, don't use stuns until he has no immunity
 
@@ -197,11 +211,15 @@ https://clips.twitch.tv/NastyDarlingPorcupineTBTacoRight
 
 
 
-**Some clip analysis**:
+
+
+:bold-underline:`Some clip analysis`:
 
 
 
 https://clips.twitch.tv/ExuberantDullSnailYouDontSay
+
+
 
 
 
@@ -217,9 +235,13 @@ https://clips.twitch.tv/GloriousOriginalPuddingPMSTwin
 
 
 
+
+
 - There are a lot of ways to deal with insta smp, and a few diff ways to stun, the one that's least rng is break his freedom while he is charging anima bomb then  |Asphyx|  as he is attackable. On maniacal it's usually fine to yolo stun as long as you didn't brew down
 
 https://clips.twitch.tv/ElatedRichAlfalfaResidentSleeper
+
+
 
 
 
@@ -229,10 +251,5 @@ https://clips.twitch.tv/SplendidGlutenFreeGarageANELE
 
 
 
-Most of this guide is common sense, but a lot of people seemed to be struggling, too tired of watching some of these streamers do some 4Head stun rotations so yeah hope it helped
-
-
-
-Thanks to Far East and Weepincheese for looking this over
 
 

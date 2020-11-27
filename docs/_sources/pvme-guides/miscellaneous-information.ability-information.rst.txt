@@ -1,7 +1,4 @@
-ability-information
-===================
-
-.. |Ranged| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |BloodTend| image:: https://cdn.discordapp.com/emojis/513190158431158274.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -9,15 +6,67 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
-.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+.. |comb| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |assault| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |chain| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/wxoyeMobO_o| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/wxoyeMobO_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/YydKrY05Kc8| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/YydKrY05Kc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/bd64iILPqJM| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/bd64iILPqJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/kPq4stX.png| image:: https://i.imgur.com/kPq4stX.png
+
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/sba5tN6.png| image:: https://i.imgur.com/sba5tN6.png
 
 .. |piercing| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bindingshot| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
+.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -25,11 +74,15 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
-.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+.. |fury| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -37,11 +90,51 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
-.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+.. |ricochet| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/3vIVqAYj4Xk| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/3vIVqAYj4Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |meteorstrike| image:: https://cdn.discordapp.com/emojis/535532879359377439.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/OxXEWwHODwQ| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/OxXEWwHODwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://youtu.be/k_IxIyoZFww| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/k_IxIyoZFww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |rapid| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -53,39 +146,7 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
-.. |stw| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Magic| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |comb| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Smoke_Tendrils| image:: https://cdn.discordapp.com/emojis/536257336130404372.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |omni| image:: https://cdn.discordapp.com/emojis/535533809664262179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -93,75 +154,15 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
-.. |chain| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+.. |Magic| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+.. |Ranged| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |melee| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |assault| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |meteorstrike| image:: https://cdn.discordapp.com/emojis/535532879359377439.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |fury| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |BloodTend| image:: https://cdn.discordapp.com/emojis/513190158431158274.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ricochet| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |bindingshot| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -169,15 +170,27 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |omni| image:: https://cdn.discordapp.com/emojis/535533809664262179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -185,8 +198,26 @@ ability-information
     :width: 1.375em
     :height: 1.375em
 
+.. |melee| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Smoke_Tendrils| image:: https://cdn.discordapp.com/emojis/536257336130404372.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |stw| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+ability-information
+===================
+
 Preventing Walked Onslaughts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
+
+
+
 
 
 
@@ -196,8 +227,12 @@ In order to prevent yourself from walking your onslaught, simply hit an auto key
 
 
 
-Slow hitting abilities (Courtesy of <@222668864704610305 and <@130322872089575424)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Slow hitting abilities (Courtesy of <@222668864704610305> and <@130322872089575424>)
+------------------------------------------------------------------------------------
+
+
+
 
 
 
@@ -249,8 +284,12 @@ Mage:
 
 
 
+
 3-tick Snipe
-^^^^^^^^^^^^
+------------
+
+
+
 
 
 
@@ -269,11 +308,15 @@ Mage:
 Demonstration: https://youtu.be/bd64iILPqJM
 
 
+|https://youtu.be/bd64iILPqJM|
 
 
 
 10 Second Needle Strike Buff
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
+
+
+
 
 
 
@@ -292,11 +335,13 @@ Demonstration: https://youtu.be/bd64iILPqJM
 Demonstration: https://youtu.be/k_IxIyoZFww
 
 
+|https://youtu.be/k_IxIyoZFww|
 
 
 
-Weapon override speeding up abilities (Courtesy of <@158293690001915904)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Weapon override speeding up abilities (Courtesy of <@158293690001915904>)
+-------------------------------------------------------------------------
+
 
 Certain weapon overrides for ranged can cause abilities that normally take 2 ticks to deal damage to only take 1 tick to deal damage depending on your distance from your target. These abilities include snapshot  |snap| , rapid fire  |rapid| , piercing shot  |piercing| , dazing shot  |dazing| , and ricochet  |ricochet|  slow abilities which are unaffected include: needle strike, binding shot, and tight bindings.
 
@@ -310,8 +355,10 @@ Certain weapon overrides for ranged can cause abilities that normally take 2 tic
 
 
 
-Flanking Perk Angle Determination <@!242039053841596418 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Flanking Perk Angle Determination <@!242039053841596418> 
+---------------------------------------------------------
+
 
 If your target is facing directly north, east, south or west, flanking works only from a 90° or greater angle.
 
@@ -321,14 +368,23 @@ In the below picture, black is your target, red is the direction your target is 
 
 
 
-.. image:: https://i.imgur.com/kPq4stX.png
 
 
 
 
 
-Freedom Autos (Courtesy of <@425520655920791553)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+|https://i.imgur.com/kPq4stX.png|
+
+
+
+
+
+
+
+Freedom Autos (Courtesy of <@425520655920791553>)
+-------------------------------------------------
+
 
 Freedom is unique in the respect that it can be used to force an offhand auto as well as a 2h auto within 3t. This has many uses like freedom vuln (using vuln instead of the offhand auto loses less damage than if you were to do it in place of a 2h auto), as well as accelerated adren gain because you get also adren from 2 autos.
 
@@ -340,7 +396,7 @@ Mage: It's usually easier to time, and also often beneficial to do it immediatel
 
 You do this as follows:
 
-```Tick 0: Activate abil with staff equipped
+``````Tick 0: Activate abil with staff equipped
 
 Tick 0-3: Equip dual wield
 
@@ -348,39 +404,47 @@ Tick 3: Click auto → freedom (you don't have to click the keybind for this aut
 
 Tick 4-6: Switch to staff
 
-Tick 6: Click auto → abil```
+Tick 6: Click auto → abil``````
+
+
 
 
 
 You can see a clip of this here: https://youtu.be/3vIVqAYj4Xk
 
+|https://youtu.be/3vIVqAYj4Xk|
+
 
 
 For other styles you'll need to do it after a dual wield ability (or delay your ability afterwards but this isn't worthwhile):
 
-```Tick 0: Activate abil with dual wield equipped
+``````Tick 0: Activate abil with dual wield equipped
 
 Tick 3: Activate freedom
 
 Tick 4: Equip 2h
 
-Tick 6: Activate abil```
+Tick 6: Activate abil``````
+
+
 
 
 
 You can see a clip of this here: https://youtu.be/YydKrY05Kc8
 
+|https://youtu.be/YydKrY05Kc8|
+
 
 
 It's worth noting that if you're maging and freedom after a dual wield ability, to avoid losing autos you have to do a dual wield ability immediately after as well. Consider:
 
-```any abil → dw abil → freedom (oh + 2h auto) → dw abil → auto + staff abil
+``````any abil → dw abil → freedom (oh + 2h auto) → dw abil → auto + staff abil
 
-staff abil → freedom (oh + 2h auto) → any abil → dw abil → auto + staff abil```
+staff abil → freedom (oh + 2h auto) → any abil → dw abil → auto + staff abil``````
 
 If you just did a staff ability afterwards:
 
-```staff abil → dw abil → freedom (oh + 2h auto) → any abil → dw abil```
+``````staff abil → dw abil → freedom (oh + 2h auto) → any abil → dw abil``````
 
 you'd clearly lose an auto.
 
@@ -392,8 +456,10 @@ You can also use freedom to cancel a channelled ability. In order to do this you
 
 
 
+
 Forcing an auto with defensives
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
+
 
 When using a defensive, an auto attack will be fired. When using  |Magic| , this auto attack can be changed from a normal auto into a utility spell, such as  |Vuln|  or  |ent| . This is done by pressing the keybind for  |Vuln|  or  |ent| , followed by the keybind for  |freedom| ,  |anti| ,  |res| , or  |prep| .
 
@@ -401,12 +467,18 @@ When using a defensive, an auto attack will be fired. When using  |Magic| , this
 
 
 
-Switching Weapons during Detonate (Courtesy of <@185315527571406848)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Switching Weapons during Detonate (Courtesy of <@185315527571406848>)
+---------------------------------------------------------------------
+
 
 During the detonate channel, it is possible to switch weapons without Detonate being released. It is also possible to channel shield dome inside detonate, provided detonate is pressed first. This will cost the auto on detonate release, but is situationally useful at Vorago. It is also worth noting that it's possible to Spellbook Swap in deto, allowing for a vuln release.
 
 https://youtu.be/OxXEWwHODwQ
+
+|https://youtu.be/OxXEWwHODwQ|
+
+
 
 
 
@@ -415,11 +487,16 @@ https://youtu.be/OxXEWwHODwQ
 
 
 Shield Dome Detonate
-^^^^^^^^^^^^^^^^^^^^
+--------------------
+
 
 In certain cases, most notably at Vorago, it is beneficial to be in shield dome while channelling detonate. This is done by channelling detonate, then channelling shield dome. This will result in a lost auto, but can be prevented by sipping a super restore or an overload salve to cancel the shield dome.
 
 https://youtu.be/wxoyeMobO_o
+
+|https://youtu.be/wxoyeMobO_o|
+
+
 
 
 
@@ -428,7 +505,8 @@ https://youtu.be/wxoyeMobO_o
 
 
 Dragon Battleaxe Spec
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
+
 
 The Dragon battleaxe has a unique spec that is often used in speed kills due to providing a noticeable damage increase at the cost of a large amount of adrenaline, therefore is quite useful when prepared before hand or in other niche situations.
 
@@ -444,14 +522,29 @@ It’s most common uses are setup before hand for a speed/record kills where you
 
 
 
+
 Bladed Dive Angle
-^^^^^^^^^^^^^^^^^
+-----------------
+
+
+
 
 
 
 After using Bladed Dive it will leave your character facing a consistent direction. It's important to be comfortable with this so you can Bladed Dive → Surge and move in a predictable manner. See this graphic courtesy of <@76883062381621248> for more information:
 
-.. image:: https://i.imgur.com/sba5tN6.png
+
+
+|https://i.imgur.com/sba5tN6.png|
+
+
+
+
+
+
+
+
+
 
 
 

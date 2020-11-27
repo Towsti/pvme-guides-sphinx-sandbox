@@ -1,7 +1,18 @@
-vorago-duo-hm
-=============
+.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/6zSiikv.png| image:: https://i.imgur.com/6zSiikv.png
+
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cept| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -9,15 +20,50 @@ vorago-duo-hm
     :width: 1.375em
     :height: 1.375em
 
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HealOther| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
 .. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Dustrune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |blackpouch| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sd| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -29,63 +75,25 @@ vorago-duo-hm
     :width: 1.375em
     :height: 1.375em
 
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/F6oslzi.png| image:: https://i.imgur.com/F6oslzi.png
 
 .. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |blackpouch| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dustrune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. role:: underline
+    :class: underline
 
 .. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sd| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/3WcG0FC.png| image:: https://i.imgur.com/3WcG0FC.png
 
-.. |Cept| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+vorago-duo-hm
+=============
 
-.. |HealOther| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |maul| image:: https://cdn.discordapp.com/emojis/736524968174682132.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-**Duo Hardmode Overview (Originally written by Seismicity, with edits made by <@!175995416955977728>)**
+:bold-underline:`Duo Hardmode Overview (Originally written by Seismicity, with edits made by <@!175995416955977728>)`
 
 Notes: This guide won't consist of specific ability rotations but rather ways to deal with each phase & mechanics in a fast and efficient manner.
 
@@ -114,9 +122,10 @@ Should have Blood Barrage set as your primary spell but having Blitz on bar as w
 
 
 Preset
-^^^^^^
+------
 
--  |augseissing|   **Seismic singularity** `Flanking 4`
+
+-  |augseissing|   **Seismic singularity** ``Flanking 4``
 
 -  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
 
@@ -126,19 +135,25 @@ Preset
 
 (Runes for  |bloodbarrage|   |borrowedpower|   |Vuln|   |disrupt|   |sd|   |Cept|   |HealOther| )
 
-.. image:: https://i.imgur.com/6zSiikv.png
+
+
+|https://i.imgur.com/6zSiikv.png|
 
 
 
-**Phase One**
 
 
 
-Role A
+
+:bold-underline:`Phase One`
+
+
+
+:underline:`Role A`
 
 The base tank of the phase. Stand on the TL spot to give the red to Role B. This allows you to disrupt earlier and save 5% adrenaline.  Stand directly south and bring Vorago south as he spawns. The timing for target cycle is when the timer hits 9.6 seconds (9 seconds if you weren't in TL spot.) Auto - Gstaff - Combust - Wild Magic. As he is about to melee you, start running east and use Corruption Blast. Run all the way into the southeast corner and asphyxiate. If done correctly, you will get a full asphyxiate off before the 2nd attack. Devotion if needed. Ingenuity hammer and bladed dive to the north to avoid the blue bomb that came with the red. At this time you can soul split and check the timer. At around :32 seconds, allow vorago to attack you once and surge west and get in the south voke spot. Turn on soulsplit and resonance + voke and as soon as Role B jumps, surge south and touch the wall. When Vorago turns around like at the end of the clip, start running back in and use meta as soon as you see Role B jump off. Voke Vorago and stand closer in than Role B. As soon as the red comes out, tank 4 blues and when the next red comes out you will be intercepted. If the phase is any longer than this, Role B will continue intercepting you. https://clips.twitch.tv/SeductiveWealthyPizzaCclamChamp
 
-Role B
+:underline:`Role B`
 
 Be as close to tick perfect during top lure and Wild magic voke as soon as possible. If not 7 affinity stacks, ideally should Guthix Staff as well. Jump as soon as possible and spam surge.  Stand further out than Role A and take the first red bomb. Bladed dive under Vorago and soulsplit your hp up. When the next red bomb comes out, intercept and devotion. If the phase is any longer than this, continue intercepting Role A and use resonance when needed.
 
@@ -146,7 +161,8 @@ Be as close to tick perfect during top lure and Wild magic voke as soon as possi
 
 
 
-**Phase Two (Bring Him Down)**
+
+:bold-underline:`Phase Two (Bring Him Down)`
 
 
 
@@ -156,17 +172,18 @@ Player B will place a dummy as the last orb is clicked; make sure it is by both 
 
 
 
-**Phase 3 (Ceiling Collapse)**
+
+:bold-underline:`Phase 3 (Ceiling Collapse)`
 
 
 
-Role A
+:underline:`Role A`
 
 Pre Sunshine Dropdown near the center and build with a defensive and adrenaline potion. Pre Reflect rotation should consist of a wildmagic and guthix staff. During reflect devotion Role B and Detonate. Post Reflect aphyxiate and continue Dpsing. Run out far enough to receive the Redbomb and go under Vorago after your sunshine runs out. SGB spec after sunshine. Ideally should phase Pre Reflect but if not run underneath vorago on the second reflect and intercept Role B using reflect. Phase soon after.
 
 
 
-Role B
+:underline:`Role B`
 
 Very similar to Role A.  Sunshine dropdown near the center. Auto Dbreath (Voke) Wild Magic Combust Hammer. Detonate during reflect. Release Detonate with an Auto and Dbreath, start running under vorago Corruption Blast and Combust and Bladed dive back to sunshine. Run in to give the Redbomb to Role A and then use devotion. Dps until Phased and if not pre reflect provoke the boss for Role A. 
 
@@ -176,15 +193,16 @@ Notes: Using Resonance on the third blue is ideal. Can resonance again post Red 
 
 
 
-**Phase 4 (Scopulus)**
+
+:bold-underline:`Phase 4 (Scopulus)`
 
 
 
-Role A: Stand northwest on drop. Vuln Wildmagic and run towards Role B. Asphyxiate until you are barricaded and then charge Detonate when scopulus are stacked. Tsunami when 100% adrenaline and Bladed dive back towards the north wall and continue running along the walls in a circle. Limitless Devotion Player B as soon as possible and continue 4-Tick Baraging and using thresholds. Build to Cade when Player B uses devotion and barricade after and start building back to 100 for Vit phase. This is a good point to stop running and provoke the Scops in order to restack them. Soon after cade runs out the phase should be over but if prolonged then can use Reflect.
+:underline:`Role A`: Stand northwest on drop. Vuln Wildmagic and run towards Role B. Asphyxiate until you are barricaded and then charge Detonate when scopulus are stacked. Tsunami when 100% adrenaline and Bladed dive back towards the north wall and continue running along the walls in a circle. Limitless Devotion Player B as soon as possible and continue 4-Tick Baraging and using thresholds. Build to Cade when Player B uses devotion and barricade after and start building back to 100 for Vit phase. This is a good point to stop running and provoke the Scops in order to restack them. Soon after cade runs out the phase should be over but if prolonged then can use Reflect.
 
 
 
-Role B: Go near West Scopulus spawn near the south wall. Vuln Wildmagic the West scop and run towards Role A on the west side. Barricade a little bit after first blue as this allows Role A to Dps longer without having to run away. Vuln the East Scop as soon as possible to have both south Scopulus aggro and then Provoke the north in an attempt to stack all three. Run towards role A when barricade has a few seconds left. Use as many thresholds as possible and devotion after player A does so. Can aphyxiate if there is a good distance between you and the Scopulus (Not recommended if intercepted by the other player). Reflect is phase is prolonged. 
+:underline:`Role B`: Go near West Scopulus spawn near the south wall. Vuln Wildmagic the West scop and run towards Role A on the west side. Barricade a little bit after first blue as this allows Role A to Dps longer without having to run away. Vuln the East Scop as soon as possible to have both south Scopulus aggro and then Provoke the north in an attempt to stack all three. Run towards role A when barricade has a few seconds left. Use as many thresholds as possible and devotion after player A does so. Can aphyxiate if there is a good distance between you and the Scopulus (Not recommended if intercepted by the other player). Reflect is phase is prolonged. 
 
 
 
@@ -192,23 +210,27 @@ Notes: Use this order of Barricade and Devotion as is most optimal for Vitalis p
 
 Try staying within this cone when running the scopulus. If you are out of this area, you risk losing all 3 of the scops being stacked on a single square. The easiest way to keep them stacked is to coordinate when you break off DD with your partner and to bomb each other when devotion/caded.
 
-.. image:: https://i.imgur.com/3WcG0FC.png
+
+
+|https://i.imgur.com/3WcG0FC.png|
 
 
 
 
 
-**Phase 5 (Vitalis)**
+
+
+:bold-underline:`Phase 5 (Vitalis)`
 
 
 
-Role A 
+:underline:`Role A` 
 
 Have intercept ready on drop. Target cycle Hammer dropdown and use devotion, provoke and sunshine immediately while still gaining adrenaline with defensives until reflect ends. Typical Sunshine rotation while maintaining aggro or provoking if needed. Takes bleeds 1-4 and freedom 4th. During cade cast heal other on player B. Continue Dpsing until the phase is over before the second reflect.
 
 
 
-Role B
+:underline:`Role B`
 
  Sun on dropdown, Dbreath Corruption Asphyxiate and Impact (flank) and use Devotion on reflect. Continue building on reflect with defensives and if provoke is used let Role A know to provoke. Wild magic and build to barricade. Definitely avoid solids like soups as the adren loss can result in the loss of the kill. Once bleeds start Barricade Role A and cast heal other. Voke the 5th bleed and reequip staff/duel wield. Continue Dpsing until phase is over. 
 
@@ -226,23 +248,27 @@ One missed Pray flick is practically death.
 
 In order to flank on this phase, stand in the squares marked with colored circles. The blue circle would be able to use flank, so red must have Vorago provoked.
 
-.. image:: https://i.imgur.com/F6oslzi.png
+
+
+|https://i.imgur.com/F6oslzi.png|
 
 
 
 
 
-**Phase 6 (Green Bomb)**
+
+
+:bold-underline:`Phase 6 (Green Bomb)`
 
 
 
 **(Most Optimal)**
 
-Role A: Sunshine Dropdown and use corrupt before reflect. If player B used devotion on the previous phase you will be the one tanking the first Greenbomb. Build to devotion and if on Player B use it. If it isn’t, use either disruption shield or shield dome to tank both the Greenbomb and the blue following it. Alternatively, if player B did not use Devotion they will instead tank the first Greenbomb while player A can threshold. Resonance during reflect and detonate. Continue using thresholds and if you did not tank the first bomb you will tank the second. Run out to receive the redbomb if you did not tank the second. Optionally can reprisal this redbomb. Should not get a third greenbomb and if so use your best judgement on how to handle it. 
+:underline:`Role A:` Sunshine Dropdown and use corrupt before reflect. If player B used devotion on the previous phase you will be the one tanking the first Greenbomb. Build to devotion and if on Player B use it. If it isn’t, use either disruption shield or shield dome to tank both the Greenbomb and the blue following it. Alternatively, if player B did not use Devotion they will instead tank the first Greenbomb while player A can threshold. Resonance during reflect and detonate. Continue using thresholds and if you did not tank the first bomb you will tank the second. Run out to receive the redbomb if you did not tank the second. Optionally can reprisal this redbomb. Should not get a third greenbomb and if so use your best judgement on how to handle it. 
 
 
 
-Role B: Hammer dropdown with provoke and then walk a combust. Build to sunshine if devotion is on cooldown. If it happens to be available you will tank the first greenbomb. Tank using disruption shield and/or shield dome if on yourself or devotion if on Player A. During reflect continue building using defensives. Use thresholds like wild magic but keep your adrenaline high if you are tanking the second greenbomb. If the Greenbomb is on yourself use devotion without intercepting and reprisal. Disrupt the blue following the greenbomb and keep your Lifepoints high. If the Greenbomb is on player A repeat the same thing except using intercept. Walk in as to not obtain the redbomb. Use thresholds like aphyxiate until the phase is over.
+:underline:`Role B:` Hammer dropdown with provoke and then walk a combust. Build to sunshine if devotion is on cooldown. If it happens to be available you will tank the first greenbomb. Tank using disruption shield and/or shield dome if on yourself or devotion if on Player A. During reflect continue building using defensives. Use thresholds like wild magic but keep your adrenaline high if you are tanking the second greenbomb. If the Greenbomb is on yourself use devotion without intercepting and reprisal. Disrupt the blue following the greenbomb and keep your Lifepoints high. If the Greenbomb is on player A repeat the same thing except using intercept. Walk in as to not obtain the redbomb. Use thresholds like aphyxiate until the phase is over.
 
 
 
@@ -256,21 +282,22 @@ Optionally you may use Barricade or Immortality however this guide covers the mo
 
 
 
+
 **(Safer)**
 
-Role A: Guthix staff then corrupt, build to 100% and either barricade if Greenbomb is on Player B or sunshine if on yourself. Build adren during reflect and thresh afterwards. If the second Greenbomb is on Player B then devotion and reprisal. Run in to not receive Redbomb if just tanked a Green. If there’s a third Greenbomb then use immortality or reflect. Safer to just threshold if you did not sun during the first Greenbomb. 
+:underline:`Role A:` Guthix staff then corrupt, build to 100% and either barricade if Greenbomb is on Player B or sunshine if on yourself. Build adren during reflect and thresh afterwards. If the second Greenbomb is on Player B then devotion and reprisal. Run in to not receive Redbomb if just tanked a Green. If there’s a third Greenbomb then use immortality or reflect. Safer to just threshold if you did not sun during the first Greenbomb. 
 
 
 
-Role B: Hammer Dropdown, combust, and then build to 100%. Immortality if on Role A or sunshine if not. Use Devotion to handle the second Greenbomb and reprisal if on Player A or continue threshing if on yourself. Barricade can be used to handle the third Greenbomb.
+:underline:`Role B:` Hammer Dropdown, combust, and then build to 100%. Immortality if on Role A or sunshine if not. Use Devotion to handle the second Greenbomb and reprisal if on Player A or continue threshing if on yourself. Barricade can be used to handle the third Greenbomb.
 
 
 
-**Phase 7 (TeamSplit)**
+:bold-underline:`Phase 7 (TeamSplit)`
 
 
 
-Role A
+:underline:`Role A`
 
 Charge Detonate and release with a hammer (if doable) on dropdown, otherwise release with auto Dbreath. Wild Magic (Hammer if not already) and sit under Vorago. Sunshine asap and Adren pot + Reprisal and disrupt the first blue, devotion the 2nd blue and dump threshes, impact flank as often as possible. 
 
@@ -278,7 +305,7 @@ Charge Detonate and release with a hammer (if doable) on dropdown, otherwise rel
 
 
 
-Role B
+:underline:`Role B`
 
 Charge Detonate and release with auto and guthix staff on dropdown. Build during TS and Auto WM voke out of ts, using Resonance on the third blue. Immediately use Devotion, step closer to Vorago, sunshine auto Dbreath. Build during TS and Reprisal, disrupting the first blue and using thresholds 
 
@@ -288,15 +315,16 @@ Charge Detonate and release with auto and guthix staff on dropdown. Build during
 
 
 
-**Phase 8 (The End)**
+
+:bold-underline:`Phase 8 (The End)`
 
 
 
-Role A: Thresh During the first quadrant and then prepare to devotion or barricade depending on what bomb type is in the second quadrant. If Blue bombs are first use devotion while Player B tags and then barricade later once the red bomb is about to hit Player B. Tag the purple bomb then instantly. This allows barricade to last a few seconds into the “stand up”. During reflect run underneath Vorago and intercept Player B without defensives and detonate. The next rotation you’ll be tagging and depending on adrenaline, rehammer the first quadrant. Tag Blue bombs as soon as possible and red bombs as late as possible - the order doesn’t matter. Sunshine roughly around the third quadrant as those bombs are being tagged. Once the second stand up starts use any thresholds you can and end the phase.
+:underline:`Role A:` Thresh During the first quadrant and then prepare to devotion or barricade depending on what bomb type is in the second quadrant. If Blue bombs are first use devotion while Player B tags and then barricade later once the red bomb is about to hit Player B. Tag the purple bomb then instantly. This allows barricade to last a few seconds into the “stand up”. During reflect run underneath Vorago and intercept Player B without defensives and detonate. The next rotation you’ll be tagging and depending on adrenaline, rehammer the first quadrant. Tag Blue bombs as soon as possible and red bombs as late as possible - the order doesn’t matter. Sunshine roughly around the third quadrant as those bombs are being tagged. Once the second stand up starts use any thresholds you can and end the phase.
 
 
 
-Role B: Hammer and wild magic during the first quadrant and build towards sunshine. Whether blue or reds come first does not matter as long as you tag blues instantly and wait a few seconds before tagging red bombs.This allows Player A’s cade to last as long as possible. Sunshine around the third quadrant and continue building until standup. Thresh until reflect and provoke the boss. Detonate after reflect ends and build adren until the second rotation. Thresh during the first quadrant and be ready to intercept player A. Devotion blue bombs and barricade redbombs. Once Stand up starts the second time, use any thresholds to finish the phase.
+:underline:`Role B:` Hammer and wild magic during the first quadrant and build towards sunshine. Whether blue or reds come first does not matter as long as you tag blues instantly and wait a few seconds before tagging red bombs.This allows Player A’s cade to last as long as possible. Sunshine around the third quadrant and continue building until standup. Thresh until reflect and provoke the boss. Detonate after reflect ends and build adren until the second rotation. Thresh during the first quadrant and be ready to intercept player A. Devotion blue bombs and barricade redbombs. Once Stand up starts the second time, use any thresholds to finish the phase.
 
 
 
@@ -306,7 +334,8 @@ Role B: Hammer and wild magic during the first quadrant and build towards sunshi
 
 
 
-**Phase 9 (Waterfall)**
+
+:bold-underline:`Phase 9 (Waterfall)`
 
 
 
@@ -314,7 +343,11 @@ Simply do the same things as you would on P4 NM, as detailed in <#53453346243097
 
 
 
-**Phase 10**
+
+
+:bold-underline:`Phase 10`
+
+
 
 
 
@@ -330,7 +363,7 @@ Heal other is extremely helpful when barricaded and should be used if your partn
 
 
 
-**Overall Rotation: **
+:bold-underline:`Overall Rotation: `
 
 **Barricading Teamsplit:** Role A will use the above rotation to start off the phase while Player B will use a wildmagic and both bleed abilities. As a general rule of thumb, the person cading with always use both bleed abilities and the other player will avoid them. Always intercept early when going to barricade. This typically means - but not always - after the third ability you use out of the teamsplit. This does not however mean you will barricade early, always use barricade on the very tick either you or your partner receive the blue bomb. If your partner is in closer than you are they will receive their blue bomb quicker and therefore you need to cade on the tick of that blue. With that said, try to be max attacking distance by the release of the first blue bomb. If you are not then the cader may not have enough time to use their three abilities before barricade - this almost always results in the blue bomb hitting before cade is available
 
@@ -338,7 +371,9 @@ Heal other is extremely helpful when barricaded and should be used if your partn
 
 
 
+
 There are many ways to optimise your rotation when cading. If the teamsplit is close enough, equip staff to 0-tick auto with your threshold (most likely wild magic) or If one does not have adrenaline then the first ability will be Dragonbreath instead. Use duel wield for the second and third abilities as depending on stall there might be a chance to 4-tick auto.The auto can be used into the second or third ability and might even have time for a fourth ability. Once Caded shield bash and Dragonbreath are optimal abilities however shield bash will stun if used on reflect. The person not cading will use whatever thresholds available and guthix staff. Like stated earlier, be far out at the release of the first blue bomb. Once that first blue bomb is released then you may walk in a few squares when asphyxiating as to not lose it to a pushback.
+
 
 
 
@@ -354,7 +389,9 @@ The person who didn’t use cade should stand roughly 4 squares away from Vorago
 
 
 
+
 **Broken Teamsplit**: As the person who just barricaded, sip a saradomin brew on reflect so you can reprisal the broken teamsplit. If it’s Role B that is reprisaling, both players should disrupt. It’s very crucial to line up (being equidistant from the boss) during this portion of the fight. Being different distances away from Vorago means each players blue bombs will hit on different ticks. This usually causes each blue to register a pushback, pushing two squares. With that in mind, when the person who isn’t reprisaling runs to their teamsplit be sure to run beside them. If their teamsplit is quite far away from vorago you only need to be max attacking distance, at that point all blues will register on the same tick.When the teamsplit explodes, Auto-Combust and trigger your reprisal. Feel free to resonance a blue and then build to sunshine. Try to use sonic and concentrated blast relatively early as they can be canceled by the incoming teamsplit. If you couldn’t sun pre Cading-Teamsplit then use it after.
+
 
 
 
@@ -374,7 +411,8 @@ The person who didn’t cade must run to the teamsplit. Missing it will PK the o
 
 
 
-**Phase 11**
+
+:bold-underline:`Phase 11`
 
 
 
@@ -384,9 +422,11 @@ Phase 11 reflect has the same idea as Phase 10. On this phase it is optimal to B
 
 
 
-**Overall Rotation:**
+:bold-underline:`Overall Rotation:`
 
 **The Start:** Build as much adrenaline on the dummy as possible using defensives and auto-attacks. Disrupt instantly and tag with vulnerability while staying in the same location you were placed in via mauling (should be one square away from melee distance). Sunshine as soon as possible unless there is a significant cooldown time, then thresh. Keep in mind you will have to hammer if Vorago wasn’t at the end of P10. Whoever didn’t barricade during Phase 10 maul will be cading first during this phase.
+
+
 
 
 
@@ -398,14 +438,5 @@ When Vorago is being pushed back, keep stepping forward. You still want to be li
 
 
 
-Remember to not lose non-instant hitting abilities to the impending Teamsplit (Sonic, Wildmagic, Combust, etc). 
-
-
-
-**Teamsplit:** While being close during Purple Bomb was optimal, you still want to be far out during this teamsplit. Wait for the release of the first blue and run back to any Suns if need be. Reprisal this Teamsplit as often as possible. If manually triggered the tick before teamsplit, reprisal will hit immediately after and push before the first blue bomb. If you are the Cader, use the same idea as Phase 10 however it is imperative that the initial intercept is early (same timing as P10 intercept). If intercepted too late, the re-intercept will also be later and you’ll find yourself tanking two Purple Bombs post reflect. The non-cader will use the best thresholds available and then Hammer either just before reflect or the very start. 
-
-
-
-**Mauling:** If you found yourself needing this I don’t think I need to explain it. Maul  |maul|  the hecking boss.
 
 

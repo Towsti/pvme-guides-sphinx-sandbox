@@ -7,4 +7,4 @@ dpm-advice
     dpm-advice.dpm-advice-faq
     dpm-advice.dpm-advice-mage
     dpm-advice.dpm-advice-melee
-    dpm-advice.dpm-advice-range  
+    dpm-advice.dpm-advice-range

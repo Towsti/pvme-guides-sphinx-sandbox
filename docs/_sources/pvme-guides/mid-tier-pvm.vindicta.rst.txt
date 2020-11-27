@@ -1,47 +1,22 @@
-vindicta
-========
+.. |https://i.imgur.com/wvJNWxy.png| image:: https://i.imgur.com/wvJNWxy.png
 
-.. |zarosess| image:: https://cdn.discordapp.com/emojis/643162860830326824.png?v=1
+.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |crestzaros| image:: https://cdn.discordapp.com/emojis/643161512177041428.png?v=1
+.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dragonriderlance| image:: https://cdn.discordapp.com/emojis/643161541931171872.png?v=1
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |glimmeringscale| image:: https://cdn.discordapp.com/emojis/643163068846702596.png?v=1
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |imbuedbladeslice| image:: https://cdn.discordapp.com/emojis/643169149639589918.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |luckpotion| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -49,21 +24,34 @@ vindicta
     :width: 1.375em
     :height: 1.375em
 
-.. |soulsplit| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenurn| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+.. |https://i.imgur.com/Gfay885.png| image:: https://i.imgur.com/Gfay885.png
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |https://i.imgur.com/2Gchgth.png| image:: https://i.imgur.com/2Gchgth.png
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/p0r46NJ.png| image:: https://i.imgur.com/p0r46NJ.png
 
 .. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
     :width: 1.375em
@@ -73,117 +61,89 @@ vindicta
     :width: 1.375em
     :height: 1.375em
 
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |crestzaros| image:: https://cdn.discordapp.com/emojis/643161512177041428.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |zarosess| image:: https://cdn.discordapp.com/emojis/643162860830326824.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+.. |dragonriderlance| image:: https://cdn.discordapp.com/emojis/643161541931171872.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |luckpotion| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |soulsplit| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |imbuedbladeslice| image:: https://cdn.discordapp.com/emojis/643169149639589918.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/7Fq2gcD.png| image:: https://i.imgur.com/7Fq2gcD.png
+
+.. |adrenurn| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
 
 .. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+.. |glimmeringscale| image:: https://cdn.discordapp.com/emojis/643163068846702596.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+vindicta
+========
 
-.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+:bold-underline:`Vindicta and Gorvek`
 
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
-.. |destroy| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
-.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+|https://i.imgur.com/7Fq2gcD.png|
 
-.. |assault| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
-.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
-.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-**Vindicta and Gorvek**
-
-.. image:: https://i.imgur.com/7Fq2gcD.png
 
 
 
 Introduction
-^^^^^^^^^^^^
+------------
+
 
 Vindicta, the Zarosian general residing in the Heart of Gielinor, requires 80 attack (boostable) and 40 Zaros killcount to fight. Her drops include the t85 Dragon Rider Lance which disassembles for Illujankan components needed for the Aftershock perk, and the Crest of Zaros which is used to make the t80 Anima Core of Zaros set.
 
 
 
 Drops
-^^^^^
+-----
+
 
 -  |zarosess|   **Zarosian essence**
 
@@ -199,16 +159,18 @@ Drops
 
 
 
+
 Presets
-^^^^^^^
+-------
 
 
 
-**Beginner Mage Preset:**
+
+:bold-underline:`Beginner Mage Preset:`
 
 Starting out at Vindicta with magic, it is encouraged to use a staff, as you can cast sonic wave while moving. Magic will provide increase mobility while attacking vindicta. The shield is used to resonance the range auto during phase 2 and the wand of cywir elder is used as a planted feet switch. Excalibur is used for healing over time. This inventory is intended to last roughly an hour long trip. Sailfish are used for potential panic healing.
 
--  |luckpotion|   **Enhanced luck potion** `Gives tier 3 luck, can be removed if swapping to lotd`
+-  |luckpotion|   **Enhanced luck potion** ``Gives tier 3 luck, can be removed if swapping to lotd``
 
 -  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
 
@@ -216,35 +178,45 @@ Starting out at Vindicta with magic, it is encouraged to use a staff, as you can
 
 
 
-.. image:: https://i.imgur.com/wvJNWxy.png
+
+|https://i.imgur.com/wvJNWxy.png|
 
 
 
 
 
-**Beginner Melee Preset:**
+
+
+
+
+:bold-underline:`Beginner Melee Preset:`
 
 If you are not comfortable with weapon switching then you may use either only a scythe or only drygores. DW Melee is used for bladed dive, and again a shield is used for resonance.  |soulsplit|  +  |aosor|  results in high sustain, and the food is used for any panic healing.
 
--  |luckpotion|   **Enhanced luck potion** `Gives tier 3 luck, can be removed if swapping to lotd`
-
-
-
-.. image:: https://i.imgur.com/p0r46NJ.png
+-  |luckpotion|   **Enhanced luck potion** ``Gives tier 3 luck, can be removed if swapping to lotd``
 
 
 
 
+|https://i.imgur.com/p0r46NJ.png|
 
-**Advanced Mage Preset:**
+
+
+
+
+
+
+
+
+:bold-underline:`Advanced Mage Preset:`
 
 In the advanced presets, we sacrifice food for more switches. The magic preset expects the player to be utilizing 4TAA, and dragon rider amulet switching. The defender is used as both a shield and planted feet switch. Sustain will be done exclusively via  |soulsplit|  +  |aosor| . You can upgrade to a scrimshaw and tectonic if you want. This preset is made for roughly 30 minute trips.
 
--  |luckpotion|   **Enhanced luck potion** `Gives tier 3 luck, can be removed if swapping to lotd`
+-  |luckpotion|   **Enhanced luck potion** ``Gives tier 3 luck, can be removed if swapping to lotd``
 
--  |adrenurn|   **Adrenaline urn** `Prevents adren loss after dropping combat, stores up to 1000% adrenaline`
+-  |adrenurn|   **Adrenaline urn** ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
 
--  |ancientshard|   **Ancient elven ritual shard** `Restores prayer overtime, 5 minute cooldown`
+-  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
 
 -  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
 
@@ -252,21 +224,26 @@ In the advanced presets, we sacrifice food for more switches. The magic preset e
 
 
 
-.. image:: https://i.imgur.com/Gfay885.png
+
+|https://i.imgur.com/Gfay885.png|
 
 
 
 
 
-**Advanced Melee Preset:**
+
+
+
+
+:bold-underline:`Advanced Melee Preset:`
 
 If opting to melee, a DW/2H switching preset is used. Again, we sustain solely through  |soulsplit|  +  |aosor| , with excalibur to aid in healing. This preset is made for roughly 30 minute trips.
 
--  |luckpotion|   **Enhanced luck potion** `Gives tier 3 luck, can be removed if swapping to lotd`
+-  |luckpotion|   **Enhanced luck potion** ``Gives tier 3 luck, can be removed if swapping to lotd``
 
--  |adrenurn|   **Adrenaline urn** `Prevents adren loss after dropping combat, stores up to 1000% adrenaline`
+-  |adrenurn|   **Adrenaline urn** ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
 
--  |ancientshard|   **Ancient elven ritual shard** `Restores prayer overtime, 5 minute cooldown`
+-  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
 
 -  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
 
@@ -276,13 +253,16 @@ If opting to melee, a DW/2H switching preset is used. Again, we sustain solely t
 
 
 
-.. image:: https://i.imgur.com/2Gchgth.png
+
+|https://i.imgur.com/2Gchgth.png|
 
 
 
 
 
-Vindicta's Attack Rotation
+
+
+:underline:`Vindicta's Attack Rotation`
 
 **Phase 1 (200k - 100k hp)**
 
@@ -306,56 +286,27 @@ The boss may be done on any combat style but melee can get faster killtimes and 
 
 
 
-**Mechanics**
 
-Hurricane
+:bold-underline:`Mechanics`
+
+:underline:`Hurricane`
 
 Fairly average damage melee attack in the area within 2 squares of Vindicta. If the boss cannot reach you with this attack, you will instead take a ranged hit that deals moderate damage but is also not a big issue. In general can be ignored but learners may find it useful to resonance this hit to save food.
 
 
 
-Dragonfire
+:underline:`Dragonfire`
 
 Vindicta will raise her arms to signal Gorvek to fly overhead and drop a smoke line from a random direction on top of the player. This will deal continuous damage as long as it is stood in and should be moved out of immediately. This is a good opportunity to walk combust, fragmentation shot, or slaughter.
 
 
 
-Gorvek (Phase 2)
+:underline:`Gorvek (Phase 2)`
 
 Once Vindicta reaches 100k hp she will mount Gorvek, signalling the start of phase 2. The boss' hitbox will increase at this point which can potentially walk the player into nearby dragonfire. From here on, the boss will follow a very simple autoattack rotation that ends with Gorvek flying to a random corner of the arena and placing a dragonfire line from that spot. This is identical to the lines placed during phase 1 and can be dealt with the same way.
 
 
 
 
-
-**The Fight (~65 kph, Credit to <@!235999428622811137>)**
-
-*Note: These rotations assume you are using the Fury of the small relic and instance hopping*
-
-
-
-**Kill 1: (100% adrenaline required)**
-
- |zerk|  → TC +  |gbarge|  →  |cleave|  →  |deci|  →  |limitless|  +  |destroy|  →  |gflurry|  →  |cleave|  →  |assault|  →  |deci|  → 5t Auto +  |cleave|  →  |dismember|  →  |freedom|  AA → Improvise (Finish kill on 82%+ adrenaline, if you triple imp proc or asr/relentless 3hit flurry under sigil and dont 5t auto later)
-
-
-
-**Kill 2: (82% adrenaline required)**
-
- |gbarge|  →  |slaughter|  →  |dismember|  →  |destroy|  →  |enhreplen|  +  |zerk|  → Auto +  |cleave|  →  |deci|  →  |sever|  →  |freedom|  AA →  |cleave|  →  |assault|  →  |deci|  → 5t Auto +  |cleave|  **OR** 5t Auto +  |gflurry|  >  |cane|  → Basics till kill ends
-
-
-
-**Kill 3: (Improvise)**
-
- |gbarge|  →  |dismember|  →  |slaughter|  (if high adren) **OR**  |deci|  (if low adren) →  |destroy|  →  |zgs|   |spec|  → Auto +  |cleave|  →  |assault|  → 3 Hit  |gflurry|  →  |cane|  →  |slaughter|  (if still high HP, finish kill on 100% adrenaline)
-
-
-
-Rotate these three rotations with 30 minute trips
-
-
-
-https://youtu.be/jhKDHW5ePfw
 
 

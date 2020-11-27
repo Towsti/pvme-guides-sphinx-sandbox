@@ -1,19 +1,10 @@
-kalphite-king
-=============
-
-.. |drygorelongmh| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |perfectchitin| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |kalphiteclaw| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |https://i.imgur.com/SHdAj7o.png| image:: https://i.imgur.com/SHdAj7o.png
+
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -21,27 +12,15 @@ kalphite-king
     :width: 1.375em
     :height: 1.375em
 
+.. |https://youtu.be/uisDoTEmFSI| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/uisDoTEmFSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |incend| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+.. |perfectchitin| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -49,62 +28,117 @@ kalphite-king
     :width: 1.375em
     :height: 1.375em
 
+.. |incend| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
+
+.. role:: underline
+    :class: underline
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Kalphite King (Courtesy of <@193427271992868864>)**
+.. |drygorelongmh| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/SHdAj7o.png
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+kalphite-king
+=============
+
+:bold-underline:`Kalphite King (Courtesy of <@193427271992868864>)`
+
+
+
+|https://i.imgur.com/SHdAj7o.png|
+
+
+
+
 
 
 
 Drops
-^^^^^
+-----
 
 
 
--  |drygorelongmh|   **Drygore weaponry** `1/43`
 
--  |perfectchitin|   **Perfect chitin** `1/50`
 
--  |kalphiteclaw|   **Kalphite claw** `1/2000 (400 threshold)`
+
+-  |drygorelongmh|   **Drygore weaponry** ``1/43``
+
+-  |perfectchitin|   **Perfect chitin** ``1/50``
+
+-  |kalphiteclaw|   **Kalphite claw** ``1/2000 (400 threshold)``
+
 
 
 
 
 
 Preset
-^^^^^^
+------
+
+
+
 
 
 
 Keris + Desert amulet is best in slot if you have completed the desert hard task set. Spiritual prayers are used to both keep up prayer and restore familiar spec points. You can optionally take excalibur and disruption shield runes.
 
-.. image:: https://i.imgur.com/laEY0Ft.png
+
+
+|https://i.imgur.com/laEY0Ft.png|
+
+
 
 
 
 
 
 Kalphite King Attack Rotations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
 
 
 
-Range Phase
+
+
+
+:underline:`Range Phase`
 
 2 Autos → Stun → 2 Autos → Green → 2 Autos → Dig → Repeat
 
 
 
-Melee Phase
+:underline:`Melee Phase`
 
 2 Autos → Push → 2 Autos → Charge → 2 Autos → Green → Repeat
 
 
 
-Mage Phase
+:underline:`Mage Phase`
 
 4 Autos → Dig → 2 Autos → Charge → Repeat
 
@@ -112,26 +146,31 @@ Mage Phase
 
 
 
+
 Player Stun Timings
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 
 
-Range Phase: Skips Green
+
+
+
+:underline:`Range Phase: Skips Green`
 
 2 Autos → Stun → 2 Autos → **Your Stun** → 2 Autos → Dig → Repeat
 
 
 
-Melee Phase: Skips Charge
+:underline:`Melee Phase: Skips Charge`
 
 2 Autos → Push → 2 Autos → **Your Stun** → 2 Autos → Green → Repeat
 
 
 
-Mage Phase: Skips Dig
+:underline:`Mage Phase: Skips Dig`
 
 4 Autos → **Your Stun** → 2 Autos → Charge → Repeat
+
 
 
 
@@ -143,15 +182,15 @@ For more detailed information on attack rotations and stun timings see here: <ht
 
 **What not to do:**
 
-• Never use Smoke Tendrils, Unload, or Frenzy.
+- Never use Smoke Tendrils, Unload, or Frenzy.
 
-• Never use Berserk during the middle of a range phase rotation. Wait for the cycle to reset after dig.
+- Never use Berserk during the middle of a range phase rotation. Wait for the cycle to reset after dig.
 
-• Never use Berserk during mage phase unless the boss spawns in form.
+- Never use Berserk during mage phase unless the boss spawns in form.
 
-• Attack minions at a time where the Kalphite King is still attackable.
+- Attack minions at a time where the Kalphite King is still attackable.
 
-• Never stun outside of proper stun timings. If you do you could cause:
+- Never stun outside of proper stun timings. If you do you could cause:
 
      - Early greens
 
@@ -163,7 +202,7 @@ For more detailed information on attack rotations and stun timings see here: <ht
 
      - A sped-up attack rotation
 
-• Never stun during a Green. If you do you could cause: 
+- Never stun during a Green. If you do you could cause: 
 
      - Multiple greens
 
@@ -171,7 +210,7 @@ For more detailed information on attack rotations and stun timings see here: <ht
 
      - Multiple digs
 
-• Never Destroy for longer than 1 GCD or stun immediately after a dig or charge. If you do you could cause:
+- Never Destroy for longer than 1 GCD or stun immediately after a dig or charge. If you do you could cause:
 
      - Early greens
 
@@ -185,32 +224,36 @@ For more detailed information on attack rotations and stun timings see here: <ht
 
 
 
+
 Mechanics
-^^^^^^^^^
+---------
 
 
 
-Green shield (random): Kalphite King heals 75% of all damage dealt by players.
 
 
 
-Red shield (random): Kalphite King heals 100% of all damage dealt to players.
+:underline:`Green shield (random)`: Kalphite King heals 75% of all damage dealt by players.
 
 
 
-Greens (Beetlejuice): Kalphite King stuns and binds the tank for 8 seconds, leaving them unable to do anything. He then deals a melee attack that can hit up to 32k damage. Greens only happen during range and melee phase.
+:underline:`Red shield (random)`: Kalphite King heals 100% of all damage dealt to players.
 
 
 
-Digs:  Kalphite King becomes unattackable and digs under the ground for 10 seconds, it then appears under the player it last targeted, dealing up to 5k damage if not avoided. Digs only happen on range and magic phase.
+:underline:`Greens (Beetlejuice)`: Kalphite King stuns and binds the tank for 8 seconds, leaving them unable to do anything. He then deals a melee attack that can hit up to 32k damage. Greens only happen during range and melee phase.
 
 
 
-Charges: Kalphite King becomes unattackable and charges towards a wall, players who fail to avoid the space between the charging boss and wall will be hit up to 4k damage. Charges only happen on melee and magic phase.
+:underline:`Digs`:  Kalphite King becomes unattackable and digs under the ground for 10 seconds, it then appears under the player it last targeted, dealing up to 5k damage if not avoided. Digs only happen on range and magic phase.
 
 
 
-Minions: Kalphite King spawns minions when it reaches 195k and 65k HP.
+:underline:`Charges`: Kalphite King becomes unattackable and charges towards a wall, players who fail to avoid the space between the charging boss and wall will be hit up to 4k damage. Charges only happen on melee and magic phase.
+
+
+
+:underline:`Minions`: Kalphite King spawns minions when it reaches 195k and 65k HP.
 
 <https://youtu.be/bS093BFnpds>
 
@@ -218,69 +261,80 @@ Minions: Kalphite King spawns minions when it reaches 195k and 65k HP.
 
 
 
+
 Strategies and Tips
-^^^^^^^^^^^^^^^^^^^
-
-
-
-•  |anti|  before and  |zerk|  at the start of every kill.
-
-
-
-• Never stun outside of proper stun timings.
-
-
-
-• Stay close to the tank during digs but not in the surface radius. 
-
-
-
-• Run with the boss during charges.
-
-
-
-•  |anti|  or  |freedom|  at the start of range and magic phases, use the other defensive when your first runs out.
-
-
-
-•  |anti|  during mage charge.
-
-
-
-•  |res|  blue ball during mage phase (usually happens the attack after mage charge if you forget how to count).
-
-
-
-• Use  |freedom|  on melee phase only after you receive both bleeds. If you  |freedom|  a dismember before you get slaughtered you’re not going to have a fun time, especially if you get pushed.
+-------------------
 
 
 
 
 
-• The amount of times you get hit by the standard attack while the Incendiary Shot icon ( |incend| )is on your buff bar is the amount of times you will be hit by the Incendiary Shot 
+
+-  |anti|  before and  |zerk|  at the start of every kill.
 
 
 
-• If you get a stun with the Incendiary Shot after green, don’t freedom. Either wait until the stun clears and  |gbarge|  to KK when he surfaces or  |gbarge|  to minions to clear and then  |bd|  back to KK.
+- Never stun outside of proper stun timings.
 
 
 
-• Don’t stand directly between KK and a wall during melee or mage phase or you will be hit up to 5k.
+- Stay close to the tank during digs but not in the surface radius. 
 
 
 
-• Use  |devo|  during the first 4 autos of mage phase so you can continue to attack the boss without moving.
+- Run with the boss during charges.
+
+
+
+-  |anti|  or  |freedom|  at the start of range and magic phases, use the other defensive when your first runs out.
+
+
+
+-  |anti|  during mage charge.
+
+
+
+-  |res|  blue ball during mage phase (usually happens the attack after mage charge if you forget how to count).
+
+
+
+- Use  |freedom|  on melee phase only after you receive both bleeds. If you  |freedom|  a dismember before you get slaughtered you’re not going to have a fun time, especially if you get pushed.
+
+
+
+
+
+
+- The amount of times you get hit by the standard attack while the Incendiary Shot icon ( |incend| )is on your buff bar is the amount of times you will be hit by the Incendiary Shot 
+
+
+
+- If you get a stun with the Incendiary Shot after green, don’t freedom. Either wait until the stun clears and  |gbarge|  to KK when he surfaces or  |gbarge|  to minions to clear and then  |bd|  back to KK.
+
+
+
+- Don’t stand directly between KK and a wall during melee or mage phase or you will be hit up to 5k.
+
+
+
+- Use  |devo|  during the first 4 autos of mage phase so you can continue to attack the boss without moving.
+
 
 
 
 
 
 Step-by-step Bladed Dive Guide
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
+
+
+
 
 
 
 Don’t  |bd|  during range phase. Always skip green with a stun. If you use  |destroy|  remember to cancel after 1 GCD.
+
+
 
 
 
@@ -316,9 +370,18 @@ Don’t  |bd|  during range phase. Always skip green with a stun. If you use  |d
 
 
 
-**Example Kill (by <@193427271992868864>)**
+
+:bold-underline:`Example Kill (by <@193427271992868864>)`
 
 https://youtu.be/uisDoTEmFSI
+
+
+|https://youtu.be/uisDoTEmFSI|
+
+
+
+
+
 
 
 

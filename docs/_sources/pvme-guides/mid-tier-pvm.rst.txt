@@ -17,4 +17,4 @@ mid-tier-pvm
     mid-tier-pvm.temple-of-aminishi
     mid-tier-pvm.the-shadow-reef
     mid-tier-pvm.twin-furies
-    mid-tier-pvm.vindicta  
+    mid-tier-pvm.vindicta

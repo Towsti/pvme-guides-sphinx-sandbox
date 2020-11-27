@@ -22,4 +22,4 @@ high-tier-pvm
     high-tier-pvm.vorago-tips-and-tricks
     high-tier-pvm.vorago-trio-hm
     high-tier-pvm.vorago
-    high-tier-pvm.yakamaru  
+    high-tier-pvm.yakamaru

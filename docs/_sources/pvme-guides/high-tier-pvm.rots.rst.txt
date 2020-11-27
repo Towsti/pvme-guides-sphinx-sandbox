@@ -1,31 +1,4 @@
-rots
-====
-
-.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ascoh| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenurn| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -37,11 +10,7 @@ rots
     :width: 1.375em
     :height: 1.375em
 
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -49,11 +18,11 @@ rots
     :width: 1.375em
     :height: 1.375em
 
-.. |mechchin| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
+.. |backhand| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+.. |eofspec| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -61,11 +30,30 @@ rots
     :width: 1.375em
     :height: 1.375em
 
-.. |undeadslayer| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -73,13 +61,15 @@ rots
     :width: 1.375em
     :height: 1.375em
 
-.. |dbow| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eofspec| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://i.imgur.com/yQIpVUl.png| image:: https://i.imgur.com/yQIpVUl.png
 
 .. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
@@ -89,27 +79,45 @@ rots
     :width: 1.375em
     :height: 1.375em
 
-.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |https://i.imgur.com/YTosKHl.png| image:: https://i.imgur.com/YTosKHl.png
+
+.. |https://i.imgur.com/eBU4tzx.png| image:: https://i.imgur.com/eBU4tzx.png
+
+.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/nxKR1Io.png| image:: https://i.imgur.com/nxKR1Io.png
 
 .. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |backhand| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+.. |undeadslayer| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+.. |ascoh| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenurn| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbow| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -117,23 +125,32 @@ rots
     :width: 1.375em
     :height: 1.375em
 
-.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+.. |mechchin| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Rise of the Six (Credit to Rotscommunity)**
+rots
+====
 
-.. image:: https://i.imgur.com/nxKR1Io.png
+:bold-underline:`Rise of the Six (Credit to Rotscommunity)`
 
 
 
-**Preface**:
+|https://i.imgur.com/nxKR1Io.png|
+
+
+
+
+
+
+
+:bold-underline:`Preface`:
 
 This guide assumes you understand the basics of combat, equipment, and the RotS fight, including mechanics. If you’d like to know more about mechanics it is recommend to watch this video: <https://youtu.be/lN5vy1gEh4o>
 
 
 
-**IMPORTANT NOTE**
+:bold-underline:`IMPORTANT NOTE`
 
 Use this video **Solely** for explanation of mechanics. The methods are very outdated and are not optimal.
 
@@ -141,8 +158,10 @@ Use this video **Solely** for explanation of mechanics. The methods are very out
 
 
 
+
 Introduction:
-^^^^^^^^^^^^^
+-------------
+
 
 RotS is generally done in a team size of 4 and the fight takes place in a split arena where the team is split into pairs. Each side will have 3 brothers, the order of which changes everyday. However you will spend more time running through tunnels than you will actually fighting the brothers, which is why it is important to be proficient at both dps rotations and movement abilties i.e. surge + bladed dive. This is also why having the mobile perk, double surge and bladed dive unlocked is crucial for high kph.
 
@@ -158,53 +177,68 @@ Chinchompas make almost all abilities AoE. In general, all three brothers on a s
 
 
 
+
 Presets
-^^^^^^^
+-------
+
 
 Bladed dive is critical to being able to exit tunnels efficiently and increase KPH. One important thing for RotS is to use the Undead Slayer perk, as it will increase your DPS by a flat 7%. Undead Slayer ability, if owned and activated, will also increase your damage against the brothers by 15% for 10 seconds. Trips are generally ~30 minutes long, it is rare to eat during kills and the majority of your food will be used while in tunnels. This negates the downsides of using sara brews + solids i.e. stat drain will be nullified by the time you are back at pads and since you are out of combat you won't lose adrenaline from solids.
 
 
 
-**Beginner Preset**
-
-.. image:: https://i.imgur.com/YTosKHl.png
+:bold-underline:`Beginner Preset`
 
 
 
-**Advanced Preset**
+|https://i.imgur.com/YTosKHl.png|
+
+
+
+:bold-underline:`Advanced Preset`
 
 -  |eofor|   **Essence of Finality** Dark bow spec stored
 
--  |ascoh|   **Off-hand Ascension crossbow** `Flanking 4`
+-  |ascoh|   **Off-hand Ascension crossbow** ``Flanking 4``
 
--  |adrenurn|   **Adrenaline urn** `Prevents adren loss after dropping combat, stores up to 1000% adrenaline`, can be removed if using Persistent Rage relic
+-  |adrenurn|   **Adrenaline urn** ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``, can be removed if using Persistent Rage relic
 
--  |ancientshard|   **Ancient elven ritual shard** `Restores prayer overtime, 5 minute cooldown`
-
-.. image:: https://i.imgur.com/yQIpVUl.png
+-  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
 
 
 
-**Melee Preset**
+|https://i.imgur.com/yQIpVUl.png|
+
+
+
+
+
+
+
+:bold-underline:`Melee Preset`
 
 Melee may be used on sides without Ahrim to deal high burst damage in order to minimize Karil specs. When meleeing you want to start every kill with 100% adrenaline. You will  |zerk|  every single kill and in order to upkeep your adren you need to manage your adrenaline carefully. This is why you have multiple apots and dummies. As melee you will always incite.
 
--  |adrenurn|   **Adrenaline urn** `Prevents adren loss after dropping combat, stores up to 1000% adrenaline`, can be removed if using Persistent Rage relic
+-  |adrenurn|   **Adrenaline urn** ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``, can be removed if using Persistent Rage relic
 
--  |ancientshard|   **Ancient elven ritual shard** `Restores prayer overtime, 5 minute cooldown`
+-  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
 
 -  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
 
 (Runes for  |disrupt| )
 
-.. image:: https://i.imgur.com/eBU4tzx.png
+
+
+|https://i.imgur.com/eBU4tzx.png|
+
+
 
 
 
 
 
 What to do:
-^^^^^^^^^^^
+-----------
+
 
 Once you know the rotation, it’s easy to apply it to the fight. Both players stand on the same square (DD or death dot) and don’t move unless necessary. Both players should activate their offensive range/melee prayer (Anguish/Desolation or Turmoil/Malevolance) and Soul Link. The incite should pray Protect from Melee and the DPS should pray Soul Split. The Soul Link curse splits both the damage and health healed from Soul Split between the two players. This allows the incite to stay healthy while not moving, maintaining the stack and effectiveness of chins. When there are 2 or more brothers that would be affected by chins, use chins. If you are targeting just one brother, use your dual crossbows or 2h bow.
 
@@ -212,10 +246,13 @@ Once you know the rotation, it’s easy to apply it to the fight. Both players s
 
 
 
+
 Positioning:
-^^^^^^^^^^^^
+------------
+
 
 Where to stand is determined by the daily rotation, which changes everyday. On each side, three brothers spawn on three squares, spawning alphabetically North to South (A North, Z South). They will then aggro onto players, and the melee brothers will run to the players. Because the goal is to stack all brothers in chin radius, the strategy is generally to stand next to Ahrim or Karil and let the melee brothers run to you and stack on top of or next to Ahrim or Karil.
+
 
 
 
@@ -226,6 +263,7 @@ Because AoE and stacking brothers is the most important part of getting efficien
 
 
 Only move when you see one of these things happening:
+
 
 
 
@@ -257,8 +295,10 @@ Only move when you see one of these things happening:
 
 
 
-Particular Rotations (Credit to <@!206832972035260416 for the video guides):
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Particular Rotations (Credit to <@!206832972035260416> for the video guides):
+-----------------------------------------------------------------------------
+
 
 **Notes**
 
@@ -269,6 +309,7 @@ Particular Rotations (Credit to <@!206832972035260416 for the video guides):
 - Make sure your chins are hitting every brother. Chin abilities affect a 3x3 square centered around your target. That is, they will hit any enemy that is on or adjacent to the square you are targeting. Sometimes, brothers will spread around you and you will need to target the center brother instead of any brother that may be on the side.
 
 - If meleeing you always want to start kills at 100% adrenaline and your adrenaline boosting potions are to be used after a kill ends to get you to 100%. (If you’re at 75%+ use an  |enhreplen| . If you’re at 60%-75%, use an  |adrenrenewalflask| . If you’re below 60%, you want to place a dummy and build on it. Remember when doing this you can use defensives and still gain adrenaline while not next to the dummy.
+
 
 
 
@@ -293,6 +334,7 @@ West: <https://youtu.be/9DQL7TEYQ00?t=275>
 Range: Auto →  |mechchin|  3t  |snipe|  /  |needle|  (Activate  |undeadslayer|  as snipe/needle hits) →  |dbow|   |eofspec|  → Improvise
 
 Melee:  |zerk|  → (Activate  |undeadslayer| ) Auto +  |cleave|  → ( |limitless|  +  |ingen| )  |cane|  →  |deci|  →  |sever|  →  |cleave|  /  |backhand|  → improvise
+
 
 
 
@@ -324,11 +366,13 @@ West: <https://youtu.be/9DQL7TEYQ00?t=326>
 
 
 
+
 **Triple Melee**:
 
 Range: Auto →  |mechchin|  3t  |snipe|  /  |needle|  (Activate  |undeadslayer|  as snipe/needle hits) →  |corruptshot| / |frag|  →  |dbow|   |eofspec|  → Improvise
 
 Melee: (Activate  |undeadslayer| ) Auto +  |cleave|  → ( |ingen| )  |cane|  →  |quake|  →  |deci|  →  |cleave|  →  |sever|  /  |backhand|  → improvise
+
 
 
 
@@ -358,6 +402,8 @@ West: <https://youtu.be/9DQL7TEYQ00?t=342>
 
 
 
+
+
 **AK (South)**:
 
 Start on the east tile infront of the door, after your Auto + bleed, walk one tile west.
@@ -382,10 +428,12 @@ West: <https://youtu.be/9DQL7TEYQ00?t=383>
 
 
 
-Miscellaneous Tips and Tricks
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**1. Kill priorities**:
+Miscellaneous Tips and Tricks
+-----------------------------
+
+
+:bold-underline:`1. Kill priorities`:
 
 Generally, the kill priority order goes Karil → Torag → Dharok → Guthan → Ahrim = Verac.
 
@@ -399,7 +447,8 @@ Karil is the highest priority target because his specs are the most dangerous an
 
 
 
-**2. How to keep track of Karil**:
+
+:bold-underline:`2. How to keep track of Karil`:
 
 Karil is relatively dangerous, and it is possible to die because you didn’t see Karil leaving a bomb in the pile. The most consistent way to know where Karil is speccing is to watch for changes in the soul split animation. When Karil flies away to do a spec, the cloud-like animations that travel between the player and target will often track with him. By watching the clouds, you can know if and where Karil is speccing. If they suddenly fly towards somewhere on your side, he’s probably doing a firespin. If they fly towards one of the pillars on the chasm, it’s probably a lightning attack (might still be a bomb!). If they fly somewhere to the other side, you know it’s a bomb. This tip is useful for people on and opposite of Karil’s side.
 
@@ -407,7 +456,8 @@ Karil is relatively dangerous, and it is possible to die because you didn’t se
 
 
 
-**3. Conserving food**:
+
+:bold-underline:`3. Conserving food`:
 
 - Perfect your surges and bladed dives in the tunnels.
 
@@ -423,7 +473,8 @@ Karil is relatively dangerous, and it is possible to die because you didn’t se
 
 
 
-**Helpful Links**
+
+:bold-underline:`Helpful Links`
 
 Kosei's Basic Rotation and Positioning Guide <https://youtu.be/9DQL7TEYQ00>
 
@@ -435,10 +486,5 @@ The daily RotS rotation: <https://tinyurl.com/ok2u4lk>
 
 
 
-To start learning, join Teachingrots: https://discord.gg/HsZCRMg
-
-
-
-Reach out to <@!206832972035260416> or <@!593106625955495947> for more details
 
 

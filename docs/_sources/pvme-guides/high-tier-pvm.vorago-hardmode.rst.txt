@@ -1,19 +1,4 @@
-vorago-hardmode
-===============
-
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -21,55 +6,9 @@ vorago-hardmode
     :width: 1.375em
     :height: 1.375em
 
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/6zSiikv.png| image:: https://i.imgur.com/6zSiikv.png
 
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |blackpouch| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dustrune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sd| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -77,19 +16,29 @@ vorago-hardmode
     :width: 1.375em
     :height: 1.375em
 
-.. |HealOther| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/f5MEPfJ.png| image:: https://i.imgur.com/f5MEPfJ.png
 
 .. |WM| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HealOther| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -97,19 +46,16 @@ vorago-hardmode
     :width: 1.375em
     :height: 1.375em
 
-.. |Onslaught| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+.. |Soul_rune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/oX4n5lR.png| image:: https://i.imgur.com/oX4n5lR.png
 
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. role:: bold-underline
+    :class: bold-underline
 
-.. |Blood_rune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |Law_rune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -121,11 +67,23 @@ vorago-hardmode
     :width: 1.375em
     :height: 1.375em
 
-.. |Dust_rune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Fire_rune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |Onslaught| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -133,15 +91,19 @@ vorago-hardmode
     :width: 1.375em
     :height: 1.375em
 
-.. |Cosmic_rune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soul_rune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Law_rune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+.. |Dust_rune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Dustrune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -149,19 +111,79 @@ vorago-hardmode
     :width: 1.375em
     :height: 1.375em
 
+.. |blackpouch| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |melee| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Hardmode Vorago **
+.. |sd| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/f5MEPfJ.png
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Blood_rune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/yljks1T.png| image:: https://i.imgur.com/yljks1T.png
+
+.. |https://i.imgur.com/wvxkU0u.png| image:: https://i.imgur.com/wvxkU0u.png
+
+.. |Cosmic_rune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Fire_rune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+vorago-hardmode
+===============
+
+:bold-underline:`Hardmode Vorago `
+
+
+
+|https://i.imgur.com/f5MEPfJ.png|
 
 
 
 
 
-**Differences from Normal Mode**
+
+
+
+
+:bold-underline:`Differences from Normal Mode`
 
 - Waterfalls are shorter; hits between 10000-11000
 
@@ -187,8 +209,10 @@ vorago-hardmode
 
 
 
+
 Presets
-^^^^^^^
+-------
+
 
 
 
@@ -198,13 +222,18 @@ Take a yak if the food is needed, and a nihil if more comfortable.
 
 
 
-.. image:: https://i.imgur.com/wvxkU0u.png
+
+|https://i.imgur.com/wvxkU0u.png|
+
+
+
+
 
 
 
 **Experienced Preset**
 
--  |augseissing|   **Seismic singularity** `Flanking 4`
+-  |augseissing|   **Seismic singularity** ``Flanking 4``
 
 -  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
 
@@ -214,11 +243,19 @@ Take a yak if the food is needed, and a nihil if more comfortable.
 
 (Runes for  |bloodbarrage|   |borrowedpower|   |Vuln|   |disrupt|   |sd|   |Cept|   |HealOther| )
 
-.. image:: https://i.imgur.com/6zSiikv.png
+
+
+|https://i.imgur.com/6zSiikv.png|
 
 
 
-**P1**
+
+
+
+
+:bold-underline:`P1`
+
+
 
 
 
@@ -238,7 +275,8 @@ Base should lure Rago to the NE quadrant (instead of the NW quadrant in normal m
 
 
 
-**P2**
+
+:bold-underline:`P2`
 
 Same as P2 NM
 
@@ -248,7 +286,8 @@ Only one of the bomb tanks should go on for bleeds. Aside from this, the bomb ta
 
 
 
-**P3 through P8 for 6+**
+
+:bold-underline:`P3 through P8 for 6+`
 
 The rotations listed below are for 6man and 7man. As team size is scaled down, the DPS requirement per person becomes higher. Strategies for smaller teams are detailed below.
 
@@ -258,19 +297,25 @@ The rotations listed below are for 6man and 7man. As team size is scaled down, t
 
 
 
-P3 - Ceiling Collapse
+
+
+:underline:`P3 - Ceiling Collapse`
 
  |Asphyx|  >  |WM|  >  |Dbreath|  >  |Deto|  >  |Asphyx|  >  |WM| 
 
 
 
-P4 - Scopulus
+
+
+:underline:`P4 - Scopulus`
 
 Do a normal sunshine rotation, using 4TAA Barrage + Dark Form, and prioritizing AoE abilities.
 
 
 
-P5 - Vitalis
+
+
+:underline:`P5 - Vitalis`
 
 Stand MD 
 
@@ -278,13 +323,17 @@ Stand MD
 
 
 
-P6
+
+
+:underline:`P6`
 
  |Onslaught|  > Dummy at End
 
 
 
-P7 - TeamSplit
+
+
+:underline:`P7 - TeamSplit`
 
  |WM|  >  |Asphyx|  >  |Dbreath|  >  |Deto|  
 
@@ -302,13 +351,17 @@ Go to TS and  |WM|  +  |Asphyx|  Out
 
 
 
-P8 - Purple Bomb
+
+
+:underline:`P8 - Purple Bomb`
 
  |Asphyx|  >   |WM|  >  |Dbreath|  > build to 100 while escaping arms,  |Sunshine| 
 
 
 
-**Small Teams Hardmode (courtesy of <@373844901273796608>)**
+
+
+:bold-underline:`Small Teams Hardmode (courtesy of <@373844901273796608>)`
 
 
 
@@ -316,9 +369,11 @@ This section will detail strategies for teams of 4 or 5.
 
 
 
-Mager (Bomb Tank) Preset
 
--  |augseissing|   **Seismic singularity** `Flanking 4`
+
+:underline:`Mager (Bomb Tank) Preset`
+
+-  |augseissing|   **Seismic singularity** ``Flanking 4``
 
 -  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
 
@@ -328,7 +383,9 @@ Mager (Bomb Tank) Preset
 
 (Runes for  |bloodbarrage|   |borrowedpower|   |Vuln|   |disrupt|   |sd|   |Cept|   |HealOther| )
 
-.. image:: https://i.imgur.com/6zSiikv.png
+
+
+|https://i.imgur.com/6zSiikv.png|
 
 
 
@@ -338,21 +395,25 @@ A dummy is brought for either Ceilings, GB, or TS.
 
 
 
-Meleer (Base Tank) Preset
+
+:underline:`Meleer (Base Tank) Preset`
 
 Scythe is used for Green Bomb, P9, P10, and P11. A dummy should be used for shield dome mauling. Flanking can also be used, but the opportunities to flank are very rare.
 
 
 
-`Pouch 1:`  |Blood_rune|   |Body_rune|   |Astral_rune|  
+``Pouch 1:``  |Blood_rune|   |Body_rune|   |Astral_rune|  
 
-`Pouch 2:`  |Dust_rune|   |Fire_rune|   |Water_rune|  
+``Pouch 2:``  |Dust_rune|   |Fire_rune|   |Water_rune|  
 
-`Pouch 3:`  |Cosmic_rune|   |Soul_rune|   |Law_rune|  
+``Pouch 3:``  |Cosmic_rune|   |Soul_rune|   |Law_rune|  
 
 
 
-.. image:: https://i.imgur.com/oX4n5lR.png
+
+|https://i.imgur.com/oX4n5lR.png|
+
+
 
 
 
@@ -362,7 +423,7 @@ Scythe is used for Green Bomb, P9, P10, and P11. A dummy should be used for shie
 
 
 
-Ceilings
+:underline:`Ceilings`
 
 
 
@@ -408,7 +469,8 @@ Build on dummy after phase.
 
 
 
-Scopulus
+
+:underline:`Scopulus`
 
 
 
@@ -432,7 +494,8 @@ Both mage DPSers stand west of the west scop spawn, one debuff west and north, a
 
 
 
-Vitalis
+
+:underline:`Vitalis`
 
 
 
@@ -464,7 +527,8 @@ Hammer, Quake, Hurricane, 188s, off. Build, barge, Assault, 188s, Hurricane or Q
 
 
 
-Green Bomb
+
+:underline:`Green Bomb`
 
 
 
@@ -492,7 +556,8 @@ https://www.youtube.com/watch?v=NgS_YH8PG2A&feature=youtu.be
 
 
 
-Team Split
+
+:underline:`Team Split`
 
 
 
@@ -510,7 +575,8 @@ Barge, Hammer, Assault, Quake, and use 188s. On reflect, voke, build with defens
 
 
 
-The End
+
+:underline:`The End`
 
 
 
@@ -530,7 +596,8 @@ Tag reds (blues if you prefer it, not worth unless going for records). On first 
 
 
 
-P9 - Waterfall and Weekly Special
+
+:underline:`P9 - Waterfall and Weekly Special`
 
 This will be the same as P4 NM, aside from the differences noted above. Clone spawn will immediately asphyx. Pray magic and anticipate or freedom after the 2nd blue out of waterfall.
 
@@ -538,7 +605,8 @@ This will be the same as P4 NM, aside from the differences noted above. Clone sp
 
 
 
-P10
+
+:underline:`P10`
 
 
 
@@ -550,15 +618,17 @@ The general strategy is to use a DPS ultimate at the start, while applying all d
 
 
 
-**Broken TeamSplits (Courtesy of <@185315527571406848>)**
+:bold-underline:`Broken TeamSplits (Courtesy of <@185315527571406848>)`
 
-.. image:: https://i.imgur.com/yljks1T.png
+
+
+|https://i.imgur.com/yljks1T.png|
 
 This diagram shows which team splits will be broken in red, and in tact in blue. This is important for knowing how the TS spec will affect push. The general strategy is for the entire team to tank the TS if it's broken. If you own the Reprisal ability, however, it is a good idea to tank any TS, even ones that aren't broken, assuming your Reprisal is off cooldown.
 
 
 
-**When to Maul P10**
+:bold-underline:`When to Maul P10`
 
 
 
@@ -614,7 +684,8 @@ Mauling reflect on p10 is good for all weeks, this works best with shield dome t
 
 
 
-P11
+
+:underline:`P11`
 
 All adrenaline is drained from the transition between P10 to P11. Otherwise, essentially the same as P10, but with different weekly mechanics present. No constraints on when to maul, simply maul ASAP. Assuming usage of a dummy, you should build to roughly 35% without Shield Dome, or 70% with Shield Dome. Start off by immediately re-applying debuffs (vulnerability, hammer, quake, gstaff, bsa), then build to DPS ultimates. BT's once again alternate between Barricade and Sunshine depending on the special attack.
 
@@ -624,16 +695,11 @@ If Vorago has enough Storm Shard stacks (7+), you can use Shatter while in a DPS
 
 
 
+
+
 For clarifications and explanations reach out to <@373844901273796608>!
 
 
 
-**Learning Hardmode Vorago**
-
-If you're interested in learning Hardmode Vorago, check out our partners at Rockman Discord by clicking the following link! Check out the role information and teaching events channels to get started!
-
-
-
-https://discord.gg/Xr6mpyT
 
 

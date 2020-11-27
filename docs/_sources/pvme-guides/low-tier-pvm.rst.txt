@@ -10,4 +10,4 @@ low-tier-pvm
     low-tier-pvm.giant-mole
     low-tier-pvm.gwd1
     low-tier-pvm.kalphite-queen
-    low-tier-pvm.king-black-dragon  
+    low-tier-pvm.king-black-dragon

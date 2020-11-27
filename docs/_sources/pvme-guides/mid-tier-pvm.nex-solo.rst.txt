@@ -1,27 +1,4 @@
-nex-solo
-========
-
-.. |luckpotion| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -33,82 +10,6 @@ nex-solo
     :width: 1.375em
     :height: 1.375em
 
-.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deadshot| image:: https://cdn.discordapp.com/emojis/535541307666595870.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |shadowtend| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |rapid| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HydrixBakri| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ecb| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbow| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |eofspec| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
     :width: 1.375em
     :height: 1.375em
@@ -117,7 +18,54 @@ nex-solo
     :width: 1.375em
     :height: 1.375em
 
-.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/6gkd8pFJrkg| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/6gkd8pFJrkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/S5MyZhb.png| image:: https://i.imgur.com/S5MyZhb.png
+
+.. |https://i.imgur.com/3qo51kq.png| image:: https://i.imgur.com/3qo51kq.png
+
+.. |piercing| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/5XQ3Dr0.png| image:: https://i.imgur.com/5XQ3Dr0.png
+
+.. |https://i.imgur.com/6uRswgc.png| image:: https://i.imgur.com/6uRswgc.png
+
+.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -125,7 +73,74 @@ nex-solo
     :width: 1.375em
     :height: 1.375em
 
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/1wd3QxC.png| image:: https://i.imgur.com/1wd3QxC.png
+
+.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/GYKu8TG.png| image:: https://i.imgur.com/GYKu8TG.png
+
+.. |ecb| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |rapid| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |shadowtend| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |luckpotion| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/aSCjuD7x_Ig| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/aSCjuD7x_Ig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://i.imgur.com/FbTxmtb.png| image:: https://i.imgur.com/FbTxmtb.png
+
 .. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deadshot| image:: https://cdn.discordapp.com/emojis/535541307666595870.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/rRJqoMs.png| image:: https://i.imgur.com/rRJqoMs.png
+
+.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. |dbow| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -133,18 +148,42 @@ nex-solo
     :width: 1.375em
     :height: 1.375em
 
-.. |piercing| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Solo Nex (Credit to <@!333479049680650241>)**
+.. |HydrixBakri| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/rRJqoMs.png
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+nex-solo
+========
+
+:bold-underline:`Solo Nex (Credit to <@!333479049680650241>)`
+
+
+
+|https://i.imgur.com/rRJqoMs.png|
+
+
+
+
 
 
 
 Introduction
-^^^^^^^^^^^^
+------------
+
+
+
 
 
 
@@ -162,6 +201,7 @@ Nex is a 1x1 NPC and posses very strict softcaps, which mean that any damage ove
 
 
 
+
 Nex's mages have a soft cap that reduces excess damage above 1,000 by a random amount between approximately 80% and 100%. Each mage is combat level 111 with 10,000 health, possesses a max hit of around 850, and are weak to bolts. The mages are static and can only be attacked whenever Nex calls their name. An unusual trait they all share is that they are immune to magic attacks. Cruor's attacks always have 100% accuracy and will heal him for 100 damage regardless of the damage he deals, while Glacies' attacks can freeze players if they aren't using Protect/Deflect Magic; keeping the prayer active will result in all of her attacks missing regardless of the player's armour rating.
 
 
@@ -171,19 +211,28 @@ Nex's mages have a soft cap that reduces excess damage above 1,000 by a random a
 
 
 Presets
-^^^^^^^
+-------
 
 
 
-**Banking Preset**
+
+
+
+:bold-underline:`Banking Preset`
 
 The most important thing is to have a Frozen key + ancient ceremonial for use with your boss portal. A  |luckpotion|  works and can be used here. You can speak to Ashuelot Reis in the Nex bank and pay a one time cost of the Frozen key + ancient ceremonial along with 10m gp to be able to access Nex bank without these items.
 
-.. image:: https://i.imgur.com/FbTxmtb.png
+
+
+|https://i.imgur.com/FbTxmtb.png|
 
 
 
-**Beginner Preset**
+
+
+
+
+:bold-underline:`Beginner Preset`
 
  |vulnbomb|  at start and on blood phase. 
 
@@ -191,11 +240,16 @@ Akrisae body has clearheaded 3/4, and is used to build with escape at start. Thi
 
 
 
-.. image:: https://i.imgur.com/6uRswgc.png
+
+|https://i.imgur.com/6uRswgc.png|
 
 
 
-**Advanced Preset:**
+
+
+
+
+:bold-underline:`Advanced Preset:`
 
 The death lotus chaps have clear headed 4. It is recommended to use lunars for  |disrupt|  during Zaros phase and  |vulnbomb|  start and on blood phase 
 
@@ -207,14 +261,20 @@ The death lotus chaps have clear headed 4. It is recommended to use lunars for  
 
 
 
-.. image:: https://i.imgur.com/1wd3QxC.png
+
+|https://i.imgur.com/1wd3QxC.png|
+
+
 
 
 
 
 
 Mechanics
-^^^^^^^^^
+---------
+
+
+
 
 
 
@@ -222,7 +282,7 @@ Nex has 5 phases; Smoke, Shadow, Blood, Ice, and Zaros. Each phase has 2 special
 
 
 
-**Smoke phase:**
+:bold-underline:`Smoke phase:`
 
 Virus → 5 auto-attacks → No escape → Five auto-attacks → Repeat
 
@@ -230,7 +290,7 @@ Virus → 5 auto-attacks → No escape → Five auto-attacks → Repeat
 
 
 
-**Shadow phase:**
+:bold-underline:`Shadow phase:`
 
 Shadow traps (only if the phased before the virus attack) → Darkness → Shadow traps → 4 auto-attacks → Repeats from the second set of shadow traps
 
@@ -240,7 +300,8 @@ Shadow traps (only if the phased before the virus attack) → Darkness → Shado
 
 
 
-**Blood phase:**
+
+:bold-underline:`Blood phase:`
 
 Siphon summon → 3 auto-attacks → Blood sacrifice → 3 auto-attacks → Repeat
 
@@ -250,7 +311,7 @@ Siphon summon → 3 auto-attacks → Blood sacrifice → 3 auto-attacks → Repe
 
 
 
-**Ice phase:**
+:bold-underline:`Ice phase:`
 
 First special attack (based on phase start) → 3 auto-attacks → Second special attack (based on phase start) → 3 auto-attacks → Repeat
 
@@ -264,7 +325,8 @@ First special attack (based on phase start) → 3 auto-attacks → Second specia
 
 
 
-**Zaros phase:**
+
+:bold-underline:`Zaros phase:`
 
 - Upon the start of this phase, Nex activates Turmoil and heals herself for 33,333 (1/6) of her health to boost it up to 73,333.
 
@@ -276,8 +338,11 @@ Further details on the mechanics can be found here: <https://runescape.wiki/w/Ne
 
 
 
+
+
 Rotations
-^^^^^^^^^
+---------
+
 
 **Make sure to use jas boost**
 
@@ -285,7 +350,9 @@ Rotations
 
 
 
-**Pre-Fight**
+
+
+:bold-underline:`Pre-Fight`
 
 Target Fumus ASAP and start building adrenaline with defensives. Freedom should be first, and Anticipate should be last. Spam click the minion as sometimes when you escape, you won't get adrenaline from anticipate if you don't keep clicking the minion before escape.
 
@@ -297,13 +364,14 @@ Target Fumus ASAP and start building adrenaline with defensives. Freedom should 
 
 
 
-**Smoke Phase**
+
+:bold-underline:`Smoke Phase`
 
 Auto →  |shadowtend|  →  |frag|  (Walk backwards) → DW  |rapid|  →  |needle|  →  |snap|  
 
 
 
-Smoke Phase Notes
+:underline:`Smoke Phase Notes`
 
 1. Vuln bomb right before the kill is about to start.
 
@@ -317,7 +385,9 @@ Use good basics to kill the minion, starting with corruption shot. Save Frag sho
 
 
 
-**Shadow Phase**
+
+
+:bold-underline:`Shadow Phase`
 
 1. Tag with  |frag|   and walk under during phase. 
 
@@ -331,7 +401,7 @@ Use good basics to kill the minion, starting with corruption shot. Save Frag sho
 
 
 
-Shadow Phase Notes 
+:underline:`Shadow Phase Notes` 
 
 1. If you proc a ruby bolt special during rapid, needle into snap without snipe.
 
@@ -345,7 +415,8 @@ Both bleeds then good basics on the minion.
 
 
 
-**Blood Phase**
+
+:bold-underline:`Blood Phase`
 
 1. Phase Nex ASAP to prevent the bleed. 
 
@@ -359,7 +430,7 @@ Both bleeds then good basics on the minion.
 
 
 
-Blood Phase Notes
+:underline:`Blood Phase Notes`
 
 1. Practice your Snipe timing so that it hits right when Nex is attackable, rather than healing her.
 
@@ -379,13 +450,14 @@ Both bleeds, good basics. If Nex is MDing you, it's worth it to run her to stall
 
 
 
-**Ice Phase**
 
-`Contain first`
+:bold-underline:`Ice Phase`
+
+``Contain first``
 
 Auto →  |shadowtend|  →  |snipe|  (Run from Contain) →  |rapid|  →  |snap|  (tag minion ASAP)
 
-`Prison first`
+``Prison first``
 
 1. Run to max attack distance and phase with dazing shot if you have an SGB (This is not super important).  |anti|  during the phase and eat a lot of jellies and grests to get to full HP.
 
@@ -401,7 +473,8 @@ Double bleed + good basics on minion again. Eat lots of jellies and grests. Try 
 
 
 
-**Zaros Phase**
+
+:bold-underline:`Zaros Phase`
 
 You can run Nex if low on food, but don't need to (and will end up walking book procs). It's optimal to do so if you notice her SS is active.
 
@@ -411,7 +484,7 @@ The boss should be dead at this point, congrats!
 
 
 
-Zaros Phase Notes
+:underline:`Zaros Phase Notes`
 
 1. Bleed used first on the minion can be used twice in Zaros (This is why Frag should be first)!
 
@@ -431,7 +504,8 @@ Zaros Phase Notes
 
 
 
-**Last Thoughts from <@!593106625955495947>**
+
+:bold-underline:`Last Thoughts from <@!593106625955495947>`
 
 1. Practice. It takes a long time to pvm well.
 
@@ -445,8 +519,11 @@ Zaros Phase Notes
 
 
 
+
+
 Video Guide
-^^^^^^^^^^^
+-----------
+
 
 This guide was entirely adapt from the fantastic video version made by Glaucon. Check it out!
 
@@ -455,22 +532,23 @@ This guide was entirely adapt from the fantastic video version made by Glaucon. 
 https://youtu.be/6gkd8pFJrkg
 
 
+|https://youtu.be/6gkd8pFJrkg|
 
 
 
-**Eldritch Crossbow Rotation (Credit to <@!333479049680650241>):** 
+:bold-underline:`Eldritch Crossbow Rotation (Credit to <@!333479049680650241>):` 
 
 **Notes:** Make sure to use jas boost and always swap to  |HydrixBakri|  if you get a ruby proc. Also try to equip ring of vigour for your dbow specs.
 
 
 
-**Pre-Fight**
+:bold-underline:`Pre-Fight`
 
  |anti|  +  |vulnbomb|  as Nex says "Fill my soul with smoke!" (~14s)
 
 
 
-**Smoke Phase**
+:bold-underline:`Smoke Phase`
 
  |ecb|   |spec|  → Auto +  |snap|  →  |rapid| 
 
@@ -482,7 +560,8 @@ https://youtu.be/6gkd8pFJrkg
 
 
 
-**Shadow Phase**
+
+:bold-underline:`Shadow Phase`
 
 1. Tag with  |frag|  and surge away ( |freedom|  if not 100% adrenaline)
 
@@ -496,7 +575,8 @@ https://youtu.be/6gkd8pFJrkg
 
 
 
-**Blood Phase**
+
+:bold-underline:`Blood Phase`
 
 1. Tag with  |snap|  (if high adren) or any strong non bleed basic (if low adren)
 
@@ -508,7 +588,7 @@ https://youtu.be/6gkd8pFJrkg
 
 
 
-Blood Phase Notes
+:underline:`Blood Phase Notes`
 
 1. Practice your Snipe timing so that it hits right when Nex is attackable, rather than healing her.
 
@@ -520,9 +600,10 @@ Blood Phase Notes
 
 
 
-**Ice Phase**
 
-`You should ideally phase into contain first`
+:bold-underline:`Ice Phase`
+
+``You should ideally phase into contain first``
 
 1. Tag with  |frag|  →  |surge|  towards Glacies →  |anti|  (Surge + Anti is done while the phase transition is ongoing)
 
@@ -536,7 +617,7 @@ Blood Phase Notes
 
 
 
-Ice Phase Notes
+:underline:`Ice Phase Notes`
 
 1. If you get prisoned before targeting Glacies you can target cycle to attack him.
 
@@ -548,7 +629,8 @@ Ice Phase Notes
 
 
 
-**Zaros Phase**
+
+:bold-underline:`Zaros Phase`
 
 1. Tag with  |mds| 
 
@@ -556,7 +638,7 @@ Ice Phase Notes
 
 
 
-Zaros Phase Notes
+:underline:`Zaros Phase Notes`
 
 1. Disruption shield may be used if you are low on food.
 
@@ -566,8 +648,12 @@ Zaros Phase Notes
 
 
 
+
 Positioning
-^^^^^^^^^^^
+-----------
+
+
+
 
 
 
@@ -577,7 +663,9 @@ Positioning
 
 **Smoke Phase**
 
-.. image:: https://i.imgur.com/S5MyZhb.png
+
+
+|https://i.imgur.com/S5MyZhb.png|
 
 Stand on the west side, once she’s phased click on Fumus and after you corruption shot surge into Fumus and make your way over to the north-western safespot, by the time she’s able to attack you Fumus should be low hp/dead depending on if you got any procs. Try and run her if she’s close to surging through the middle.
 
@@ -585,7 +673,9 @@ Stand on the west side, once she’s phased click on Fumus and after you corrupt
 
 **Shadow Phase**
 
-.. image:: https://i.imgur.com/3qo51kq.png
+
+
+|https://i.imgur.com/3qo51kq.png|
 
 During shadow make your way over to the north-eastern safespot, one method is to phase her on the northern side then once she is phased make your way to the north-eastern safe spot whilst you're killing Umbra so you're not stuck taking shadow bleed damage at the safe spot for long. Once phased, try to stay md/ 2 squares away from nex so she can reach you instantly and begin siphoning.
 
@@ -593,9 +683,12 @@ During shadow make your way over to the north-eastern safespot, one method is to
 
 
 
+
 **Blood Phase**
 
-.. image:: https://i.imgur.com/GYKu8TG.png
+
+
+|https://i.imgur.com/GYKu8TG.png|
 
 During her siphon, make your way over to the eastern safe spot whilst staying at an even number of squares so that if she does run to you, she won’t run underneath you which could delay her attacks which could mean she won’t sacrifice if everything lines up poorly. At the eastern safespot you can click Cruor during your rapid fire and it won’t switch unless your rapid fire ends or Nex phases. After she is phased, make your way over to the south-eastern safespot so she will follow you, allowing no tick loss during the transition from blood to ice as you’ll want to be md to Glacies during the beginning of ice.
 
@@ -603,7 +696,9 @@ During her siphon, make your way over to the eastern safe spot whilst staying at
 
 **Ice Phase**:
 
-.. image:: https://i.imgur.com/5XQ3Dr0.png
+
+
+|https://i.imgur.com/5XQ3Dr0.png|
 
 Once Cruor is dead, surge to Glacies and stand md to him (you’ll need to be md so your mines will explode quicker) once you’ve placed your mines you’re free to run Nex.
 
@@ -617,8 +712,10 @@ Try not to run her too much whilst your book is off cooldown.
 
 
 
+
 Advanced video guide:
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
+
 
 Here is a sample kill using the eldritch cbow and its special attack. Kills following this rotation should average out at around 1:45-1:55. You can also use this as a visual guide for movement during the kill.
 
@@ -627,6 +724,14 @@ https://youtu.be/aSCjuD7x_Ig
 
 
 **Casual Eldritch Nex solo by Bee** - <https://docs.google.com/document/d/1tc8RDoUjmreZMdWcMjipbv-_RC1qmh4UXZcd3_kWCF4>
+
+
+|https://youtu.be/aSCjuD7x_Ig|
+
+
+
+
+
 
 
 

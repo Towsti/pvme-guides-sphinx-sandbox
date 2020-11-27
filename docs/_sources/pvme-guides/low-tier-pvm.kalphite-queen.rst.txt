@@ -1,27 +1,14 @@
-kalphite-queen
-==============
-
-.. |kqhead| image:: https://cdn.discordapp.com/emojis/643163003537063946.png?v=1
+.. |turmoil| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiteegg| image:: https://cdn.discordapp.com/emojis/643163002794672130.png?v=1
+.. |ripperpouch| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/viToGVx.png| image:: https://i.imgur.com/viToGVx.png
 
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -33,11 +20,28 @@ kalphite-queen
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dummy| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+.. |kqhead| image:: https://cdn.discordapp.com/emojis/643163003537063946.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/vUYBEPS.jpg| image:: https://i.imgur.com/vUYBEPS.jpg
+
+.. |Cinderbanes| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -45,19 +49,7 @@ kalphite-queen
     :width: 1.375em
     :height: 1.375em
 
-.. |turmoil| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cinderbanes| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ripperpouch| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |penance| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+.. |dummy| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -65,14 +57,44 @@ kalphite-queen
     :width: 1.375em
     :height: 1.375em
 
-**Kalphite Queen**
+.. |https://i.imgur.com/0SkjjCp.png| image:: https://i.imgur.com/0SkjjCp.png
 
-.. image:: https://i.imgur.com/0SkjjCp.png
+.. |https://i.imgur.com/kS38HMy.png| image:: https://i.imgur.com/kS38HMy.png
+
+.. |penance| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/00EE3i6.png| image:: https://i.imgur.com/00EE3i6.png
+
+.. |https://i.imgur.com/U9MJoZp.png| image:: https://i.imgur.com/U9MJoZp.png
+
+.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |kalphiteegg| image:: https://cdn.discordapp.com/emojis/643163002794672130.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+kalphite-queen
+==============
+
+:bold-underline:`Kalphite Queen`
+
+
+
+|https://i.imgur.com/0SkjjCp.png|
+
+
+
+
 
 
 
 Introduction 
-^^^^^^^^^^^^^
+-------------
+
 
 As a very old boss, Kalphite Queen is relatively unrewarding and relatively simple. Typically only done for pet or collection log, there is no further reason for a high level account to do this boss. The only notable mechanic is her form change. She will spawn into the instance immune to range and magic, and therefore must be melee'd. After the first 40k damage is dealt, she will change forms to her flying form, which is immune to melee. Simply bring two styles, and DPS both forms of the queen down.
 
@@ -85,16 +107,18 @@ More information available here:
 
 
 Drops
-^^^^^
+-----
 
--  |kqhead|   **KQ head** `1/128`
 
--  |kalphiteegg|   **Kalphite egg** `1/2500 (500 threshold)`
+-  |kqhead|   **KQ head** ``1/128``
+
+-  |kalphiteegg|   **Kalphite egg** ``1/2500 (500 threshold)``
 
 
 
 Preset
-^^^^^^
+------
+
 
 Slayer helmet boosts work when on a Kalphites task.
 
@@ -104,7 +128,7 @@ The preset for DKs can be recycled, simply removing a range or mage weapon, as o
 
 Preset with fewer switches:
 
--  |ancientshard|   **Ancient elven ritual shard** `Restores prayer overtime, 5 minute cooldown`
+-  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
 
 -  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
 
@@ -112,17 +136,27 @@ Preset with fewer switches:
 
 
 
-.. image:: https://i.imgur.com/kS38HMy.png
+
+|https://i.imgur.com/kS38HMy.png|
+
+
+
+
 
 
 
 **Advanced preset:**
 
--  |dummy|   **Combat dummy** `Used to stall adrenaline between kill`
+-  |dummy|   **Combat dummy** ``Used to stall adrenaline between kill``
 
 
 
-.. image:: https://i.imgur.com/00EE3i6.png
+
+|https://i.imgur.com/00EE3i6.png|
+
+
+
+
 
 
 
@@ -134,9 +168,16 @@ This method is slower than the active hybrid methods, but it requires little to 
 
 
 
+
 **Action bar:**
 
-.. image:: https://i.imgur.com/U9MJoZp.png
+
+
+|https://i.imgur.com/U9MJoZp.png|
+
+
+
+
 
 
 
@@ -144,7 +185,9 @@ This method is slower than the active hybrid methods, but it requires little to 
 
 Stand here:
 
-.. image:: https://i.imgur.com/vUYBEPS.jpg
+
+
+|https://i.imgur.com/vUYBEPS.jpg|
 
 
 
@@ -160,6 +203,7 @@ For this method it is important to have a few things:
 
 -  |persistentrage|   **Persistent Rage relic**
 
-.. image:: https://i.imgur.com/viToGVx.png
 
+
+|https://i.imgur.com/viToGVx.png|
 

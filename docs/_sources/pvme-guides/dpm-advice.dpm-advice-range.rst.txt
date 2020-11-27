@@ -1,55 +1,4 @@
-dpm-advice-range
-================
-
-.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bindingshot| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |piercing| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ricochet| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |RubyBakri| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |OnyxBakri| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HydrixBakri| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -57,7 +6,13 @@ dpm-advice-range
     :width: 1.375em
     :height: 1.375em
 
-.. |vigour| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/nhRFoZ1.png| image:: https://i.imgur.com/nhRFoZ1.png
+
+.. |bombard| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -65,27 +20,7 @@ dpm-advice-range
     :width: 1.375em
     :height: 1.375em
 
-.. |rapid| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |shadowtend| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bombard| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |tight| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -93,7 +28,73 @@ dpm-advice-range
     :width: 1.375em
     :height: 1.375em
 
+.. |vigour| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |OnyxBakri| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |piercing| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |tight| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/jCHwBgT.png| image:: https://i.imgur.com/jCHwBgT.png
+
+.. |ricochet| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/k_IxIyoZFww| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/k_IxIyoZFww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |rapid| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/ZKwiC3l.png| image:: https://i.imgur.com/ZKwiC3l.png
+
+.. |https://i.imgur.com/6Fmy2MK.png| image:: https://i.imgur.com/6Fmy2MK.png
+
+.. |shadowtend| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/qXlCYVf.png| image:: https://i.imgur.com/qXlCYVf.png
+
 .. |Nex| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bindingshot| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |http://youtu.be/bd64iILPqJM| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/bd64iILPqJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://i.imgur.com/6uH4KVg.mp4| image:: https://i.imgur.com/6uH4KVg.mp4
+
+.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -101,14 +102,41 @@ dpm-advice-range
     :width: 1.375em
     :height: 1.375em
 
+.. |https://i.imgur.com/lENhef2.png| image:: https://i.imgur.com/lENhef2.png
+
+.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/r0FnCrmn034| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/r0FnCrmn034" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |RubyBakri| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HydrixBakri| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+dpm-advice-range
+================
+
 In RuneScape PvM, the meta at the time of writing is about pushing out as much damage in as little time as possible. It is important to understand that good and efficient PvM, especially at the higher tiers, is about squeezing out as much damage as possible in between mechanics. This channel will go over general damage output lessons, ability prioritizations, crafting a rotation, a learning path, common mistakes, and tips and tricks.
 
 
 
 
 
+
 Abbreviations
-^^^^^^^^^^^^^
+-------------
+
 
 DPM - damage per minute, a measure of how much damage is done over a minute time
 
@@ -166,8 +194,10 @@ For more abbreviations, see Evil Lucario's list of common PVM Lingo and Abbrevia
 
 
 
+
 Revo++
-^^^^^^
+------
+
 
 Revolution++ is a combat mode wherein you can toggle the game to automatically activate basic, threshold, and ultimate abilities automatically upon reaching the required adrenaline. While we do not encourage using Revo++ as it limits the amount of control a player has over their own rotation, it is low-input and low maintenance. Revo++ can be desirable for afking, low-effort pvm, or slayer tasks. Here is an ability bar we recommend for Revo++. Using this recommended ability bar with zero player input you can achieve a DPM of roughly 130k.
 
@@ -177,16 +207,31 @@ To toggle on revolution++ and highlight how many abilities to trigger with it, c
 
 
 
-.. image:: https://i.imgur.com/jCHwBgT.png
 
 
 
-.. image:: https://i.imgur.com/6Fmy2MK.png
+
+
+
+|https://i.imgur.com/jCHwBgT.png|
+
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/6Fmy2MK.png|
 
 
 
 Revolution
-^^^^^^^^^^
+----------
+
 
 Revolution (not revo++) is a combat mode wherein basic abilities are used automatically by the game but threshold and ultimate abilities are manually activated. Newer players may find this combat mode helpful starting out as it allows for some control over your rotation but doesn't overburden you with managing basic abilities. Below is an ability bar we recommend to use for revolution. Note that the thresholds and ultimate abilities can be placed in any order as it does not matter where they are on the bar — you will be manually activating them. 
 
@@ -196,14 +241,21 @@ If you are new to using revolution, simply let revo use basic abilities for you.
 
 Following this simple repeating pattern of *Build to 100% -> Death Swiftness - > Thresholds -> Repeat*, one can expect to reach around 150k dpm with low-medium player input.
 
-.. image:: https://i.imgur.com/ZKwiC3l.png
+
+
+|https://i.imgur.com/ZKwiC3l.png|
+
+
+
+
 
 
 
 
 
 Full Manual
-^^^^^^^^^^^
+-----------
+
 
 Full Manual is a combat mode wherein all abilities are manually activated by the player. No automatic inputs from the game means no damaging abilities will be done, therefore this mode requires high input from the player. The benefit of this mode is that it allows for the greatest degree of control over which abilities are used in any given scenario. Most high level pvmers opt to use this combat mode. While it does not matter where you place your abilities on your bar with full manual, you may still find it helpful to organize your bar based on basics to thresholds to ultimate. Refer to the revolution bars as examples.
 
@@ -219,8 +271,10 @@ An exercise to help you here is to only use basics for a full minute of combat o
 
 
 
+
 Ability Prioritizations & Building a Rotation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------
+
 
 Generally speaking, high damaging abilities should be prioritized and used more often than low damaging abilities. However, there's a catch. High damaging abilities often come with long cooldowns. If you use all of the high damaging abilities at once, you will be forced to wait for cooldowns before you may use them again - during which time you are forced to use low damage abilities. To circumvent this, the trick is to use 'filler abilities' - decent damage AND short cooldowns - in-between your high damaging abilities in order to pace your cooldowns.
 
@@ -228,7 +282,13 @@ Generally speaking, high damaging abilities should be prioritized and used more 
 
 See this image for an idea of which abilities should be prioritized based on damage (in a vacuum)
 
-.. image:: https://i.imgur.com/lENhef2.png
+
+
+|https://i.imgur.com/lENhef2.png|
+
+
+
+
 
 
 
@@ -248,8 +308,10 @@ For weapon juggling, you will have access to both Needle and Dazing as filler ab
 
 
 
+
 Measuring DPM - Challenge Gems and Runemetrics
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------
+
 
 A good way to get an understand of where you are in terms of DPM is by placing a challenge gem at Combat Academy at Lumbridge and doing a 5 minute gem. Use your best armor, weapon, supreme or elder overloads, and the best DPS prayers you have available. After 5 minutes, divide your score by 5 to figure out your DPM. For example, a 750,000 score on a gem means 150k DPM.  From here, it becomes easier to understand where your focus should lie as you progress up the DPM ladder.
 
@@ -261,27 +323,28 @@ You may also use Runemetrics to measure your DPM. Simply set the mode to stopwat
 
 
 
+
 Rules for a 5 minute challenge gem at dummies:
 
- • Dummy must be in normal mode
+ - Dummy must be in normal mode
 
- • 0% adrenaline start
+ - 0% adrenaline start
 
- • No aura
+ - No aura
 
- • No Vulnerability
+ - No Vulnerability
 
- • No familiar/dreadnips
+ - No familiar/dreadnips
 
- • No weapon poison or Cinderbanes
+ - No weapon poison or Cinderbanes
 
- • No active pocket slot item
+ - No active pocket slot item
 
- • No ruby bakriminel bolts
+ - No ruby bakriminel bolts
 
- • No Amulet of Zealots
+ - No Amulet of Zealots
 
- • AoE damage will be subtracted
+ - AoE damage will be subtracted
 
 
 
@@ -289,7 +352,9 @@ Here's an example of what should be brought to DPM practice with challenge gems.
 
 Other items to consider bringing if you have them are: planted feet switch, flanking switch, lunging switch, and powerburst of overkill. 
 
-.. image:: https://i.imgur.com/nhRFoZ1.png
+
+
+|https://i.imgur.com/nhRFoZ1.png|
 
 
 
@@ -299,31 +364,31 @@ These values are for referential purposes and assume you are using at least T90 
 
 
 
- • Below 750k: *Beginner.* Your DPS is likely not good enough to deal with most higher end boss mechanics. Don't get discouraged if you're at this point; all it takes is practice and experience.
+ - Below 750k: *Beginner.* Your DPS is likely not good enough to deal with most higher end boss mechanics. Don't get discouraged if you're at this point; all it takes is practice and experience.
 
 
 
- • 750k: *Low.* This is close to the highest point you can reach while still heavily relying on Revolution. At this point, you should consider learning to full manual. It may take while to get anywhere with it, but it is very rewarding in the end.
+ - 750k: *Low.* This is close to the highest point you can reach while still heavily relying on Revolution. At this point, you should consider learning to full manual. It may take while to get anywhere with it, but it is very rewarding in the end.
 
 
 
- • 800k: *Mid-low.* While still not great DPS, it is likely good enough for casual kills at most end game bosses.
+ - 800k: *Mid-low.* While still not great DPS, it is likely good enough for casual kills at most end game bosses.
 
 
 
- • 850k: *Mid-high.* A decent value, easily achievable by adding switches to a good base rotation.
+ - 850k: *Mid-high.* A decent value, easily achievable by adding switches to a good base rotation.
 
 
 
- • 900k: *High.* This requires a very solid rotation. Most end game PvMers sit at this value. You may want to consider upgrading your gear at this point if you're still at t90s/t95s.
+ - 900k: *High.* This requires a very solid rotation. Most end game PvMers sit at this value. You may want to consider upgrading your gear at this point if you're still at t90s/t95s.
 
 
 
- • 950k: *Very high.* If you're here, it means you just need to iron out the finer details in your rotation to advance.
+ - 950k: *Very high.* If you're here, it means you just need to iron out the finer details in your rotation to advance.
 
 
 
- • 1000k+: *Top-end.* You're very well off. There's always room for improvement, but you're close to the damage cap.
+ - 1000k+: *Top-end.* You're very well off. There's always room for improvement, but you're close to the damage cap.
 
 
 
@@ -333,8 +398,10 @@ Courtesy of <@269233963460067340> and thanks to Boss School!
 
 
 
+
 Bakriminel Bolts
-^^^^^^^^^^^^^^^^
+----------------
+
 
 
 
@@ -364,15 +431,20 @@ Note: Ruby bak bolts are banned from challenge gems as its difficult accurately 
 
 
 
+
 Learning Path
-^^^^^^^^^^^^^
+-------------
+
+
+
 
 
 
 
 
 110k/120k DPM
-^^^^^^^^^^^^^
+-------------
+
 
 At this stage, it is likely that there's a fundamental lack of understanding regarding how to build a rotation, and when to perform certain abilities. Starting out, it's recommended to use the following Revolution bar. Remember to use Death's Swiftness |DeathsSwift|  when it is off cooldown (Ult once every minute), and use a ring of vigour |vigour|  switch and an adrenaline potion |replen| . It is extremely important to learn how to cancel channels at this stage. Otherwise your DPS will suffer greatly.
 
@@ -380,7 +452,13 @@ At this stage, it is likely that there's a fundamental lack of understanding reg
 
 Revolution bar
 
-.. image:: https://i.imgur.com/ZKwiC3l.png
+
+
+|https://i.imgur.com/ZKwiC3l.png|
+
+
+
+
 
 
 
@@ -388,7 +466,9 @@ Revolution bar
 
 An Example of Cancelled v. Uncancelled channeling (Snipe)
 
-.. image:: https://i.imgur.com/6uH4KVg.mp4
+
+
+|https://i.imgur.com/6uH4KVg.mp4|
 
 
 
@@ -400,8 +480,11 @@ https://www.youtube.com/watch?v=unCtj7IosVA
 
 
 
+
+
 130k/140k DPM
-^^^^^^^^^^^^^
+-------------
+
 
 At this stage it is very important to learn a good ultimate rotation. It is encouraged in a 5 minute gem to do 5 Death's Swiftness. Learning which thresholds to prioritize and use in an ultimate is extremely important to maximize your dpm. If you haven't already, you should get a planted feet switch in order to gain +8 seconds on your Death's Swiftness. It is critical to focus on being able to fit in 6 thresholds in a Swiftness with an Adrenaline Potion, and 5 thresholds without an Adrenaline potion. Not having a planted feet switch will also cut your ultimates short by 1 threshold, generally speaking. It is also useful to start thinking about how strong certain abilities are by reading through the information in <#562827048914124800>. 
 
@@ -435,8 +518,14 @@ Snapshot  |snap|  > Shadow Tendrils  |shadowtend|  > Rapid Fire  |rapid|  > Snap
 
 
 
+
+
+
+
+
 150k DPM
-^^^^^^^^
+--------
+
 
 At this stage, pushing to the next will almost certainly require the usage of a Planted Feet switch, as well as a Flanking switch. Start incorporating these switches if you haven't already. Once flanking can be used, the threshold prioritization in ultimates is as follows:
 
@@ -480,8 +569,14 @@ Furthermore, you may benefit from taking a look at a list of common mistakes mad
 
 
 
+
+
+
+
+
 160k DPM
-^^^^^^^^
+--------
+
 
 Once you're at 160k DPM, reaching higher levels of DPM will require either lots of min-max optimizations, lots of luck (not worth focusing on), or incorporating weapon switching. 
 
@@ -505,7 +600,15 @@ From this point onwards we will also incorporate ways to force auto attacks.
 
 From this point onwards reaching higher DPM benchmarks will require a strong understanding of basic prioritization, cooldowns, and adrenaline management. As such, it is entirely practice and receiving feedback. Familiarizing yourself with ability prioritizations will be invaluable at this stage.
 
-.. image:: https://i.imgur.com/qXlCYVf.png
+
+
+|https://i.imgur.com/qXlCYVf.png|
+
+
+
+
+
+
 
 
 
@@ -514,7 +617,8 @@ From this point onwards reaching higher DPM benchmarks will require a strong und
 
 
 170/180k+ DPM
-^^^^^^^^^^^^^
+-------------
+
 
 Congratulations! This is about as far as you can go without weapon switching.
 
@@ -542,8 +646,10 @@ As always, take a look through <#622623001694699560> for common mistakes. Even f
 
 
 
+
 Examples of Good Rotations
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
+
 
 
 
@@ -555,8 +661,10 @@ https://i.imgur.com/zwqMwgt.png
 
 
 
+
 Examples of Good Challenge Gems
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
+
 
 
 
@@ -574,14 +682,18 @@ Weapon Switching, No Bolts, No Mutated Dazing Shot, No Sigil, Courtesy of <@!236
 
 https://youtu.be/r0FnCrmn034
 
+|https://youtu.be/r0FnCrmn034|
+
 
 
 
 
 Niche Tricks
-^^^^^^^^^^^^
+------------
+
 
 There are some niche tricks available for increasing DPM. These tricks are generally meant for people with a very strong understanding of the combat system in RuneScape, and are encouraged only in cases where you're hovering at the 160-170k DPM threshold.
+
 
 
 
@@ -593,9 +705,9 @@ This technique allows using Snipe in 3 ticks as opposed to its intended 4 tick d
 
 
 
- • Method requires Ability Queuing to be turned ON. 
+ - Method requires Ability Queuing to be turned ON. 
 
- • Method requires Nightmare Gauntlets  |nightmaregauntlets|  to be equipped.
+ - Method requires Nightmare Gauntlets  |nightmaregauntlets|  to be equipped.
 
 
 
@@ -604,6 +716,8 @@ Simply use Snipe, then queue up any other ability prior to GCD. For example: Sni
 
 
 Demonstration: http://youtu.be/bd64iILPqJM
+
+|http://youtu.be/bd64iILPqJM|
 
 
 
@@ -615,21 +729,23 @@ This technique allows you to retain the Needle Strike's 7% damage bonus buff for
 
 
 
- • Requires 2 targets in order to work, normally a boss mob/dummy and then the boss itself
+ - Requires 2 targets in order to work, normally a boss mob/dummy and then the boss itself
 
- • Needle striking the 1st target (dummy/boss mob) and then targeting the 2nd target (the boss) and ammo swapping/mainhand swapping essentially allows the needle buff to persist past just the first attack you deal, instead it will last for 17 ticks meaning any non bleed ranged damage you deal for the next 17 ticks on that target will have the 7% needle buff.
+ - Needle striking the 1st target (dummy/boss mob) and then targeting the 2nd target (the boss) and ammo swapping/mainhand swapping essentially allows the needle buff to persist past just the first attack you deal, instead it will last for 17 ticks meaning any non bleed ranged damage you deal for the next 17 ticks on that target will have the 7% needle buff.
 
- • Dealing damage to the target you originally needle striked will cancel the 10 second buff
+ - Dealing damage to the target you originally needle striked will cancel the 10 second buff
 
- • If you do not swap mainhands or ammo after needle striking the first target you will get no buff at all until you do so, the timer begins as soon as you needle the first target
+ - If you do not swap mainhands or ammo after needle striking the first target you will get no buff at all until you do so, the timer begins as soon as you needle the first target
 
- • If you switch targets before needle hits you don't have to switch mh or bolts, but if needle hits before you switch targets then you need to switch mh or bolts.
+ - If you switch targets before needle hits you don't have to switch mh or bolts, but if needle hits before you switch targets then you need to switch mh or bolts.
 
- • Useful for places like vorago p3s/p5s where you would have a dummy down and needle strike it prior to releasing thresholds on vorago, can also be used at AoD by needle striking reaver/pillars/amalgs
+ - Useful for places like vorago p3s/p5s where you would have a dummy down and needle strike it prior to releasing thresholds on vorago, can also be used at AoD by needle striking reaver/pillars/amalgs
 
- • Can see that the entire rapidfire has the needle strike buff instead of just the first two hits, the following 3 abilities after the rapidfire would also have the needle strike buff as well
+ - Can see that the entire rapidfire has the needle strike buff instead of just the first two hits, the following 3 abilities after the rapidfire would also have the needle strike buff as well
 
 Demonstration: https://youtu.be/k_IxIyoZFww
+
+|https://youtu.be/k_IxIyoZFww|
 
 
 
@@ -639,14 +755,23 @@ Demonstration: https://youtu.be/k_IxIyoZFww
 
 Certain weapon types for ranged can cause abilities that normally take 2 ticks to deal damage to only take 1 tick to deal damage depending on your distance from your target. These abilities include  |snap| ,  |rapid| ,  |piercing| ,  |ricochet| , dazing |dazing| . Slow abilities which are unaffected include:  |needle| ,  |bindingshot| , and  |tight| .
 
- • Javelins (DW Override only mainhand required) cause piercing and ricochet to hit fast from md-1sq away, snapshot and rapidfire are only fast in md.
+ - Javelins (DW Override only mainhand required) cause piercing and ricochet to hit fast from md-1sq away, snapshot and rapidfire are only fast in md.
 
- • Darts (DW Override only mainhand required) cause piercing and ricochet to hit fast from md-4sq away, snapshot and rapidfire are fast from md-3sq away.
+ - Darts (DW Override only mainhand required) cause piercing and ricochet to hit fast from md-4sq away, snapshot and rapidfire are fast from md-3sq away.
 
- • Knives (DW Override only mainhand required) cause piercing and ricochet to hit fast from md only.
+ - Knives (DW Override only mainhand required) cause piercing and ricochet to hit fast from md only.
 
- • Blowpipe (2H Override) causes dazing shot to hit fast from md-1sq away, rapid and snap are both fast from md-3sq away, and ricochet/piercing are fast from md-4sq away.
+ - Blowpipe (2H Override) causes dazing shot to hit fast from md-1sq away, rapid and snap are both fast from md-3sq away, and ricochet/piercing are fast from md-4sq away.
 
- • You can override your dualwield/2h weapons with these weapon types allowing you to take advantage of them causing certain abilities to hit a tick faster.
+ - You can override your dualwield/2h weapons with these weapon types allowing you to take advantage of them causing certain abilities to hit a tick faster.
+
+
+
+
+
+
+
+
+
 
 

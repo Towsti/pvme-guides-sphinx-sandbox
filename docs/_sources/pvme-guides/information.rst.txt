@@ -5,4 +5,4 @@ information
     :maxdepth: 2
 
     information.contribution-quick-start
-    information.mastery-system-reqs  
+    information.mastery-system-reqs

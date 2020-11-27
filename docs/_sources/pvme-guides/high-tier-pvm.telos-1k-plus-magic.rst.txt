@@ -1,43 +1,4 @@
-telos-1k-plus-magic
-===================
-
-.. |tectlegs| image:: https://cdn.discordapp.com/emojis/643849257962438656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |turt4| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ch4| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ent| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -45,39 +6,7 @@ telos-1k-plus-magic
     :width: 1.375em
     :height: 1.375em
 
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -85,35 +14,11 @@ telos-1k-plus-magic
     :width: 1.375em
     :height: 1.375em
 
-.. |tsunami| image:: https://cdn.discordapp.com/emojis/535533809995874304.png?v=1
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |NaturalInstinct| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodblitz| image:: https://cdn.discordapp.com/emojis/535616247807868938.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -121,79 +26,7 @@ telos-1k-plus-magic
     :width: 1.375em
     :height: 1.375em
 
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |iceblitz| image:: https://cdn.discordapp.com/emojis/535613865912696883.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |debil| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |conc| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gstaff| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |meta| image:: https://cdn.discordapp.com/emojis/535533811304497183.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spiritualprayer| image:: https://cdn.discordapp.com/emojis/651079281882955787.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |reflect| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -201,23 +34,27 @@ telos-1k-plus-magic
     :width: 1.375em
     :height: 1.375em
 
-.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiterebounder| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |NaturalInstinct| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |turt4| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -225,20 +62,206 @@ telos-1k-plus-magic
     :width: 1.375em
     :height: 1.375em
 
-.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |bloodblitz| image:: https://cdn.discordapp.com/emojis/535616247807868938.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**High Enrage Telos (1k to 4k)**
+.. |https://youtu.be/RxLWEFOH38c| raw:: html
 
-.. image:: https://i.imgur.com/LD4SNF3.png
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RxLWEFOH38c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |reflect| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |kalphiterebounder| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |meta| image:: https://cdn.discordapp.com/emojis/535533811304497183.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sonic| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |tectlegs| image:: https://cdn.discordapp.com/emojis/643849257962438656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |debil| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/lwzNwocdlNU| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/lwzNwocdlNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/LD4SNF3.png| image:: https://i.imgur.com/LD4SNF3.png
+
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/lGSbFlz.png| image:: https://i.imgur.com/lGSbFlz.png
+
+.. |ch4| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |conc| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gstaff| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ent| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spiritualprayer| image:: https://cdn.discordapp.com/emojis/651079281882955787.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |iceblitz| image:: https://cdn.discordapp.com/emojis/535613865912696883.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |tsunami| image:: https://cdn.discordapp.com/emojis/535533809995874304.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+telos-1k-plus-magic
+===================
+
+:bold-underline:`High Enrage Telos (1k to 4k)`
+
+
+
+|https://i.imgur.com/LD4SNF3.png|
+
+
 
 
 
 
 
 Introduction
-^^^^^^^^^^^^
+------------
+
 
 In general, this guide assumes VERY strong understanding of everything found in <#534571389487808534> and <#568252864170819605>, and also assumes usage of ancients and spellbook swap (mostly for disruption shield).
 
@@ -246,7 +269,8 @@ In general, this guide assumes VERY strong understanding of everything found in 
 
 
 
-Notable Enrage Checkpoints and Changes past 999
+
+:underline:`Notable Enrage Checkpoints and Changes past 999`
 
 **1000%** P4 one rock will fall, P5 multiple rocks will fall, immortality no longer works P5, and Telos will freedom stuns and binds with a 16 tick cooldown
 
@@ -262,8 +286,12 @@ Notable Enrage Checkpoints and Changes past 999
 
 
 
+
 Preset
-^^^^^^
+------
+
+
+
 
 
 
@@ -277,14 +305,21 @@ The Tectonic Legs  |tectlegs|  are augmented with Turtling 4  |turt4|  and Clear
 
 (Runes for  |bloodbarrage|   |icebarrage|   |borrowedpower|   |disrupt|   |Veng| )
 
-.. image:: https://i.imgur.com/lGSbFlz.png
+
+
+|https://i.imgur.com/lGSbFlz.png|
+
+
 
 
 
 
 
 Phase 1
-^^^^^^^
+-------
+
+
+
 
 
 
@@ -298,10 +333,15 @@ P1 remains mostly unchanged from 999%. The only thing to be aware of as you star
 
 Video of south and west walk respectively here: https://youtu.be/lwzNwocdlNU
 
+|https://youtu.be/lwzNwocdlNU|
+
 
 
 Phase 2
-^^^^^^^
+-------
+
+
+
 
 
 
@@ -315,8 +355,10 @@ Again, very little will change during Phase 2. It's important to be aware that d
 
 
 
+
 Phase 3
-^^^^^^^
+-------
+
 
  |bloodblitz|   |sonic|  →  |meta|  →  |iceblitz|   |wrack|  →  |comb|  →  |bloodblitz|   |corruptblast|  →  |dbreath|  →  |limitless|   |iceblitz|   |wm|  →  |deto|  (3t) →  |iceblitz|   |deto|   |gstaff|  (or  |asphyx|  if low adren) →  |wrack|  (+ drink  |spiritualprayer|  on tick)
 
@@ -324,10 +366,13 @@ Phase 3
 
 
 
+
 Phase 4
-^^^^^^^
+-------
+
 
 Should aim to minimise number of autos here, similar to <#534571389487808534>. Phase start varies greatly depending on how much adren you have, but should  |adrenrenewal|  and aim to  |swh|   |spec|  at some point before going into the font.
+
 
 
 
@@ -353,9 +398,13 @@ Second Font:
 
 Optionally run the golems around the centre before Entangling  |ent|  + surging  |surge|  to enter the 3rd font. This allows you to guarantee high hp and adren start to P5. You can see this here: https://youtu.be/RxLWEFOH38c?t=228 (Courtesy of <@231624498435194880>)
 
+|https://youtu.be/RxLWEFOH38c|
 
 
-_ _
+
+
+
+
 
 
 
@@ -369,8 +418,10 @@ Third font rotation:
 
 
 
+
 Phase 5
-^^^^^^^
+-------
+
 
 Phase 5 is a phase where significant changes occur at 1k. Most importantly, immortality will no longer block the instakill, so you will need to either 0 font or font minions. Also due to the number of rocks that fall and how much damage the virus deals, it becomes almost a requirement to Barricade  |cade| . An armour switch with Turtling 4  |turt4|  and Clear Headed 4  |ch4|  is heavily recommended to allow you to Barricade  |cade|  with your Kalphite Rebounder  |kalphiterebounder| .
 
@@ -379,6 +430,7 @@ Phase 5 is a phase where significant changes occur at 1k. Most importantly, immo
 **Rotations:**
 
 Start with  |bloodblitz|   |gstaff|   |spec|  →  |kalphiterebounder|   |debil|  → ...
+
 
 
 
@@ -398,6 +450,7 @@ Start with  |bloodblitz|   |gstaff|   |spec|  →  |kalphiterebounder|   |debil|
 
 
 
+
 **Backbeam**
 
      |corruptblast|  →  |res|  →  |ent|   |impact|  →  |bd|   |Sunshine|  (4 squares from Telos, run to the back edge of your sun to lure rocks) →  |bloodbarrage|   |dbreath|  →  |wm|   |surge|  →  |bloodbarrage|  (2h)  |asphyx|  → (2h)  |tsunami|  →  |sgb|   |ingen|   |spec|  →  |deto|  (3t) →  |bloodbarrage|   |deto|   |gstaff|   |spec|  →  |reflect|  →  |revenge|  →  |cade|  ( |revenge|  →  |anti|  →  |cade|  if reds)
@@ -405,5 +458,14 @@ Start with  |bloodblitz|   |gstaff|   |spec|  →  |kalphiterebounder|   |debil|
 
 
 Note if you don't Bladed Dive  |bd|  to backbeam you'll have to  |dbreath|  →  |Sunshine|  instead.
+
+
+
+
+
+
+
+
+
 
 

@@ -1,16 +1,23 @@
-quick-start
-===========
-
 .. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. role:: bold-underline
+    :class: bold-underline
 
 .. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
+quick-start
+===========
+
 Money Making
-^^^^^^^^^^^^
+------------
+
 
 - Assumes no main.
 
@@ -22,13 +29,13 @@ The purpose of this section is to explain some methods in which you can make mon
 
 
 
-`First:` kill chickens for ~50-100k gp.
+``First:`` kill chickens for ~50-100k gp.
 
 
 
-Shop Runs
+:underline:`Shop Runs`
 
-• Rush to Fremennik Isles requirements for yak hide runs (~500k/day, requires 50k gp to do).
+- Rush to Fremennik Isles requirements for yak hide runs (~500k/day, requires 50k gp to do).
 
 Stats needed (include pre-requisite stats):
 
@@ -44,13 +51,13 @@ Stats needed (include pre-requisite stats):
 
 
 
-• Buying feathers
+- Buying feathers
 
     At first you will only be able to buy from: Lumbridge fishing shop, Port Sarim Fishing shop, and the Shantay Pass.
 
 
 
-Vis Wax
+:underline:`Vis Wax`
 
 Requires: 50 Runecrafting
 
@@ -62,7 +69,7 @@ It is recommended to use cheap runes to obtain vis wax. Try to use any of the fo
 
 
 
-Skilling
+:underline:`Skilling`
 
 
 
@@ -82,7 +89,8 @@ Skilling
 
 
 
-Other
+
+:underline:`Other`
 
 
 
@@ -96,7 +104,7 @@ Other
 
 
 
-**Training**
+:bold-underline:`Training`
 
 -Assumes you are doing the money making methods mentioned prior **AND** that you will start doing some form of bossing when your stats are adequate enough.
 
@@ -114,7 +122,7 @@ The goal is for you to end up with the following stats: 99 combat skills; 99 inv
 
 
 
-Combat
+:underline:`Combat`
 
 
 
@@ -132,7 +140,9 @@ Notes:
 
 
 
-_ _
+
+
+
 
 **For ALL COMBAT**
 
@@ -154,21 +164,21 @@ Note: It is important to always make use of the highest tier halberd you are abl
 
 
 
-`1-30:` Do *Waterfall Quest*.
+``1-30:`` Do *Waterfall Quest*.
 
-`30-36:` [**Attack only**]: Do *The Fight Arena*.
+``30-36:`` [**Attack only**]: Do *The Fight Arena*.
 
-`30-40:` Kill Trolls in Burthope Caves.
+``30-40:`` Kill Trolls in Burthope Caves.
 
-`40-60:` Kill Ghouls outside the Morytania Mauseleum.
+``40-60:`` Kill Ghouls outside the Morytania Mauseleum.
 
 Do: *Regicide* for access to the Dragon Halberd.
 
-`60-90:` Wilderness Abyss.
+``60-90:`` Wilderness Abyss.
 
     -Alternatively: 70-90: Guthans at Hellhounds.
 
-`90-99:` Either Wilderness Abyss or Waterfiends.
+``90-99:`` Either Wilderness Abyss or Waterfiends.
 
 
 
@@ -186,17 +196,19 @@ Note: Unlock  |corruptshot|  ability ASAP.
 
 
 
-`1-40:` Kill Trolls in Burthope Caves.
+``1-40:`` Kill Trolls in Burthope Caves.
 
-`40-60:` Kill Ghouls outside the Morytania Mausoleum.
+``40-60:`` Kill Ghouls outside the Morytania Mausoleum.
 
-`60-90:` Wilderness Abyss with chinchompas.
+``60-90:`` Wilderness Abyss with chinchompas.
 
-`90-99:` Waterfiends in Ancient Cavern (Make sure to pick up all crimson and blue charms, and some gold charms).
+``90-99:`` Waterfiends in Ancient Cavern (Make sure to pick up all crimson and blue charms, and some gold charms).
 
 
 
-_ _
+
+
+
 
 **Magic**
 
@@ -204,29 +216,31 @@ Note: Unlock  |corruptblast|  ability ASAP.
 
 
 
-`1-40:` Kill Trolls in Burthope Caves.
+``1-40:`` Kill Trolls in Burthope Caves.
 
 Note: At 30 magic you have the magic level for Evil Dave's Big day out, it is recommended to do this quest should you have the stats as it gives 50,000 magic experience.
 
-`40-60:` Kill Ghouls outside the Morytania Mausoleum.
+``40-60:`` Kill Ghouls outside the Morytania Mausoleum.
 
-`60-90:` Wilderness Abyss.
+``60-90:`` Wilderness Abyss.
 
-`90-99:` Waterfiends in Ancient Cavern (Make sure to pick up all crimson and blue charms, and some gold charms).
+``90-99:`` Waterfiends in Ancient Cavern (Make sure to pick up all crimson and blue charms, and some gold charms).
 
 
 
 **Prayer**
 
-`1-27:` Do: *Restless Ghost*; *Priest in Peril*; *One Piercing Note*, and then *God Statues* monthly d&d.
+``1-27:`` Do: *Restless Ghost*; *Priest in Peril*; *One Piercing Note*, and then *God Statues* monthly d&d.
 
-`27-95:` Dragon bones on gilded altar with 2 lit burners OR wilderness chaos altar (this should cost ~70m).
+``27-95:`` Dragon bones on gilded altar with 2 lit burners OR wilderness chaos altar (this should cost ~70m).
 
 Note: Once you reach 70 prayer you can make use of the Piety variants of prayers, allowing you access to a relatively decent damage-boosting prayer to start bossing with. It is recommended to do this so you can fund 95 prayer more easily.
 
 
 
-_ _
+
+
+
 
 **Summoning**
 
@@ -240,23 +254,23 @@ Note: Charming potions increase the number of charms dropped per kill by 1 for e
 
 
 
-`1-4:` Do *Wolf Whistle*
+``1-4:`` Do *Wolf Whistle*
 
-`4-16:` Make Dreadfowls
+``4-16:`` Make Dreadfowls
 
-`16-32:` Make Granite Crabs
+``16-32:`` Make Granite Crabs
 
-`32-46:` Make Honeybadgers
+``32-46:`` Make Honeybadgers
 
-`46-49:` Make Pyrelords
+``46-49:`` Make Pyrelords
 
-`49-61:` Make Bloated Leeches
+``49-61:`` Make Bloated Leeches
 
-`61-64:` Make Smoke Devils or Bloated Leeches
+``61-64:`` Make Smoke Devils or Bloated Leeches
 
-`64-74:` Make Stranger Plants or Smoke Devils
+``64-74:`` Make Stranger Plants or Smoke Devils
 
-`74-87:` Make Granite Lobsters
+``74-87:`` Make Granite Lobsters
 
 
 
@@ -272,13 +286,14 @@ Note: Always make use of portable wells when making potions for the +10% experie
 
 
 
-`1-84:` Do *Warbands* daily
+``1-84:`` Do *Warbands* daily
 
-`84-88:` Adrenaline Potions
+``84-88:`` Adrenaline Potions
 
-`88-96:` Make ~3350 of each extreme [Should that not be enough, just make some more adrenaline potions OR more extremes of equal amounts until you hit 96]
+``88-96:`` Make ~3350 of each extreme [Should that not be enough, just make some more adrenaline potions OR more extremes of equal amounts until you hit 96]
 
-`96-99:` Overloads
+``96-99:`` Overloads
+
 
 
 
@@ -296,25 +311,25 @@ Note: You can join a clan and make use of the weaving loom there for some crafti
 
 **Slow but free**:
 
-`1-80:` Dungeoneering Crafting - This method involves crafting either the magic or range armour in dungeoneering, selling that to smuggler, buying more supplies then repeating.
+``1-80:`` Dungeoneering Crafting - This method involves crafting either the magic or range armour in dungeoneering, selling that to smuggler, buying more supplies then repeating.
 
 
 
 **Slow but cheap**
 
-`1-80:` Making the highest tier urn that you can.
+``1-80:`` Making the highest tier urn that you can.
 
 
 
 **Fast but expensive**
 
-`20-80:` Cutting gems (sapphire, rubies, emeralds, diamonds).
+``20-80:`` Cutting gems (sapphire, rubies, emeralds, diamonds).
 
-`63-80:` Making dragonhide armour.
+``63-80:`` Making dragonhide armour.
 
 
 
-Divination
+:underline:`Divination`
 
 *80 is needed for invention*
 
@@ -324,7 +339,7 @@ Divination
 
     Note: You want to start doing Caches ASAP [At low level do them on legacy worlds, as there will be fewer people so you can Cres more often]
 
-_ _
+
 
 **Smithing**
 
@@ -332,17 +347,17 @@ _ _
 
 
 
-`1-30:` Do *The Knight's Sword* then make steel platebodies
+``1-30:`` Do *The Knight's Sword* then make steel platebodies
 
-`30-40:` Make mithril platebodies
+``30-40:`` Make mithril platebodies
 
-`40-50:` Make adamant platebodies
+``40-50:`` Make adamant platebodies
 
-`50-60:` Make rune platebodies
+``50-60:`` Make rune platebodies
 
-`60-70:` Make orichalkum platebodies
+``60-70:`` Make orichalkum platebodies
 
-`70-80:` Make necrite platebodies
+``70-80:`` Make necrite platebodies
 
 
 
@@ -354,24 +369,15 @@ Note: You are able to use invention potions to boost and discover blueprints for
 
 
 
-`1-4:` Do invention tutorial
+``1-4:`` Do invention tutorial
 
-`4-27:` Research lvl 5 max items, then augment t70-75 gear, black salamanders are relatively cheap, then kill waterfiends and then disassemble when it hits level 5
+``4-27:`` Research lvl 5 max items, then augment t70-75 gear, black salamanders are relatively cheap, then kill waterfiends and then disassemble when it hits level 5
 
-`27-60:` Research lvl 10 max items, then disassemble items once they hit level 10
+``27-60:`` Research lvl 10 max items, then disassemble items once they hit level 10
 
-`60-99/120:` Either augment relatively cheap halberd/staff weapons and go to wilderness abyss to level (or abyssal demons if you have the slayer level) and disassemble at level 10 OR Augment a relatively expensive (t80+) weapon and level it to 12 then siphon. Item experience is directly tied to combat experience, so high combat xp training methods such as ED3 are recommended, or afking at abyssal demons should you have trained slayer enough.
-
-
-
-**Quests**
+``60-99/120:`` Either augment relatively cheap halberd/staff weapons and go to wilderness abyss to level (or abyssal demons if you have the slayer level) and disassemble at level 10 OR Augment a relatively expensive (t80+) weapon and level it to 12 then siphon. Item experience is directly tied to combat experience, so high combat xp training methods such as ED3 are recommended, or afking at abyssal demons should you have trained slayer enough.
 
 
 
-For a breakdown of quests you should focus on getting done, read them over in <#689234925064290323>. However, you should especially be focused on doing the *The Temple at Senntisten*, as it unlocks curses.
-
-
-
-Moreover, it is worth noting that quest themselves are more rewarding the sooner you do them.
 
 

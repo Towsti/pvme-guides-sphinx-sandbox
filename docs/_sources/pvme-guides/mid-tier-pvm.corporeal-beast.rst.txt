@@ -1,103 +1,8 @@
-corporeal-beast
-===============
-
-.. |spiritshield| image:: https://cdn.discordapp.com/emojis/643161660231516165.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |holyelixir| image:: https://cdn.discordapp.com/emojis/643161659984183351.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spectralsigil| image:: https://cdn.discordapp.com/emojis/643161640162033666.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |arcanesigil| image:: https://cdn.discordapp.com/emojis/643161640350646293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |divinesigil| image:: https://cdn.discordapp.com/emojis/643161640342388767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elysiansigil| image:: https://cdn.discordapp.com/emojis/643161640107245580.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corporealbone| image:: https://cdn.discordapp.com/emojis/643162604361089080.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |masterworkspearofannihilation| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |aos| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |penance| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |persistentrage| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -109,7 +14,64 @@ corporeal-beast
     :width: 1.375em
     :height: 1.375em
 
+.. |bloodtendrils| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |elysiansigil| image:: https://cdn.discordapp.com/emojis/643161640107245580.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/OBVXVEc.png| image:: https://i.imgur.com/OBVXVEc.png
+
+.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |masterworkspearofannihilation| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |arcanesigil| image:: https://cdn.discordapp.com/emojis/643161640350646293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |divinesigil| image:: https://cdn.discordapp.com/emojis/643161640342388767.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/BRMEDBz.png| image:: https://i.imgur.com/BRMEDBz.png
+
+.. |https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif| image:: https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif
+
+.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -117,7 +79,21 @@ corporeal-beast
     :width: 1.375em
     :height: 1.375em
 
-.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/GIExXXw.png| image:: https://i.imgur.com/GIExXXw.png
+
+.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corporealbone| image:: https://cdn.discordapp.com/emojis/643162604361089080.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spectralsigil| image:: https://cdn.discordapp.com/emojis/643161640162033666.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -125,24 +101,66 @@ corporeal-beast
     :width: 1.375em
     :height: 1.375em
 
+.. |aos| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spiritshield| image:: https://cdn.discordapp.com/emojis/643161660231516165.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bloodtendrils| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Corporeal Beast (Credit to <@!238646799433203712>)**
+.. |persistentrage| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/GIExXXw.png
+.. |https://i.imgur.com/ZLZzvG4.png| image:: https://i.imgur.com/ZLZzvG4.png
+
+.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |penance| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |holyelixir| image:: https://cdn.discordapp.com/emojis/643161659984183351.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+corporeal-beast
+===============
+
+:bold-underline:`Corporeal Beast (Credit to <@!238646799433203712>)`
+
+
+
+|https://i.imgur.com/GIExXXw.png|
+
+
 
 
 
 
 
 Introduction 
-^^^^^^^^^^^^^
+-------------
+
 
 The Corporeal Beast is a boss unlocked from completing "A Summer's End" Quest. If you followed the lore behind the quest, you will understand why summoning familiars cannot be used at the boss, meaning that you can only use the items in your inventory. A legendary pet can be used here. Furthermore, any weapon that isn't a spear will deal half damage, meaning that melee is the only style you should use.
 
@@ -150,14 +168,16 @@ The Corporeal Beast is a boss unlocked from completing "A Summer's End" Quest. I
 
 
 
+
 Drops
-^^^^^
+-----
 
-The droprate for obtaining a sigil is `1/512`. If a player rolls the sigil drop table, there is a `1/5` chance of Arcane, `1/5` chance of Divine, `1/5` chance of Elysian, and `2/5` chance of Spectral.
 
--  |spiritshield|   **Spirit shield** `1/64`
+The droprate for obtaining a sigil is ``1/512``. If a player rolls the sigil drop table, there is a ``1/5`` chance of Arcane, ``1/5`` chance of Divine, ``1/5`` chance of Elysian, and ``2/5`` chance of Spectral.
 
--  |holyelixir|   **Holy elixir** `1/171`
+-  |spiritshield|   **Spirit shield** ``1/64``
+
+-  |holyelixir|   **Holy elixir** ``1/171``
 
 -  |spectralsigil|   **Spectral sigil**
 
@@ -167,14 +187,16 @@ The droprate for obtaining a sigil is `1/512`. If a player rolls the sigil drop 
 
 -  |elysiansigil|   **Elysian sigil**
 
--  |corporealbone|   **Corporeal bone** `1/2500 (500 threshold)`
+-  |corporealbone|   **Corporeal bone** ``1/2500 (500 threshold)``
+
 
 
 
 
 
 Presets
-^^^^^^^
+-------
+
 
 As stated before, any weapon that isn't a spear will deal half damage so melee is the only style that should be used at this boss. If you don't have a T92 spear then Reaper necklace is greatly preferred over the amulet of souls, as you do not have 100% hit chance. The Masuta's Warspear does work at Corporeal Beast (tested on approximately 200+ kills) and may be used in a solo situation as you will not have to prayer flick for melee swipes, however this is less optimal.
 
@@ -190,7 +212,10 @@ Weapon Poison will stack with the cinderbanes effect. A vampirism scrimshaw will
 
 
 
-.. image:: https://i.imgur.com/OBVXVEc.png
+
+|https://i.imgur.com/OBVXVEc.png|
+
+
 
 
 
@@ -216,22 +241,30 @@ For this method it is important to have 3 things:
 
 
 
-.. image:: https://i.imgur.com/BRMEDBz.png
+
+|https://i.imgur.com/BRMEDBz.png|
 
 **Action Bar**
 
-.. image:: https://i.imgur.com/ZLZzvG4.png
+
+
+|https://i.imgur.com/ZLZzvG4.png|
 
 **Cannon Placement**
 
-.. image:: https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif
+
+
+|https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif|
+
+
 
 
 
 
 
 Mechanics
-^^^^^^^^^
+---------
+
 
 The Corporeal Beast will only attack with magic attacks if you are outside of melee distance. If you are within melee distance, the boss will use both styles. Melee swipes are noticeable when the boss swipes with its front two legs. Also, protection prayers will not halve incoming damage, it will only partially reduce damage. 
 
@@ -251,8 +284,10 @@ Also a white core may spawn, this has a chance to drain magic, prayer or summoni
 
 
 
-Advanced corp killing strat (~100 kph if done well)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Advanced corp killing strat (100 kph if done well)
+--------------------------------------------------
+
 
 Misc thing to have: Legendary pet for picking items (Do not add a familiar, just summon the legendary pet), cannon with autorefill, disruption shield, zgs spec. 
 
@@ -261,6 +296,7 @@ None of these are mandatory but the less you have the less kills you will get. N
 Corp is an outdated boss with slow spawn times, thanks to it having an easily accessible public instance you can abuse and this is what the method is based on.
 
 Kills will be alternated between the public and private instances.
+
 
 
 
@@ -280,7 +316,7 @@ It is done in these steps:
 
 **Rotations for corp:**
 
-**Non-instanced corp:**
+:bold-underline:`Non-instanced corp:`
 
  |gbarge|  →  |dismember|  →  |gflurry|  (stall for 1st hit)>  |cleave|  →  |zgs|  |spec|  →  |sever|  →  |gfury|  →  |cleave|  →  |deci|  →  |assault|  →  |cleave|  →  |deci|  →  |cane|  → improvise as it is near death.
 
@@ -288,7 +324,8 @@ It is done in these steps:
 
 
 
-**Instanced corp:**
+
+:bold-underline:`Instanced corp:`
 
 Auto +  |dismember|  →  |cleave|  →  |zerk|  asap +  |enhreplen|  /  |limitless|   based on cd (don't use sever on corp unless you are under 60% adren) →  |gbarge|  →  |cleave|  →  |deci|  →  |assault|  →  |sever|  →  |cleave|  →  |cane|  →  |deci|  → improvise.
 
@@ -296,7 +333,8 @@ Auto +  |dismember|  →  |cleave|  →  |zerk|  asap +  |enhreplen|  /  |limitl
 
 
 
-**Optional rotations for no zgs:**
+
+:bold-underline:`Optional rotations for no zgs:`
 
 These arent necesarily optimal but instead of throwing a zgs spec (because you don't own one) You will abuse slaughter and tendrils as they are very good.
 
@@ -308,8 +346,10 @@ Looks roughly like:
 
 
 
+
 Tips/notes:
-^^^^^^^^^^^
+-----------
+
 
 Since the kills are so fast you can leave the non instanced loot on the ground every other kill. When corp dies call your legendary pet and renew cannon (if needed) and exit. You can leave the loot on the ground in the world instance and every other kill you can go loot the old loot along with the new and leave.
 
@@ -329,13 +369,14 @@ The dark core doesn't use up your disruption shield. So you can ss camp with it 
 
 
 
+
 Video example
-^^^^^^^^^^^^^
+-------------
+
 
 <https://youtu.be/AaRA-nh6eM4> **(2 kill example)**
 
 
 
-<https://youtu.be/Zfxg3dxf_pA> **(84 kph pace)**
 
 

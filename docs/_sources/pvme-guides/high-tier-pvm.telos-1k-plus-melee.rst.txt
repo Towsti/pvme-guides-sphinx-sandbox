@@ -1,47 +1,4 @@
-telos-1k-plus-melee
-===================
-
-.. |masterworklegs| image:: https://cdn.discordapp.com/emojis/643847042170355736.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |turt4| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mob| image:: https://cdn.discordapp.com/emojis/689501908628799488.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ch4| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ent| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -49,51 +6,23 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dragonclaw| image:: https://cdn.discordapp.com/emojis/779048041088024606.png?v=1
+.. |mob| image:: https://cdn.discordapp.com/emojis/689501908628799488.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |stickybomb| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |furyofthesmall| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |masterworklegs| image:: https://cdn.discordapp.com/emojis/643847042170355736.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -101,59 +30,7 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
-.. |malevkite| image:: https://cdn.discordapp.com/emojis/513190159412625411.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |malletops| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mwspear| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |grim| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |armabook| image:: https://cdn.discordapp.com/emojis/513190159051915264.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |VampScrim| image:: https://cdn.discordapp.com/emojis/513201294262009874.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |khopeshmh| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |khopeshoh| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserkersfury| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |heightenedsenses| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deathward| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -161,47 +38,11 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
-.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+.. |chain| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |assault| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |heightenedsenses| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -209,15 +50,11 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
-.. |chain| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+.. |furyofthesmall| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |escape| image:: https://cdn.discordapp.com/emojis/535541258832052231.png?v=1
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -225,15 +62,7 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |backhand| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |fbackhand| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -241,27 +70,27 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |reflect| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
+.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |revenge| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
+.. |escape| image:: https://cdn.discordapp.com/emojis/535541258832052231.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+.. |turt4| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |khopeshoh| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+.. |bd| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -269,28 +98,214 @@ telos-1k-plus-melee
     :width: 1.375em
     :height: 1.375em
 
+.. |khopeshmh| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |malletops| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |reflect| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |res| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |vitality| image:: https://cdn.discordapp.com/emojis/654618235097972737.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
 
 .. |cade| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Telos with Melee (1000% to 4000%)**
+.. |assault| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/LD4SNF3.png
+.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mwspear| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deathward| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |quake| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |revenge| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/LD4SNF3.png| image:: https://i.imgur.com/LD4SNF3.png
+
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |berserkersfury| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ch4| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |grim| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |devo| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |stickybomb| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ent| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |armabook| image:: https://cdn.discordapp.com/emojis/513190159051915264.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/QGd97Bp.png| image:: https://i.imgur.com/QGd97Bp.png
+
+.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |VampScrim| image:: https://cdn.discordapp.com/emojis/513201294262009874.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. |malevkite| image:: https://cdn.discordapp.com/emojis/513190159412625411.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |fbackhand| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dragonclaw| image:: https://cdn.discordapp.com/emojis/779048041088024606.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+telos-1k-plus-melee
+===================
+
+:bold-underline:`Telos with Melee (1000% to 4000%)`
+
+
+
+|https://i.imgur.com/LD4SNF3.png|
+
+
 
 
 
 
 
 Introduction
-^^^^^^^^^^^^
+------------
+
 
 Using Melee against Telos is generally more dangerous and risky than Magic. However, you can gain some benefits like less RNG needed on things like volcanic golems and KO protection.
 
@@ -302,7 +317,8 @@ This guide assumes 1000%+, but some rotations can still work below 1000%, but mi
 
 
 
-Notable Enrage Checkpoints and Changes past 999
+
+:underline:`Notable Enrage Checkpoints and Changes past 999`
 
 **1000%** P4 one rock will fall, P5 multiple rocks will fall, immortality no longer works P5, and Telos will freedom stuns and binds with a 16 tick cooldown
 
@@ -318,8 +334,12 @@ Notable Enrage Checkpoints and Changes past 999
 
 
 
+
 Preset
-^^^^^^
+------
+
+
+
 
 
 
@@ -331,14 +351,21 @@ The masterwork legs  |masterworklegs|  are augmented with Turtling 4  |turt4|  +
 
 (Runes for  |borrowedpower|   |disrupt|   |Veng| )
 
-.. image:: https://i.imgur.com/QGd97Bp.png
+
+
+|https://i.imgur.com/QGd97Bp.png|
+
+
 
 
 
 
 
 Requirements/Recommended Items
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------
+
+
+
 
 
 
@@ -386,8 +413,12 @@ Requirements/Recommended Items
 
 
 
+
 Phase 1
-^^^^^^^
+-------
+
+
+
 
 
 
@@ -409,6 +440,7 @@ During the Cleave  |cleave|  and Decimate  |deci|  after the initial Berserk  |z
 
 
 
+
 After the Cleave  |cleave|  after Hurricane  |cane| , it depends entirely on how much LP Telos has. If he hits 450k right after Cleave  |cleave| , wait until the tick Telos phases, then use Quake  |quake|  + Bladed Dive  |bd|  to the drop-off point. That Quake  |quake|  is important because it lets you carry over that damage to the next phase immediately, giving you a noticeable headstart for P2. This works because AoE abilities like Quake  |quake| , Bombardment  |bombard| , and Chain  |chain|  calculate their damage late enough to be forced into the next phase if you use them on the same tick as phasing to the next phase. Practically speaking, only Quake  |quake|  can be used like this as Cleave  |cleave|  hits too quickly.
 
 
@@ -421,12 +453,17 @@ If Telos is not immediately phased after that Cleave  |cleave| , do strong basic
 
 
 
+
 Phase 2
-^^^^^^^
+-------
+
+
+
 
 
 
 The start of P2 depends on how much autoattacks Telos has before Onslaught and how much adrenaline you have going into P2. If you have over 74% adrenaline, you will want to ZGS spec  |zgs|   |spec|  before bleeding Greater Flurry  |gflurry| , listed as [1]. Otherwise, go with the abilities listed as [2].
+
 
 
 
@@ -450,6 +487,7 @@ The Escape  |escape|  and Bladed Dive  |bd|  back in are done to ensure Telos le
 
 
 
+
 If 0-1 autos before Onslaught:
 
 
@@ -459,6 +497,7 @@ Wait a tick →  |gbarge|  →  |zgs|   |spec|  [1] OR  |gflurry|  [2] →  |cle
 
 
 Try to get Assault  |assault|  in as early as possible, and try to aim to phase before Hold Still as well if you can.
+
 
 
 
@@ -482,8 +521,10 @@ The autoattack with 2h  |zgs|  after Destroy  |destroy|  is known as “5TAA”,
 
 
 
+
 Phase 3
-^^^^^^^
+-------
+
 
 Wait a tick →  |gbarge|  →  |destroy|  → switch to 2h  |zgs|  and auto +  |backhand|  →  |fbackhand|  +  |bd|  into the beam →  |mwspear|   |dismember|  →  |mwspear|   |bloodtendrils|  →  |mwspear|   |slaughter|  →  |cleave|  →  |assault|  → basics to 150k
 
@@ -499,10 +540,13 @@ In order to make P4 better at higher enrages so you aren’t scrambling for adre
 
 
 
+
 Phase 4
-^^^^^^^
+-------
+
 
 The goal here is to do as much damage as possible to Telos before he can fire off any special attacks, so rocks are completely skipped. 
+
 
 
 
@@ -517,6 +561,7 @@ Use limitless  |limitless|  here if you can. If your adrenaline is really dire, 
 
 
 For font 1, Resonance  |res|  + Reflect  |reflect|  and build to 100% adrenaline. Wait for the chatbox message “Telos: You dare to defy me?” and throw a sticky bomb  |stickybomb|  on the golems right when that happens. Get out of range from the golems, then Barge  |gbarge|  Telos right as he gets up.
+
 
 
 
@@ -540,11 +585,13 @@ Fast rotation (1 Telos autos):
 
 
 
+
 For font 2, do the same thing except you’re tanking everything here, so be prepared to eat up a lot here. This time though, use Revenge  |revenge|  with defender  |kalphitedefender| . Skip Revenge  |revenge|  if you are not using a defender  |kalphitedefender| . Use the same cues as in font 1 and go to town. You can use Devotion  |devo|  here to mitigate damage, but if you’re going for fast font 3, skip that.
 
 
 
 After second instant kill,  |gbarge|  Telos right as the instant kill lands. This pops Telos’s Freedom immediately, delaying his next action. Bleed  |gflurry|  → 3 hit  |destroy|  →  |fbackhand|  for safety, otherwise just use a basic for more adrenaline if you are confident in your DPS.
+
 
 
 
@@ -564,6 +611,7 @@ Resonance  |res|  and Reflect  |reflect|  the font, then ZGS spec  |zgs|   |spec
 
 
 
+
 Fast font 3 (dangerous, experimental for now):
 
 
@@ -576,10 +624,13 @@ Immediately head into font 3 and start eating up while using Resonance  |res|  +
 
 
 
+
 Phase 5
-^^^^^^^
+-------
+
 
 Make sure you have Disruption Shield  |disrupt|  active at the start of the phase. That way, Telos and golems cannot KO you at the start of the phase.
+
 
 
 
@@ -595,6 +646,7 @@ Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the me
 
 
 
+
 **Back beam, pure/corrupt golems**
 
 
@@ -605,7 +657,9 @@ Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the me
 
 
 
+
 If you want to play it safe and/or you want to ensure you will always be able to kill Telos even after you clear virus, you can use Immortality OR dragon battleaxe instead of Berserk and simply replace the first dragon claw spec with Berserk.
+
 
 
 
@@ -621,6 +675,7 @@ Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the me
 
 
 
+
 **Back beam, volcanic golems**
 
 
@@ -631,11 +686,20 @@ Wait 2 ticks after regaining control → Mobile  |gbarge|  Telos right as the me
 
 
 
+
 These have zero RNG with getting stunned at inopportune times. The only risk is a potential rock before Barricade, but that’s very rare. You can also afford to swap Statius’s warhammer with Freedom on side beam for that bit of extra safety if volcanics took their time to start hitting you at the start. And as before, if you are not confident with volcanics out there, you can simply use Immortality instead.
 
 
 
 It’s also a near necessity to wait those two ticks before Barge as well and nail the timing. If you Barge too early, golems can surround you when inside the beam and it can hurt far more, and if you Barge too late your Disruption Shield can no longer guarantee you not getting KOed at the start.
+
+
+
+
+
+
+
+
 
 
 

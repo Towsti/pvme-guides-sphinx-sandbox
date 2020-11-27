@@ -8,4 +8,4 @@ upgrading-info
     upgrading-info.armour-and-weapons
     upgrading-info.consumables
     upgrading-info.permanent-unlocks
-    upgrading-info.upgrade-order  
+    upgrading-info.upgrade-order

@@ -1,115 +1,4 @@
-solak-duo
-=========
-
-.. |mahj| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dm| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |invig| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |inspiration| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mani| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserker| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |reckless| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elderovlsalve| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |weppoison| image:: https://cdn.discordapp.com/emojis/689525476158472288.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |maceoh| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |caloriebomb| image:: https://cdn.discordapp.com/emojis/656790558177755169.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -117,27 +6,71 @@ solak-duo
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |backhand| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |assault| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |destroy| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |berserker| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mani| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mahj| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -145,15 +78,36 @@ solak-duo
     :width: 1.375em
     :height: 1.375em
 
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |Shatter| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |soulsplit| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |https://i.imgur.com/8SuqL0V.png| image:: https://i.imgur.com/8SuqL0V.png
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Berserk| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
+.. |Malevolence| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |maceoh| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -165,23 +119,13 @@ solak-duo
     :width: 1.375em
     :height: 1.375em
 
-.. |backhand| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+.. |https://i.imgur.com/mU0m4as.png| image:: https://i.imgur.com/mU0m4as.png
+
+.. |reckless| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |assault| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |destroy| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -189,39 +133,63 @@ solak-duo
     :width: 1.375em
     :height: 1.375em
 
+.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |caloriebomb| image:: https://cdn.discordapp.com/emojis/656790558177755169.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/kNo0sEJ.png| image:: https://i.imgur.com/kNo0sEJ.png
+
+.. |elderovlsalve| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/nbZUoHz_f2Y| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/nbZUoHz_f2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |invig| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |weppoison| image:: https://cdn.discordapp.com/emojis/689525476158472288.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |soulsplit| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |fbackhand| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+.. |Berserk| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/uH9ndIo.png| image:: https://i.imgur.com/uH9ndIo.png
 
-.. |Shatter| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -229,26 +197,85 @@ solak-duo
     :width: 1.375em
     :height: 1.375em
 
-.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Malevolence| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-**Solak - Duo Perspective (Courtesy of <@319736938020208640> and <@200393357623689216>)**
+.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. image:: https://i.imgur.com/mU0m4as.png
+.. |inspiration| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dm| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. role:: underline
+    :class: underline
+
+.. |fbackhand| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+solak-duo
+=========
+
+:bold-underline:`Solak - Duo Perspective (Courtesy of <@319736938020208640> and <@200393357623689216>)`
+
+
+
+|https://i.imgur.com/mU0m4as.png|
+
+
+
+
 
 
 
 Introduction
-^^^^^^^^^^^^
+------------
+
+
+
 
 
 
@@ -265,7 +292,10 @@ Auras: Players have 100% hit chance on Solak using the recommended gear, so accu
 
 
 Presets
-^^^^^^^
+-------
+
+
+
 
 
 
@@ -277,7 +307,7 @@ Presets
 
 - Defender is used as a shield and planted feet switch
 
--  |augseissing|   **Seismic singularity** `Flanking 4`
+-  |augseissing|   **Seismic singularity** ``Flanking 4``
 
 -  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
 
@@ -285,7 +315,10 @@ Presets
 
 
 
-.. image:: https://i.imgur.com/8SuqL0V.png
+
+|https://i.imgur.com/8SuqL0V.png|
+
+
 
 
 
@@ -295,9 +328,9 @@ Presets
 
 -  |elderovlsalve|  +  |weppoison|  at bank
 
--  |augseissing|   **Seismic singularity** `Flanking 4`
+-  |augseissing|   **Seismic singularity** ``Flanking 4``
 
--  |maceoh|   **Off-hand Drygore mace** `Flanking 4`
+-  |maceoh|   **Off-hand Drygore mace** ``Flanking 4``
 
 -  |caloriebomb|   **Calorie bomb**
 
@@ -311,11 +344,16 @@ Presets
 
 
 
-.. image:: https://i.imgur.com/kNo0sEJ.png
+
+|https://i.imgur.com/kNo0sEJ.png|
 
 
 
-**Pre-fight**
+
+
+
+
+:bold-underline:`Pre-fight`
 
 - Use a preperation preset to  |DBA|   |spec|  +  |elderovlsalve|  +  |weppoison| 
 
@@ -327,11 +365,13 @@ Presets
 
 
 
-**Phase 1**
+
+
+:bold-underline:`Phase 1`
 
 
 
-Solak Attack Rotation
+:underline:`Solak Attack Rotation`
 
 2 Autos → Green pads → 3 Autos → Bombs explode & roots spawn → 13 Autos → Roots → 7 Autos → Blight bomb → 7 Autos → Blight bomb → 3 Autos → Arms and Legs → Core → 7 Autos 
 
@@ -347,7 +387,9 @@ Solak Attack Rotation
 
 
 
-Phase 1 Rundown
+
+
+:underline:`Phase 1 Rundown`
 
 
 
@@ -379,6 +421,8 @@ Phase 1 Rundown
 
 
 
+
+
 - After the base's bleeds run out the dpser will voke and use their own bleeds allowing both to use bleeds and flanking.
 
 - Place your extra two mines at 2 different roots, after Solak is capped.
@@ -403,9 +447,10 @@ Phase 1 Rundown
 
 
 
-**Phase 2**
 
-Phase 2 Rotation
+:bold-underline:`Phase 2`
+
+:underline:`Phase 2 Rotation`
 
 Eruptions → Anima Bombs → 12 Autos → Blight rain → 7 Autos → Binding Crush → 4 Autos → Blight rain → 7 Autos → Hurricane → 7 Autos → Roots → 4 Autos → Blight bomb → 3 Autos → Blight bomb → 4 Autos → Blight rain
 
@@ -419,7 +464,9 @@ Eruptions → Anima Bombs → 12 Autos → Blight rain → 7 Autos → Binding C
 
 
 
-Phase 2 Rundown
+
+
+:underline:`Phase 2 Rundown`
 
 
 
@@ -440,6 +487,8 @@ Phase 2 Rundown
 - If slow dps or one person missed cleanse, cleanse and adapt how you go up.
 
 Optimally somewhere during eruptions the dpser will calory bomb solak so that you can skip the 2nd rain. However if there isn't a suitable opportunity for that, doing it before or after 1st rain is fine.
+
+
 
 
 
@@ -467,15 +516,16 @@ Optimally somewhere during eruptions the dpser will calory bomb solak so that yo
 
 
 
-**Phase 3**
 
-Solak Attack Rotation
+:bold-underline:`Phase 3`
+
+:underline:`Solak Attack Rotation`
 
 2 Autos → Blight bomb → 3 Autos → Stun and bleed → Open mind → Repeat until all relics are charged or Erethdor is killed
 
 
 
-Phase 3 Rundown
+:underline:`Phase 3 Rundown`
 
 - Solak’s hp cap is 300k in duo.
 
@@ -513,11 +563,13 @@ Phase 3 Rundown
 
 
 
-**Phase 4 (Base)**
+
+
+:bold-underline:`Phase 4 (Base)`
 
 
 
-Phase 4 Base Rundown
+:underline:`Phase 4 Base Rundown`
 
 - Position North of Solak to utilize flanking.
 
@@ -543,11 +595,11 @@ Phase 4 Base Rundown
 
 
 
-**Phase 4 (DPS)**
+:bold-underline:`Phase 4 (DPS)`
 
 
 
-Phase 4 DPS Rundown
+:underline:`Phase 4 DPS Rundown`
 
 - Position North of Solak to utilize flanking.
 
@@ -565,13 +617,17 @@ Phase 4 DPS Rundown
 
 
 
-~~**1-cycle core Rotation (vulnerability)**~~ (Outdated)
+
+
+
+
+~~:bold-underline:`1-cycle core Rotation (vulnerability)`~~ (Outdated)
 
  |DBA|   |spec|  →  |Berserk|  →  |gbarge|  leg → Target core  |ingen|   |Vuln|   |backhand|  →  |assault|  →  |deci|  →  |cleave|  →  |destroy|  →  |deci|  → 2 Hit  |gflurry|  →  |backhand|  →  |deci|  
 
 
 
-**1-cycle core Rotation (no vuln)**
+:bold-underline:`1-cycle core Rotation (no vuln)`
 
  |DBA|   |spec|  →  |Berserk|  →  |gbarge|  leg → Target core  |backhand|  →  |assault|  →  |deci|  →  |limitless|   |destroy|  →  |fbackhand|  → 3? Hit  |gflurry|  →  |deci|  →  |backhand|  →  |cleave| 
 
@@ -579,7 +635,9 @@ Phase 4 DPS Rundown
 
 
 
-**No-mind realm Rotation**
+
+
+:bold-underline:`No-mind realm Rotation`
 
 ( |Vuln|  prior to starting) >  |gbarge|  (5 ticks before attackable) >  |Berserk|  +  |enhreplen|  (2 ticks before attackable) - auto on 2nd tick of zerk >  |backhand|  >  |assault|  >  |deci|  >  |cleave|  >  |destroy|  >  |limitless|   |gflurry|  >  |fbackhand|   (one person)/  |Shatter|  (other person)
 
@@ -589,7 +647,12 @@ Phase 4 DPS Rundown
 
 
 
-~~**1cc Rotation Notes ( |ingen|  method):**~~ <@!204612155364999168> (Outdated)
+
+
+
+
+
+~~:bold-underline:`1cc Rotation Notes ( |ingen|  method):`~~ <@!204612155364999168> (Outdated)
 
 
 
@@ -619,13 +682,16 @@ Damage the legs until 1 leg has 8-12k hp remaining, while both players keep tita
 
 
 
+
 ~~**Non Vulner (No Sigil):**~~
 
  |anti|  >  |freedom|  >  |gbarge|  (either Solak's body if leg is dead or the leg if vulner's barge failed to kill it) >  |Berserk|  > Auto >  |cleave|  >  |assault|  >  |deci|  >  |sever|  >  |destroy|  > Flank > 5t auto >  |cleave| 
 
 
 
-`Notes for the ioth vuln method:`
+
+
+``Notes for the ioth vuln method:``
 
 Vulner should remember to equip Ring of Death before barging, the 5% adr from a proc will save your mbarge buff in the event that you 
 
@@ -645,11 +711,16 @@ Highly Recommended: Equip wand/orb after barging the leg so you can vuln the cor
 
 
 
-~~**Alternative vuln methods (Not exhaustive):**~~ (Outdated)
+
+~~:bold-underline:`Alternative vuln methods (Not exhaustive):`~~ (Outdated)
 
 
 
 There are 1cc vuln rotations which require less setup and coordination. In descending order of 1cc rates, they are: IotH vuln > Vuln Deto WM > Vuln Zerk > Vuln Corr
+
+
+
+
 
 
 
@@ -665,7 +736,9 @@ There are 1cc vuln rotations which require less setup and coordination. In desce
 
 
 
+
 If you cannot target cycle the core, you will not get the  |deci|  at the end
+
 
 
 
@@ -681,9 +754,10 @@ With target cycling, you can do this instead:
 
 
 
-`Pros:` Much more time to get all your switches since you don't need melee armor/prayer active to zerk, and there's 2-4 ticks after to switch depending on whether you target cycle; also, you can easily switch to use the non-TC variant of this rotation for slight damage loss.
+``Pros:`` Much more time to get all your switches since you don't need melee armor/prayer active to zerk, and there's 2-4 ticks after to switch depending on whether you target cycle; also, you can easily switch to use the non-TC variant of this rotation for slight damage loss.
 
-`Cons:` Less damage than the other 2 rotations mentioned before
+``Cons:`` Less damage than the other 2 rotations mentioned before
+
 
 
 
@@ -695,9 +769,10 @@ With target cycling, you can do this instead:
 
 
 
-`Pros:` Can be used when legs die too fast and you only have 92 adren
+``Pros:`` Can be used when legs die too fast and you only have 92 adren
 
-`Cons:` Requires Target Cycling (if you fail to TC, you have to do a 2hit  |gflurry|  instead, this makes it worse than vuln zerk rotation with or without tc)
+``Cons:`` Requires Target Cycling (if you fail to TC, you have to do a 2hit  |gflurry|  instead, this makes it worse than vuln zerk rotation with or without tc)
+
 
 
 
@@ -711,7 +786,7 @@ Notes about Target Cycling as Vulner:
 
 
 
-**Arms+Legs:**
+:bold-underline:`Arms+Legs:`
 
 If choosing to mage the arms and legs, try to use Sunshine before he caps p1 and phases into arms+legs (1:26 or so if skipping both blights)
 
@@ -729,7 +804,21 @@ As the West arm is south of the East arm, the spot to dbreath both arms from is 
 
 
 
-.. image:: https://i.imgur.com/uH9ndIo.png
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/uH9ndIo.png|
+
+
+
+
 
 
 
@@ -737,9 +826,10 @@ Legs can be AoE'd with Chain, Dbreath, Deto (must be 100% for additional range),
 
 
 
-**No realm:**
+:bold-underline:`No realm:`
 
 The timing to barge solak before he's vulnerable can be gauged, you should be barging as he flies back from Merethiel (Assuming the animation does not glitch out for you)
+
 
 
 
@@ -751,6 +841,8 @@ Example Video: https://youtu.be/nbZUoHz_f2Y
 
 Both players should cancel their  |gflurry|  and  |Shatter|  +  |fbackhand|  when Solak reaches 40k hp as that will likely kill the boss instantly (Shatter will hit 30k with 7 shards in zerk, use the time at the start of p4 to add 2 more shards)
 
+|https://youtu.be/nbZUoHz_f2Y|
+
 
 
 Some spreadsheets courtesy of <@385968877823328276>
@@ -758,5 +850,8 @@ Some spreadsheets courtesy of <@385968877823328276>
 https://docs.google.com/document/d/1kEIa8-oDbwJi16c8pnBEEbEd2VTeOxocap7mVHU_N6Q/edit
 
 https://docs.google.com/document/d/1x3KrSKmWz93lTJhfOK9rXZFh0VsfzZcUajF2An6HP9w/edit
+
+
+
 
 

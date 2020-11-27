@@ -8,7 +8,12 @@ Separate file because the main theme is likely to change or be generated.
 }
 
 
-img{
-    max-width: 60% !important;
-    max-height: 400px !important;
+img {
+    max-width: 800px !important;
+    max-height: 500px !important;
+}
+
+
+.rst-content code.literal, .rst-content tt.literal {
+    color: rgb(192, 186, 178) !important;
 }

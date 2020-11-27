@@ -1,63 +1,4 @@
-the-shadow-reef
-===============
-
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -65,19 +6,25 @@ the-shadow-reef
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+.. |https://i.imgur.com/0CrSo5E.png| image:: https://i.imgur.com/0CrSo5E.png
+
+.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -85,15 +32,17 @@ the-shadow-reef
     :width: 1.375em
     :height: 1.375em
 
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |https://i.imgur.com/Wu7sTbO.png| image:: https://i.imgur.com/Wu7sTbO.png
+
+.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -101,8 +50,92 @@ the-shadow-reef
     :width: 1.375em
     :height: 1.375em
 
-The Shadow Reef (courtesy of <@!145413546409197569 & <@!133391081109716992)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. role:: bold-underline
+    :class: bold-underline
+
+.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/UiZBvf5.png| image:: https://i.imgur.com/UiZBvf5.png
+
+.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/gjUAf06.png| image:: https://i.imgur.com/gjUAf06.png
+
+.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/Uof4OcF.png| image:: https://i.imgur.com/Uof4OcF.png
+
+.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/UFagGwx.png| image:: https://i.imgur.com/UFagGwx.png
+
+.. |https://i.imgur.com/vM7jhrO.png| image:: https://i.imgur.com/vM7jhrO.png
+
+.. |https://i.imgur.com/F6KFF3N.png| image:: https://i.imgur.com/F6KFF3N.png
+
+.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/vC8Jgdg.png| image:: https://i.imgur.com/vC8Jgdg.png
+
+.. |https://i.imgur.com/uLxEnlg.png| image:: https://i.imgur.com/uLxEnlg.png
+
+.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/RwJxxnH.png| image:: https://i.imgur.com/RwJxxnH.png
+
+.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/mt2dC5P.png| image:: https://i.imgur.com/mt2dC5P.png
+
+.. role:: underline
+    :class: underline
+
+.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+the-shadow-reef
+===============
+
+The Shadow Reef (courtesy of <@!145413546409197569> & <@!133391081109716992>)
+-----------------------------------------------------------------------------
+
+
+
 
 
 
@@ -112,12 +145,16 @@ The third installment in the Elite Dungeon series of encounters, the Shadow Reef
 
 
 
+
 Presets
-^^^^^^^
+-------
 
 
 
-**Beginner/Group Magic**
+
+
+
+:bold-underline:`Beginner/Group Magic`
 
 - Bringing both dual-wield and 2h is optional, and should only be done if the player is comfortable with 4 tick auto attacking. If not, simply bring dual wield or 2h.
 
@@ -137,7 +174,7 @@ Presets
 
 
 
-Optional
+:underline:`Optional`
 
 - Flanking switch for increased damage in group, still applicable in solo to a small degree
 
@@ -147,17 +184,23 @@ Optional
 
 - A few empty inventory spaces if picking up charm drops
 
-.. image:: https://i.imgur.com/F6KFF3N.png
+
+
+|https://i.imgur.com/F6KFF3N.png|
 
 
 
-**Advanced/Solo Magic**
+
+
+
+
+:bold-underline:`Advanced/Solo Magic`
 
 - Adjust food as you see fit
 
 - Dragon Rider amulet switch
 
--  |augseissing|   **Seismic singularity** `Flanking 4`
+-  |augseissing|   **Seismic singularity** ``Flanking 4``
 
 -  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
 
@@ -169,7 +212,7 @@ Optional
 
 
 
-Optional
+:underline:`Optional`
 
 - Lucky charm (Shadow Reef) for slightly higher gp/hr (NOTE: lucky charms do not increase the drop rate of unique items such as Eldritch crossbow stock)
 
@@ -177,11 +220,16 @@ Optional
 
 
 
-.. image:: https://i.imgur.com/Uof4OcF.png
+
+|https://i.imgur.com/Uof4OcF.png|
 
 
 
-**Beginner/Group Melee**
+
+
+
+
+:bold-underline:`Beginner/Group Melee`
 
 - Noxious scythe to deal area-of-effect damage
 
@@ -203,7 +251,7 @@ Optional
 
 
 
-Optional
+:underline:`Optional`
 
 - Flanking switch for increased damage in group, still applicable in solo to a small degree
 
@@ -215,13 +263,18 @@ Optional
 
 
 
-.. image:: https://i.imgur.com/vC8Jgdg.png
+
+|https://i.imgur.com/vC8Jgdg.png|
 
 
 
-**Advanced/Solo Melee**
 
--  |maceoh|   **Off-hand Drygore mace** `Flanking 4`
+
+
+
+:bold-underline:`Advanced/Solo Melee`
+
+-  |maceoh|   **Off-hand Drygore mace** ``Flanking 4``
 
 - Swap to salve amulet for undead mobs and Taraket
 
@@ -235,14 +288,17 @@ Optional
 
 
 
-.. image:: https://i.imgur.com/Wu7sTbO.png
+
+|https://i.imgur.com/Wu7sTbO.png|
+
+
 
 
 
 
 
 Section 1
-^^^^^^^^^
+---------
 
 
 
@@ -250,7 +306,20 @@ Section 1
 
 
 
-.. image:: https://i.imgur.com/gjUAf06.png
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/gjUAf06.png|
+
+
+
+
 
 
 
@@ -268,7 +337,8 @@ Section 1
 
 
 
-`Easy video guide:` <https://youtu.be/bETOKmCEv6I>
+
+``Easy video guide:`` <https://youtu.be/bETOKmCEv6I>
 
 
 
@@ -282,7 +352,8 @@ Section 1
 
 
 
-`Example:` <https://youtu.be/VYA1tj-7dqg>
+
+``Example:`` <https://youtu.be/VYA1tj-7dqg>
 
 
 
@@ -296,7 +367,8 @@ Section 1
 
 
 
-`Another easy video guide:` <https://youtu.be/h4Y3gEqJ6rg>
+
+``Another easy video guide:`` <https://youtu.be/h4Y3gEqJ6rg>
 
 
 
@@ -304,7 +376,12 @@ Section 1
 
 
 
-.. image:: https://i.imgur.com/UiZBvf5.png
+
+|https://i.imgur.com/UiZBvf5.png|
+
+
+
+
 
 
 
@@ -313,6 +390,7 @@ Section 1
 
 
 **Room 10:** Put your salve amulet back on. Very spread out zombies in here that are fairly annoying to AoE as mage. Most of the time you can catch most of them in a detonate fairly quickly and then finish off the stragglers with your remaining abilities. After letting them md you use Meteor Strike and a few AoEs. Activate Undead Slayer to speed up the process.
+
 
 
 
@@ -328,8 +406,9 @@ Section 1
 
 
 
+
 Section 2
-^^^^^^^^^
+---------
 
 
 
@@ -337,7 +416,20 @@ Section 2
 
 
 
-.. image:: https://i.imgur.com/UFagGwx.png
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/UFagGwx.png|
+
+
+
+
 
 
 
@@ -351,9 +443,10 @@ Section 2
 
 
 
+
 A lot of learners panic eat a ton here but the bridge can be done with no food
 
-`Example:` <https://youtu.be/I_4wbqXoZaw>
+``Example:`` <https://youtu.be/I_4wbqXoZaw>
 
 
 
@@ -367,7 +460,15 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 
-.. image:: https://i.imgur.com/vM7jhrO.png
+
+
+
+
+|https://i.imgur.com/vM7jhrO.png|
+
+
+
+
 
 
 
@@ -376,6 +477,7 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 **Room 6:** Only the Kalgerion Demon needs to be killed here to proceed. He's really big and impossible to miss, activate Demon Slayer and Barge → Assault the Kal’gerion demon. Finish off with more strong basics and thresholds. You can manipulate one of the required necromancers in room 7 to move from his position to make the next room easier on you by running as close as you can to him, so he aggros you through the wall. But this isn’t 100% guaranteed, and if you don’t get it simply skip it and proceed.
+
 
 
 
@@ -391,7 +493,15 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 
-.. image:: https://i.imgur.com/mt2dC5P.png
+
+
+
+
+|https://i.imgur.com/mt2dC5P.png|
+
+
+
+
 
 
 
@@ -400,6 +510,7 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 **Room 2:** Two Warped Skeletons in here that can completely clear you if you aren't paying attention. If you sunned earlier at the previous gate, you can finish the remaining duration in here. The skeletons can deal a moderate mage hit frequently, healing themselves while dealing 2000-3000 damage to you. It's recommended to keep them snared/stunned to not have to deal with this.
+
 
 
 
@@ -415,12 +526,24 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 
+
 The Crassian Leviathan
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 
 
-.. image:: https://i.imgur.com/uLxEnlg.png
+
+
+
+
+
+
+
+|https://i.imgur.com/uLxEnlg.png|
+
+
+
+
 
 
 
@@ -428,7 +551,7 @@ As the first boss of The Shadow Reef, The Crassian Leviathan has a very small an
 
 
 
-**Mechanics**
+:bold-underline:`Mechanics`
 
 
 
@@ -442,6 +565,7 @@ Dragon Breath: This will always be the first mechanic of the fight and is signal
 
 
 
+
 Head Sweep: The leviathan will slam its' head across the ground twice, dealing very heavy damage to anyone caught in the area. This is avoided by moving to the opposite side of where the sweep begins, as seen here (applicable for melee with scythe): <https://youtu.be/kOnRdfXKitI>
 
 
@@ -450,7 +574,9 @@ After going through one Dragon Breath and two sets of Head Sweeps, the leviathan
 
 
 
-**Strategy (Melee only)**
+
+
+:bold-underline:`Strategy (Melee only)`
 
 For melee, you’ll want to just get your Berserk and ZGS spec off. Within your Berserk, bleed Assault, fully channel Destroy, and 3 hit Flurry. Within ZGS, get at least a fully channeled Assault and Destroy off. Don’t bother with a second Berserk, aim to just finish him off in one cycle with just Berserk and ZGS.
 
@@ -458,12 +584,24 @@ For melee, you’ll want to just get your Berserk and ZGS spec off. Within your 
 
 
 
+
 Taraket the Necromancer
-^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 
 
-.. image:: https://i.imgur.com/RwJxxnH.png
+
+
+
+
+
+
+
+|https://i.imgur.com/RwJxxnH.png|
+
+
+
+
 
 
 
@@ -471,7 +609,7 @@ This encounter is the second boss of the Shadow Reef, and is a clear step up in 
 
 
 
-**Mechanics**
+:bold-underline:`Mechanics`
 
 
 
@@ -483,6 +621,8 @@ Death's Swiftness: Taraket will shroud himself in a Death's Swiftness, becoming 
 
 
 
+
+
 Corpse Carrier and Bloated Monstrosity: Upon reaching 200,000 hitpoints, Taraket will become invulnerable and fly towards one of the two black crystals at the sides of the arena, healing himself and spawning the Corpse Carrier (west) or the Bloated Monstrosity (east), with 90,000 HP each. The Corpse Carrier will continuously spawn skeletal mobs as it's alive while the Bloated Monstrosity increases the damage of Taraket's attacks. Both of these attack with melee and are very easy to kite if needed. Taraket can only spawn these once each and will not heal upon hitting 200,000 HP afterwards. The first spawn is not random and can be forced by moving Taraket closer to the desired crystal, although he will always go east if he has not been moved.
 
 
@@ -491,7 +631,9 @@ Spirit Line: Taraket will yell out "Your efforts are meaningless, witness the fu
 
 
 
-**Strategy (Mage)**
+
+
+:bold-underline:`Strategy (Mage)`
 
 
 
@@ -503,7 +645,7 @@ Start the fight with combust and escape to lure Taraket on top of his portal spa
 
 
 
-`Lure example:` <https://youtu.be/7JGT6zV35CY>
+``Lure example:`` <https://youtu.be/7JGT6zV35CY>
 
 
 
@@ -513,11 +655,12 @@ Re-vuln and charge detonate on the boss. The Bloated Monstrosity should MD and t
 
 
 
+
 Lure and AoE the two while focusing on the Corpse Carrier. The skeletons that spawn at this point can be absorbed by the boss to uber heal himself and also add up to a lot of damage taken. DPS the boss down to 200,000 again and he will use Death's Swiftness and then 2x Spirit Wall. Stay MD and walk to the opposite side of the boss to avoid this mechanic. Flanking can be used at this time.
 
 
 
-`Example:` <https://youtu.be/H7MfqLltWyg>
+``Example:`` <https://youtu.be/H7MfqLltWyg>
 
 
 
@@ -527,7 +670,8 @@ After this, the boss can be easily DPSed down to 0. Another rift may be spawned 
 
 
 
-**Strategy (Melee)**
+
+:bold-underline:`Strategy (Melee)`
 
 
 
@@ -536,6 +680,7 @@ There are three slightly different methods to this: killing both bloats for maxi
 
 
 No matter how you do the fight, start with Berserk to Barge. Don’t use adrenaline potions immediately as you’d want to save it for later. Instead, just use limitless to get your thresholds off. If you were quick and started the fight while you still have your Meteor Strike buff from the previous room, the amount of adrenaline you will gain from critical hits will let you go bleed Assault -> 3 hit Flurry -> Destroy for the most optimal DPS rotation without an adrenaline potion. Otherwise, just 2 hit Flurry to Destroy. Regardless, dump the rest of your strong basics and the portal should spawn right before Taraket phases. Activate Undead Slayer right when you use your next ability after Assault.
+
 
 
 
@@ -551,6 +696,7 @@ If you want to kill the corpse carrier instantly, Barge -> Flurry on it, then Sl
 
 
 
+
 If you ignore the corpse carrier, Berserk -> Barge immediately when Taraket can be damaged again and simply outeat everything. This is extremely risky, but can be done fairly well even with blubbers and Guthix rests. As your ZGS spec will still be on cooldown, finish off the rest with strong basics and thresholds. Use Devotion if you really have to, but generally you don’t need it.
 
 
@@ -561,12 +707,24 @@ Deal with the mechanics just as you do with Magic and you’ll be perfectly fine
 
 
 
+
 Kranon, the Ambassador
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 
 
-.. image:: https://i.imgur.com/0CrSo5E.png
+
+
+
+
+
+
+
+|https://i.imgur.com/0CrSo5E.png|
+
+
+
+
 
 
 
@@ -574,7 +732,9 @@ At the bottom of the abyssal section awaits the Ambassador, the final boss of th
 
 
 
-**Mechanics**
+
+
+:bold-underline:`Mechanics`
 
 
 
@@ -590,6 +750,8 @@ Sinister Fragments: Six fragments will disperse from the boss to the edges of th
 
 
 
+
+
 Crassian Ritual Keepers: Upon hitting 550,000 hitpoints, the Ambassador will begin to spawn Crassian Ritual Keepers that deal low ranged damage and make it harder to resonance his mage autos. These cannot be damaged and will continue to spawn until the boss reaches 400,000 hitpoints, when Seiryu appears at the north side of the arena, heals the player to full HP, and clears all corruption and Ritual Keepers shortly after. The end of this sequence signals the start of the final phase of the boss.
 
 
@@ -602,7 +764,9 @@ After every 10 autoattacks during this phase, the Ambassador will say "Fall now 
 
 
 
-**Ambassador's attack rotation**
+
+
+:bold-underline:`Ambassador's attack rotation`
 
 
 
@@ -640,7 +804,7 @@ Repeat
 
 
 
-**Strategy (Mage)**
+:bold-underline:`Strategy (Mage)`
 
 
 
@@ -649,6 +813,8 @@ Start the fight with a full sunshine rotation and prayer flicking the Ambassador
 
 
 During fragments, run around between beams spamming ice wrack, bleeds, wild magic, and asphyxiate. Try to end near full adrenaline and charge a detonate on Ambassador if you have extra time remaining. Release detonate and build back to sun (apot should come off cooldown perfectly).
+
+
 
 
 
@@ -662,7 +828,8 @@ During the final phase, stand melee distance of the boss and start blocking the 
 
 
 
-**Strategy (Melee)**
+
+:bold-underline:`Strategy (Melee)`
 
 
 
@@ -675,6 +842,7 @@ For the black hole, you can choose to either go over to stun, or tank it with Re
 
 
 Mid-fragments, just use your strong thresholds like Assault, Hurricane, and Blood Tendrils. You can even use Barge to bleed thresholds to wipe them out in essentially 2-3 abilities. Slaughter + Stomp is also a very good combo to wipe out fragments, especially with the masterwork spear of annihilation.
+
 
 
 
@@ -698,6 +866,7 @@ Continue on and the ritual keepers should spawn very quickly within your Berserk
 
 
 
+
 Continue to lower the Ambassador’s LP down and get ready to use Berserk again right as he begins the black hands phase. DPS him down and use ZGS spec again, and he should be dead. Run around to block the healing smoke and place your ZGS spec under him so you can run while taking advantage of it. Alternatively you can continue to spam click under him to block all of the healing smoke without needing to move, though this is also the most click-intensive and difficult thing you can do.
 
 
@@ -708,7 +877,8 @@ When the magic onslaught appears, you can use Devotion to block it, or use Refle
 
 
 
-**Example Runs**
+
+:bold-underline:`Example Runs`
 
 <https://youtu.be/5DvBhiZM3iY> by <@!133391081109716992>
 
@@ -716,4 +886,11 @@ When the magic onslaught appears, you can use Devotion to block it, or use Refle
 
 
 
-_ _
+
+
+
+
+
+
+
+
