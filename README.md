@@ -63,6 +63,6 @@ overview of all the current bugs that need to be resolved and new features.
 | hyperlink support (according the pvme style-guide)           | :red_circle: |
 | embed Youtube/Twitch and other links                         | :red_circle: |
 | automatically display images that don't start with `.img` at the end of a message | :red_circle: |
-|                                                              |              |
+| categories are not sorted correctly                          | :red_circle: |
 
 *currently the `> __**` format is used to identify sections. This format is not consistently used across all sections and certain sections are not suited for displaying in the navigation bar.

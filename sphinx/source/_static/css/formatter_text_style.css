@@ -1,0 +1,26 @@
+/*
+pvme-guides formatter font styles.
+
+NOTE: Changes to this file could `break` the formatter!
+*/
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.bold-underline {
+    font-weight: bold;
+    text-decoration: underline;
+}

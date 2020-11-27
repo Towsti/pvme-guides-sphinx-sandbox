@@ -12,11 +12,12 @@
 
 import os
 import sys
-import sphinx_rtd_theme
+import pathlib
+
 
 sys.path.insert(0, os.path.abspath('./../..'))
 
-import pvme_guides_formatter
+from pvme_docs_generator.sphinx_rst import generate_sphinx_rst
 
 
 # -- Project information -----------------------------------------------------
@@ -64,9 +65,13 @@ html_static_path = ['_static']
 
 html_css_files = [
 	'css/dark_reader.css',
-	'css/theme_extension.css'
+	'css/theme_extension.css',
+	'css/formatter_text_style.css'
 ]
 
 
 def setup(_app):
-	pvme_guides_formatter.format_pvme_guides()
+	source_dir = module_path = pathlib.Path(__file__).parent.absolute()
+	pvme_guides_dir = "{}/../../pvme-guides".format(module_path)
+
+	_result = generate_sphinx_rst(pvme_guides_dir, source_dir)

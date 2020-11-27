@@ -145,7 +145,7 @@ Gemstone Spikes
 Mage AoE
 Repeat
 .
-__Mechanics__
+a __Mechanics__ b
 
 __Gemstone Spikes__
 This mechanic occurs a few auto attacks into the start of the fight and after each dragonbreath after phase 1. This is identical to the hydrix dragon special attack where a line of spikes are shot through the ground and erupt under the player. This deals 5000+ melee damage and drains all adrenaline upon impact. It will also apply a debuff that reduces all adrenaline gain by 50% for a short duration. Simply move out of the way when this comes out.
@@ -158,7 +158,7 @@ __Black Hands (phase 2)__
 After reaching 515k-500k hp, phase 2 will begin. This is signaled by Black Stone Dragon moving to the center of the arena and 4 black hands with 80,000 hp each spawning where the rocks are located. These hands will slam the ground regularly and send out a very heavy mage auto if they are in range of the player. Shortly after, a line of small hands will move towards the player that deal rapid 2000+ damage if stood on. These hands will NEVER reach the player if they are standing in one of the four spots pictured above. The phase will end when all 4 hands are dead, dominion mines are highly recommended here as you can potentially use 6 if you placed some during phase 1. 
 
 __Smoke Spiral__
-A line of smoke will spiral inwards towards Black Stone Dragon, dealing 4000+ damage per tick if stood on. The boss will remain stationary during this time so flanking is possible here. It is recommended to learn where you can stand safely to avoid having to cancel channeled abilities. Generally, a max range sunshine/death swiftness to the sides of the boss will provide decent freedom of movement and allow for flanking. Do not sunshine in the center of the arena as Steel Titans cannot be called into that area for some reason.
+A line of smoke will spiral https://youtu.be/lsris6thu8g> inwards towards Black Stone Dragon, dealing 4000+ damage per tick if stood on. The boss will remain stationary during this time so flanking is possible here. It is recommended to learn where you can stand safely to avoid having to cancel channeled abilities. Generally, a max range sunshine/death swiftness to the sides of the boss will provide decent freedom of movement and allow for flanking. Do not sunshine in the center of the arena as Steel Titans cannot be called into that area for some reason.
 
 __Mage AoE__
 Black Stone Dragon will call out "GET. OUT. OF. ME." or "The shadow overwhelms!" and turn to fire a black projectile towards a random spot in the arena. This is very similar to Verak Lith's hurricanes special and will explode into black tendrils that deal 4000+ damage in the area for a short period. In a solo encounter, this will miss most of the time and isn't a big concern. The boss can also be flanked when it turns to send out the special.
