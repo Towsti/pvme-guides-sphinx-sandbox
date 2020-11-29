@@ -11,16 +11,17 @@ MESSAGE_END_START = '.'
 # order in which the message content is formatted.
 # the order can affect the outcome (e.g. Sections can only be formatted before Bold/Underline)
 CONTENT_FORMATTERS = [
+    Emoji,
     TableOfContents,
     Section,
+    # Emoji,
+    DiscordMarkdownHTML,
+    CodeBlock,
     InlineLiteral,
-    BoldUnderline,
-    # Bold,
-    Underline,
     LineBreak,
     ListSection,
-    Emoji,
-    EmbedLink
+    EmbedLink,
+    Cleanup
 ]
 
 # names (no '.txt' extension) of all the excluded categories
@@ -205,4 +206,9 @@ def generate_sphinx_rst(pvme_guides_dir: str, sphinx_source_dir: str) -> bool:
 
 if __name__ == "__main__":
     # For testing
+    # generate_channel("../sphinx/source", "../pvme-guides/high-tier-pvm/araxxor-melee.txt", "high-tier-pvm", "araxxor-melee")
+    # generate_channel("../sphinx/source", "../pvme-guides/getting-started/perks.txt", "getting-started", "perks")
+    generate_channel("../sphinx/source", "../pvme-guides/miscellaneous-information/ability-information.txt", "miscellaneous-information", "ability-information")
+
+    # generate_sphinx_rst("../pvme-guides", "../sphinx/source")
     pass
