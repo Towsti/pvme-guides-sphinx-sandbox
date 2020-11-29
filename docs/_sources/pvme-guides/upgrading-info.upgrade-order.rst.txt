@@ -1,542 +1,563 @@
-.. |ds| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
+.. |<i>| raw:: html
+
+    <i>
+
+.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tectbody| image:: https://cdn.discordapp.com/emojis/643849268804714506.png?v=1
+.. |gstaff+513203008608141314| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |seiswand| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
+.. |ds+535541258924326912| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowsbbcoh| image:: https://cdn.discordapp.com/emojis/580176857123651584.png?v=1
+.. |seiswand+583429704837758997| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Desolation| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
+.. |barrowskhopeshoh+580176857140428828| image:: https://cdn.discordapp.com/emojis/580176857140428828.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Malevolence| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+.. |Sos+626466320132734976| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eq1| image:: https://cdn.discordapp.com/emojis/689504357414207490.png?v=1
+.. |augdrygorerapieroh+697485495718117536| image:: https://cdn.discordapp.com/emojis/697485495718117536.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |achtoprimevaltop| image:: https://cdn.discordapp.com/emojis/641344704939819028.png?v=1
+.. |RoD+513190159462825984| image:: https://cdn.discordapp.com/emojis/513190159462825984.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</b>| raw:: html
 
-.. |ingen| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    </b>
+
+.. |bbcoh+626714879230738434| image:: https://cdn.discordapp.com/emojis/626714879230738434.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |pf| image:: https://cdn.discordapp.com/emojis/689501925770919981.png?v=1
+.. |sirenicbody+643846948570267648| image:: https://cdn.discordapp.com/emojis/643846948570267648.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowskhopeshoh| image:: https://cdn.discordapp.com/emojis/580176857140428828.png?v=1
+.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
 
-.. |seissing| image:: https://cdn.discordapp.com/emojis/583430011831189527.png?v=1
+.. |asr+513190158472839208| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |swh| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalhpiterebounder| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+.. |p6+712073088769982475| image:: https://cdn.discordapp.com/emojis/712073088769982475.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Flarefrost| image:: https://cdn.discordapp.com/emojis/513190159056109588.png?v=1
+.. |biting4+712073087809617931| image:: https://cdn.discordapp.com/emojis/712073087809617931.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |RoD| image:: https://cdn.discordapp.com/emojis/513190159462825984.png?v=1
+.. |as1+689502339891331093| image:: https://cdn.discordapp.com/emojis/689502339891331093.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augdrygorerapieroh| image:: https://cdn.discordapp.com/emojis/697485495718117536.png?v=1
+.. |ancientarmourgizmo+697405383769194516| image:: https://cdn.discordapp.com/emojis/697405383769194516.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientweapongizmo| image:: https://cdn.discordapp.com/emojis/697405383752548382.png?v=1
+.. |ascmh+513190158468775936| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |pernixbody| image:: https://cdn.discordapp.com/emojis/641672159051120651.png?v=1
+.. |noxstaff+513190159294922753| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Cruelty| image:: https://cdn.discordapp.com/emojis/513190159546712074.png?v=1
+.. |kalphiterepriser+643846849362657280| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vigour| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+.. |kalhpiterebounder+643846849223983125| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |khopeshmh| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+.. |Reaper+513190159412494367| image:: https://cdn.discordapp.com/emojis/513190159412494367.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |VirtusTop| image:: https://cdn.discordapp.com/emojis/556586038936600603.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |rapieroh+656785061072338954| image:: https://cdn.discordapp.com/emojis/656785061072338954.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |as1| image:: https://cdn.discordapp.com/emojis/689502339891331093.png?v=1
+.. |nightmaregauntlets+679628668120727571| image:: https://cdn.discordapp.com/emojis/679628668120727571.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |p6| image:: https://cdn.discordapp.com/emojis/712073088769982475.png?v=1
+.. |strcape+689503815296352308| image:: https://cdn.discordapp.com/emojis/689503815296352308.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |masterworkspearofannihilation| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+.. |pf+689501925770919981| image:: https://cdn.discordapp.com/emojis/689501925770919981.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tmwbody| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
+.. |armabook+513190159051915264| image:: https://cdn.discordapp.com/emojis/513190159051915264.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</u>| raw:: html
 
-.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    </u>
+
+.. |tectbody+643849268804714506| image:: https://cdn.discordapp.com/emojis/643849268804714506.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiterepriser| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
+.. |ruthless1+712244800924942396| image:: https://cdn.discordapp.com/emojis/712244800924942396.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |noxscythe| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+.. |detoboots+602581956072439828| image:: https://cdn.discordapp.com/emojis/602581956072439828.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |impercore| image:: https://cdn.discordapp.com/emojis/643166751067996160.png?v=1
+.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sirenicbody| image:: https://cdn.discordapp.com/emojis/643846948570267648.png?v=1
+.. |achtoprimevaltop+641344704939819028| image:: https://cdn.discordapp.com/emojis/641344704939819028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gstaff| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+.. |khopeshoh+513206794752098327| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |noxstaff| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+.. |elitesirenicbody+643846908305211413| image:: https://cdn.discordapp.com/emojis/643846908305211413.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowscore| image:: https://cdn.discordapp.com/emojis/615617138488639541.png?v=1
+.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ascoh| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
+.. |eq2+689502258424971564| image:: https://cdn.discordapp.com/emojis/689502258424971564.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |onsl| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+.. |ancientweapongizmo+697405383752548382| image:: https://cdn.discordapp.com/emojis/697405383752548382.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ascmh| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
+.. |barrowscore+615617138488639541| image:: https://cdn.discordapp.com/emojis/615617138488639541.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sgb| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |Affliction+513190158468907008| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphitedefender| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
+.. |tmwbody+536966366272552960| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+.. |grim+568262896375824385| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eq2| image:: https://cdn.discordapp.com/emojis/689502258424971564.png?v=1
+.. |ascoh+513190159362031631| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malevbody| image:: https://cdn.discordapp.com/emojis/643846996842512405.png?v=1
+.. |inquisitorstaff+694566917553520680| image:: https://cdn.discordapp.com/emojis/694566917553520680.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DTB| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
+.. |malevbody+643846996842512405| image:: https://cdn.discordapp.com/emojis/643846996842512405.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</i>| raw:: html
 
-.. |Affliction| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
+    </i>
+
+.. |as4+712074245202772009| image:: https://cdn.discordapp.com/emojis/712074245202772009.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |strcape| image:: https://cdn.discordapp.com/emojis/689503815296352308.png?v=1
+.. |seissing+583430011831189527| image:: https://cdn.discordapp.com/emojis/583430011831189527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augdrygoremacemh| image:: https://cdn.discordapp.com/emojis/697485495684431902.png?v=1
+.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
 
-.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Cinderbanes| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
+.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |praeswand+643166769518739477| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |grim| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aos| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |armabook| image:: https://cdn.discordapp.com/emojis/513190159051915264.png?v=1
+.. |augdrygoremacemh+697485495684431902| image:: https://cdn.discordapp.com/emojis/697485495684431902.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |nightmaregauntlets| image:: https://cdn.discordapp.com/emojis/679628668120727571.png?v=1
+.. |Merciless_kiteshield+536258779730411531| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |biting4| image:: https://cdn.discordapp.com/emojis/712073087809617931.png?v=1
+.. |DTB+513190159429271562| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+.. |impercore+643166751067996160| image:: https://cdn.discordapp.com/emojis/643166751067996160.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |onsl+513190159085207555| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Laceration| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
+.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elitetectbody| image:: https://cdn.discordapp.com/emojis/552955120707698699.png?v=1
+.. |pernixbody+641672159051120651| image:: https://cdn.discordapp.com/emojis/641672159051120651.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |khopeshoh| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
+.. |eq1+689504357414207490| image:: https://cdn.discordapp.com/emojis/689504357414207490.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bbc| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
+.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |praeswand| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
+.. |aos+513190158359724056| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Merciless_kiteshield| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
+.. |khopeshmh+513206794844110858| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |flank4| image:: https://cdn.discordapp.com/emojis/712073088296157185.png?v=1
+.. |bbc+626714879218155521| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Reaper| image:: https://cdn.discordapp.com/emojis/513190159412494367.png?v=1
+.. |Desolation+513190159018098713| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |inquisitorstaff| image:: https://cdn.discordapp.com/emojis/694566917553520680.png?v=1
+.. |Soul_ornament_kit+536255795021742095| image:: https://cdn.discordapp.com/emojis/536255795021742095.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |rapieroh| image:: https://cdn.discordapp.com/emojis/656785061072338954.png?v=1
+.. |elitetectbody+552955120707698699| image:: https://cdn.discordapp.com/emojis/552955120707698699.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+.. |barrowsbbcoh+580176857123651584| image:: https://cdn.discordapp.com/emojis/580176857123651584.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |as4| image:: https://cdn.discordapp.com/emojis/712074245202772009.png?v=1
+.. |kalphitedefender+643151141382651907| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ecb| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+.. |Flarefrost+513190159056109588| image:: https://cdn.discordapp.com/emojis/513190159056109588.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elitesirenicbody| image:: https://cdn.discordapp.com/emojis/643846908305211413.png?v=1
+.. |flank4+712073088296157185| image:: https://cdn.discordapp.com/emojis/712073088296157185.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ruthless1| image:: https://cdn.discordapp.com/emojis/712244800924942396.png?v=1
+.. |Cruelty+513190159546712074| image:: https://cdn.discordapp.com/emojis/513190159546712074.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientarmourgizmo| image:: https://cdn.discordapp.com/emojis/697405383769194516.png?v=1
+.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soul_ornament_kit| image:: https://cdn.discordapp.com/emojis/536255795021742095.png?v=1
+.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bbcoh| image:: https://cdn.discordapp.com/emojis/626714879230738434.png?v=1
+.. |noxscythe+513190159341322240| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |detoboots| image:: https://cdn.discordapp.com/emojis/602581956072439828.png?v=1
+.. |Laceration+602581988599398400| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sos| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
+.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |asr| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
+.. |vigour+615613235512737792| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |VirtusTop+556586038936600603| image:: https://cdn.discordapp.com/emojis/556586038936600603.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 upgrade-order
 =============
 
-General Upgrade Path
+General Upgrade Path  
 --------------------
 
 
-    *Note: This may not help you, as you may want to prioritize things in a **different order depending on boss***
+    |<i>| Note: This may not help you, as you may want to prioritize things in a |<b>| different order depending on boss |</b>| |</i>|
 
-        *If you are unsure, you can always ask*
-
-
-
-
-
-
-:bold-underline:`Magic`
-
-
-
-
-
-- Guthix Staff  |gstaff| 
-
-- Sunshine  |Sunshine| 
-
-- T90 Weapon  |noxstaff|   |seiswand|   |seissing| 
-
-- Entry Level Perks  |ancientweapongizmo|   |ancientarmourgizmo| 
-
-- Corruption Blast  |corruptblast| 
-
-- Planted Feet  |pf| 
-
-- T80 Armour  |VirtusTop| 
-
-- Inquisitor Staff  |inquisitorstaff| 
-
-- Blast Diffusion Boots  |detoboots| 
-
-- Off-hand Flanking 4 Switch  |flank4| 
-
-- Biting 4  |biting4| 
-
-- Affliction  |Affliction| 
-
-- Limitless  |limitless| 
-
-- Wand of the Praesul and Imperium Core  |praeswand|   |impercore| 
-
-- P6AS1 + AS4E2 (or P6R1 on staff)  |p6|  |as1|   |as4|  |eq2|   |ruthless1| 
-
-- Upgrade to T90 Flanking 4 switch  |seissing|   |flank4| 
-
-- SGB + IOTH  |sgb|   |ingen| 
-
-- T90 Armour  |tectbody| 
-
-- Upgrade to T92 Armour  |elitetectbody| 
-
-- Staff of Sliske  |Sos| 
-
-- Kalphite Rebounder  |kalhpiterebounder| 
-
-- Upgrade to Flanking 4 Equilibrium 1  |flank4|   |eq1| 
-
-- Upgrade to T92 Flanking switch  |barrowscore| 
+        |<i>| If you are unsure, you can always ask |</i>|
 
 
 
 
 
 
-:bold-underline:`Range`
+|<u>| |<b>| Magic |</b>| |</u>|
 
 
 
 
 
-- Death's Swiftness  |ds|  
+- Guthix Staff |gstaff+513203008608141314|
 
-- Ascensions  |ascmh|   |ascoh|  
+- Sunshine |Sunshine+583430011948630016|
 
-- Entry Level Perks  |ancientweapongizmo|   |ancientarmourgizmo| 
+- T90 Weapon |noxstaff+513190159294922753| |seiswand+583429704837758997| |seissing+583430011831189527|
 
-- Corruption Shot  |corruptshot|  
+- Entry Level Perks |ancientweapongizmo+697405383752548382| |ancientarmourgizmo+697405383769194516|
 
-- Planted Feet  |pf|  
+- Corruption Blast |corruptblast+513190159194259467|
 
-- Nightmare gauntlets  |nightmaregauntlets| 
+- Planted Feet |pf+689501925770919981|
 
-- T80 Armour  |pernixbody| 
+- T80 Armour |VirtusTop+556586038936600603|
 
-- Biting 4  |biting4| 
+- Inquisitor Staff |inquisitorstaff+694566917553520680|
 
-- An off-hand Flanking 4 switch  |flank4| 
+- Blast Diffusion Boots |detoboots+602581956072439828|
 
-- Desolation  |Desolation|  
+- Off-hand Flanking 4 Switch |flank4+712073088296157185|
 
-- Eldritch Crossbow  |ecb|  
+- Biting 4 |biting4+712073087809617931|
 
-- Limitless  |limitless| 
+- Affliction |Affliction+513190158468907008|
 
-- Seren Godbow  |sgb| 
+- Limitless |limitless+641339233638023179|
 
-- Blightbound Crossbows  |bbc|   |bbcoh| 
+- Wand of the Praesul and Imperium Core |praeswand+643166769518739477| |impercore+643166751067996160|
+
+- P6AS1 + AS4E2 (or P6R1 on staff) |p6+712073088769982475| |as1+689502339891331093| |as4+712074245202772009| |eq2+689502258424971564| |ruthless1+712244800924942396|
+
+- Upgrade to T90 Flanking 4 switch |seissing+583430011831189527| |flank4+712073088296157185|
+
+- SGB + IOTH |sgb+626466665848242186| |ingen+641339234111848463|
+
+- T90 Armour |tectbody+643849268804714506|
+
+- Upgrade to T92 Armour |elitetectbody+552955120707698699|
+
+- Staff of Sliske |Sos+626466320132734976|
+
+- Kalphite Rebounder |kalhpiterebounder+643846849223983125|
+
+- Upgrade to Flanking 4 Equilibrium 1 |flank4+712073088296157185| |eq1+689504357414207490|
+
+- Upgrade to T92 Flanking switch |barrowscore+615617138488639541|
+
+
+
+
+
+
+|<u>| |<b>| Range |</b>| |</u>|
+
+
+
+
+
+- Death's Swiftness |ds+535541258924326912| 
+
+- Ascensions |ascmh+513190158468775936| |ascoh+513190159362031631| 
+
+- Entry Level Perks |ancientweapongizmo+697405383752548382| |ancientarmourgizmo+697405383769194516|
+
+- Corruption Shot |corruptshot+535541306294796299| 
+
+- Planted Feet |pf+689501925770919981| 
+
+- Nightmare gauntlets |nightmaregauntlets+679628668120727571|
+
+- T80 Armour |pernixbody+641672159051120651|
+
+- Biting 4 |biting4+712073087809617931|
+
+- An off-hand Flanking 4 switch |flank4+712073088296157185|
+
+- Desolation |Desolation+513190159018098713| 
+
+- Eldritch Crossbow |ecb+615618531937222657| 
+
+- Limitless |limitless+641339233638023179|
+
+- Seren Godbow |sgb+626466665848242186|
+
+- Blightbound Crossbows |bbc+626714879218155521| |bbcoh+626714879230738434|
 
 (Prioritize MH unless most bosses you do require chinning)
 
-- P6AS1 + AS4E2 (or P6R1 on 2h)  |p6|  |as1|   |as4|  |eq2|   |ruthless1| 
+- P6AS1 + AS4E2 (or P6R1 on 2h) |p6+712073088769982475| |as1+689502339891331093| |as4+712074245202772009| |eq2+689502258424971564| |ruthless1+712244800924942396|
 
-- Upgrade to T90 Flanking 4 switch  |ascoh|   |flank4| 
+- Upgrade to T90 Flanking 4 switch |ascoh+513190159362031631| |flank4+712073088296157185|
 
-- T90 Armour  |sirenicbody| 
+- T90 Armour |sirenicbody+643846948570267648|
 
-- Upgrade to T92 Armour  |elitesirenicbody| 
+- Upgrade to T92 Armour |elitesirenicbody+643846908305211413|
 
-- Elite Ranger Boots/Flarefrost Boots  |Flarefrost| 
+- Elite Ranger Boots/Flarefrost Boots |Flarefrost+513190159056109588|
 
-- Kalphite Repriser  |kalphiterepriser| 
+- Kalphite Repriser |kalphiterepriser+643846849362657280|
 
-- Upgrade to Flanking 4 Equilibrium 1  |flank4|   |eq1| 
+- Upgrade to Flanking 4 Equilibrium 1 |flank4+712073088296157185| |eq1+689504357414207490|
 
-- Upgrade to T92 Flanking switch  |barrowsbbcoh| 
-
-
-
-
-
-
-:bold-underline:`Melee`
-
-
-
-
-
-- Scythe AND/OR Drygores  |noxscythe|   |augdrygoremacemh|   |augdrygorerapieroh| 
-
-- Entry Level Perks  |ancientweapongizmo|   |ancientarmourgizmo| 
-
-- T90 Armour  |malevbody| 
-
-- Greater Barge  |gbarge|  
-
-- Greater Flurry  |gflurry|  
-
-- An off-hand Lunging 4 switch + Strength Skillcape  |rapieroh|   |strcape| 
-
-- Biting 4  |biting4| 
-
-- An off-hand t90 Flanking 4 Switch.  |flank4| 
-
-- Zaros Godsword  |zgs|  
-
-- Malevolence  |Malevolence|  
-
-- Masterwork Spear of Annihilation  |masterworkspearofannihilation| 
-
-- Limitless  |limitless|  
-
-- Khopesh of Tumeken  |khopeshmh|  
-
-- P6AS1 + AS4E2 (or P6R1 on 2h)  |p6|  |as1|   |as4|  |eq2|   |ruthless1| 
-
-- Laceration Boots  |Laceration|  
-
-- Custom Fitted Trimmed Masterwork  |tmwbody|  
-
-- Khopesh of Elidinis  |khopeshoh|    
-
-- Greater Fury  |gfury|  
-
-- SGB + IOTH  |sgb|   |ingen|  
-
-- Hammer  |swh|  
-
-- Kalphite Defender  |kalphitedefender| 
-
-- Upgrade to Flanking 4 Equilibrum 1  |flank4|   |eq1| 
-
-- Upgrade to T92 Flanking Switch  |barrowskhopeshoh| 
+- Upgrade to T92 Flanking switch |barrowsbbcoh+580176857123651584|
 
 
 
 
 
 
-:bold-underline:`Overall Armour/Accessories`
+|<u>| |<b>| Melee |</b>| |</u>|
 
-- Vigour  |vigour|  
 
-- T80 Armour  |VirtusTop|  
 
-- T90 Shield  |Merciless_kiteshield|  
 
-- Amulet of Souls/Reaper  |aos|   |Reaper|  
 
-- Ring of Death  |RoD|  
+- Scythe AND/OR Drygores |noxscythe+513190159341322240| |augdrygoremacemh+697485495684431902| |augdrygorerapieroh+697485495718117536|
 
-- God Book/Scrim  |armabook|   |Cruelty|  
+- Entry Level Perks |ancientweapongizmo+697405383752548382| |ancientarmourgizmo+697405383769194516|
 
-- Deathtouch Bracelet/Cinderbanes/Nightmare Gauntlets  |DTB|   |Cinderbanes| 
+- T90 Armour |malevbody+643846996842512405|
 
-- Secondary Rune Pouches  |runepouch|  
+- Greater Barge |gbarge+535532879250456578| 
 
-- Grimoire  |grim|  
+- Greater Flurry |gflurry+535532879283879977| 
 
-- T90 Power Armour  |tectbody| 
+- An off-hand Lunging 4 switch + Strength Skillcape |rapieroh+656785061072338954| |strcape+689503815296352308|
 
-- Onslaught  |onsl| 
+- Biting 4 |biting4+712073087809617931|
 
-- Ornament Kits/ Ring Imbues  |Soul_ornament_kit| 
+- An off-hand t90 Flanking 4 Switch. |flank4+712073088296157185|
 
-- Asylum Surgeon's Ring  |asr| 
+- Zaros Godsword |zgs+626465964325601290| 
 
-- Achto  |achtoprimevaltop| 
+- Malevolence |Malevolence+513190159416557573| 
+
+- Masterwork Spear of Annihilation |masterworkspearofannihilation+694566917456789554|
+
+- Limitless |limitless+641339233638023179| 
+
+- Khopesh of Tumeken |khopeshmh+513206794844110858| 
+
+- P6AS1 + AS4E2 (or P6R1 on 2h) |p6+712073088769982475| |as1+689502339891331093| |as4+712074245202772009| |eq2+689502258424971564| |ruthless1+712244800924942396|
+
+- Laceration Boots |Laceration+602581988599398400| 
+
+- Custom Fitted Trimmed Masterwork |tmwbody+536966366272552960| 
+
+- Khopesh of Elidinis |khopeshoh+513206794752098327|   
+
+- Greater Fury |gfury+535532879334080527| 
+
+- SGB + IOTH |sgb+626466665848242186| |ingen+641339234111848463| 
+
+- Hammer |swh+641670143197446182| 
+
+- Kalphite Defender |kalphitedefender+643151141382651907|
+
+- Upgrade to Flanking 4 Equilibrum 1 |flank4+712073088296157185| |eq1+689504357414207490|
+
+- Upgrade to T92 Flanking Switch |barrowskhopeshoh+580176857140428828|
+
+
+
+
+
+
+|<u>| |<b>| Overall Armour/Accessories |</b>| |</u>|
+
+- Vigour |vigour+615613235512737792| 
+
+- T80 Armour |VirtusTop+556586038936600603| 
+
+- T90 Shield |Merciless_kiteshield+536258779730411531| 
+
+- Amulet of Souls/Reaper |aos+513190158359724056| |Reaper+513190159412494367| 
+
+- Ring of Death |RoD+513190159462825984| 
+
+- God Book/Scrim |armabook+513190159051915264| |Cruelty+513190159546712074| 
+
+- Deathtouch Bracelet/Cinderbanes/Nightmare Gauntlets |DTB+513190159429271562| |Cinderbanes+513190158355660812|
+
+- Secondary Rune Pouches |runepouch+583430011868938283| 
+
+- Grimoire |grim+568262896375824385| 
+
+- T90 Power Armour |tectbody+643849268804714506|
+
+- Onslaught |onsl+513190159085207555|
+
+- Ornament Kits/ Ring Imbues |Soul_ornament_kit+536255795021742095|
+
+- Asylum Surgeon's Ring |asr+513190158472839208|
+
+- Achto |achtoprimevaltop+641344704939819028|
 
 
 

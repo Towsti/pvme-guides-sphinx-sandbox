@@ -1,58 +1,79 @@
-.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
+.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |<i>| raw:: html
+
+    <i>
+
+.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
 
-.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
-
 .. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |Attack| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Magic| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
+.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
 
 .. |https://i.imgur.com/bB0xUd0.png| image:: https://i.imgur.com/bB0xUd0.png
 
-.. |Ranged| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |</i>| raw:: html
+
+    </i>
+
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 fight-kiln
 ==========
 
-:bold-underline:`The Fight Kiln (Courtesy of <@!142860823809884161> and <@!292744647850065920>)`
+|<b>| |<u>| The Fight Kiln (Courtesy of <@!142860823809884161> and <@!292744647850065920>) |</u>| |</b>|
 
 
 
@@ -64,7 +85,7 @@ fight-kiln
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -72,24 +93,24 @@ Fight kiln is a fairly easy fight once you know what you are doing and seems har
 
 
 
-- 1-9 are mostly weak to  |Attack| 
+- 1-9 are mostly weak to |Attack+689509250472476758|
 
-- 11-19 are mostly weak to  |Ranged| 
+- 11-19 are mostly weak to |Ranged+689504724403486920|
 
-- 21-29 are mostly weak to  |Magic| 
+- 21-29 are mostly weak to |Magic+689504724159823906|
 
-- 31 is weak to  |Attack| 
+- 31 is weak to |Attack+689509250472476758|
 
-- 32 is weak to  |Magic| 
+- 32 is weak to |Magic+689504724159823906|
 
-- 33 is weak to  |Ranged| 
-
-
+- 33 is weak to |Ranged+689504724403486920|
 
 
 
 
-Presets
+
+
+Presets  
 -------
 
 
@@ -107,9 +128,9 @@ Basic Preset (with obsidian)
 
 Advanced Preset
 
--  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
+- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
 
-(Runes for  |AirSurge|  and  |Vuln| )
+(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
 
 
 
@@ -121,7 +142,7 @@ Advanced Preset
 
 
 
-:bold-underline:`Explanation`
+|<u>| |<b>| Explanation |</b>| |</u>|
 
 Steel titan/Ripper demon + summoning flasks is very good on the mobs, particularly the Dills, who are still weak to familiars before their armour is broken. 
 
@@ -138,7 +159,7 @@ God book or grimoire is recommended for pocket slot.
 
 
 
-:bold-underline:`Wave Breakdown`
+|<b>| |<u>| Wave Breakdown |</u>| |</b>|
 
 - Waves 1-9: There will be mostly rangers with an increasing number of magers and meleers so use melee and switch to kill the others
 
@@ -156,7 +177,7 @@ God book or grimoire is recommended for pocket slot.
 
 
 
-:bold-underline:`WAVE 10: JAD - Spawns South West`
+|<b>| |<u>| WAVE 10: JAD - Spawns South West |</u>| |</b>|
 
 - 1 ranger also spawns SE
 
@@ -174,7 +195,7 @@ Wave 11-19: There will mostly be magers with an increasing spawn of meleers and 
 
 
 
-:bold-underline:`WAVE  20: JAD - Spawns South West`
+|<b>| |<u>| WAVE  20: JAD - Spawns South West |</u>| |</b>|
 
 - Also spawns 1 mager SE
 
@@ -192,7 +213,7 @@ Wave 11-19: There will mostly be magers with an increasing spawn of meleers and 
 
 
 
-:bold-underline:`WAVE  30: JAD - Spawns South West`
+|<b>| |<u>| WAVE  30: JAD - Spawns South West |</u>| |</b>|
 
 - 3 rapid melee attackers spawn in other corners
 
@@ -210,7 +231,7 @@ Wave 33: Use Range
 
 
 
-:bold-underline:`WAVE 34: JAD - Spawns South East`
+|<b>| |<u>| WAVE 34: JAD - Spawns South East |</u>| |</b>|
 
 - Rapid melee attacker spawns NW; ranger SW
 
@@ -219,7 +240,7 @@ Wave 33: Use Range
 
 
 
-:bold-underline:`WAVE 35: JAD - Spawns North East`
+|<b>| |<u>| WAVE 35: JAD - Spawns North East |</u>| |</b>|
 
 - Rapid melee attacker spawns NW; ranger SW; mager SE
 
@@ -228,7 +249,7 @@ Wave 33: Use Range
 
 
 
-:bold-underline:`WAVE 36: DOUBLE JAD - Spawn in both Southern corners`
+|<b>| |<u>| WAVE 36: DOUBLE JAD - Spawn in both Southern corners |</u>| |</b>|
 
 - Use invulnerability crystals here
 
@@ -242,11 +263,11 @@ Wave 33: Use Range
 
 
 
-*If playing on an Australian world*
+|<i>| If playing on an Australian world |</i>|
 
 ǝɹǝɥ slɐʇsʎɹɔ ʎʇᴉlᴉqɐɹǝulnʌuᴉ ǝs∩ <-
 
-**‾‾sɹǝuɹoɔ uɹǝɥʇnoS ɥʇoq uᴉ uʍɐdS - p∀ſ Ǝ˥q∩Op :9Ɛ ƎΛ∀M‾‾**
+|<b>| ‾‾sɹǝuɹoɔ uɹǝɥʇnoS ɥʇoq uᴉ uʍɐdS - p∀ſ Ǝ˥q∩Op :9Ɛ ƎΛ∀M‾‾ |</b>|
 
 
 
@@ -258,7 +279,7 @@ Wave 33: Use Range
 
 
 
-:bold-underline:`WAVE 37: Har-Aken`
+|<b>| |<u>| WAVE 37: Har-Aken |</u>| |</b>|
 
 
 

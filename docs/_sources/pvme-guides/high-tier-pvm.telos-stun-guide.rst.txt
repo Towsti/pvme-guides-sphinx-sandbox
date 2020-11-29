@@ -1,50 +1,63 @@
-.. |Deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ice_Barrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |impact| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Wrack| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+.. |Ice_Barrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |Imp+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Deep| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+.. |Deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Imp| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+.. |Deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 telos-stun-guide
 ================
 
-:bold-underline:`A soccermom's miniguide on how to stun Telos` (credit to <@214940450216214530> for info and <@435481585379180554> for formatting)
+|<b>| |<u>| A soccermom's miniguide on how to stun Telos |</u>| |</b>| (credit to <@214940450216214530> for info and <@435481585379180554> for formatting)
 
 - Created by rsn "Ideal Gas", <https://twitter.com/ideal_gas_rs> , <https://www.twitch.tv/ideal_gas> 
 
@@ -52,7 +65,7 @@ telos-stun-guide
 
 
 
-**Attack Speeds**
+|<b>| Attack Speeds |</b>|
 
 - You attack every 3 ticks (GCD), 4 ticks if c4taa
 
@@ -60,32 +73,32 @@ telos-stun-guide
 
 
 
-**Stuns**
+|<b>| Stuns |</b>|
 
--  |impact|  only stuns when it hits, for 1.2s, 100% ability damage, 15s cd
+- |impact+535533809655873556| only stuns when it hits, for 1.2s, 100% ability damage, 15s cd
 
--  |deep|  only stuns when hits, for 3.6s i think, 200% ability damage, 15s cd
+- |deep+535533833139912724| only stuns when hits, for 3.6s i think, 200% ability damage, 15s cd
 
--  |asphyx|  always stuns Telos **regardless** of accuracy, so your best stun 3.6s stun, 20s cd
+- |asphyx+535533833072672778| always stuns Telos |<b>| regardless |</b>| of accuracy, so your best stun 3.6s stun, 20s cd
 
--  |icebarrage|  do not stun but bind, so break his freedom. especially with 4taa, makes ancients pretty sick if used properly
-
-
+- |icebarrage+537340400185245701| do not stun but bind, so break his freedom. especially with 4taa, makes ancients pretty sick if used properly
 
 
 
 
-**Telos' Freedom** 
+
+
+|<b>| Telos' Freedom |</b>| 
 
 - Sub 1k, it has a cd of ~20s
 
-- **ONLY** P5, when Telos freedoms he has immunity for 6s, then can be stunned for 14s
+- |<b>| ONLY |</b>| P5, when Telos freedoms he has immunity for 6s, then can be stunned for 14s
 
 - Procs whenever off cd and he is bound/stunned 
 
 
 
-**What happens when you're stunned**
+|<b>| What happens when you're stunned |</b>|
 
 - Can't auto/use abilities even if they are off cooldown, but if they are on cooldown, their cd timers work normally
 
@@ -99,7 +112,7 @@ telos-stun-guide
 
 
 
-:bold-underline:`How to stun effectively (all phases)`:
+|<u>| |<b>| How to stun effectively (all phases) |</b>| |</u>| :
 
 - Stun Telos the tick before he is about to auto for maximum stall
 
@@ -119,9 +132,9 @@ Notice he does an auto after I impact but only 1, if I asphyxed instead of sonic
 
 
 
--  |Imp| ,  |Deep| , auto  |Asphyx| 
+- |Imp+535533809655873556| , |Deep+535533833139912724| , auto |Asphyx+535533833072672778|
 
--  |Asphyx| , cancel after 3rd hit with  |Imp| ,  |Deep| 
+- |Asphyx+535533833072672778| , cancel after 3rd hit with |Imp+535533809655873556| , |Deep+535533833139912724|
 
 https://clips.twitch.tv/CrispyAcceptablePuppyRickroll
 
@@ -129,15 +142,15 @@ https://clips.twitch.tv/CrispyAcceptablePuppyRickroll
 
 
 
--  |Asphyx| , cancel after 3rd hit with  |Deep| , auto/wait  |Imp|  (**DONT** impact right after deep impact, see common mistakes)
+- |Asphyx+535533833072672778| , cancel after 3rd hit with |Deep+535533833139912724| , auto/wait |Imp+535533809655873556| ( |<b>| DONT |</b>| impact right after deep impact, see common mistakes)
 
 
 
--  |Deep| , Auto  |Asphyx| , cancel after 3rd hit  |Imp|  (works i guess just not comfortable for me)
+- |Deep+535533833139912724| , Auto |Asphyx+535533833072672778| , cancel after 3rd hit |Imp+535533809655873556| (works i guess just not comfortable for me)
 
 
 
--  |Deep| , Auto  |Imp| ,  |Asphyx|  
+- |Deep+535533833139912724| , Auto |Imp+535533809655873556| , |Asphyx+535533833072672778| 
 
 
 
@@ -159,7 +172,7 @@ impact when he has freedom up
 
 
 
-:bold-underline:`Common mistakes`:
+|<u>| |<b>| Common mistakes |</b>| |</u>| :
 
 - Stun as soon as Telos autos 
 
@@ -175,13 +188,13 @@ If he didn't have freedom up, would've done auto 1 tick later so same speed, so 
 
 
 
--  |Asphyx| ,  |Deep| ,  |Imp| , no waiting ( |Deep|   |Imp|  just does some bad damage with no stunning, just use  |Wrack| )
+- |Asphyx+535533833072672778| , |Deep+535533833139912724| , |Imp+535533809655873556| , no waiting ( |Deep+535533833139912724| |Imp+535533809655873556| just does some bad damage with no stunning, just use |Wrack+535533809823645697| )
 
 
 
-:bold-underline:`P4`:
+|<u>| |<b>| P4 |</b>| |</u>| :
 
-- At fonts, can damage him with  |Imp|  (+ stacked Auto  |Deto| ) which will proc his freedom, and then (auto)  |Deep|   |Imp|   |Asphyx|  
+- At fonts, can damage him with |Imp+535533809655873556| (+ stacked Auto |Deto+535533833358016512| ) which will proc his freedom, and then (auto) |Deep+535533833139912724| |Imp+535533809655873556| |Asphyx+535533833072672778| 
 
 can just do auto deto wm then a stun rotation after, like if he has 1 attack before hold still or something and u res before going to 2nd font
 
@@ -191,21 +204,21 @@ https://clips.twitch.tv/StupidTangentialAlligatorGOWSkull
 
 
 
-- Break freedom with  |Ice_Barrage| / |Imp|  when he is charging, then  |Asphyx|  tick before he is about to attack,  |Wrack|   |Imp|  if you want to be safe afterwards, see below
+- Break freedom with |Ice_Barrage+537340400185245701| / |Imp+535533809655873556| when he is charging, then |Asphyx+535533833072672778| tick before he is about to attack, |Wrack+535533809823645697| |Imp+535533809655873556| if you want to be safe afterwards, see below
 
 
 
-:bold-underline:`P5`:
+|<u>| |<b>| P5 |</b>| |</u>| :
 
 - Always freedoms start, don't use stuns until he has no immunity
 
 - P5 is quite variable depending on if you surge properly, if you don't waste ticks getting into beam
 
-- Ideally though its not usually worth to impact right after sun if you started properly; the way his autos line up, waiting 1 tick to get 50 adren and  |Asphyx|  then cancel with  |Deep|  after 3rd hit creates more stall 
+- Ideally though its not usually worth to impact right after sun if you started properly; the way his autos line up, waiting 1 tick to get 50 adren and |Asphyx+535533833072672778| then cancel with |Deep+535533833139912724| after 3rd hit creates more stall 
 
 - Watch couchy vods for great examples on how to effectively stun p5
 
-**Decent example i did**:
+|<b>| Decent example i did |</b>| :
 
 https://clips.twitch.tv/NastyDarlingPorcupineTBTacoRight
 
@@ -213,7 +226,7 @@ https://clips.twitch.tv/NastyDarlingPorcupineTBTacoRight
 
 
 
-:bold-underline:`Some clip analysis`:
+|<u>| |<b>| Some clip analysis |</b>| |</u>| :
 
 
 
@@ -225,7 +238,7 @@ https://clips.twitch.tv/ExuberantDullSnailYouDontSay
 
 This is the standard P1 copied from couchy, notice that at the start my abilities and Telos autos were on same tick so had to stop 4ticking for at least 1 abil, 
 
-I chose  |Asphyx| . Asphyxiate first without breaking freedom is to have consistency, it always stuns so if you splash no worries for stall before tendrils
+I chose |Asphyx+535533833072672778| . Asphyxiate first without breaking freedom is to have consistency, it always stuns so if you splash no worries for stall before tendrils
 
 
 
@@ -237,7 +250,7 @@ https://clips.twitch.tv/GloriousOriginalPuddingPMSTwin
 
 
 
-- There are a lot of ways to deal with insta smp, and a few diff ways to stun, the one that's least rng is break his freedom while he is charging anima bomb then  |Asphyx|  as he is attackable. On maniacal it's usually fine to yolo stun as long as you didn't brew down
+- There are a lot of ways to deal with insta smp, and a few diff ways to stun, the one that's least rng is break his freedom while he is charging anima bomb then |Asphyx+535533833072672778| as he is attackable. On maniacal it's usually fine to yolo stun as long as you didn't brew down
 
 https://clips.twitch.tv/ElatedRichAlfalfaResidentSleeper
 

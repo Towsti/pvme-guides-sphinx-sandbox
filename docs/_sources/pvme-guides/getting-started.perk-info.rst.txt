@@ -1,24 +1,37 @@
-.. role:: bold-underline
-    :class: bold-underline
+.. |<b>| raw:: html
+
+    <b>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</u>| raw:: html
+
+    </u>
 
 perk-info
 =========
 
-Perk Information
+Perk Information  
 ----------------
 
 
-**Note: This channel explains the perk choices and placements, for the combos and positions of perks on gear check out <#553632787639435284>**
+|<b>| Note: This channel explains the perk choices and placements, for the combos and positions of perks on gear check out <#553632787639435284> |</b>|
 
 
 
- Weapon Perks
--------------
+Weapon Perks  
+------------
 
 
-    - :bold-underline:`Entry Level`
+    - |<b>| |<u>| Entry Level |</u>| |</b>|
 
-        - **Precise 6 + Equilibrium 4**
+        - |<b>| Precise 6 + Equilibrium 4 |</b>|
 
             - Approximately a ``7.1%`` DPM (damage per minute) increase over not having any weapon perks at all.
 
@@ -32,7 +45,7 @@ Perk Information
 
 
 
-- **Flanking 4**
+- |<b>| Flanking 4 |</b>|
 
     - Multiplies the damage of Backhand, Impact and Binding Shot by 2.6x when the target is not facing you.
 
@@ -48,7 +61,7 @@ Perk Information
 
 
 
-- **Planted Feet**
+- |<b>| Planted Feet |</b>|
 
     - Increases the duration of Sunshine and Death's Swiftness from 30s (50 ticks) to 37.8s (63 ticks).
 
@@ -58,9 +71,9 @@ Perk Information
 
 
 
-- :bold-underline:`Advanced`
+- |<b>| |<u>| Advanced |</u>| |</b>|
 
-    - **Precise 6 Aftershock 1 + Aftershock 4 Equilibrium 2**
+    - |<b>| Precise 6 Aftershock 1 + Aftershock 4 Equilibrium 2 |</b>|
 
         - Approximately ``9.6%`` DPM boost over not having any weapon perks at all.
 
@@ -76,7 +89,7 @@ Perk Information
 
 
 
-- **Equilibrium 4 Ruthless 3**
+- |<b>| Equilibrium 4 Ruthless 3 |</b>|
 
     - When comboed with p6as1 is approximately ``8.3%`` DPM boost over not having any weapon perks at all, before taking Ruthless into account.
 
@@ -88,7 +101,7 @@ Perk Information
 
 
 
-- **Lunging 4**
+- |<b>| Lunging 4 |</b>|
 
     - Increases max hit of Dismember, Fragmentation Shot and Combust by +80% on stationary targets.
 
@@ -101,13 +114,13 @@ Perk Information
 
 
 
- Armour Perks
--------------
+Armour Perks  
+------------
 
 
-    - :bold-underline:`Entry Level`
+    - |<b>| |<u>| Entry Level |</u>| |</b>|
 
-        - **Biting 3 **
+        - |<b>| Biting 3 |</b>|
 
             - Biting 3 gives a 6% (6.6% at level 20) chance of forcing a crit each hit, this come out to an average hit increase of 3.8% (4.18% at level 20).
 
@@ -115,7 +128,7 @@ Perk Information
 
             - Approximately a ``3.8%`` DPM boost over not having any form of biting.
 
-        - **Impatient 4 **
+        - |<b>| Impatient 4 |</b>|
 
             - Impatient 4 has a 36% (39.6% at level 20) chance to grant 3% more adren for a basic.
 
@@ -125,13 +138,13 @@ Perk Information
 
 
 
-- **Crackling 4**
+- |<b>| Crackling 4 |</b>|
 
     - Crackling 4 deals 200% ability damage every 60 seconds.
 
     - Can easily be comboed with an auxiliary perk.
 
-- **Enhanced Devoted 4**
+- |<b>| Enhanced Devoted 4 |</b>|
 
     - Enhanced Devoted 4 has a 18% (19.8% at level 20) chance per hit on you of activating a 3 second version of the Devotion ability.
 
@@ -145,7 +158,7 @@ Perk Information
 
 
 
-- **Turtling 4**
+- |<b>| Turtling 4 |</b>|
 
     - Increases the duration and cooldown of Barricade by 40%
 
@@ -156,9 +169,9 @@ Perk Information
 
 
 
-- :bold-underline:`Advanced`
+- |<b>| |<u>| Advanced |</u>| |</b>|
 
-    - **Biting 4 X**
+    - |<b>| Biting 4 X |</b>|
 
         - Biting 4 gives a 8% (8.8% at level 20) chance of forcing a crit each hit, this come out to an average hit increase of 5% (5.5% at level 20)
 
@@ -166,7 +179,7 @@ Perk Information
 
         - Can be comboed with an auxiliary perk but is generally expensive to do so
 
-    - **Relentless 5 Crackling 4**
+    - |<b>| Relentless 5 Crackling 4 |</b>|
 
         - Relentless 5 gives a 5% (5.5% at level 20) chance to not consume adrenaline when using an ability that requires adrenaline
 
@@ -180,7 +193,7 @@ Perk Information
 
 
 
-- **Impatient 4 Devoted 4**
+- |<b>| Impatient 4 Devoted 4 |</b>|
 
     - Due to the lack of enhanced devoted it is preferred to combo Impatient 4 with Devoted 4.
 
@@ -190,7 +203,7 @@ Perk Information
 
     - The effectiveness of this depends on the attack speed of a boss, but leads to approximately 12% damage reduction on targets with an attack speed of greater than 4t, or 21.4% on targets with an attack speed of 4t, assuming you always have the correct overhead prayer on.
 
-- **Invigorating 4 X**
+- |<b>| Invigorating 4 X |</b>|
 
     - Invigorating 4 gives 40% increased adrenaline from auto attacks, the amount depends on the combat style and weapon speed used. For mage this is always 0.8%.
 

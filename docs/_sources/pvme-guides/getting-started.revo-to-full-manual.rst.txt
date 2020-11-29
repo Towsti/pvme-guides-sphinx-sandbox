@@ -1,12 +1,33 @@
+.. |<i>| raw:: html
+
+    <i>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |</b>| raw:: html
+
+    </b>
+
 .. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
 
-.. role:: underline
-    :class: underline
+.. |</i>| raw:: html
+
+    </i>
 
 revo-to-full-manual
 ===================
 
-Why switch from Revolution to Full Manual?
+Why switch from Revolution to Full Manual?  
 ------------------------------------------
 
 
@@ -14,13 +35,13 @@ Let’s start from the beginning. The revolution combat mode allows the game to 
 
 Full manual is a combat mode where the game does not activate any abilities for you. Every ability you want to use in combat will require an input from the player. With no inputs from the player, full manual combat mode will only use auto attacks (sword swipes when using melee, arrows from your ammunition when ranging, auto-spells when using magic). 
 
-For a player just getting into pvm or bossing it is perfectly fine to use revolution. There are helpful guides and ability bar set ups on the official RS Wiki that make revolution viable in combat. **For most combat situations and scenarios, revolution is good enough.**
+For a player just getting into pvm or bossing it is perfectly fine to use revolution. There are helpful guides and ability bar set ups on the official RS Wiki that make revolution viable in combat. |<b>| For most combat situations and scenarios, revolution is good enough. |</b>|
 
 
 
 But…
 
-Full manual exists for a reason and are there for players who are looking to get a little more out of their combat capabilities. In this FAQ, I will go over several reasons and scenarios where full manual is a *better* combat mode.
+Full manual exists for a reason and are there for players who are looking to get a little more out of their combat capabilities. In this FAQ, I will go over several reasons and scenarios where full manual is a |<i>| better |</i>| combat mode.
 
 
 
@@ -28,7 +49,7 @@ Full manual exists for a reason and are there for players who are looking to get
 
 
 
-Revo vs. FM: Canceling channeled abilities
+Revo vs. FM: Canceling channeled abilities  
 ------------------------------------------
 
 
@@ -48,7 +69,7 @@ Now, manually canceling channeled abilities can be done on revolution mode. But,
 
 
 
-Revo vs. FM: Ultimates
+Revo vs. FM: Ultimates  
 ----------------------
 
 
@@ -71,35 +92,35 @@ Using full manual, you are better able to plan out what abilities are used prior
 
 
 
-Revo vs. Full Manual: Boss Mechanics
+Revo vs. Full Manual: Boss Mechanics  
 ------------------------------------
 
 
 As you progress in pvm and face tougher and tougher bosses, you will encounter bosses where revolution could greatly hinder your combat ability. Here are a few scenarios where revolution could cause more harm than good:
 
-1)    :underline:`Arraxor` – Web reflect mechanic 
+1)    |<u>| Arraxor |</u>| – Web reflect mechanic 
 
 a.    Player must manually input to stop attacking, otherwise all damage gets reflected onto the player potentially causing a KO
 
-2)    :underline:`Vorago` – Reflect mechanic
+2)    |<u>| Vorago |</u>| – Reflect mechanic
 
 a.    Same idea, damage gets reflected onto a player and revo requires a manual input to stop attacking
 
-3)    :underline:`Telos` – Hold Still Invader
+3)    |<u>| Telos |</u>| – Hold Still Invader
 
 a.    This mechanic is commonly dealt with by switching to a shield and using Resonance. This does require precise timings and if you are on revo, there’s a chance that revo activates an ability while you’re waiting to res. This puts you on global cooldown and suddenly, you are unable to activate any abilities while Telos smacks you silly.
 
-4)    :underline:`Kalphite King` – Green 
+4)    |<u>| Kalphite King |</u>| – Green 
 
 a.    This mechanic requires provoking KK then either using Devotion or Resonance to deal with the instant kill attack. If using resonance it requires precise timing to deal with the attack on-tick. 
 
-5)    :underline:`Nex` – Blood Siphon and Blood Phase
+5)    |<u>| Nex |</u>| – Blood Siphon and Blood Phase
 
 a.    Mechanic where any attacks during blood siphon will heal her rather than damage her. Requires manual input to stop attacking during the special attack.
 
 b.    Blood phase has a mechanic where any bleeds (combust, corruption blast, fragment shot, corruption shot, etc) will heal her instead of damaging her. Requires manual input to avoid using bleeds.
 
-6)    :underline:`Helwyr` – Swipe attack
+6)    |<u>| Helwyr |</u>| – Swipe attack
 
 a.    Mechanic where heavy melee damage will be dealt in a clearly visible melee attack. Common strategy to deal with the mechanic is to Resonance it. Requires precise timing and manual input.
 
@@ -109,7 +130,7 @@ a.    Mechanic where heavy melee damage will be dealt in a clearly visible melee
 
 
 
-More advanced scenarios:
+More advanced scenarios:  
 ------------------------
 
 
@@ -123,11 +144,11 @@ This is a really good point and at this stage, there’s very minute things that
 
 
 
-High Input Revo vs. Full Manual
+High Input Revo vs. Full Manual  
 -------------------------------
 
 
-:underline:`4 tick auto attack:` 
+|<u>| 4 tick auto attack: |</u>| 
 
 
 
@@ -135,7 +156,7 @@ Self explanatory. Undoubtably the biggest reason why many users prefer full manu
 
 
 
-:underline:`Auto weaving in defensives:`
+|<u>| Auto weaving in defensives: |</u>|
 
 
 
@@ -143,7 +164,7 @@ When using an ability that does not do damage, sometimes an auto attack will occ
 
 
 
-:underline:`5 tick auto attack`
+|<u>| 5 tick auto attack |</u>|
 
 
 

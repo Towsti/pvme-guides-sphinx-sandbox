@@ -1,54 +1,67 @@
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |godswordshard+643162769520066570| image:: https://cdn.discordapp.com/emojis/643162769520066570.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |intimidationtotem| image:: https://cdn.discordapp.com/emojis/643507594794631198.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |decayingtooth| image:: https://cdn.discordapp.com/emojis/643150841280200717.png?v=1
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |intimidationtotem+643507594794631198| image:: https://cdn.discordapp.com/emojis/643507594794631198.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/UcXWBwd.png| image:: https://i.imgur.com/UcXWBwd.png
+
+.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |decayingtooth+643150841280200717| image:: https://cdn.discordapp.com/emojis/643150841280200717.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/QyyXACA.png| image:: https://i.imgur.com/QyyXACA.png
 
-.. |https://i.imgur.com/UcXWBwd.png| image:: https://i.imgur.com/UcXWBwd.png
-
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |godswordshard| image:: https://cdn.discordapp.com/emojis/643162769520066570.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 gwd1
 ====
 
-:bold-underline:`God Wars Dungeon 1`
+|<b>| |<u>| God Wars Dungeon 1 |</u>| |</b>|
 
 
 
@@ -60,7 +73,7 @@ gwd1
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -76,13 +89,13 @@ Summon a legendary pet with beast of burden and forage, so that it picks up drop
 
 
 
-Drops
+Drops  
 -----
 
 
--  |godswordshard|   **Godsword shards** ``1/256``
+- |godswordshard+643162769520066570|  |<b>| Godsword shards |</b>| ``1/256``
 
--  |decayingtooth|   **Pet drop** ``1/5000 Normal mode (1000 threshold)``
+- |decayingtooth+643150841280200717|  |<b>| Pet drop |</b>| ``1/5000 Normal mode (1000 threshold)``
 
                                 ``1/1000 Hard mode (1000 threshold)``
 
@@ -92,17 +105,17 @@ Drops
 
 
 
-Preset
+Preset  
 ------
 
 
-Slayer helmet boosts work on K'ril/Kree when on a Greater Demons/Aviansies task. If you choose to use a legendary pet instead of a titan, replace spiritual prayers with super restores. Activating the Intimidation totem  |intimidationtotem|  will allow you to leave and reenter the boss room without needing to gain 40 kc, this can be used as a way to increase kph
+Slayer helmet boosts work on K'ril/Kree when on a Greater Demons/Aviansies task. If you choose to use a legendary pet instead of a titan, replace spiritual prayers with super restores. Activating the Intimidation totem |intimidationtotem+643507594794631198| will allow you to leave and reenter the boss room without needing to gain 40 kc, this can be used as a way to increase kph
 
--  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
--  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
+- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
 
-(Runes for  |AirSurge|  and  |Vuln| )
+(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
 
 
 

@@ -1,36 +1,49 @@
 .. |https://i.imgur.com/gh0lwgt.jpg| image:: https://i.imgur.com/gh0lwgt.jpg
 
-.. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
+.. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
 
-.. role:: bold-underline
-    :class: bold-underline
+.. |<u>| raw:: html
 
-.. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
-
-.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
-
-.. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
+    <u>
 
 .. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
 
-.. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
+
+.. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
+
+.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
 
 interface-guide
 ===============
 
-:bold-underline:`Credits to <@435481585379180554> and Trollster`
+|<b>| |<u>| Credits to <@435481585379180554> and Trollster |</u>| |</b>|
 
 
 
 
 
-:bold-underline:`Interface Setup`:
+|<u>| |<b>| Interface Setup |</b>| |</u>| :
 
 Having a proper interface setup is important as it allows you to organize your game view and have access to only those game windows which you will frequently need to interact with, such as your inventory, action bars, worn equipment, etc.
 
 
 
-**Uses of tertiary action bars**:            
+|<b>| Uses of tertiary action bars |</b>| :            
 
 1. Condense ability books (i.e. Defensives and Prayers)    
 
@@ -44,7 +57,7 @@ Having a proper interface setup is important as it allows you to organize your g
 
 
 
-**Starting with RS3 Default Interface:**
+|<b>| Starting with RS3 Default Interface: |</b>|
 
 
 
@@ -60,7 +73,7 @@ There's a lot of things wrong with this interface. Game windows are spread acros
 
 
 
-**Let's consider things we need for combat**:        
+|<b>| Let's consider things we need for combat |</b>| :        
 
 - Ability bars        
 
@@ -78,7 +91,7 @@ There's a lot of things wrong with this interface. Game windows are spread acros
 
 
 
-**Essential things in RS**:    
+|<b>| Essential things in RS |</b>| :    
 
 - Skills    
 
@@ -116,7 +129,7 @@ Showing the 5 ability books on the ribbon and reorganizing the previous tabs to 
 
 
 
-**Showing where all my ribbon icons call their respective tabs:**
+|<b>| Showing where all my ribbon icons call their respective tabs: |</b>|
 
 
 
@@ -128,7 +141,7 @@ Showing the 5 ability books on the ribbon and reorganizing the previous tabs to 
 
 
 
-**My interface:**
+|<b>| My interface: |</b>|
 
 
 
@@ -146,7 +159,7 @@ My second chatbox is the trades/assist tab. It's good for high traffic areas so 
 
 
 
-**Edit Layout Mode, Advanced settings:**
+|<b>| Edit Layout Mode, Advanced settings: |</b>|
 
 
 
@@ -164,7 +177,7 @@ The Buff and Debuff bars are extremely important in PvM. Having them in a practi
 
 
 
-**Extra:**
+|<b>| Extra: |</b>|
 
 
 
@@ -180,7 +193,7 @@ You can center your character wherever you want by changing the "Game View" wind
 
 
 
-At the end of the day, a good interface is one that works for **you**. Look for common patterns in the interfaces of good PvMers to see what aspects helps to PvM.
+At the end of the day, a good interface is one that works for |<b>| you |</b>| . Look for common patterns in the interfaces of good PvMers to see what aspects helps to PvM.
 
 
 
@@ -188,7 +201,7 @@ At the end of the day, a good interface is one that works for **you**. Look for 
 
 
 
-:bold-underline:`Here's a compilation of other PvM interfaces for ideas:`
+|<u>| |<b>| Here's a compilation of other PvM interfaces for ideas: |</b>| |</u>|
 
 ``Mocktail`` - <https://i.imgur.com/BqvEReh.jpg> 
 

@@ -1,137 +1,155 @@
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<i>| raw:: html
 
-.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <i>
 
-.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/0CrSo5E.png| image:: https://i.imgur.com/0CrSo5E.png
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/Wu7sTbO.png| image:: https://i.imgur.com/Wu7sTbO.png
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |maceoh| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
+.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/UiZBvf5.png| image:: https://i.imgur.com/UiZBvf5.png
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/gjUAf06.png| image:: https://i.imgur.com/gjUAf06.png
 
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/0CrSo5E.png| image:: https://i.imgur.com/0CrSo5E.png
+
+.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/Uof4OcF.png| image:: https://i.imgur.com/Uof4OcF.png
 
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/UFagGwx.png| image:: https://i.imgur.com/UFagGwx.png
 
-.. |https://i.imgur.com/vM7jhrO.png| image:: https://i.imgur.com/vM7jhrO.png
-
-.. |https://i.imgur.com/F6KFF3N.png| image:: https://i.imgur.com/F6KFF3N.png
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/vC8Jgdg.png| image:: https://i.imgur.com/vC8Jgdg.png
+.. |</i>| raw:: html
 
-.. |https://i.imgur.com/uLxEnlg.png| image:: https://i.imgur.com/uLxEnlg.png
+    </i>
 
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
 
 .. |https://i.imgur.com/RwJxxnH.png| image:: https://i.imgur.com/RwJxxnH.png
 
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+.. |https://i.imgur.com/vM7jhrO.png| image:: https://i.imgur.com/vM7jhrO.png
+
+.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/mt2dC5P.png| image:: https://i.imgur.com/mt2dC5P.png
 
-.. role:: underline
-    :class: underline
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |maceoh+656785061059756032| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://i.imgur.com/F6KFF3N.png| image:: https://i.imgur.com/F6KFF3N.png
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/uLxEnlg.png| image:: https://i.imgur.com/uLxEnlg.png
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/vC8Jgdg.png| image:: https://i.imgur.com/vC8Jgdg.png
+
+.. |https://i.imgur.com/UiZBvf5.png| image:: https://i.imgur.com/UiZBvf5.png
 
 the-shadow-reef
 ===============
 
-The Shadow Reef (courtesy of <@!145413546409197569> & <@!133391081109716992>)
+The Shadow Reef (courtesy of <@!145413546409197569> & <@!133391081109716992>)  
 -----------------------------------------------------------------------------
 
 
@@ -146,7 +164,7 @@ The third installment in the Elite Dungeon series of encounters, the Shadow Reef
 
 
 
-Presets
+Presets  
 -------
 
 
@@ -154,7 +172,7 @@ Presets
 
 
 
-:bold-underline:`Beginner/Group Magic`
+|<u>| |<b>| Beginner/Group Magic |</b>| |</u>|
 
 - Bringing both dual-wield and 2h is optional, and should only be done if the player is comfortable with 4 tick auto attacking. If not, simply bring dual wield or 2h.
 
@@ -170,11 +188,11 @@ Presets
 
 - Guthix staff to apply an affinity debuff
 
--  |runepouch|   |Airrune|   |Soulrune|   |Chaosrune|  for Air Surge and Vulnerability
+- |runepouch+583430011868938283| |Airrune+536252658986647589| |Soulrune+536252660333019136| |Chaosrune+536252659422855188| for Air Surge and Vulnerability
 
 
 
-:underline:`Optional`
+|<u>| Optional |</u>|
 
 - Flanking switch for increased damage in group, still applicable in solo to a small degree
 
@@ -194,25 +212,25 @@ Presets
 
 
 
-:bold-underline:`Advanced/Solo Magic`
+|<u>| |<b>| Advanced/Solo Magic |</b>| |</u>|
 
 - Adjust food as you see fit
 
 - Dragon Rider amulet switch
 
--  |augseissing|   **Seismic singularity** ``Flanking 4``
+- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
--  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
+- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
 
--  |purppouch|   **Rune Pouch**  |Cosmicrune|   |Astralrune|   |Lawrune| 
+- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
 
--  |bluepouch|   **Rune Pouch**  |Waterrune|   |Deathrune|   |Earthrune| 
+- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
 
-(Runes for  |bloodbarrage|   |icebarrage|   |borrowedpower|   |Vuln|   |disrupt|   |Veng| )
+(Runes for |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |Veng+543478434953822208| )
 
 
 
-:underline:`Optional`
+|<u>| Optional |</u>|
 
 - Lucky charm (Shadow Reef) for slightly higher gp/hr (NOTE: lucky charms do not increase the drop rate of unique items such as Eldritch crossbow stock)
 
@@ -229,7 +247,7 @@ Presets
 
 
 
-:bold-underline:`Beginner/Group Melee`
+|<u>| |<b>| Beginner/Group Melee |</b>| |</u>|
 
 - Noxious scythe to deal area-of-effect damage
 
@@ -243,15 +261,15 @@ Presets
 
 - Cinderbane gloves are best-in-slot for the dungeon
 
--  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
 
--  |bluepouch|   **Rune Pouch**  |Waterrune|   |Deathrune|   |Earthrune| 
+- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
 
-(Runes for  |disrupt|   |Veng| )
+(Runes for |disrupt+535614336207552523| |Veng+543478434953822208| )
 
 
 
-:underline:`Optional`
+|<u>| Optional |</u>|
 
 - Flanking switch for increased damage in group, still applicable in solo to a small degree
 
@@ -272,9 +290,9 @@ Presets
 
 
 
-:bold-underline:`Advanced/Solo Melee`
+|<u>| |<b>| Advanced/Solo Melee |</b>| |</u>|
 
--  |maceoh|   **Off-hand Drygore mace** ``Flanking 4``
+- |maceoh+656785061059756032|  |<b>| Off-hand Drygore mace |</b>| ``Flanking 4``
 
 - Swap to salve amulet for undead mobs and Taraket
 
@@ -282,9 +300,9 @@ Presets
 
 - Use scythe or ZGS to kill Taraket/Ambassador adds
 
--  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
 
-(Runes for  |disrupt| )
+(Runes for |disrupt+535614336207552523| )
 
 
 
@@ -297,7 +315,7 @@ Presets
 
 
 
-Section 1
+Section 1  
 ---------
 
 
@@ -323,15 +341,15 @@ Section 1
 
 
 
-**Room 1:** Starting with 100% adrenaline, barge the eastern crassian scout and bleed Assault on it. Move to the spot two squares north of the other scout and Hurricane, hitting all four enemies. Finish off with Cleave and Quake.
+|<b>| Room 1: |</b>| Starting with 100% adrenaline, barge the eastern crassian scout and bleed Assault on it. Move to the spot two squares north of the other scout and Hurricane, hitting all four enemies. Finish off with Cleave and Quake.
 
 
 
-**Room 2:** If using mage run behind the 3 Scouts and detonate. The scuttlers will md you by the time it's charged, If using melee use Flurry on the scouts, hitting as much scuttlers and scouts as possible. Finish with Cleave and Hurricane.
+|<b>| Room 2: |</b>| If using mage run behind the 3 Scouts and detonate. The scuttlers will md you by the time it's charged, If using melee use Flurry on the scouts, hitting as much scuttlers and scouts as possible. Finish with Cleave and Hurricane.
 
 
 
-**Room 3:** If you're on ancients, you can ice barrage the line of Warriors and all the mobs in this room will be lined up for tsunami and dragonbreath. With melee, move to the center of the cluster and Meteor Strike. Cleave and Quake should finish the job afterwards
+|<b>| Room 3: |</b>| If you're on ancients, you can ice barrage the line of Warriors and all the mobs in this room will be lined up for tsunami and dragonbreath. With melee, move to the center of the cluster and Meteor Strike. Cleave and Quake should finish the job afterwards
 
 
 
@@ -342,11 +360,11 @@ Section 1
 
 
 
-**Room 4:** There's only two Cloaked Zealots to clear here and they're lined up for AoEs so just do whatever you want here, dragonbreath, chain, deto if you want to, etc. If melee just use Hurricane, Flurry, and Quake on the zealots to kill them.
+|<b>| Room 4: |</b>| There's only two Cloaked Zealots to clear here and they're lined up for AoEs so just do whatever you want here, dragonbreath, chain, deto if you want to, etc. If melee just use Hurricane, Flurry, and Quake on the zealots to kill them.
 
 
 
-**Room 5:** There are two Crassian Scouts and two Cloaked Zealots spaced apart here. Aggro the zealots and move back a few steps to stack the mobs together for AoEs. Detonate may be used but is likely better for the next room. For melee line up your Cleave, Hurricane, and Quake to hit everything in one go. You only need to kill the two scouts and zealots to move to the next room.
+|<b>| Room 5: |</b>| There are two Crassian Scouts and two Cloaked Zealots spaced apart here. Aggro the zealots and move back a few steps to stack the mobs together for AoEs. Detonate may be used but is likely better for the next room. For melee line up your Cleave, Hurricane, and Quake to hit everything in one go. You only need to kill the two scouts and zealots to move to the next room.
 
 
 
@@ -357,11 +375,11 @@ Section 1
 
 
 
-**Room 6:** This room has two groups of zombies. The first set will stack into your deto if you charge it near the entrance rather than surging past them. You don't want to draw aggro from the second group early as that splits them up and makes them harder to AoE. Most if not all of the second group is quickly lurable into a tsunami. For melee, hit the first group with Cleave then keep running past while putting on your salve amulet. Quake the second group, then run back to the middle to lure both groups of zombies next to you. Hurricane and finish off the rest with Bladed Dive (with laceration boots) and Flurry. If you have it available, Meteor Strike is good but you likely won’t have it back in time. Activate Undead Slayer to speed up the process as well.
+|<b>| Room 6: |</b>| This room has two groups of zombies. The first set will stack into your deto if you charge it near the entrance rather than surging past them. You don't want to draw aggro from the second group early as that splits them up and makes them harder to AoE. Most if not all of the second group is quickly lurable into a tsunami. For melee, hit the first group with Cleave then keep running past while putting on your salve amulet. Quake the second group, then run back to the middle to lure both groups of zombies next to you. Hurricane and finish off the rest with Bladed Dive (with laceration boots) and Flurry. If you have it available, Meteor Strike is good but you likely won’t have it back in time. Activate Undead Slayer to speed up the process as well.
 
 
 
-**Room 7:** Fairly small room, use detonate once all the npcs are md for mage. For melee, barge a zombie, Cleave, then target the 20k armored zombie and bleed Assault on it. Then run back to the zombie you used Barge on and AoE with Hurricane and other AoE abilities.
+|<b>| Room 7: |</b>| Fairly small room, use detonate once all the npcs are md for mage. For melee, barge a zombie, Cleave, then target the 20k armored zombie and bleed Assault on it. Then run back to the zombie you used Barge on and AoE with Hurricane and other AoE abilities.
 
 
 
@@ -372,7 +390,7 @@ Section 1
 
 
 
-**Room 8:** You only need to kill the two zealots here to proceed. Kill the zealots with Flurry and Cleave and take off your salve amulet for your main amulet. End with high adrenaline for the first boss, The Crassian Leviathan.
+|<b>| Room 8: |</b>| You only need to kill the two zealots here to proceed. Kill the zealots with Flurry and Cleave and take off your salve amulet for your main amulet. End with high adrenaline for the first boss, The Crassian Leviathan.
 
 
 
@@ -385,29 +403,29 @@ Section 1
 
 
 
-**Room 9:** There is a cloaked zealot and various scuttlers in this room you need to clear to proceed. You can generally stand behind the zealot and the scuttlers will md you for AoEs. Barge one of the scouts for both the Barge buff and faster movement. Bleed Assault on the zealot, then immediately target a scuttler to Hurricane and Quake.
+|<b>| Room 9: |</b>| There is a cloaked zealot and various scuttlers in this room you need to clear to proceed. You can generally stand behind the zealot and the scuttlers will md you for AoEs. Barge one of the scouts for both the Barge buff and faster movement. Bleed Assault on the zealot, then immediately target a scuttler to Hurricane and Quake.
 
 
 
-**Room 10:** Put your salve amulet back on. Very spread out zombies in here that are fairly annoying to AoE as mage. Most of the time you can catch most of them in a detonate fairly quickly and then finish off the stragglers with your remaining abilities. After letting them md you use Meteor Strike and a few AoEs. Activate Undead Slayer to speed up the process.
-
-
-
-
-
-
-**Room 11:** Run down a long path and jump down the cliff to clear an Ulthven Necromancer and two Huge Skeletons. There's not much to this room but focusing the necromancer will clear the skeletons in the AoE. For melee, target cycle → Barge → bleed Assault on one of the skeletons or necromancer, depending on which enemy you tagged with Barge. Finish off the rest with Hurricane and Cleave.
-
-
-
-**Room 12:** There are two necromancers off at the sides and a line of three Armoured Zombies that stack up very well for a detonate guarding the door. You only need to kill one necromancer and the zombies to proceed to section 2, the temple area. For melee, kill one of the necromancers with a walked Slaughter → Dismember → Decimate. Then quickly move to the zombies guarding the entrance to the temple itself. Cleave and Flurry the zombies, then finish off with random basics.
+|<b>| Room 10: |</b>| Put your salve amulet back on. Very spread out zombies in here that are fairly annoying to AoE as mage. Most of the time you can catch most of them in a detonate fairly quickly and then finish off the stragglers with your remaining abilities. After letting them md you use Meteor Strike and a few AoEs. Activate Undead Slayer to speed up the process.
 
 
 
 
 
 
-Section 2
+|<b>| Room 11: |</b>| Run down a long path and jump down the cliff to clear an Ulthven Necromancer and two Huge Skeletons. There's not much to this room but focusing the necromancer will clear the skeletons in the AoE. For melee, target cycle → Barge → bleed Assault on one of the skeletons or necromancer, depending on which enemy you tagged with Barge. Finish off the rest with Hurricane and Cleave.
+
+
+
+|<b>| Room 12: |</b>| There are two necromancers off at the sides and a line of three Armoured Zombies that stack up very well for a detonate guarding the door. You only need to kill one necromancer and the zombies to proceed to section 2, the temple area. For melee, kill one of the necromancers with a walked Slaughter → Dismember → Decimate. Then quickly move to the zombies guarding the entrance to the temple itself. Cleave and Flurry the zombies, then finish off with random basics.
+
+
+
+
+
+
+Section 2  
 ---------
 
 
@@ -433,11 +451,11 @@ Section 2
 
 
 
-**Room 1:** There are two Ulthven Necromancers guarding the gates to the east and west that you must clear to access the black stone artefacts. The main gate will not drop until these have been activated. A mass of summoned skeletons will form in the room as you go about this task, making it a very easy soul split opportunity with corruption blast before you proceed. Go to either necromancer and Barge (with Mobile) → Assault. Kill that necromancer and activate the artifact, then go to the other necromancer and Barge (with Mobile again) → Flurry or Destroy (Destroy might be dicey because of the bridge room but you can do it), then activate the artifact.
+|<b>| Room 1: |</b>| There are two Ulthven Necromancers guarding the gates to the east and west that you must clear to access the black stone artefacts. The main gate will not drop until these have been activated. A mass of summoned skeletons will form in the room as you go about this task, making it a very easy soul split opportunity with corruption blast before you proceed. Go to either necromancer and Barge (with Mobile) → Assault. Kill that necromancer and activate the artifact, then go to the other necromancer and Barge (with Mobile again) → Flurry or Destroy (Destroy might be dicey because of the bridge room but you can do it), then activate the artifact.
 
 
 
-**Room 2:** This is the archer bridge where you get pelted with small ranged hits constantly. There are two Sea Horrors and a necromancer at the end of this room that you must clear to proceed. The horrors deal a ton of damage so, as mage, it's important to avoid them by standing away or using ice spells. You'll want to use devotion at some point for obvious reasons and revenge hits 10 stacks immediately here. Focus on dealing damage here and you'll be out very quickly. For melee, Devotion right as you start moving into the bridge and Bladed Dive + Surge to the end immediately mid-GCD, then Barge one of the sea horrors. Bleed Assault on it, then target the necromancer to Hurricane. Cleave and Quake the horror you *didn’t* attack to kill both the first horror and the necromancer. Finish off the horror with Flurry or other strong basics while you finish off the horror as quickly as possible.
+|<b>| Room 2: |</b>| This is the archer bridge where you get pelted with small ranged hits constantly. There are two Sea Horrors and a necromancer at the end of this room that you must clear to proceed. The horrors deal a ton of damage so, as mage, it's important to avoid them by standing away or using ice spells. You'll want to use devotion at some point for obvious reasons and revenge hits 10 stacks immediately here. Focus on dealing damage here and you'll be out very quickly. For melee, Devotion right as you start moving into the bridge and Bladed Dive + Surge to the end immediately mid-GCD, then Barge one of the sea horrors. Bleed Assault on it, then target the necromancer to Hurricane. Cleave and Quake the horror you |<i>| didn’t |</i>| attack to kill both the first horror and the necromancer. Finish off the horror with Flurry or other strong basics while you finish off the horror as quickly as possible.
 
 
 
@@ -450,11 +468,11 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 
-**Room 3:** There's a line of three Acolytes of Seiryu guarding the gate here that must be cleared to proceed. They are melee and line up well for AoEs so just go to town here.
+|<b>| Room 3: |</b>| There's a line of three Acolytes of Seiryu guarding the gate here that must be cleared to proceed. They are melee and line up well for AoEs so just go to town here.
 
 
 
-**Room 4:** Bladed dive/surge through the staircase as marked to avoid aggroing the four acolytes and go all the way to the next gate. There are many mobs here but only the necromancers and Huge Skeletons must be cleared. For melee start with a Meteor Strike and finish off all the mobs with Quake and other AoE abilities. but make sure to have high adrenaline as the next room is the second boss, Taraket the Necromancer.
+|<b>| Room 4: |</b>| Bladed dive/surge through the staircase as marked to avoid aggroing the four acolytes and go all the way to the next gate. There are many mobs here but only the necromancers and Huge Skeletons must be cleared. For melee start with a Meteor Strike and finish off all the mobs with Quake and other AoE abilities. but make sure to have high adrenaline as the next room is the second boss, Taraket the Necromancer.
 
 
 
@@ -472,22 +490,22 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 
-**Room 5:** There is a Sea Witch and two Armoured Zombies in this room. Very straightforward, just dps and stack for AoEs as you see fit. Sea Witches have extremely delayed attacks for some reason so you may still take a moderate mage hit several seconds after it has died. Try not to use Assault because you’ll want to save it for the next room, though.
+|<b>| Room 5: |</b>| There is a Sea Witch and two Armoured Zombies in this room. Very straightforward, just dps and stack for AoEs as you see fit. Sea Witches have extremely delayed attacks for some reason so you may still take a moderate mage hit several seconds after it has died. Try not to use Assault because you’ll want to save it for the next room, though.
 
 
 
-**Room 6:** Only the Kalgerion Demon needs to be killed here to proceed. He's really big and impossible to miss, activate Demon Slayer and Barge → Assault the Kal’gerion demon. Finish off with more strong basics and thresholds. You can manipulate one of the required necromancers in room 7 to move from his position to make the next room easier on you by running as close as you can to him, so he aggros you through the wall. But this isn’t 100% guaranteed, and if you don’t get it simply skip it and proceed.
+|<b>| Room 6: |</b>| Only the Kalgerion Demon needs to be killed here to proceed. He's really big and impossible to miss, activate Demon Slayer and Barge → Assault the Kal’gerion demon. Finish off with more strong basics and thresholds. You can manipulate one of the required necromancers in room 7 to move from his position to make the next room easier on you by running as close as you can to him, so he aggros you through the wall. But this isn’t 100% guaranteed, and if you don’t get it simply skip it and proceed.
 
 
 
 
 
 
-**Room 7:** There's two necromancers (marked in red) hiding around in this room that need to be cleared. Just dump some thresholds and proceed.
+|<b>| Room 7: |</b>| There's two necromancers (marked in red) hiding around in this room that need to be cleared. Just dump some thresholds and proceed.
 
 
 
-**Room 8:** Another two necromancers are guarding the gate here so just continue picking them off. The Sea Witches and Magister miniboss that can spawn at the east side of the room have a fairly large aggro range so preferably hug the wall as you enter. For melee, Quake and Decimate the first necromancer immediately. Slaughter and Surge at the exact same time to finish it off and move yourself quickly through the dungeon. Get on the other necromancer and finish it off with Hurricane and other strong basics. Finally, dive into the abyss to enter the final section of the dungeon.
+|<b>| Room 8: |</b>| Another two necromancers are guarding the gate here so just continue picking them off. The Sea Witches and Magister miniboss that can spawn at the east side of the room have a fairly large aggro range so preferably hug the wall as you enter. For melee, Quake and Decimate the first necromancer immediately. Slaughter and Surge at the exact same time to finish it off and move yourself quickly through the dungeon. Get on the other necromancer and finish it off with Hurricane and other strong basics. Finally, dive into the abyss to enter the final section of the dungeon.
 
 
 
@@ -505,29 +523,29 @@ A lot of learners panic eat a ton here but the bridge can be done with no food
 
 
 
-**Room 1:** There is a group of Crassian Warriors and scuttlers around the gate that must be killed. There's a decent amount of damage to do here so sunshine, detonate, etc., are recommended. They stack up very nicely for barrage autos and other AoEs and aren't very threatening in general. For melee, move to the gate and Barge a crassian warrior. Bleed Assault on it, and let the rest of the warriors gather to you, then finish them off with Cleave, Hurricane, and Quake. Save Meteor Strike for Room 3.
+|<b>| Room 1: |</b>| There is a group of Crassian Warriors and scuttlers around the gate that must be killed. There's a decent amount of damage to do here so sunshine, detonate, etc., are recommended. They stack up very nicely for barrage autos and other AoEs and aren't very threatening in general. For melee, move to the gate and Barge a crassian warrior. Bleed Assault on it, and let the rest of the warriors gather to you, then finish them off with Cleave, Hurricane, and Quake. Save Meteor Strike for Room 3.
 
 
 
-**Room 2:** Two Warped Skeletons in here that can completely clear you if you aren't paying attention. If you sunned earlier at the previous gate, you can finish the remaining duration in here. The skeletons can deal a moderate mage hit frequently, healing themselves while dealing 2000-3000 damage to you. It's recommended to keep them snared/stunned to not have to deal with this.
-
-
-
-
-
-
-**Room 3:** There are two more Warped Skeletons along with three Cloaked Zealots guarding the gate. Run behind the line of zealots and detonate to clear this room fairly quickly. Once again, be wary of getting cleared by the skeletons but an ice barrage can freeze all the mobs in here nicely. For melee, Meteor Strike and AoE the zealots and skeletons all in one and finish off the rest of the mobs however you see fit.
-
-
-
-**Room 4:** The last room before the final boss of the dungeon. There are two more skeletons along with two Crassian Scouts that need to be cleared to proceed. They're pretty spread out so just dps and make sure to be on high adrenaline for the encounter with The Ambassador. There are three minibosses that can spawn in this room with a fairly inconvenient aggro range so avoid them by quickly Bladed Dive + Surging. For melee, Barge the crassian scouts, finish off the rest of the mobs, but try not to use Assault so you can more quickly use it for the start of Ambassador if you don’t want to wait.
+|<b>| Room 2: |</b>| Two Warped Skeletons in here that can completely clear you if you aren't paying attention. If you sunned earlier at the previous gate, you can finish the remaining duration in here. The skeletons can deal a moderate mage hit frequently, healing themselves while dealing 2000-3000 damage to you. It's recommended to keep them snared/stunned to not have to deal with this.
 
 
 
 
 
 
-The Crassian Leviathan
+|<b>| Room 3: |</b>| There are two more Warped Skeletons along with three Cloaked Zealots guarding the gate. Run behind the line of zealots and detonate to clear this room fairly quickly. Once again, be wary of getting cleared by the skeletons but an ice barrage can freeze all the mobs in here nicely. For melee, Meteor Strike and AoE the zealots and skeletons all in one and finish off the rest of the mobs however you see fit.
+
+
+
+|<b>| Room 4: |</b>| The last room before the final boss of the dungeon. There are two more skeletons along with two Crassian Scouts that need to be cleared to proceed. They're pretty spread out so just dps and make sure to be on high adrenaline for the encounter with The Ambassador. There are three minibosses that can spawn in this room with a fairly inconvenient aggro range so avoid them by quickly Bladed Dive + Surging. For melee, Barge the crassian scouts, finish off the rest of the mobs, but try not to use Assault so you can more quickly use it for the start of Ambassador if you don’t want to wait.
+
+
+
+
+
+
+The Crassian Leviathan  
 ----------------------
 
 
@@ -551,7 +569,7 @@ As the first boss of The Shadow Reef, The Crassian Leviathan has a very small an
 
 
 
-:bold-underline:`Mechanics`
+|<u>| |<b>| Mechanics |</b>| |</u>|
 
 
 
@@ -576,7 +594,7 @@ After going through one Dragon Breath and two sets of Head Sweeps, the leviathan
 
 
 
-:bold-underline:`Strategy (Melee only)`
+|<u>| |<b>| Strategy (Melee only) |</b>| |</u>|
 
 For melee, you’ll want to just get your Berserk and ZGS spec off. Within your Berserk, bleed Assault, fully channel Destroy, and 3 hit Flurry. Within ZGS, get at least a fully channeled Assault and Destroy off. Don’t bother with a second Berserk, aim to just finish him off in one cycle with just Berserk and ZGS.
 
@@ -585,7 +603,7 @@ For melee, you’ll want to just get your Berserk and ZGS spec off. Within your 
 
 
 
-Taraket the Necromancer
+Taraket the Necromancer  
 -----------------------
 
 
@@ -609,7 +627,7 @@ This encounter is the second boss of the Shadow Reef, and is a clear step up in 
 
 
 
-:bold-underline:`Mechanics`
+|<u>| |<b>| Mechanics |</b>| |</u>|
 
 
 
@@ -633,7 +651,7 @@ Spirit Line: Taraket will yell out "Your efforts are meaningless, witness the fu
 
 
 
-:bold-underline:`Strategy (Mage)`
+|<u>| |<b>| Strategy (Mage) |</b>| |</u>|
 
 
 
@@ -671,7 +689,7 @@ After this, the boss can be easily DPSed down to 0. Another rift may be spawned 
 
 
 
-:bold-underline:`Strategy (Melee)`
+|<u>| |<b>| Strategy (Melee) |</b>| |</u>|
 
 
 
@@ -708,7 +726,7 @@ Deal with the mechanics just as you do with Magic and you’ll be perfectly fine
 
 
 
-Kranon, the Ambassador
+Kranon, the Ambassador  
 ----------------------
 
 
@@ -734,7 +752,7 @@ At the bottom of the abyssal section awaits the Ambassador, the final boss of th
 
 
 
-:bold-underline:`Mechanics`
+|<u>| |<b>| Mechanics |</b>| |</u>|
 
 
 
@@ -766,7 +784,7 @@ After every 10 autoattacks during this phase, the Ambassador will say "Fall now 
 
 
 
-:bold-underline:`Ambassador's attack rotation`
+|<u>| |<b>| Ambassador's attack rotation |</b>| |</u>|
 
 
 
@@ -804,7 +822,7 @@ Repeat
 
 
 
-:bold-underline:`Strategy (Mage)`
+|<u>| |<b>| Strategy (Mage) |</b>| |</u>|
 
 
 
@@ -829,7 +847,7 @@ During the final phase, stand melee distance of the boss and start blocking the 
 
 
 
-:bold-underline:`Strategy (Melee)`
+|<u>| |<b>| Strategy (Melee) |</b>| |</u>|
 
 
 
@@ -878,7 +896,7 @@ When the magic onslaught appears, you can use Devotion to block it, or use Refle
 
 
 
-:bold-underline:`Example Runs`
+|<u>| |<b>| Example Runs |</b>| |</u>|
 
 <https://youtu.be/5DvBhiZM3iY> by <@!133391081109716992>
 

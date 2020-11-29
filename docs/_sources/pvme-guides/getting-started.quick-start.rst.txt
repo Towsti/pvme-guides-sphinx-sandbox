@@ -1,21 +1,39 @@
-.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: underline
-    :class: underline
+.. |</u>| raw:: html
 
-.. role:: bold-underline
-    :class: bold-underline
+    </u>
 
-.. |corruptblast| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
 
 quick-start
 ===========
 
-Money Making
+Money Making  
 ------------
 
 
@@ -33,7 +51,7 @@ The purpose of this section is to explain some methods in which you can make mon
 
 
 
-:underline:`Shop Runs`
+|<u>| Shop Runs |</u>|
 
 - Rush to Fremennik Isles requirements for yak hide runs (~500k/day, requires 50k gp to do).
 
@@ -57,7 +75,7 @@ Stats needed (include pre-requisite stats):
 
 
 
-:underline:`Vis Wax`
+|<u>| Vis Wax |</u>|
 
 Requires: 50 Runecrafting
 
@@ -69,13 +87,13 @@ It is recommended to use cheap runes to obtain vis wax. Try to use any of the fo
 
 
 
-:underline:`Skilling`
+|<u>| Skilling |</u>|
 
 
 
 - Smithing Steel Bars
 
-    -Do the quest *The Knights Sword* to get the required smithing level. 
+    -Do the quest |<i>| The Knights Sword |</i>| to get the required smithing level. 
 
 
 
@@ -90,7 +108,7 @@ It is recommended to use cheap runes to obtain vis wax. Try to use any of the fo
 
 
 
-:underline:`Other`
+|<u>| Other |</u>|
 
 
 
@@ -104,9 +122,9 @@ It is recommended to use cheap runes to obtain vis wax. Try to use any of the fo
 
 
 
-:bold-underline:`Training`
+|<u>| |<b>| Training |</b>| |</u>|
 
--Assumes you are doing the money making methods mentioned prior **AND** that you will start doing some form of bossing when your stats are adequate enough.
+-Assumes you are doing the money making methods mentioned prior |<b>| AND |</b>| that you will start doing some form of bossing when your stats are adequate enough.
 
 
 
@@ -122,7 +140,7 @@ The goal is for you to end up with the following stats: 99 combat skills; 99 inv
 
 
 
-:underline:`Combat`
+|<u>| Combat |</u>|
 
 
 
@@ -134,17 +152,17 @@ Notes:
 
         -Magic is preferred as it gives you access to the Vulnerability spell and is a generally forgiving style to use.
 
-        -70 prayer as it gives you access to the Piety set of prayers after completion of *Knight Waves training ground* miniquest [Requires completion of *King's Ransom*].
+        -70 prayer as it gives you access to the Piety set of prayers after completion of |<i>| Knight Waves training ground |</i>| miniquest [Requires completion of |<i>| King's Ransom |</i>| ].
 
-    -While not mentioned, you should always upgrade to the highest tier weapon and then *power* armour that you can afford when training.
-
-
+    -While not mentioned, you should always upgrade to the highest tier weapon and then |<i>| power |</i>| armour that you can afford when training.
 
 
 
 
 
-**For ALL COMBAT**
+
+
+|<b>| For ALL COMBAT |</b>|
 
 
 
@@ -156,7 +174,7 @@ It is recommended to do Elite Dungeon runs in a trio for combat and dungeoneerin
 
 
 
-**Attack and Strength**
+|<b>| Attack and Strength |</b>|
 
 
 
@@ -164,15 +182,15 @@ Note: It is important to always make use of the highest tier halberd you are abl
 
 
 
-``1-30:`` Do *Waterfall Quest*.
+``1-30:`` Do |<i>| Waterfall Quest |</i>| .
 
-``30-36:`` [**Attack only**]: Do *The Fight Arena*.
+``30-36:`` [ |<b>| Attack only |</b>| ]: Do |<i>| The Fight Arena |</i>| .
 
 ``30-40:`` Kill Trolls in Burthope Caves.
 
 ``40-60:`` Kill Ghouls outside the Morytania Mauseleum.
 
-Do: *Regicide* for access to the Dragon Halberd.
+Do: |<i>| Regicide |</i>| for access to the Dragon Halberd.
 
 ``60-90:`` Wilderness Abyss.
 
@@ -182,17 +200,17 @@ Do: *Regicide* for access to the Dragon Halberd.
 
 
 
-Note: *The Grand Tree* gives a 18,750 experience lamp that you can use on either Ranged, Strength, Attack, Defence, Hp or Magic. It is recommended to complete this quest and use it on either Ranged or Magic.
+Note: |<i>| The Grand Tree |</i>| gives a 18,750 experience lamp that you can use on either Ranged, Strength, Attack, Defence, Hp or Magic. It is recommended to complete this quest and use it on either Ranged or Magic.
 
 
 
-**Range**
+|<b>| Range |</b>|
 
 
 
 Note: It is important to make use of the highest tier chinchompa you are able to acquire when training range in the abyss.
 
-Note: Unlock  |corruptshot|  ability ASAP.
+Note: Unlock |corruptshot+535541306294796299| ability ASAP.
 
 
 
@@ -210,9 +228,9 @@ Note: Unlock  |corruptshot|  ability ASAP.
 
 
 
-**Magic**
+|<b>| Magic |</b>|
 
-Note: Unlock  |corruptblast|  ability ASAP.
+Note: Unlock |corruptblast+513190159194259467| ability ASAP.
 
 
 
@@ -228,9 +246,9 @@ Note: At 30 magic you have the magic level for Evil Dave's Big day out, it is re
 
 
 
-**Prayer**
+|<b>| Prayer |</b>|
 
-``1-27:`` Do: *Restless Ghost*; *Priest in Peril*; *One Piercing Note*, and then *God Statues* monthly d&d.
+``1-27:`` Do: |<i>| Restless Ghost |</i>| ; |<i>| Priest in Peril |</i>| ; |<i>| One Piercing Note |</i>| , and then |<i>| God Statues |</i>| monthly d&d.
 
 ``27-95:`` Dragon bones on gilded altar with 2 lit burners OR wilderness chaos altar (this should cost ~70m).
 
@@ -242,19 +260,19 @@ Note: Once you reach 70 prayer you can make use of the Piety variants of prayers
 
 
 
-**Summoning**
+|<b>| Summoning |</b>|
 
 
 
-*This section assumes you have already done either 90-99 Ranged, Magic, Strength or Attack at Waterfiends and therefore have the gold and crimson charms needed for 87*
+|<i>| This section assumes you have already done either 90-99 Ranged, Magic, Strength or Attack at Waterfiends and therefore have the gold and crimson charms needed for 87 |</i>|
 
-Note: Making use of the *Familiarisation* minigame will greatly aid in farming charms from Waterfiends.
+Note: Making use of the |<i>| Familiarisation |</i>| minigame will greatly aid in farming charms from Waterfiends.
 
 Note: Charming potions increase the number of charms dropped per kill by 1 for every mob, purchaseable from the Grand Exchange, and highly recommended when training combat via ED3, as the blue charms can be used to accelerate your summoning training.  
 
 
 
-``1-4:`` Do *Wolf Whistle*
+``1-4:`` Do |<i>| Wolf Whistle |</i>|
 
 ``4-16:`` Make Dreadfowls
 
@@ -274,7 +292,7 @@ Note: Charming potions increase the number of charms dropped per kill by 1 for e
 
 
 
-**Herblore**
+|<b>| Herblore |</b>|
 
 
 
@@ -286,7 +304,7 @@ Note: Always make use of portable wells when making potions for the +10% experie
 
 
 
-``1-84:`` Do *Warbands* daily
+``1-84:`` Do |<i>| Warbands |</i>| daily
 
 ``84-88:`` Adrenaline Potions
 
@@ -299,9 +317,9 @@ Note: Always make use of portable wells when making potions for the +10% experie
 
 
 
-**Crafting**
+|<b>| Crafting |</b>|
 
-*80 crafting is required for invention*
+|<i>| 80 crafting is required for invention |</i>|
 
 
 
@@ -309,19 +327,19 @@ Note: You can join a clan and make use of the weaving loom there for some crafti
 
 
 
-**Slow but free**:
+|<b>| Slow but free |</b>| :
 
 ``1-80:`` Dungeoneering Crafting - This method involves crafting either the magic or range armour in dungeoneering, selling that to smuggler, buying more supplies then repeating.
 
 
 
-**Slow but cheap**
+|<b>| Slow but cheap |</b>|
 
 ``1-80:`` Making the highest tier urn that you can.
 
 
 
-**Fast but expensive**
+|<b>| Fast but expensive |</b>|
 
 ``20-80:`` Cutting gems (sapphire, rubies, emeralds, diamonds).
 
@@ -329,9 +347,9 @@ Note: You can join a clan and make use of the weaving loom there for some crafti
 
 
 
-:underline:`Divination`
+|<u>| Divination |</u>|
 
-*80 is needed for invention*
+|<i>| 80 is needed for invention |</i>|
 
 
 
@@ -341,13 +359,13 @@ Note: You can join a clan and make use of the weaving loom there for some crafti
 
 
 
-**Smithing**
+|<b>| Smithing |</b>|
 
-*80 smithing is required for invention*
+|<i>| 80 smithing is required for invention |</i>|
 
 
 
-``1-30:`` Do *The Knight's Sword* then make steel platebodies
+``1-30:`` Do |<i>| The Knight's Sword |</i>| then make steel platebodies
 
 ``30-40:`` Make mithril platebodies
 
@@ -361,7 +379,7 @@ Note: You can join a clan and make use of the weaving loom there for some crafti
 
 
 
-**Invention**
+|<b>| Invention |</b>|
 
 
 

@@ -1,30 +1,43 @@
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
 .. |https://i.imgur.com/CP0Xelp.png| image:: https://i.imgur.com/CP0Xelp.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |kbdhead+643163046969212946| image:: https://cdn.discordapp.com/emojis/643163046969212946.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
 
-.. |kbdhead| image:: https://cdn.discordapp.com/emojis/643163046969212946.png?v=1
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kbdscale| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
+.. |kbdscale+643163047275266094| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenurn| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 king-black-dragon
 =================
 
-:bold-underline:`King Black Dragon`
+|<b>| |<u>| King Black Dragon |</u>| |</b>|
 
 
 
@@ -36,7 +49,7 @@ king-black-dragon
 
 
 
-Introduction 
+Introduction   
 -------------
 
 
@@ -48,17 +61,17 @@ https://runescape.wiki/w/Revolution/Bars#Revolution++_optimal_bars
 
 
 
-Drops
+Drops  
 -----
 
 
--  |kbdhead|   **KBD Head** ``1/128``
+- |kbdhead+643163046969212946|  |<b>| KBD Head |</b>| ``1/128``
 
--  |kbdscale|   **KBD Scale** ``1/2500 (500 threshold)``
+- |kbdscale+643163047275266094|  |<b>| KBD Scale |</b>| ``1/2500 (500 threshold)``
 
 
 
-Preset
+Preset  
 ------
 
 
@@ -70,9 +83,9 @@ It is highly recommended to use the dragon slayer perk. A slayer helmet can be u
 
 
 
--  |adrenurn|   **Adrenaline urn** ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
+- |adrenurn+656426717413507074|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
 
--  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
 
 

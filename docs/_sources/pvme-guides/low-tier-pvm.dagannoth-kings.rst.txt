@@ -1,58 +1,71 @@
-.. |dagegg| image:: https://cdn.discordapp.com/emojis/643155112948400128.png?v=1
+.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ripperpouch| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |dagclaw+643155112809988118| image:: https://cdn.discordapp.com/emojis/643155112809988118.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/XXXQnIA.png| image:: https://i.imgur.com/XXXQnIA.png
 
 .. |https://i.imgur.com/NVCr6iF.png| image:: https://i.imgur.com/NVCr6iF.png
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dagclaw| image:: https://cdn.discordapp.com/emojis/643155112809988118.png?v=1
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dagscale| image:: https://cdn.discordapp.com/emojis/643155113023635461.png?v=1
+.. |dagscale+643155113023635461| image:: https://cdn.discordapp.com/emojis/643155113023635461.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |dagegg+643155112948400128| image:: https://cdn.discordapp.com/emojis/643155112948400128.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/XXXQnIA.png| image:: https://i.imgur.com/XXXQnIA.png
 
 dagannoth-kings
 ===============
 
-:bold-underline:`Dagannoth Kings (Courtesy of <@133391081109716992>)`
+|<b>| |<u>| Dagannoth Kings (Courtesy of <@133391081109716992>) |</u>| |</b>|
 
 
 
@@ -64,7 +77,7 @@ dagannoth-kings
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -82,34 +95,34 @@ More information available here:
 
 
 
-Drops
+Drops  
 -----
 
 
--  |dagclaw|   **Dagannoth Claw** ``1/2500 (1500 threshold)``
+- |dagclaw+643155112809988118|  |<b>| Dagannoth Claw |</b>| ``1/2500 (1500 threshold)``
 
--  |dagegg|   **Dagannoth Egg** ``1/2500 (1500 threshold)``
+- |dagegg+643155112948400128|  |<b>| Dagannoth Egg |</b>| ``1/2500 (1500 threshold)``
 
--  |dagscale|   **Dagannoth Scale** ``1/2500 (1500 threshold)``
-
-
+- |dagscale+643155113023635461|  |<b>| Dagannoth Scale |</b>| ``1/2500 (1500 threshold)``
 
 
 
 
-Preset
+
+
+Preset  
 ------
 
 
 - The quiver contains araxyte arrows
 
--  |ripperpouch|  A ripper demon is used for its passive effect and autos, if opting to use scrolls replace super restores with spiritual prayers
+- |ripperpouch+703581275453128714| A ripper demon is used for its passive effect and autos, if opting to use scrolls replace super restores with spiritual prayers
 
--  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
--  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
+- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
 
-(Runes for  |AirSurge|  and  |Vuln| )
+(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
 
 
 

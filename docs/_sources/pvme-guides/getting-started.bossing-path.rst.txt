@@ -1,97 +1,115 @@
-.. |TwinFury| image:: https://cdn.discordapp.com/emojis/513212995892019211.png?v=1
+.. |Telos+513212949033123840| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Reeves| image:: https://cdn.discordapp.com/emojis/513226730111238145.png?v=1
+.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |BSD| image:: https://cdn.discordapp.com/emojis/583430542326759435.png?v=1
+.. |<i>| raw:: html
+
+    <i>
+
+.. |Beastmaster_Durzag+513212996948983809| image:: https://cdn.discordapp.com/emojis/513212996948983809.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Beastmaster_Durzag| image:: https://cdn.discordapp.com/emojis/513212996948983809.png?v=1
+.. |Ambassador+583430542809235458| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Guthan| image:: https://cdn.discordapp.com/emojis/513226730002055169.png?v=1
+.. |Nex+513213159071547395| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Mallory| image:: https://cdn.discordapp.com/emojis/513212580148543489.png?v=1
+.. |Guthan+513226730002055169| image:: https://cdn.discordapp.com/emojis/513226730002055169.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Seiryu| image:: https://cdn.discordapp.com/emojis/583430543321071626.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Vindicta+513212949385445376| image:: https://cdn.discordapp.com/emojis/513212949385445376.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |HarAken| image:: https://cdn.discordapp.com/emojis/513212948781596682.png?v=1
+.. |Seiryu+583430543321071626| image:: https://cdn.discordapp.com/emojis/583430543321071626.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Gregorovic| image:: https://cdn.discordapp.com/emojis/513212998274383914.png?v=1
+.. |HarAken+513212948781596682| image:: https://cdn.discordapp.com/emojis/513212948781596682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Telos| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
+.. |TwinFury+513212995892019211| image:: https://cdn.discordapp.com/emojis/513212995892019211.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vorago| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
+.. |Kalphite_King+513212971409866765| image:: https://cdn.discordapp.com/emojis/513212971409866765.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Magic| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+.. |Mallory+513212580148543489| image:: https://cdn.discordapp.com/emojis/513212580148543489.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Helwyr| image:: https://cdn.discordapp.com/emojis/513213019635843100.png?v=1
+.. |</i>| raw:: html
+
+    </i>
+
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ranged| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Gregorovic+513212998274383914| image:: https://cdn.discordapp.com/emojis/513212998274383914.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Nex| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+.. |Helwyr+513213019635843100| image:: https://cdn.discordapp.com/emojis/513213019635843100.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |yakahelm2| image:: https://cdn.discordapp.com/emojis/725230791260504144.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Vorago+572867742613635082| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ambassador| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
+.. |yakahelm2+725230791260504144| image:: https://cdn.discordapp.com/emojis/725230791260504144.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Twin_Fury| image:: https://cdn.discordapp.com/emojis/513213159209828373.png?v=1
+.. |BSD+583430542326759435| image:: https://cdn.discordapp.com/emojis/583430542326759435.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: underline
-    :class: underline
-
-.. |Attack| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Kalphite_King| image:: https://cdn.discordapp.com/emojis/513212971409866765.png?v=1
+.. |Reeves+513226730111238145| image:: https://cdn.discordapp.com/emojis/513226730111238145.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vindicta| image:: https://cdn.discordapp.com/emojis/513212949385445376.png?v=1
+.. |Twin_Fury+513213159209828373| image:: https://cdn.discordapp.com/emojis/513213159209828373.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 bossing-path
 ============
 
-:bold-underline:`Bossing Path (All credit to Pernix)`
+|<b>| |<u>| Bossing Path (All credit to Pernix) |</u>| |</b>|
 
 This path isn't set in stone, everyone learns in differnt ways however this is a decent path to follow
 
@@ -101,25 +119,25 @@ This path isn't set in stone, everyone learns in differnt ways however this is a
 
 
 
--  |Twin_Fury|   |TwinFury|   **Twin Furies** *:underline:`69  |Ranged|  minimum, boost it to 80 with Grand Ranging Potion`*
+- |Twin_Fury+513213159209828373| |TwinFury+513212995892019211|  |<b>| Twin Furies |</b>| |<i>| |<u>| 69 |Ranged+689504724403486920| minimum, boost it to 80 with Grand Ranging Potion |</u>| |</i>|
 
 They'll teach you movement, reflexes, doing a good amount of damage while keeping your health up and if you wish, get you started with Defensive abilities + switches.
 
 
 
--  |Vindicta|   **Vindicta** *:underline:`69  |Attack|  minimum, boost it to 80 with a Grand Attack Potion`*
+- |Vindicta+513212949385445376|  |<b>| Vindicta |</b>| |<i>| |<u>| 69 |Attack+689509250472476758| minimum, boost it to 80 with a Grand Attack Potion |</u>| |</i>|
 
 She'll teach you how to do a decent amount of damage, increased reflexes, movement, further your knowledge of Defensive abilities and switching. If you wish, you can start practicing prayer flicking here.
 
 
 
--  |Helwyr|   **Helwyr** *:underline:`69  |Magic|  minimum, boost it to 80 with a Grand Magic Potion`*
+- |Helwyr+513213019635843100|  |<b>| Helwyr |</b>| |<i>| |<u>| 69 |Magic+689504724159823906| minimum, boost it to 80 with a Grand Magic Potion |</u>| |</i>|
 
 He'll teach you faster movement, more damage, faster reflexes, faster switches.
 
 
 
--  |Gregorovic|   **Gregorovic** *:underline:`80 Prayer required`*
+- |Gregorovic+513212998274383914|  |<b>| Gregorovic |</b>| |<i>| |<u>| 80 Prayer required |</u>| |</i>|
 
 He'll force you to move around properly, do a decent amount of damage, remember his special's rotations while working around them in any way you find possible. Further increases your reflexes if you decide to prayer flick here and utilise Defensives.
 
@@ -128,19 +146,19 @@ He'll force you to move around properly, do a decent amount of damage, remember 
 
 
 
-- At this point you can try any group boss you can access if you want, **preferably**  |Beastmaster_Durzag|  Beastmaster Durzag; *:underline:`Requirements set by group`*
+- At this point you can try any group boss you can access if you want, |<b>| preferably |</b>| |Beastmaster_Durzag+513212996948983809| Beastmaster Durzag; |<i>| |<u>| Requirements set by group |</u>| |</i>|
 
 
 
--  |Nex|   **Nex** *:underline:`Frozen Key required`*
+- |Nex+513213159071547395|  |<b>| Nex |</b>| |<i>| |<u>| Frozen Key required |</u>| |</i>|
 
 She'll be a test of how rapid you can react to the fight.
 
 
 
--  |Mallory|   **Araxxi** :underline:`*None*`
+- |Mallory+513212580148543489|  |<b>| Araxxi |</b>| |<u>| |<i>| None |</i>| |</u>|
 
-*The most common milestone for a player getting into PvM. This boss has punishing mechanics to those who tend to be unaware of their surroundings and their own abilities. Fighting this boss will let you practice:*
+|<i>| The most common milestone for a player getting into PvM. This boss has punishing mechanics to those who tend to be unaware of their surroundings and their own abilities. Fighting this boss will let you practice: |</i>|
 
 
 
@@ -148,13 +166,13 @@ She'll be a test of how rapid you can react to the fight.
 
 - Greatly accelerate your training if you are on Full Manual.
 
-- Greatly improve your improvisation techniques for dealing with **any** PvM mechanics you may encounter.
+- Greatly improve your improvisation techniques for dealing with |<b>| any |</b>| PvM mechanics you may encounter.
 
 - Significantly improve the speed of your reactions.
 
 
 
-*It's highly recommended (obviously not required) that you get some experience in her basics before attempting Araxxi with a partner, this is due to the overwhelming amount of information to take in during both types of fights and learning how to improvise while staying calm.*
+|<i>| It's highly recommended (obviously not required) that you get some experience in her basics before attempting Araxxi with a partner, this is due to the overwhelming amount of information to take in during both types of fights and learning how to improvise while staying calm. |</i>|
 
 
 
@@ -162,13 +180,13 @@ She'll be a test of how rapid you can react to the fight.
 
 
 
--  |Ambassador|   |BSD|   |Seiryu|  **Elite Dungeons | Solo Runs** *:underline:`Completion of Impressing the Locals for Temple of Aminishi`*
+- |Ambassador+583430542809235458| |BSD+583430542326759435| |Seiryu+583430543321071626| |<b>| Elite Dungeons | Solo Runs |</b>| |<i>| |<u>| Completion of Impressing the Locals for Temple of Aminishi |</u>| |</i>|
 
 An endurance test of keeping damage up throughout the dungeons, all three Elite dungeons are a challenge to do properly and rapidly. They'll teach you how to use Bladed Dive and Surge, and how to kill and handle a large number of enemies at once. Due to the nature of these runs, their difficulty exponentially increases the faster and better you want them to be done.
 
 
 
--  |Telos|   **Telos** *:underline:`Defeat every general in the Heart of Gielinor to obtain the Ancient Sigil`*
+- |Telos+513212949033123840|  |<b>| Telos |</b>| |<i>| |<u>| Defeat every general in the Heart of Gielinor to obtain the Ancient Sigil |</u>| |</i>|
 
 Everything you've learned so far at a High difficulty.
 
@@ -177,29 +195,29 @@ Everything you've learned so far at a High difficulty.
 
 
 
-:bold-underline:`Any Order`
+|<b>| |<u>| Any Order |</u>| |</b>|
 
 
 
-*These encounters can be done at any order as you'd like, your experience so far in Bossing will determine how ready you are for them.*
+|<i>| These encounters can be done at any order as you'd like, your experience so far in Bossing will determine how ready you are for them. |</i>|
 
--  |Kalphite_King|  Kalphite King
+- |Kalphite_King+513212971409866765| Kalphite King
 
--  |HarAken|  Har-Aken
+- |HarAken+513212948781596682| Har-Aken
 
--  |yakahelm2|  Yakamaru
+- |yakahelm2+725230791260504144| Yakamaru
 
--  |Vorago|  Vorago
+- |Vorago+572867742613635082| Vorago
 
--  |Reeves|   Nex: Angel of Death 
+- |Reeves+513226730111238145|  Nex: Angel of Death 
 
--  |Guthan|  The Barrows: Rise of the Six
+- |Guthan+513226730002055169| The Barrows: Rise of the Six
 
--  |Ambassador|  Shadow Reef | *:underline:`Trio and Duo Runs`*
+- |Ambassador+583430542809235458| Shadow Reef | |<i>| |<u>| Trio and Duo Runs |</u>| |</i>|
 
--  |BSD|  The Dragonkin Laboratory | *:underline:`Trio and Duo Runs`*
+- |BSD+583430542326759435| The Dragonkin Laboratory | |<i>| |<u>| Trio and Duo Runs |</u>| |</i>|
 
--  |Seiryu|  Temple of Aminishi | *:underline:`Trio and Duo Runs`*
+- |Seiryu+583430543321071626| Temple of Aminishi | |<i>| |<u>| Trio and Duo Runs |</u>| |</i>|
 
 
 

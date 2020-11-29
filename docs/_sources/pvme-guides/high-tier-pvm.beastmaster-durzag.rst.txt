@@ -1,93 +1,103 @@
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |https://i.imgur.com/ZTrAscd.png| image:: https://i.imgur.com/ZTrAscd.png
+
+.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/TNuhMQ7.png| image:: https://i.imgur.com/TNuhMQ7.png
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |https://i.imgur.com/ZTrAscd.png| image:: https://i.imgur.com/ZTrAscd.png
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: underline
-    :class: underline
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 beastmaster-durzag
 ==================
 
-:bold-underline:`Beastmaster Durzag`
+|<b>| |<u>| Beastmaster Durzag |</u>| |</b>|
 
 
 
@@ -99,7 +109,7 @@ beastmaster-durzag
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -107,23 +117,23 @@ Beastmaster is the first boss encountered in raids. Typically this will be your 
 
 
 
-Preset
+Preset  
 ------
 
 
 
 
-:bold-underline:`General DPS preset`
+|<u>| |<b>| General DPS preset |</b>| |</u>|
 
--  |augseissing|   **Seismic singularity** ``Flanking 4``
+- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
--  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
+- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
 
--  |purppouch|   **Rune Pouch**  |Cosmicrune|   |Astralrune|   |Lawrune| 
+- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
 
--  |bluepouch|   **Rune Pouch**  |Waterrune|   |Deathrune|   |Earthrune| 
+- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
 
-(Runes for  |bloodbarrage|   |icebarrage|   |borrowedpower|   |Vuln|   |disrupt|   |Veng| )
+(Runes for |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |Veng+543478434953822208| )
 
 
 
@@ -136,21 +146,21 @@ Preset
 
 
 
-Roles
+Roles  
 -----
 
 
-:underline:`Base Tank:` Also known as BT, Base. It is imperative to use provoke on Beastmaster when he spawns (just after the second pet spawns) and run to the southeast corner. You will be Beastmaster's only target for the first half of the fight.
+|<u>| Base Tank: |</u>| Also known as BT, Base. It is imperative to use provoke on Beastmaster when he spawns (just after the second pet spawns) and run to the southeast corner. You will be Beastmaster's only target for the first half of the fight.
 
 
 
-:underline:`Back Up Tank/South Chargers`
+|<u>| Back Up Tank/South Chargers |</u>|
 
 Also known as BU, SC. This role has two jobs. Once the second pet spawns, you run south of the eastern gong and open charger cages in a clockwise manner and lure them to the southwest corner and use AoE abilities. Then you will move southeast of the southern gong and DPS Beastmaster while the remainder of the DPS deal with pets. Once BM hits 750k HP, you use provoke and allow the base tank to clear their stacks. For the remainder of the fight, you and the base tank will alternate tanking.
 
 
 
-:underline:`North Chargers`
+|<u>| North Chargers |</u>|
 
 Also known as NC. This person runs just north of the eastern gong and opens charger cages in a counter clockwise manner. Then you are to lure the chargers to the southeast corner. It is highly likely that a few chargers will aggro to the Pet Tank or the DPS pile if you do not tag them while luring. It is advised to use chain, corruption blast , or combust to keep aggro. Once in the southwest corner, you should use AoE abilities to kill the remaining chargers. You then become a free DPS and help lower the pets' HP to ~100k. Following that, you are to DPS Beastmaster.
 
@@ -159,7 +169,7 @@ Also known as NC. This person runs just north of the eastern gong and opens char
 
 
 
-:underline:`Pet Tank 1/3` 
+|<u>| Pet Tank 1/3 |</u>| 
 
 Also known as PT 1/3, 1/3. This person's job is to tank the first and third pets that spawn. The first pet (it will always be Cormes) will spawn outside the western gong during the 5th wave of minions. Pray against range, use devotion (if necessary), then Sunshine/Death's Swiftness and DPS. Make sure to provoke the pet so it faces away from your team (stand to the north of the western gong). Pet 3 will spawn if Pet 2 is at 500k and will spawn randomly on the map. 
 
@@ -172,13 +182,13 @@ If Tuz spawns, pray against mage and use devotion/debilitate/reflect while using
 
 
 
-:underline:`Pet Tank 2`
+|<u>| Pet Tank 2 |</u>|
 
 Also known as PT 2, 2. This person's job is to tank the second pet that spawns. This pet will spawn after the 7th wave of minions and just before BM enters the arena. This pet will always spawn next to the northern gong. If Krar spawns, pray against range and utilize resonance/devotion/debilitate as necessary while using a good DPS rotation to lower it to 100k HP. If Tuz spawns, pray against mage and use devotion/debilitate/reflect while using a good DPS rotation to lower it to 100k HP. Tuz will use a bleed in conjunction to its auto attacks so using resonance is not advised. The third pet may jump randomly to  the DPS pile or one of the tanks. You must IMMEDIATELY run to the pet, use provoke, and lure the pet away from its target.
 
 
 
-**A note for both pet tanks:** You want your pet facing away from the DPS pile and tanks so that they do not use auto attacks on them and your team can use flanking on them. Typically, the pet tanks will stand in 2 different corners (i.e., northeast and northwest).
+|<b>| A note for both pet tanks: |</b>| You want your pet facing away from the DPS pile and tanks so that they do not use auto attacks on them and your team can use flanking on them. Typically, the pet tanks will stand in 2 different corners (i.e., northeast and northwest).
 
 
 

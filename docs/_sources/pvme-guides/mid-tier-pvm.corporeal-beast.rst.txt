@@ -1,152 +1,165 @@
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |elysiansigil+643161640107245580| image:: https://cdn.discordapp.com/emojis/643161640107245580.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deci| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |assault| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+.. |aos+513190158359724056| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bloodtendrils| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elysiansigil| image:: https://cdn.discordapp.com/emojis/643161640107245580.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/OBVXVEc.png| image:: https://i.imgur.com/OBVXVEc.png
-
-.. |zgs| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dismember| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |masterworkspearofannihilation| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |arcanesigil| image:: https://cdn.discordapp.com/emojis/643161640350646293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |gfury| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |divinesigil| image:: https://cdn.discordapp.com/emojis/643161640342388767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gbarge| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/BRMEDBz.png| image:: https://i.imgur.com/BRMEDBz.png
 
-.. |https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif| image:: https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif
-
-.. |gflurry| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zerk| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+.. |arcanesigil+643161640350646293| image:: https://cdn.discordapp.com/emojis/643161640350646293.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+.. |persistentrage+739965637056659567| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://i.imgur.com/OBVXVEc.png| image:: https://i.imgur.com/OBVXVEc.png
+
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spectralsigil+643161640162033666| image:: https://cdn.discordapp.com/emojis/643161640162033666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodtendrils+535532854327640064| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/GIExXXw.png| image:: https://i.imgur.com/GIExXXw.png
 
-.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corporealbone| image:: https://cdn.discordapp.com/emojis/643162604361089080.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |slaughter+535532879237873666| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spectralsigil| image:: https://cdn.discordapp.com/emojis/643161640162033666.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aos| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+.. |assault+535532853979512842| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spiritshield| image:: https://cdn.discordapp.com/emojis/643161660231516165.png?v=1
+.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |slaughter| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+.. |https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif| image:: https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |enhreplen| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+.. |spiritshield+643161660231516165| image:: https://cdn.discordapp.com/emojis/643161660231516165.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |persistentrage| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |corporealbone+643162604361089080| image:: https://cdn.discordapp.com/emojis/643162604361089080.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |holyelixir+643161659984183351| image:: https://cdn.discordapp.com/emojis/643161659984183351.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |divinesigil+643161640342388767| image:: https://cdn.discordapp.com/emojis/643161640342388767.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/ZLZzvG4.png| image:: https://i.imgur.com/ZLZzvG4.png
 
-.. |sever| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+.. |dismember+535532879376023572| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |penance| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |holyelixir| image:: https://cdn.discordapp.com/emojis/643161659984183351.png?v=1
+.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 corporeal-beast
 ===============
 
-:bold-underline:`Corporeal Beast (Credit to <@!238646799433203712>)`
+|<b>| |<u>| Corporeal Beast (Credit to <@!238646799433203712>) |</u>| |</b>|
 
 
 
@@ -158,7 +171,7 @@ corporeal-beast
 
 
 
-Introduction 
+Introduction   
 -------------
 
 
@@ -169,32 +182,32 @@ The Corporeal Beast is a boss unlocked from completing "A Summer's End" Quest. I
 
 
 
-Drops
+Drops  
 -----
 
 
 The droprate for obtaining a sigil is ``1/512``. If a player rolls the sigil drop table, there is a ``1/5`` chance of Arcane, ``1/5`` chance of Divine, ``1/5`` chance of Elysian, and ``2/5`` chance of Spectral.
 
--  |spiritshield|   **Spirit shield** ``1/64``
+- |spiritshield+643161660231516165|  |<b>| Spirit shield |</b>| ``1/64``
 
--  |holyelixir|   **Holy elixir** ``1/171``
+- |holyelixir+643161659984183351|  |<b>| Holy elixir |</b>| ``1/171``
 
--  |spectralsigil|   **Spectral sigil**
+- |spectralsigil+643161640162033666|  |<b>| Spectral sigil |</b>|
 
--  |arcanesigil|   **Arcane sigil**
+- |arcanesigil+643161640350646293|  |<b>| Arcane sigil |</b>|
 
--  |divinesigil|   **Divine sigil**
+- |divinesigil+643161640342388767|  |<b>| Divine sigil |</b>|
 
--  |elysiansigil|   **Elysian sigil**
+- |elysiansigil+643161640107245580|  |<b>| Elysian sigil |</b>|
 
--  |corporealbone|   **Corporeal bone** ``1/2500 (500 threshold)``
-
-
+- |corporealbone+643162604361089080|  |<b>| Corporeal bone |</b>| ``1/2500 (500 threshold)``
 
 
 
 
-Presets
+
+
+Presets  
 -------
 
 
@@ -206,9 +219,9 @@ Weapon Poison will stack with the cinderbanes effect. A vampirism scrimshaw will
 
 
 
--  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
 
-(Runes for  |disrupt| )
+(Runes for |disrupt+535614336207552523| )
 
 
 
@@ -221,7 +234,7 @@ Weapon Poison will stack with the cinderbanes effect. A vampirism scrimshaw will
 
 
 
-**AFK Preset (~55 kph)** (Credit to <@!159421704270118912>)
+|<b>| AFK Preset (~55 kph) |</b>| (Credit to <@!159421704270118912>)
 
 This method will net a lower amount of kills per hour but may be used if you do not wish to put in high amounts of effort into a mid level boss. It is useful for title/pet hunting however there are a few prerequisites in order to sustain yourself.
 
@@ -229,13 +242,13 @@ This method will net a lower amount of kills per hour but may be used if you do 
 
 For this method it is important to have 3 things:
 
--  |masterworkspearofannihilation|   **Masterwork Spear**
+- |masterworkspearofannihilation+694566917456789554|  |<b>| Masterwork Spear |</b>|
 
--  |aosor|  /  |aos|   **Amulet of souls**
+- |aosor+544200033847869443| / |aos+513190158359724056|  |<b>| Amulet of souls |</b>|
 
--  |penance|   **Penance Aura**
+- |penance+643505653062565907|  |<b>| Penance Aura |</b>|
 
--  |persistentrage|   **Persistent Rage relic**
+- |persistentrage+739965637056659567|  |<b>| Persistent Rage relic |</b>|
 
 
 
@@ -244,13 +257,13 @@ For this method it is important to have 3 things:
 
 |https://i.imgur.com/BRMEDBz.png|
 
-**Action Bar**
+|<b>| Action Bar |</b>|
 
 
 
 |https://i.imgur.com/ZLZzvG4.png|
 
-**Cannon Placement**
+|<b>| Cannon Placement |</b>|
 
 
 
@@ -262,7 +275,7 @@ For this method it is important to have 3 things:
 
 
 
-Mechanics
+Mechanics  
 ---------
 
 
@@ -285,7 +298,7 @@ Also a white core may spawn, this has a chance to drain magic, prayer or summoni
 
 
 
-Advanced corp killing strat (100 kph if done well)
+Advanced corp killing strat (100 kph if done well)  
 --------------------------------------------------
 
 
@@ -314,40 +327,40 @@ It is done in these steps:
 
 
 
-**Rotations for corp:**
+|<b>| Rotations for corp: |</b>|
 
-:bold-underline:`Non-instanced corp:`
+|<u>| |<b>| Non-instanced corp: |</b>| |</u>|
 
- |gbarge|  →  |dismember|  →  |gflurry|  (stall for 1st hit)>  |cleave|  →  |zgs|  |spec|  →  |sever|  →  |gfury|  →  |cleave|  →  |deci|  →  |assault|  →  |cleave|  →  |deci|  →  |cane|  → improvise as it is near death.
-
-
-
-
-
-
-:bold-underline:`Instanced corp:`
-
-Auto +  |dismember|  →  |cleave|  →  |zerk|  asap +  |enhreplen|  /  |limitless|   based on cd (don't use sever on corp unless you are under 60% adren) →  |gbarge|  →  |cleave|  →  |deci|  →  |assault|  →  |sever|  →  |cleave|  →  |cane|  →  |deci|  → improvise.
+|gbarge+535532879250456578| → |dismember+535532879376023572| → |gflurry+535532879283879977| (stall for 1st hit)> |cleave+535532878616985610| → |zgs+626465964325601290| |spec+537340400273195028| → |sever+535532879577612298| → |gfury+535532879334080527| → |cleave+535532878616985610| → |deci+535532879325822986| → |assault+535532853979512842| → |cleave+535532878616985610| → |deci+535532879325822986| → |cane+535532878969438210| → improvise as it is near death.
 
 
 
 
 
 
-:bold-underline:`Optional rotations for no zgs:`
+|<u>| |<b>| Instanced corp: |</b>| |</u>|
+
+Auto + |dismember+535532879376023572| → |cleave+535532878616985610| → |zerk+535532854004678657| asap + |enhreplen+634350450887622656| / |limitless+641339233638023179|  based on cd (don't use sever on corp unless you are under 60% adren) → |gbarge+535532879250456578| → |cleave+535532878616985610| → |deci+535532879325822986| → |assault+535532853979512842| → |sever+535532879577612298| → |cleave+535532878616985610| → |cane+535532878969438210| → |deci+535532879325822986| → improvise.
+
+
+
+
+
+
+|<u>| |<b>| Optional rotations for no zgs: |</b>| |</u>|
 
 These arent necesarily optimal but instead of throwing a zgs spec (because you don't own one) You will abuse slaughter and tendrils as they are very good.
 
 Looks roughly like:
 
- |gbarge|  →  |dismember|  →  |gflurry|  →  |cleave|  →  |sever|  →  |deci|  →  |slaughter|  →  |cleave|  →  |assault|  →  |bloodtendrils|  →  |deci|  →  |cleave|  →  |cane|  → improvise.
+|gbarge+535532879250456578| → |dismember+535532879376023572| → |gflurry+535532879283879977| → |cleave+535532878616985610| → |sever+535532879577612298| → |deci+535532879325822986| → |slaughter+535532879237873666| → |cleave+535532878616985610| → |assault+535532853979512842| → |bloodtendrils+535532854327640064| → |deci+535532879325822986| → |cleave+535532878616985610| → |cane+535532878969438210| → improvise.
 
 
 
 
 
 
-Tips/notes:
+Tips/notes:  
 -----------
 
 
@@ -370,11 +383,11 @@ The dark core doesn't use up your disruption shield. So you can ss camp with it 
 
 
 
-Video example
+Video example  
 -------------
 
 
-<https://youtu.be/AaRA-nh6eM4> **(2 kill example)**
+<https://youtu.be/AaRA-nh6eM4> |<b>| (2 kill example) |</b>|
 
 
 

@@ -1,12 +1,25 @@
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
 .. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
 
-.. role:: bold-underline
-    :class: bold-underline
+.. |</b>| raw:: html
+
+    </b>
 
 chaos-elemental
 ===============
 
-:bold-underline:`Starting out at Chaos Elemental`
+|<b>| |<u>| Starting out at Chaos Elemental |</u>| |</b>|
 
 
 
@@ -18,7 +31,7 @@ chaos-elemental
 
 
 
-Introduction
+Introduction  
 ------------
 
 

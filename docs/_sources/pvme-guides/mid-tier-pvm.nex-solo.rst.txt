@@ -1,173 +1,191 @@
-.. |corruptshot| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |<i>| raw:: html
+
+    <i>
+
+.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |ricochet+535541259566186521| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eofspec| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewalflask| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
+.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |needle| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eofor| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/6gkd8pFJrkg| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/6gkd8pFJrkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |snap| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/S5MyZhb.png| image:: https://i.imgur.com/S5MyZhb.png
-
-.. |https://i.imgur.com/3qo51kq.png| image:: https://i.imgur.com/3qo51kq.png
-
-.. |piercing| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/5XQ3Dr0.png| image:: https://i.imgur.com/5XQ3Dr0.png
-
-.. |https://i.imgur.com/6uRswgc.png| image:: https://i.imgur.com/6uRswgc.png
-
-.. |vulnbomb| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |anti| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ricochet| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/1wd3QxC.png| image:: https://i.imgur.com/1wd3QxC.png
 
-.. |frag| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/S5MyZhb.png| image:: https://i.imgur.com/S5MyZhb.png
 
 .. |https://i.imgur.com/GYKu8TG.png| image:: https://i.imgur.com/GYKu8TG.png
 
-.. |ecb| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/FbTxmtb.png| image:: https://i.imgur.com/FbTxmtb.png
 
-.. |rapid| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<b>| raw:: html
 
-.. |shadowtend| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <b>
 
-.. |luckpotion| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/5XQ3Dr0.png| image:: https://i.imgur.com/5XQ3Dr0.png
+
+.. |https://youtu.be/6gkd8pFJrkg| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/6gkd8pFJrkg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |https://youtu.be/aSCjuD7x_Ig| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/aSCjuD7x_Ig" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://i.imgur.com/FbTxmtb.png| image:: https://i.imgur.com/FbTxmtb.png
-
-.. |limitless| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deadshot| image:: https://cdn.discordapp.com/emojis/535541307666595870.png?v=1
+.. |Reprisal+513190159462694912| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |snipe| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</i>| raw:: html
 
-.. |Tuskas| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </i>
 
 .. |https://i.imgur.com/rRJqoMs.png| image:: https://i.imgur.com/rRJqoMs.png
 
-.. |dazing| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+.. |https://i.imgur.com/6uRswgc.png| image:: https://i.imgur.com/6uRswgc.png
+
+.. |https://i.imgur.com/3qo51kq.png| image:: https://i.imgur.com/3qo51kq.png
+
+.. |eofor+745279787471470713| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: underline
-    :class: underline
-
-.. |dbow| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+.. |eofspec+746403211908481184| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+.. |piercing+535541258538450944| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sacrifice| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |dbow+643848618553507843| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spec| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HydrixBakri| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |freedom| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+.. |deadshot+535541307666595870| image:: https://cdn.discordapp.com/emojis/535541307666595870.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |surge| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |dazing+535541307142307860| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |adrenrenewalflask+736298313980182541| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sacrifice+513201065907322880| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |luckpotion+656426717295935500| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 nex-solo
 ========
 
-:bold-underline:`Solo Nex (Credit to <@!333479049680650241>)`
+|<b>| |<u>| Solo Nex (Credit to <@!333479049680650241>) |</u>| |</b>|
 
 
 
@@ -179,7 +197,7 @@ nex-solo
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -195,7 +213,7 @@ When Nex spawns for the first time in a custom instance it will be praying again
 
 
 
-Nex is a 1x1 NPC and posses very strict softcaps, which mean that any damage over a certain amount is reduced by X% depending on the phase. During the first four phases, Nex has a soft cap that reduces excess damage above **5,000 by 50%**. For example, a 6,000 damage hit would be reduced to 5,500 damage. On the Zaros phase, the soft cap is changed to reduce excess damage above **2,000 by 75%**. This means a 6,000-damage hit would be reduced to 3,000.
+Nex is a 1x1 NPC and posses very strict softcaps, which mean that any damage over a certain amount is reduced by X% depending on the phase. During the first four phases, Nex has a soft cap that reduces excess damage above |<b>| 5,000 by 50% |</b>| . For example, a 6,000 damage hit would be reduced to 5,500 damage. On the Zaros phase, the soft cap is changed to reduce excess damage above |<b>| 2,000 by 75% |</b>| . This means a 6,000-damage hit would be reduced to 3,000.
 
 
 
@@ -206,11 +224,11 @@ Nex's mages have a soft cap that reduces excess damage above 1,000 by a random a
 
 
 
-**Note:** It is strongly advised to complete the Ritual of the Mahjarrat quest in order to get access to the Jas boost which gives a 5% damage boost in GWD1 (including Nex). This can be done via Fairy ring code D.K.Q.
+|<b>| Note: |</b>| It is strongly advised to complete the Ritual of the Mahjarrat quest in order to get access to the Jas boost which gives a 5% damage boost in GWD1 (including Nex). This can be done via Fairy ring code D.K.Q.
 
 
 
-Presets
+Presets  
 -------
 
 
@@ -218,9 +236,9 @@ Presets
 
 
 
-:bold-underline:`Banking Preset`
+|<b>| |<u>| Banking Preset |</u>| |</b>|
 
-The most important thing is to have a Frozen key + ancient ceremonial for use with your boss portal. A  |luckpotion|  works and can be used here. You can speak to Ashuelot Reis in the Nex bank and pay a one time cost of the Frozen key + ancient ceremonial along with 10m gp to be able to access Nex bank without these items.
+The most important thing is to have a Frozen key + ancient ceremonial for use with your boss portal. A |luckpotion+656426717295935500| works and can be used here. You can speak to Ashuelot Reis in the Nex bank and pay a one time cost of the Frozen key + ancient ceremonial along with 10m gp to be able to access Nex bank without these items.
 
 
 
@@ -232,9 +250,9 @@ The most important thing is to have a Frozen key + ancient ceremonial for use wi
 
 
 
-:bold-underline:`Beginner Preset`
+|<b>| |<u>| Beginner Preset |</u>| |</b>|
 
- |vulnbomb|  at start and on blood phase. 
+|vulnbomb+655341074235129858| at start and on blood phase. 
 
 Akrisae body has clearheaded 3/4, and is used to build with escape at start. This method relies on ruby bolt procs on Nex. However, around Ice phase, ruby bolt procs start to hit less than the ability they are replacing, so it’s optimal to bring a bolt switch. It is generally preferred to camp ruby until ice phase, then switch to dragonstone bolts.
 
@@ -249,15 +267,15 @@ Akrisae body has clearheaded 3/4, and is used to build with escape at start. Thi
 
 
 
-:bold-underline:`Advanced Preset:`
+|<b>| |<u>| Advanced Preset: |</u>| |</b>|
 
-The death lotus chaps have clear headed 4. It is recommended to use lunars for  |disrupt|  during Zaros phase and  |vulnbomb|  start and on blood phase 
+The death lotus chaps have clear headed 4. It is recommended to use lunars for |disrupt+535614336207552523| during Zaros phase and |vulnbomb+655341074235129858| start and on blood phase 
 
--  |eofor|   **Essence of Finality** Dark bow spec stored
+- |eofor+745279787471470713|  |<b>| Essence of Finality |</b>| Dark bow spec stored
 
--  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
 
-(Runes for  |disrupt| )
+(Runes for |disrupt+535614336207552523| )
 
 
 
@@ -270,7 +288,7 @@ The death lotus chaps have clear headed 4. It is recommended to use lunars for  
 
 
 
-Mechanics
+Mechanics  
 ---------
 
 
@@ -282,7 +300,7 @@ Nex has 5 phases; Smoke, Shadow, Blood, Ice, and Zaros. Each phase has 2 special
 
 
 
-:bold-underline:`Smoke phase:`
+|<u>| |<b>| Smoke phase: |</b>| |</u>|
 
 Virus → 5 auto-attacks → No escape → Five auto-attacks → Repeat
 
@@ -290,7 +308,7 @@ Virus → 5 auto-attacks → No escape → Five auto-attacks → Repeat
 
 
 
-:bold-underline:`Shadow phase:`
+|<u>| |<b>| Shadow phase: |</b>| |</u>|
 
 Shadow traps (only if the phased before the virus attack) → Darkness → Shadow traps → 4 auto-attacks → Repeats from the second set of shadow traps
 
@@ -301,17 +319,17 @@ Shadow traps (only if the phased before the virus attack) → Darkness → Shado
 
 
 
-:bold-underline:`Blood phase:`
+|<u>| |<b>| Blood phase: |</b>| |</u>|
 
 Siphon summon → 3 auto-attacks → Blood sacrifice → 3 auto-attacks → Repeat
 
 - Attacks during siphon will heal Nex and sacrifice will heal nex if not phased and in range
 
-- Any bleeds used during this phase will heal Nex rather than damage her (  |frag|   |corruptshot|   |deadshot|  )
+- Any bleeds used during this phase will heal Nex rather than damage her ( |frag+535541273755385885| |corruptshot+535541306294796299| |deadshot+535541307666595870| )
 
 
 
-:bold-underline:`Ice phase:`
+|<u>| |<b>| Ice phase: |</b>| |</u>|
 
 First special attack (based on phase start) → 3 auto-attacks → Second special attack (based on phase start) → 3 auto-attacks → Repeat
 
@@ -326,7 +344,7 @@ First special attack (based on phase start) → 3 auto-attacks → Second specia
 
 
 
-:bold-underline:`Zaros phase:`
+|<u>| |<b>| Zaros phase: |</b>| |</u>|
 
 - Upon the start of this phase, Nex activates Turmoil and heals herself for 33,333 (1/6) of her health to boost it up to 73,333.
 
@@ -340,11 +358,11 @@ Further details on the mechanics can be found here: <https://runescape.wiki/w/Ne
 
 
 
-Rotations
+Rotations  
 ---------
 
 
-**Make sure to use jas boost**
+|<b>| Make sure to use jas boost |</b>|
 
 
 
@@ -352,32 +370,32 @@ Rotations
 
 
 
-:bold-underline:`Pre-Fight`
+|<b>| |<u>| Pre-Fight |</u>| |</b>|
 
 Target Fumus ASAP and start building adrenaline with defensives. Freedom should be first, and Anticipate should be last. Spam click the minion as sometimes when you escape, you won't get adrenaline from anticipate if you don't keep clicking the minion before escape.
 
 
 
- |anti|  +  |vulnbomb|  as Nex says "Fill my soul with smoke!" (~14s)
+|anti+535541306475151390| + |vulnbomb+655341074235129858| as Nex says "Fill my soul with smoke!" (~14s)
 
 
 
 
 
 
-:bold-underline:`Smoke Phase`
+|<b>| |<u>| Smoke Phase |</u>| |</b>|
 
-Auto →  |shadowtend|  →  |frag|  (Walk backwards) → DW  |rapid|  →  |needle|  →  |snap|  
+Auto → |shadowtend+642713547142332416| → |frag+535541273755385885| (Walk backwards) → DW |rapid+535541270521708566| → |needle+535541259108876293| → |snap+535534127131394088| 
 
 
 
-:underline:`Smoke Phase Notes`
+|<u>| Smoke Phase Notes |</u>|
 
 1. Vuln bomb right before the kill is about to start.
 
 2. Make sure to Rapid Fire with Ascensions so that there's a chance to proc the ruby bolt effect.
 
-3. If the boss doesn't phase, follow up with  |needle|  →  |snipe|  →  |snap| , and run the boss while you do so.
+3. If the boss doesn't phase, follow up with |needle+535541259108876293| → |snipe+535541258425204770| → |snap+535534127131394088| , and run the boss while you do so.
 
 
 
@@ -387,21 +405,21 @@ Use good basics to kill the minion, starting with corruption shot. Save Frag sho
 
 
 
-:bold-underline:`Shadow Phase`
+|<b>| |<u>| Shadow Phase |</u>| |</b>|
 
-1. Tag with  |frag|   and walk under during phase. 
+1. Tag with |frag+535541273755385885|  and walk under during phase. 
 
-2. During the phase,  |Reprisal|  .
+2. During the phase, |Reprisal+513190159462694912| .
 
-3. Spam click Nex to get a lossless auto and then DW  |rapid|  
+3. Spam click Nex to get a lossless auto and then DW |rapid+535541270521708566| 
 
-4.  |needle|  →  |snipe|  →  |snap|  
+4. |needle+535541259108876293| → |snipe+535541258425204770| → |snap+535534127131394088| 
 
 5. Adjust as needed
 
 
 
-:underline:`Shadow Phase Notes` 
+|<u>| Shadow Phase Notes |</u>| 
 
 1. If you proc a ruby bolt special during rapid, needle into snap without snipe.
 
@@ -416,21 +434,21 @@ Both bleeds then good basics on the minion.
 
 
 
-:bold-underline:`Blood Phase`
+|<b>| |<u>| Blood Phase |</u>| |</b>|
 
 1. Phase Nex ASAP to prevent the bleed. 
 
-2.  |Vuln|  if you have it 
+2. |Vuln+537349530551582720| if you have it 
 
-3. Charge  |snipe|  to Prephase (this will take practice to time)
+3. Charge |snipe+535541258425204770| to Prephase (this will take practice to time)
 
-4. DW  |rapid|  →  |needle|  →  |snap|  →  |dazing|  (Surge from Red)
+4. DW |rapid+535541270521708566| → |needle+535541259108876293| → |snap+535534127131394088| → |dazing+535541307142307860| (Surge from Red)
 
-5. If the boss isn't phased on surge, do  |snipe|  →  |Tuskas|  /  |needle|  / Thresh
+5. If the boss isn't phased on surge, do |snipe+535541258425204770| → |Tuskas+513201065513058306| / |needle+535541259108876293| / Thresh
 
 
 
-:underline:`Blood Phase Notes`
+|<u>| Blood Phase Notes |</u>|
 
 1. Practice your Snipe timing so that it hits right when Nex is attackable, rather than healing her.
 
@@ -451,40 +469,40 @@ Both bleeds, good basics. If Nex is MDing you, it's worth it to run her to stall
 
 
 
-:bold-underline:`Ice Phase`
+|<b>| |<u>| Ice Phase |</u>| |</b>|
 
 ``Contain first``
 
-Auto →  |shadowtend|  →  |snipe|  (Run from Contain) →  |rapid|  →  |snap|  (tag minion ASAP)
+Auto → |shadowtend+642713547142332416| → |snipe+535541258425204770| (Run from Contain) → |rapid+535541270521708566| → |snap+535534127131394088| (tag minion ASAP)
 
 ``Prison first``
 
-1. Run to max attack distance and phase with dazing shot if you have an SGB (This is not super important).  |anti|  during the phase and eat a lot of jellies and grests to get to full HP.
+1. Run to max attack distance and phase with dazing shot if you have an SGB (This is not super important). |anti+535541306475151390| during the phase and eat a lot of jellies and grests to get to full HP.
 
-2.  |shadowtend|  →  |snap|  →  |Reprisal|  prison →  |rapid|  →  |snipe|  /  |mds|  
+2. |shadowtend+642713547142332416| → |snap+535534127131394088| → |Reprisal+513190159462694912| prison → |rapid+535541270521708566| → |snipe+535541258425204770| / |mds+535541259033378827| 
 
 3. Even without reprisal, it's not a big deal if you do the rest of the rotation correctly. 
 
 
 
-Double bleed + good basics on minion again. Eat lots of jellies and grests. Try to  |frag|  first. Tag Nex ASAP to phase to Zaros.
+Double bleed + good basics on minion again. Eat lots of jellies and grests. Try to |frag+535541273755385885| first. Tag Nex ASAP to phase to Zaros.
 
 
 
 
 
 
-:bold-underline:`Zaros Phase`
+|<b>| |<u>| Zaros Phase |</u>| |</b>|
 
 You can run Nex if low on food, but don't need to (and will end up walking book procs). It's optimal to do so if you notice her SS is active.
 
- |rapid|  →  |frag|  →  |corruptshot|  →  |deadshot|  →  |dazing|  →  |needle|  →  |Tuskas|  →  |dazing|  →  |needle|  → 5 tick Auto →  |frag|  →  |rapid|  
+|rapid+535541270521708566| → |frag+535541273755385885| → |corruptshot+535541306294796299| → |deadshot+535541307666595870| → |dazing+535541307142307860| → |needle+535541259108876293| → |Tuskas+513201065513058306| → |dazing+535541307142307860| → |needle+535541259108876293| → 5 tick Auto → |frag+535541273755385885| → |rapid+535541270521708566| 
 
 The boss should be dead at this point, congrats!
 
 
 
-:underline:`Zaros Phase Notes`
+|<u>| Zaros Phase Notes |</u>|
 
 1. Bleed used first on the minion can be used twice in Zaros (This is why Frag should be first)!
 
@@ -505,7 +523,7 @@ The boss should be dead at this point, congrats!
 
 
 
-:bold-underline:`Last Thoughts from <@!593106625955495947>`
+|<b>| |<u>| Last Thoughts from <@!593106625955495947> |</u>| |</b>|
 
 1. Practice. It takes a long time to pvm well.
 
@@ -521,7 +539,7 @@ The boss should be dead at this point, congrats!
 
 
 
-Video Guide
+Video Guide  
 -----------
 
 
@@ -536,120 +554,120 @@ https://youtu.be/6gkd8pFJrkg
 
 
 
-:bold-underline:`Eldritch Crossbow Rotation (Credit to <@!333479049680650241>):` 
+|<u>| |<b>| Eldritch Crossbow Rotation (Credit to <@!333479049680650241>): |</b>| |</u>| 
 
-**Notes:** Make sure to use jas boost and always swap to  |HydrixBakri|  if you get a ruby proc. Also try to equip ring of vigour for your dbow specs.
-
-
-
-:bold-underline:`Pre-Fight`
-
- |anti|  +  |vulnbomb|  as Nex says "Fill my soul with smoke!" (~14s)
+|<b>| Notes: |</b>| Make sure to use jas boost and always swap to |HydrixBakri+550834403136503822| if you get a ruby proc. Also try to equip ring of vigour for your dbow specs.
 
 
 
-:bold-underline:`Smoke Phase`
+|<b>| |<u>| Pre-Fight |</u>| |</b>|
 
- |ecb|   |spec|  → Auto +  |snap|  →  |rapid| 
-
-
-
-**Fumus:**  |corruptshot|  →  |mds|  →  |Tuskas| 
+|anti+535541306475151390| + |vulnbomb+655341074235129858| as Nex says "Fill my soul with smoke!" (~14s)
 
 
 
+|<b>| |<u>| Smoke Phase |</u>| |</b>|
+
+|ecb+615618531937222657| |spec+537340400273195028| → Auto + |snap+535534127131394088| → |rapid+535541270521708566|
 
 
 
-:bold-underline:`Shadow Phase`
-
-1. Tag with  |frag|  and surge away ( |freedom|  if not 100% adrenaline)
-
-2.  |ecb|   |spec|  → Auto +  |dbow|   |eofspec|  → Finish with strong basics
-
-
-
-**Umbra:**  |corruptshot|  →  |mds|  →  |Tuskas|  (If shadow phase was fast, wait a tick for  |corruptshot|  cooldown)
+|<b>| Fumus: |</b>| |corruptshot+535541306294796299| → |mds+535541259033378827| → |Tuskas+513201065513058306|
 
 
 
 
 
 
-:bold-underline:`Blood Phase`
+|<b>| |<u>| Shadow Phase |</u>| |</b>|
 
-1. Tag with  |snap|  (if high adren) or any strong non bleed basic (if low adren)
+1. Tag with |frag+535541273755385885| and surge away ( |freedom+535541258240786434| if not 100% adrenaline)
 
-2.  |vulnbomb|  →  |ecb|   |spec|  →  |snipe|  →  |rapid|  ( |Tuskas|  if needed)
-
-
-
-**Cruor:**  |corruptshot|  →  |mds|  →  |Tuskas|  (or any strong basic if used on blood phase)
+2. |ecb+615618531937222657| |spec+537340400273195028| → Auto + |dbow+643848618553507843| |eofspec+746403211908481184| → Finish with strong basics
 
 
 
-:underline:`Blood Phase Notes`
+|<b>| Umbra: |</b>| |corruptshot+535541306294796299| → |mds+535541259033378827| → |Tuskas+513201065513058306| (If shadow phase was fast, wait a tick for |corruptshot+535541306294796299| cooldown)
+
+
+
+
+
+
+|<b>| |<u>| Blood Phase |</u>| |</b>|
+
+1. Tag with |snap+535534127131394088| (if high adren) or any strong non bleed basic (if low adren)
+
+2. |vulnbomb+655341074235129858| → |ecb+615618531937222657| |spec+537340400273195028| → |snipe+535541258425204770| → |rapid+535541270521708566| ( |Tuskas+513201065513058306| if needed)
+
+
+
+|<b>| Cruor: |</b>| |corruptshot+535541306294796299| → |mds+535541259033378827| → |Tuskas+513201065513058306| (or any strong basic if used on blood phase)
+
+
+
+|<u>| Blood Phase Notes |</u>|
 
 1. Practice your Snipe timing so that it hits right when Nex is attackable, rather than healing her.
 
 2. Be sure to let her sacrifice so you get a contain first on ice phase
 
-3. In rare cases it is possible to have to  |adrenrenewalflask|  in order to use rapid fire. In this case you will need to improvise your Zaros rotation.
+3. In rare cases it is possible to have to |adrenrenewalflask+736298313980182541| in order to use rapid fire. In this case you will need to improvise your Zaros rotation.
 
 
 
 
 
 
-:bold-underline:`Ice Phase`
+|<b>| |<u>| Ice Phase |</u>| |</b>|
 
 ``You should ideally phase into contain first``
 
-1. Tag with  |frag|  →  |surge|  towards Glacies →  |anti|  (Surge + Anti is done while the phase transition is ongoing)
+1. Tag with |frag+535541273755385885| → |surge+535533810004262912| towards Glacies → |anti+535541306475151390| (Surge + Anti is done while the phase transition is ongoing)
 
-2.  |ecb|   |spec|  → Auto +  |snap|  or  |shadowtend|  →  |dbow|   |eofspec|  ( |mds|  if needed)
+2. |ecb+615618531937222657| |spec+537340400273195028| → Auto + |snap+535534127131394088| or |shadowtend+642713547142332416| → |dbow+643848618553507843| |eofspec+746403211908481184| ( |mds+535541259033378827| if needed)
 
 
 
-**Glacies:**  |corruptshot|  →  |Tuskas|  /  |ricochet|  if Nex is close
+|<b>| Glacies: |</b>| |corruptshot+535541306294796299| → |Tuskas+513201065513058306| / |ricochet+535541259566186521| if Nex is close
 
 (Your mines will do the rest, if your mines didn’t do much try to walk Nex as much as you can if possible as with a 3 ability Glacies you’re much more likely to get a prison than with a 2 ability Glacies)
 
 
 
-:underline:`Ice Phase Notes`
+|<u>| Ice Phase Notes |</u>|
 
 1. If you get prisoned before targeting Glacies you can target cycle to attack him.
 
 2. To walk your frag shot pre phase, you can either walk under Nex during phasing or surge to glacies out of max distance so nex walks the frag.
 
-3. Place mines when you  |dbow|   |eofspec| .
+3. Place mines when you |dbow+643848618553507843| |eofspec+746403211908481184| .
 
 
 
 
 
 
-:bold-underline:`Zaros Phase`
+|<b>| |<u>| Zaros Phase |</u>| |</b>|
 
-1. Tag with  |mds| 
+1. Tag with |mds+535541259033378827|
 
-2.  |frag|  +  |adrenrenewalflask|  →  |ecb|   |spec|  →  |rapid|  →  |dbow|   |eofspec|  →  |limitless|  +  |snap|  → Improvise with good basics to finish the kill.
+2. |frag+535541273755385885| + |adrenrenewalflask+736298313980182541| → |ecb+615618531937222657| |spec+537340400273195028| → |rapid+535541270521708566| → |dbow+643848618553507843| |eofspec+746403211908481184| → |limitless+641339233638023179| + |snap+535534127131394088| → Improvise with good basics to finish the kill.
 
 
 
-:underline:`Zaros Phase Notes`
+|<u>| Zaros Phase Notes |</u>|
 
 1. Disruption shield may be used if you are low on food.
 
-2.  |Tuskas| ,  |Sacrifice| ,  |piercing|  /  |ricochet|  will all hit fast at up to 4 squares away if you’re using a blowipe override or even  |mds|  if she’s 1 square away. These are all viable to tag with.
+2. |Tuskas+513201065513058306| , |Sacrifice+513201065907322880| , |piercing+535541258538450944| / |ricochet+535541259566186521| will all hit fast at up to 4 squares away if you’re using a blowipe override or even |mds+535541259033378827| if she’s 1 square away. These are all viable to tag with.
 
 
 
 
 
 
-Positioning
+Positioning  
 -----------
 
 
@@ -657,11 +675,11 @@ Positioning
 
 
 
-*Note: The white square represents the player, the red dot represents Nex and the yellow dot represents minions. The arrow points in the general direction of movement for the phase*
+|<i>| Note: The white square represents the player, the red dot represents Nex and the yellow dot represents minions. The arrow points in the general direction of movement for the phase |</i>|
 
 
 
-**Smoke Phase**
+|<b>| Smoke Phase |</b>|
 
 
 
@@ -671,7 +689,7 @@ Stand on the west side, once she’s phased click on Fumus and after you corrupt
 
 
 
-**Shadow Phase**
+|<b>| Shadow Phase |</b>|
 
 
 
@@ -684,7 +702,7 @@ During shadow make your way over to the north-eastern safespot, one method is to
 
 
 
-**Blood Phase**
+|<b>| Blood Phase |</b>|
 
 
 
@@ -694,7 +712,7 @@ During her siphon, make your way over to the eastern safe spot whilst staying at
 
 
 
-**Ice Phase**:
+|<b>| Ice Phase |</b>| :
 
 
 
@@ -704,7 +722,7 @@ Once Cruor is dead, surge to Glacies and stand md to him (you’ll need to be md
 
 
 
-**Zaros Phase**
+|<b>| Zaros Phase |</b>|
 
 Try not to run her too much whilst your book is off cooldown.
 
@@ -713,7 +731,7 @@ Try not to run her too much whilst your book is off cooldown.
 
 
 
-Advanced video guide:
+Advanced video guide:  
 ---------------------
 
 
@@ -723,7 +741,7 @@ https://youtu.be/aSCjuD7x_Ig
 
 
 
-**Casual Eldritch Nex solo by Bee** - <https://docs.google.com/document/d/1tc8RDoUjmreZMdWcMjipbv-_RC1qmh4UXZcd3_kWCF4>
+|<b>| Casual Eldritch Nex solo by Bee |</b>| - <https://docs.google.com/document/d/1tc8RDoUjmreZMdWcMjipbv-_RC1qmh4UXZcd3_kWCF4>
 
 
 |https://youtu.be/aSCjuD7x_Ig|

@@ -1,52 +1,65 @@
-.. |mahj| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
-
-.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
-
-.. |https://i.imgur.com/oExT8r7.png| image:: https://i.imgur.com/oExT8r7.png
 
 .. |https://i.imgur.com/ab02YuY.png| image:: https://i.imgur.com/ab02YuY.png
 
-.. |inspiration| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dm| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
 
-.. role:: bold-underline
-    :class: bold-underline
+.. |</b>| raw:: html
 
-.. |berserker| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
-
-.. |invig| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </b>
 
 .. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
 
-.. |mani| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
+
+.. |https://i.imgur.com/oExT8r7.png| image:: https://i.imgur.com/oExT8r7.png
+
+.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
+
+.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |reckless| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+.. |mani+643505153709965322| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
+
+.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 solak-7s
 ========
 
-:bold-underline:`Solak - 7-man Perspective`
+|<b>| |<u>| Solak - 7-man Perspective |</u>| |</b>|
 
 
 
@@ -58,7 +71,7 @@ solak-7s
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -70,9 +83,9 @@ Solak is the first boss that has made hybrid a viable strategy, which results in
 
 Recommended auras for this fight. You have 100% accuracy at Solak (except roots on p1) which means you should utilize other auras instead of the accuracy boosting ones.
 
-For hybrid, the best aura goes as follows:  |mahj|  >  |dm|  >  |inspiration|  >  |invig| 
+For hybrid, the best aura goes as follows: |mahj+643148943856762890| > |dm+643505652571963417| > |inspiration+643505652634746881| > |invig+643505652865695767|
 
-For one style camping, the best aura to use would be the respective zerker aura ( |mani| / |reckless| / |berserker| ), and then the other hybrid auras as mentioned earlier
+For one style camping, the best aura to use would be the respective zerker aura ( |mani+643505153709965322| / |reckless+643505179378974748| / |berserker+643505116347105290| ), and then the other hybrid auras as mentioned earlier
 
 If camping one style it is recommended to use magic as it gives you access to vulnerability and 4TAA. However, this guide will showcase a magic and a ranged non-hybrid 7man preset. If you’re planning to melee you can just change the gear to match your own.
 
@@ -82,7 +95,7 @@ If camping one style it is recommended to use magic as it gives you access to vu
 
 
 
-Presets
+Presets  
 -------
 
 
@@ -90,7 +103,7 @@ Presets
 
 
 
-**Non Hybrid 7man preset**
+|<b>| Non Hybrid 7man preset |</b>|
 
 
 
@@ -122,7 +135,7 @@ Presets
 
 
 
-**Hybrid 7man preset** 
+|<b>| Hybrid 7man preset |</b>| 
 
 
 
@@ -130,7 +143,7 @@ This preset is just a sample preset for maximum efficiency, but can be changed a
 
 
 
-**Note:** A grimoire is the BiS pocket slot item for hybrid. An update made it such that grimoire no longer has upkeep at Solak, therefore this is always the best option.
+|<b>| Note: |</b>| A grimoire is the BiS pocket slot item for hybrid. An update made it such that grimoire no longer has upkeep at Solak, therefore this is always the best option.
 
 
 
@@ -143,7 +156,7 @@ This preset is just a sample preset for maximum efficiency, but can be changed a
 
 
 
-:bold-underline:`Pre-fight`
+|<b>| |<u>| Pre-fight |</u>| |</b>|
 
 - Build to 100% adrenaline outside of the arena
 
@@ -167,7 +180,7 @@ This preset is just a sample preset for maximum efficiency, but can be changed a
 
 
 
-Phase 1
+Phase 1  
 -------
 
 
@@ -175,7 +188,7 @@ First we’ll go over the attack rotation, and then into detail on how to deal w
 
 
 
-:bold-underline:`Solak P1 attack rotation`
+|<b>| |<u>| Solak P1 attack rotation |</u>| |</b>|
 
 2 Autos
 
@@ -217,7 +230,7 @@ This is the end of a normal P1, but this can vary depending on team members and 
 
 
 
-**P1 fight breakdown**
+|<b>| P1 fight breakdown |</b>|
 
 Solak has 8 million hp. You are expected to finish your sunshine/death swiftness/berserk before getting onto roots. The lower Solaks hp is on p1 before root spawn, the better. This will increase the chance of skipping a second root spawn (will get to this later). Roots are flankable from the North side. Use your second set of dominion mines on the roots, as they’ll deal 20k damage to one of them.
 
@@ -250,7 +263,7 @@ Solak will spawn three blight bombs on random DPSers. He will do this twice. Aft
 
 
 
-**Note:**
+|<b>| Note: |</b>|
 
 - The dps threshold for 7man Solak on P1 is 6M hp
 
@@ -270,11 +283,11 @@ Solak will spawn three blight bombs on random DPSers. He will do this twice. Aft
 
 
 
-Phase 2
+Phase 2  
 -------
 
 
-:bold-underline:`Solak P2 attack rotation`
+|<b>| |<u>| Solak P2 attack rotation |</u>| |</b>|
 
 Eruptions
 
@@ -304,11 +317,11 @@ Blight rain (5 hits)
 
 
 
-:bold-underline:`P2 fight breakdown:`
+|<u>| |<b>| P2 fight breakdown: |</b>| |</u>|
 
 
 
-**As DPS:**
+|<b>| As DPS: |</b>|
 
 Surge southwest as the core dies. Every team member should be killing the southwest eruption. Merethiel should be clickable now. As soon as you can, cleanse on merethiel, activate the cleansing mechanic whilst killing the eruption. As the eruption dies, cleanse at merethiel, and then surge back to the dead eruption. Utilize surge and bladed dive as much as possible. (NOTE: Some experienced teams will have a designated NW role on p2, all this role does is kill the NW eruption and attack solak, and nothing else.) Do NOT miss a cleanse, as this can seriously damage your team depending on how severe the damage on the blightstorm is. Remember to let your team know if you’ve missed the blight. 
 
@@ -352,7 +365,7 @@ Solak will do a blight bomb similar to his P1, but will also place some roots in
 
 
 
-**As Base:**
+|<b>| As Base: |</b>|
 
 Basing is a bit different. On P2 Start, instead of going south with the DPSers, you want to go NE and kill the eruption alone. Once eruption is dead, attack solak again. It is important that you line solak up so the DPSers can flank it. This is very easy for you, as all the dpsers will stand north at the stairs, so you can stand south of them with Solak.
 
@@ -370,7 +383,7 @@ When Solak does his pulling root attack, he will place his arm on the ground. Th
 
 
 
-:bold-underline:`Note`
+|<b>| |<u>| Note |</u>| |</b>|
 
 - The moment you hit 0% corruption, P3 will start.
 

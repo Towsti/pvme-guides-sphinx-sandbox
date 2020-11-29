@@ -1,97 +1,107 @@
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/YS5o6sL.png| image:: https://i.imgur.com/YS5o6sL.png
 
-.. |Deathrune| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Veng| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |facelessmask| image:: https://cdn.discordapp.com/emojis/643162907454210061.png?v=1
+.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/3fbOjP9.png| image:: https://i.imgur.com/3fbOjP9.png
 
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sliskeess| image:: https://cdn.discordapp.com/emojis/643162860867813396.png?v=1
+.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |crestsliske| image:: https://cdn.discordapp.com/emojis/643161512172716038.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: bold-underline
-    :class: bold-underline
 
 .. |https://i.imgur.com/IdX39Xz.png| image:: https://i.imgur.com/IdX39Xz.png
 
-.. |yellowpouch| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |persistentrage+739965637056659567| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |crestsliske+643161512172716038| image:: https://cdn.discordapp.com/emojis/643161512172716038.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |luckpotion| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aosor| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |facelessmask+643162907454210061| image:: https://cdn.discordapp.com/emojis/643162907454210061.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |glaivemh+643161561988595782| image:: https://cdn.discordapp.com/emojis/643161561988595782.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DeflectMelee+544195488447201300| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sliskeess+643162860867813396| image:: https://cdn.discordapp.com/emojis/643162860867813396.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/KkDdux5.png| image:: https://i.imgur.com/KkDdux5.png
 
-.. |glaivemh| image:: https://cdn.discordapp.com/emojis/643161561988595782.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DeflectMelee| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
+.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |persistentrage| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/YS5o6sL.png| image:: https://i.imgur.com/YS5o6sL.png
-
-.. role:: underline
-    :class: underline
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |luckpotion+656426717295935500| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 gregorovic
 ==========
 
-:bold-underline:`Gregorovic`
+|<b>| |<u>| Gregorovic |</u>| |</b>|
 
 
 
@@ -103,7 +113,7 @@ gregorovic
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -111,7 +121,7 @@ Sliske's general in the Heart of Glienor, Gregorovic is largely considered to be
 
 
 
-For Gregorovic, it is **HIGHLY** recommended to use irit incense sticks at maximum potency, as it will nullify his poison mechanics entirely. 
+For Gregorovic, it is |<b>| HIGHLY |</b>| recommended to use irit incense sticks at maximum potency, as it will nullify his poison mechanics entirely. 
 
 
 
@@ -119,42 +129,42 @@ The recommended method of killing Gregorovic involves using a halberd range weap
 
 
 
-A vampirism scrimshaw is used for extra sustain, and a halberd weapon is used to stay out of range of Greg's melee autos, which hit harder and are more accurate than his range autos. An  |aosor|  is used to increase the effectiveness of Protection prayers, making the fight easier.
+A vampirism scrimshaw is used for extra sustain, and a halberd weapon is used to stay out of range of Greg's melee autos, which hit harder and are more accurate than his range autos. An |aosor+544200033847869443| is used to increase the effectiveness of Protection prayers, making the fight easier.
 
 
 
-Drops
+Drops  
 -----
 
 
--  |sliskeess|   **Sliskean essence**
+- |sliskeess+643162860867813396|  |<b>| Sliskean essence |</b>|
 
--  |crestsliske|   **Crest of sliske**
+- |crestsliske+643161512172716038|  |<b>| Crest of sliske |</b>|
 
--  |glaivemh|   **Shadow glaives**
+- |glaivemh+643161561988595782|  |<b>| Shadow glaives |</b>|
 
--  |facelessmask|   **Faceless mask**
-
-
+- |facelessmask+643162907454210061|  |<b>| Faceless mask |</b>|
 
 
 
 
-Presets
+
+
+Presets  
 -------
 
 
-:underline:`Everything displayed can be upgraded or downgraded as available`
+|<u>| Everything displayed can be upgraded or downgraded as available |</u>|
 
--  |luckpotion|   **Enhanced luck potion** ``Gives tier 3 luck, can be removed if swapping to lotd``
+- |luckpotion+656426717295935500|  |<b>| Enhanced luck potion |</b>| ``Gives tier 3 luck, can be removed if swapping to lotd``
 
--  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
--  |yellowpouch|   **Rune Pouch**  |Bloodrune|   |Astralrune|   |Bodyrune| 
+- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
 
--  |bluepouch|   **Rune Pouch**  |Waterrune|   |Deathrune|   |Earthrune| 
+- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
 
-(Runes for  |disrupt|   |Veng| )
+(Runes for |disrupt+535614336207552523| |Veng+543478434953822208| )
 
 
 
@@ -166,22 +176,22 @@ Presets
 
 
 
-**AFK Preset (~36 kph)** (Credit to <@!108682527304060928>)
+|<b>| AFK Preset (~36 kph) |</b>| (Credit to <@!108682527304060928>)
 
-This method will net a lower amount of kills per hour but may be used if you do not wish to put in high amounts of effort into a mid level boss. It is very effective for title/pet hunting however there are a few prerequisites in order to sustain yourself. It is important to pray  |DeflectMelee|  as you will be standing in melee distance optimally as the Masterwork spear of annihilation is BiS. 
+This method will net a lower amount of kills per hour but may be used if you do not wish to put in high amounts of effort into a mid level boss. It is very effective for title/pet hunting however there are a few prerequisites in order to sustain yourself. It is important to pray |DeflectMelee+544195488447201300| as you will be standing in melee distance optimally as the Masterwork spear of annihilation is BiS. 
 
 You can substitute the spear for a Terrasaur Maul or Noxious Scythe. If TMaul, expect lower survivability and ~10s slower kills. If Scythe, pray range instead and turn off run. Roughly 15-20s slower kills but still afk.
 
 
 
-It is important to use the  |persistentrage|  relic.
+It is important to use the |persistentrage+739965637056659567| relic.
 
 
 
 
 |https://i.imgur.com/3fbOjP9.png|
 
-**Action Bar**
+|<b>| Action Bar |</b>|
 
 
 

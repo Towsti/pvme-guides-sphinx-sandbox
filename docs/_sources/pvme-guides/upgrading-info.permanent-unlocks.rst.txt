@@ -1,210 +1,223 @@
-.. |turmoil| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
+.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bagrada| image:: https://cdn.discordapp.com/emojis/690136116992671875.png?v=1
+.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cywircomp| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
+.. |Reaperpoints+704657943194501140| image:: https://cdn.discordapp.com/emojis/704657943194501140.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |excal| image:: https://cdn.discordapp.com/emojis/641337999170207763.png?v=1
+.. |death+641341976960172043| image:: https://cdn.discordapp.com/emojis/641341976960172043.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |heightenedsenses| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
+.. |anguish+583429936665198592| image:: https://cdn.discordapp.com/emojis/583429936665198592.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |furyofthesmall| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+.. |loyaltypoint+704657054987452447| image:: https://cdn.discordapp.com/emojis/704657054987452447.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Constitution| image:: https://cdn.discordapp.com/emojis/689509250887712902.png?v=1
+.. |Affliction+513190158468907008| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |berserker| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+.. |dommine+662249620579155968| image:: https://cdn.discordapp.com/emojis/662249620579155968.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HoodedMax| image:: https://cdn.discordapp.com/emojis/580177869284835328.png?v=1
+.. |corbicula+690136117273821280| image:: https://cdn.discordapp.com/emojis/690136117273821280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runic| image:: https://cdn.discordapp.com/emojis/643505377211842582.png?v=1
+.. |malletops+690136117374484508| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |torment| image:: https://cdn.discordapp.com/emojis/583429936958930964.png?v=1
+.. |deathward+697808774068699286| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |death| image:: https://cdn.discordapp.com/emojis/641341976960172043.png?v=1
+.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |mani| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+.. |turmoil+583429936606347280| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |mahj| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |coins| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malletops| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
+.. |Explosivecomp+513190158917566485| image:: https://cdn.discordapp.com/emojis/513190158917566485.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Desolation| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Desolation+513190159018098713| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bond| image:: https://cdn.discordapp.com/emojis/513213538463121408.png?v=1
+.. |berserkersfury+697808774106185768| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Malevolence| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+.. |Defence+689509250979987525| image:: https://cdn.discordapp.com/emojis/689509250979987525.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Affliction| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
+.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sharp| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
+.. |torment+583429936958930964| image:: https://cdn.discordapp.com/emojis/583429936958930964.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ilujankancomp| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
+.. |heightenedsenses+697808773573771344| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |MarksofWar| image:: https://cdn.discordapp.com/emojis/704701746869567551.png?v=1
+.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Araxxi| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
+.. |excal+641337999170207763| image:: https://cdn.discordapp.com/emojis/641337999170207763.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Strength| image:: https://cdn.discordapp.com/emojis/689509250879324165.png?v=1
+.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deathward| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
+.. |fontoflife+698225967679930408| image:: https://cdn.discordapp.com/emojis/698225967679930408.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vamp| image:: https://cdn.discordapp.com/emojis/643505653079343144.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |conservationofenergy+697808773711921195| image:: https://cdn.discordapp.com/emojis/697808773711921195.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Explosivecomp| image:: https://cdn.discordapp.com/emojis/513190158917566485.png?v=1
+.. |cywircomp+583430147538026496| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |brawler| image:: https://cdn.discordapp.com/emojis/643505376917979138.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |MarksofWar+704701746869567551| image:: https://cdn.discordapp.com/emojis/704701746869567551.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elderovlsalve| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+.. |Araxxi+513213019543699466| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |berserkersfury| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
+.. |teci+641332337451204608| image:: https://cdn.discordapp.com/emojis/641332337451204608.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Invention| image:: https://cdn.discordapp.com/emojis/689509250946695292.png?v=1
+.. |achiev+641342351532621824| image:: https://cdn.discordapp.com/emojis/641342351532621824.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |invig| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
+.. |runic+643505377211842582| image:: https://cdn.discordapp.com/emojis/643505377211842582.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Armadylcomp| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
+.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |achiev| image:: https://cdn.discordapp.com/emojis/641342351532621824.png?v=1
+.. |Invention+689509250946695292| image:: https://cdn.discordapp.com/emojis/689509250946695292.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ranged| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |Strength+689509250879324165| image:: https://cdn.discordapp.com/emojis/689509250879324165.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corbicula| image:: https://cdn.discordapp.com/emojis/690136117273821280.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Constitution+689509250887712902| image:: https://cdn.discordapp.com/emojis/689509250887712902.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |conservationofenergy| image:: https://cdn.discordapp.com/emojis/697808773711921195.png?v=1
+.. |sharp+643505377291534366| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Defence| image:: https://cdn.discordapp.com/emojis/689509250979987525.png?v=1
+.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |inspiration| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dm| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+.. |bagrada+690136116992671875| image:: https://cdn.discordapp.com/emojis/690136116992671875.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |fontoflife| image:: https://cdn.discordapp.com/emojis/698225967679930408.png?v=1
+.. |Ilujankancomp+513190158674427906| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Reaperpoints| image:: https://cdn.discordapp.com/emojis/704657943194501140.png?v=1
+.. |Armadylcomp+513190158477033474| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dommine| image:: https://cdn.discordapp.com/emojis/662249620579155968.png?v=1
+.. |mani+643505153709965322| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |penance| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+.. |brawler+643505376917979138| image:: https://cdn.discordapp.com/emojis/643505376917979138.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anguish| image:: https://cdn.discordapp.com/emojis/583429936665198592.png?v=1
+.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Attack| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+.. |furyofthesmall+697808773917573233| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. role:: underline
-    :class: underline
-
-.. |loyaltypoint| image:: https://cdn.discordapp.com/emojis/704657054987452447.png?v=1
+.. |Bond+513213538463121408| image:: https://cdn.discordapp.com/emojis/513213538463121408.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |teci| image:: https://cdn.discordapp.com/emojis/641332337451204608.png?v=1
+.. |HoodedMax+580177869284835328| image:: https://cdn.discordapp.com/emojis/580177869284835328.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |reckless| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+.. |vamp+643505653079343144| image:: https://cdn.discordapp.com/emojis/643505653079343144.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 permanent-unlocks
 =================
 
-Permanent Unlocks
+Permanent Unlocks  
 -----------------
 
 
@@ -214,9 +227,9 @@ Permanent Unlocks
 
 
 
- |berserker|   |mani|   |reckless|  **Berserk Auras**
+|berserker+643505116347105290| |mani+643505153709965322| |reckless+643505179378974748| |<b>| Berserk Auras |</b>|
 
-- Costs  |MarksofWar|  25,000 Marks of War
+- Costs |MarksofWar+704701746869567551| 25,000 Marks of War
 
 - BIS auras at most places, they last 30 minutes but are extended to 1 hour via vis wax. Provide the following buffs:
 
@@ -239,9 +252,9 @@ Permanent Unlocks
 
 
 
- |brawler|   |runic|   |sharp|  **Accuracy Auras**
+|brawler+643505376917979138| |runic+643505377211842582| |sharp+643505377291534366| |<b>| Accuracy Auras |</b>|
 
-- Costs  |loyaltypoint|  107,000 Loyalty Points per aura (cumulative cost for supreme variant)
+- Costs |loyaltypoint+704657054987452447| 107,000 Loyalty Points per aura (cumulative cost for supreme variant)
 
 - Increase melee/magic/range accuracy by 3%/5%/7%/10% per rank respectively. They last 1 hour by default and can be extended to 2 hours
 
@@ -254,11 +267,11 @@ Permanent Unlocks
 
 
 
- |mahj|   |dm|  **Mahjarrat & Dark Magic Aura**
+|mahj+643148943856762890| |dm+643505652571963417| |<b>| Mahjarrat & Dark Magic Aura |</b>|
 
-- Dark Magic costs  |MarksofWar|  12,500 Marks of War
+- Dark Magic costs |MarksofWar+704701746869567551| 12,500 Marks of War
 
-- Mahjarrat costs either  |Reaperpoints|  1000 Reaper Points or  |Bond|  3 Bonds
+- Mahjarrat costs either |Reaperpoints+704657943194501140| 1000 Reaper Points or |Bond+513213538463121408| 3 Bonds
 
 - Mahjarrat provides a 5% damage boost and Dark magic deals damage over time to your target
 
@@ -268,11 +281,11 @@ Permanent Unlocks
 
 
 
- |inspiration|   |invig|  **Inspiration & Invigorate Aura**
+|inspiration+643505652634746881| |invig+643505652865695767| |<b>| Inspiration & Invigorate Aura |</b>|
 
-- Inspiration costs  |loyaltypoint|  23,000 Loyalty Points
+- Inspiration costs |loyaltypoint+704657054987452447| 23,000 Loyalty Points
 
-- Invigorate costs  |loyaltypoint|  115,000 Loyalty Points (cumulative cost for supreme variant)
+- Invigorate costs |loyaltypoint+704657054987452447| 115,000 Loyalty Points (cumulative cost for supreme variant)
 
 - Inspiration causes successful attacks to give an extra 0.5% adrenaline. Invigorate saves 2.5%/5%/7.5%/10% adrenaline after an ultimate; this effect stacks with a ring of vigour
 
@@ -282,11 +295,11 @@ Permanent Unlocks
 
 
 
- |penance|   |vamp|  **Penance & Vampyrism Aura**
+|penance+643505653062565907| |vamp+643505653079343144| |<b>| Penance & Vampyrism Aura |</b>|
 
-- Vampyrism costs  |MarksofWar|  5,000 Marks of War
+- Vampyrism costs |MarksofWar+704701746869567551| 5,000 Marks of War
 
-- Penance costs  |loyaltypoint|  23,000 Loyalty Points
+- Penance costs |loyaltypoint+704657054987452447| 23,000 Loyalty Points
 
 - Penance restores prayer points equal to 5% of any damage taken, rounded down.
 
@@ -303,7 +316,7 @@ Permanent Unlocks
 
 
 
- |Explosivecomp|   |Armadylcomp|   |cywircomp|   |Ilujankancomp|  **Invention (Lvl 49/74/89)**
+|Explosivecomp+513190158917566485| |Armadylcomp+513190158477033474| |cywircomp+583430147538026496| |Ilujankancomp+513190158674427906| |<b>| Invention (Lvl 49/74/89) |</b>|
 
 - Higher invention levels give you access to new components and perks. Important milestones are level 49/74/89 giving you crackling, precise, and planted feet/aftershock 
 
@@ -328,7 +341,7 @@ Permanent Unlocks
 
 
 
- |elderovlsalve|  **Overloads/Supreme Overloads/Elder Overloads**
+|elderovlsalve+648976643687317532| |<b>| Overloads/Supreme Overloads/Elder Overloads |</b>|
 
 - Overloads increase a players combat stats + 15% of the stat level + 3
 
@@ -349,7 +362,7 @@ Permanent Unlocks
 
 
 
- |turmoil|   |torment|   |anguish|  **T95 Curses**
+|turmoil+583429936606347280| |torment+583429936958930964| |anguish+583429936665198592| |<b>| T95 Curses |</b>|
 
 - Turmoil, torment and anguish provide combat boosts for melee/mage/range respectively 
 
@@ -376,9 +389,9 @@ Permanent Unlocks
 
 
 
- |Malevolence|   |Affliction|   |Desolation|  **T99 Curses**
+|Malevolence+513190159416557573| |Affliction+513190158468907008| |Desolation+513190159018098713| |<b>| T99 Curses |</b>|
 
-- Costs  |coins|  $data_pvme:Unlocks!B13$ per prayer
+- Costs |coins+698816156961603654| $data_pvme:Unlocks!B13$ per prayer
 
 - Stronger versions of the level 95 variants that does the following:
 
@@ -405,7 +418,7 @@ Permanent Unlocks
 
 
 
- |excal|  **Enhanced Excalibur (+ boost from Elite Seers)**
+|excal+641337999170207763| |<b>| Enhanced Excalibur (+ boost from Elite Seers) |</b>|
 
 - A lossless source of healing with a cooldown of 5 minutes
 
@@ -420,7 +433,7 @@ Permanent Unlocks
 
 
 
- |teci|  **Imbues**
+|teci+641332337451204608| |<b>| Imbues |</b>|
 
 - Applies mainly for RoD and Asr, but the general idea is the same for all imbueable rings
 
@@ -433,7 +446,7 @@ Permanent Unlocks
 
 
 
- |achiev|  **Reaper Crew**
+|achiev+641342351532621824| |<b>| Reaper Crew |</b>|
 
 - For killing each boss once you unlock the following benefits:
 
@@ -452,7 +465,7 @@ Permanent Unlocks
 
 
 
- |death|  **Reaper Store**
+|death+641341976960172043| |<b>| Reaper Store |</b>|
 
 - PvM related unlocks of the shop
 
@@ -515,7 +528,7 @@ Permanent Unlocks
 
 
 
- |Araxxi|  **NopeNopeNope Perk**
+|Araxxi+513213019543699466| |<b>| NopeNopeNope Perk |</b>|
 
 - A 2% (at tier 1) or 3% (at tier 2) damage increase against all spiders as well as Arraxor/Araxxi
 
@@ -526,7 +539,7 @@ Permanent Unlocks
 
 
 
- |bagrada|  **King of Beasts Perk**
+|bagrada+690136116992671875| |<b>| King of Beasts Perk |</b>|
 
 - A 5% (at tier 1) or 10% (at tier 2) chance to conserve a bomb when thrown
 
@@ -537,7 +550,7 @@ Permanent Unlocks
 
 
 
- |corbicula|  **No Fear Perk**
+|corbicula+690136117273821280| |<b>| No Fear Perk |</b>|
 
 - Increases the Critical Hit chance of Meteor Strike by 20% (at tier 1) or 40% (at tier 2)
 
@@ -548,7 +561,7 @@ Permanent Unlocks
 
 
 
- |malletops|  **Armoured Hide Perk**
+|malletops+690136117374484508| |<b>| Armoured Hide Perk |</b>|
 
 - Increases the duration of Barricade by 1.8 seconds (at tier 1) or 3.6 seconds (at tier 2)
 
@@ -559,7 +572,7 @@ Permanent Unlocks
 
 
 
-**Anachronia Skillcape stand**
+|<b>| Anachronia Skillcape stand |</b>|
 
 - Adds an additional skillcape slot at the Anachronia player lodge
 
@@ -570,26 +583,26 @@ Permanent Unlocks
 
 
 
- |HoodedMax|  **Max Cape Perks**
+|HoodedMax+580177869284835328| |<b>| Max Cape Perks |</b>|
 
 - The max and comp capes can fit 3 perks, and the combatants cape can fit two. Generally, the following perks should be prioritized:
 
-      -  |Defence|  This is a must, as it acts as a sign of life and frees up your pocket slot for much more useful items. It also saves you an inventory slot as you do not need portent of life.
+      - |Defence+689509250979987525| This is a must, as it acts as a sign of life and frees up your pocket slot for much more useful items. It also saves you an inventory slot as you do not need portent of life.
 
-      -  |Strength|  Dismember hits 3 more times (from 5 to 8), effectively increasing its damage by 60%. Very powerful with Lunging perk. Only useful if meleeing, can skip if you do not melee.
+      - |Strength+689509250879324165| Dismember hits 3 more times (from 5 to 8), effectively increasing its damage by 60%. Very powerful with Lunging perk. Only useful if meleeing, can skip if you do not melee.
 
-      -  |Constitution|  Useful for healing at bank as well as regen throughout fights, though the effect is rather minimal. Scales with maximum HP.
+      - |Constitution+689509250887712902| Useful for healing at bank as well as regen throughout fights, though the effect is rather minimal. Scales with maximum HP.
 
-      -  |Ranged|  Ammo proc chance is increased by 20%. For example, the base chance of ruby bakriminel (e) proccing is 5%. This cape boosts it to 6% (20% of 5% is +1%). Only useful if ranging, can skip if you do not range.
+      - |Ranged+689504724403486920| Ammo proc chance is increased by 20%. For example, the base chance of ruby bakriminel (e) proccing is 5%. This cape boosts it to 6% (20% of 5% is +1%). Only useful if ranging, can skip if you do not range.
 
-	  -  |Attack| / |Invention|  The impact these have on upkeep costs is relatively minimal, and these capes are mostly just filler; the combatants cape cannot have invention on it.
-
-
+	  - |Attack+689509250472476758| / |Invention+689509250946695292| The impact these have on upkeep costs is relatively minimal, and these capes are mostly just filler; the combatants cape cannot have invention on it.
 
 
 
 
-**Permanent Access to Nex Bank**
+
+
+|<b>| Permanent Access to Nex Bank |</b>|
 
 - Players can speak to Ashuelot Reis in the Nex Bank with a set of ancient ceremonial robes, a frozen key and 10,000,000 coins to allow for permanent access to Nex's lobby.
 
@@ -598,7 +611,7 @@ Permanent Unlocks
 
 
 
-**Increased Monolith energy**
+|<b>| Increased Monolith energy |</b>|
 
 - After completing the Mysterious City mystery in the Orthen digsite you will receive an extra 150 monolith energy totalling to 650. (Level 120 arch, boostable from 117)
 
@@ -607,129 +620,129 @@ Permanent Unlocks
 
 
 
-Quest Unlocks
+Quest Unlocks  
 -------------
 
 
-- **The World Wakes**: Unlock the Sunshine, Death's Swiftness, Natural Instinct, and Balanced Strike abilities
+- |<b>| The World Wakes |</b>| : Unlock the Sunshine, Death's Swiftness, Natural Instinct, and Balanced Strike abilities
 
-- **Merlin's Crystal**: Unlocks Excalibur (lossless healing with completion of both hard and elite Seer's Diary)
+- |<b>| Merlin's Crystal |</b>| : Unlocks Excalibur (lossless healing with completion of both hard and elite Seer's Diary)
 
-- **The Light Within**: Seren spells/prayers + access to SBS from ancients
+- |<b>| The Light Within |</b>| : Seren spells/prayers + access to SBS from ancients
 
-    -**Temple of Sentisten**: Unlock Curses
+    - |<b>| Temple of Sentisten |</b>| : Unlock Curses
 
-        -**Desert Treasure**: Ancients
+        - |<b>| Desert Treasure |</b>| : Ancients
 
-- **The Digsite**: Codex Ultimatums, which unlocks the smoke/shadow/blood tendrils and ice asylum abilities     
+- |<b>| The Digsite |</b>| : Codex Ultimatums, which unlocks the smoke/shadow/blood tendrils and ice asylum abilities     
 
-- **Dream Mentor**: Full access to lunar spell book
+- |<b>| Dream Mentor |</b>| : Full access to lunar spell book
 
-    -**Lunar's Diplomacy**: Access to all useful spells for PvM + Access to Livid Farm      
+    - |<b>| Lunar's Diplomacy |</b>| : Access to all useful spells for PvM + Access to Livid Farm      
 
-- **Broken Home**: All 3 challenges post-quest for asylum surgeons ring
+- |<b>| Broken Home |</b>| : All 3 challenges post-quest for asylum surgeons ring
 
-- **Ichtlarin's Little Helper**: Access to Sophanem, its slayer dungeon and Magister
+- |<b>| Ichtlarin's Little Helper |</b>| : Access to Sophanem, its slayer dungeon and Magister
 
-   -**Jack of Spades**: Access to Menaphos and its reputation system
+   - |<b>| Jack of Spades |</b>| : Access to Menaphos and its reputation system
 
-- **Summer's End**: Access to Corporeal Beast
+- |<b>| Summer's End |</b>| : Access to Corporeal Beast
 
-- **Impressing the Locals**: Access to Temple of Aminishi (ED1)
-
-
-
-
-
-- **One Piercing Note**: Illuminated God Books
-
-    -**Horror from the Deep**: Unlocks God books
-
-- **River of Blood**: Unlocks Zerk essence [unlocks drakans medallion getting here]
-
-    -**Branches of Darkmeyer**: Drakans medallion unlock
-
-- **One of a Kind**: Unlocks dragonrider amulet
-
-- **Song from the Depths**: Reduced damage at QBD, access to QBD as reaper assignment
-
-- **Curse of the Black Stone**: 10% Dmg reduction in all Elite Dungeons
-
-- **The Brink of Extinction**: Unlocks Obby armour [good for kiln, also unlock kiln getting here]
-
-    -**The Elder Kiln**: Unlocks Kiln
-
-- **Ritual of the Mahjarrat**: Unlock ability to make dragonbane arrows/bolts, also unlock Stone of Jas buff for gwd1
-
-- **Contact**: Access to Keris (good for Kalphite King with Desert Amulet 3+)
-
-- **Haunted Mine**: Access to Salve Amulet
-
-    -**Lair of Tarn Razorlor** [miniquest]: Access to Salve Amulet (e)
+- |<b>| Impressing the Locals |</b>| : Access to Temple of Aminishi (ED1)
 
 
 
 
 
+- |<b>| One Piercing Note |</b>| : Illuminated God Books
 
-:underline:`**Quests for Dominion Mines**  |dommine| `
+    - |<b>| Horror from the Deep |</b>| : Unlocks God books
 
-**The Chosen Commander**: Sigmund
+- |<b>| River of Blood |</b>| : Unlocks Zerk essence [unlocks drakans medallion getting here]
 
-**A Void Dance**: Black Knight Guardian; Solus Dellagar
+    - |<b>| Branches of Darkmeyer |</b>| : Drakans medallion unlock
 
-**Blood Runs Deep**: Dagannoth Sentinels + Both Mother; The Inadequacy, Everlasting + Illusive, Untouchable; Koschei + Draugen
+- |<b>| One of a Kind |</b>| : Unlocks dragonrider amulet
 
-**The Curse of Arrav**: Arrav
+- |<b>| Song from the Depths |</b>| : Reduced damage at QBD, access to QBD as reaper assignment
 
-**Demon Slayer**: Delrith
+- |<b>| Curse of the Black Stone |</b>| : 10% Dmg reduction in all Elite Dungeons
 
-**Dragon Slayer**: Melzar + Elvarg
+- |<b>| The Brink of Extinction |</b>| : Unlocks Obby armour [good for kiln, also unlock kiln getting here]
 
-**Lair of Tarn Razorlor**: Tarn; Treus
+    - |<b>| The Elder Kiln |</b>| : Unlocks Kiln
 
-**Missing My Mummy**: Tumeken
+- |<b>| Ritual of the Mahjarrat |</b>| : Unlock ability to make dragonbane arrows/bolts, also unlock Stone of Jas buff for gwd1
 
-**Mountain Daughter**: Kendal
+- |<b>| Contact |</b>| : Access to Keris (good for Kalphite King with Desert Amulet 3+)
 
-**Nomad's Requiem**: Nomad
+- |<b>| Haunted Mine |</b>| : Access to Salve Amulet
 
-**RFD**: All bosses
-
-**Spirits of the Elid**: Golems
-
-**Vampyre Slayer**: Count Draynor
-
-:underline:`Note`: For Dominion Mines, only the last quests in a quest line are listed, rather than listing all Prerequisites.
+    - |<b>| Lair of Tarn Razorlor |</b>| [miniquest]: Access to Salve Amulet (e)
 
 
 
 
 
 
-Task Sets for PvM
+|<u>| |<b>| Quests for Dominion Mines |</b>| |dommine+662249620579155968| |</u>|
+
+|<b>| The Chosen Commander |</b>| : Sigmund
+
+|<b>| A Void Dance |</b>| : Black Knight Guardian; Solus Dellagar
+
+|<b>| Blood Runs Deep |</b>| : Dagannoth Sentinels + Both Mother; The Inadequacy, Everlasting + Illusive, Untouchable; Koschei + Draugen
+
+|<b>| The Curse of Arrav |</b>| : Arrav
+
+|<b>| Demon Slayer |</b>| : Delrith
+
+|<b>| Dragon Slayer |</b>| : Melzar + Elvarg
+
+|<b>| Lair of Tarn Razorlor |</b>| : Tarn; Treus
+
+|<b>| Missing My Mummy |</b>| : Tumeken
+
+|<b>| Mountain Daughter |</b>| : Kendal
+
+|<b>| Nomad's Requiem |</b>| : Nomad
+
+|<b>| RFD |</b>| : All bosses
+
+|<b>| Spirits of the Elid |</b>| : Golems
+
+|<b>| Vampyre Slayer |</b>| : Count Draynor
+
+|<u>| Note |</u>| : For Dominion Mines, only the last quests in a quest line are listed, rather than listing all Prerequisites.
+
+
+
+
+
+
+Task Sets for PvM  
 -----------------
 
 
-- **Hard Seers Village Diary**: Ability to enhance excalibur (recovers 20% of your hp over time)
+- |<b>| Hard Seers Village Diary |</b>| : Ability to enhance excalibur (recovers 20% of your hp over time)
 
-          -**Elite Seers Village Diary**: Doubles effectiveness of enhanced excalibur (40% heal over time) + increases enchanted bolt proc chance by 2%
+          - |<b>| Elite Seers Village Diary |</b>| : Doubles effectiveness of enhanced excalibur (40% heal over time) + increases enchanted bolt proc chance by 2%
 
-- **Easy Tirannwn (Elf) Diary**: Access to quiver (each tier gives a higher prayer bonus)
+- |<b>| Easy Tirannwn (Elf) Diary |</b>| : Access to quiver (each tier gives a higher prayer bonus)
 
-- **Hard Desert Diary**: Boosts effect of keris (+25% hitchance, +5% chance to deal triple damage) when worn (good for Kalphite King)
+- |<b>| Hard Desert Diary |</b>| : Boosts effect of keris (+25% hitchance, +5% chance to deal triple damage) when worn (good for Kalphite King)
 
-          -**Elite Desert Diary**: Doubles feathers plucked from phoenix; 20% chance to create a 4-dose super antifire while in the desert
+          - |<b>| Elite Desert Diary |</b>| : Doubles feathers plucked from phoenix; 20% chance to create a 4-dose super antifire while in the desert
 
-- **Elite Fremmenik Diary**: Deal 10% more damage with autos and 5% more damage with abilities against Dagannoth Kings + Notes their bones
-
-
+- |<b>| Elite Fremmenik Diary |</b>| : Deal 10% more damage with autos and 5% more damage with abilities against Dagannoth Kings + Notes their bones
 
 
 
 
 
-Relics
+
+
+Relics  
 ------
 
 
@@ -739,7 +752,7 @@ Further examples may be seen here: <https://runescape.wiki/w/Optimal_PvM_Relic_P
 
 
 
- |fontoflife|  **Font of Life**
+|fontoflife+698225967679930408| |<b>| Font of Life |</b>|
 
 Increases maximum health by 500
 
@@ -750,7 +763,7 @@ It is obtained by completeing the Archaeology tutorial
 
 
 
- |berserkersfury|  **Berserker's Fury**
+|berserkersfury+697808774106185768| |<b>| Berserker's Fury |</b>|
 
 Deal up to +5.5% damage the lower your current life points are below max. Averages to around 2-3% dpm increase
 
@@ -767,7 +780,7 @@ Detailed information can be found here:
 
 
 
- |deathward|  **Death Ward**
+|deathward+697808774068699286| |<b>| Death Ward |</b>|
 
 5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%
 
@@ -782,7 +795,7 @@ Note: if armadyl isnt at his tower, check your sliskes endgame quest log, if it 
 
 
 
- |furyofthesmall|  **Fury of the Small**
+|furyofthesmall+697808773917573233| |<b>| Fury of the Small |</b>|
 
 All basic abilities generate 1% more adrenaline
 
@@ -793,7 +806,7 @@ Solve: Out of the Cruicible mystery. 97 Archaeology (Boostable)
 
 
 
- |heightenedsenses|  **Heightened Senses**	
+|heightenedsenses+697808773573771344| |<b>| Heightened Senses |</b>|	
 
 Increases maximum adrenaline by 10%
 
@@ -804,7 +817,7 @@ Solve: The Everlight mystery. 105 Archaeology (Boostable)
 
 
 
- |conservationofenergy|  **Conservation of Energy**
+|conservationofenergy+697808773711921195| |<b>| Conservation of Energy |</b>|
 
 After using an ultimate ability, you will regain 10% adrenaline
 

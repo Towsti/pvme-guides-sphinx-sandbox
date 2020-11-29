@@ -1,76 +1,89 @@
+.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |smash+535532879820619786| image:: https://cdn.discordapp.com/emojis/535532879820619786.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |undeadslayer+641339922019516416| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |https://i.imgur.com/spFDqLT.png| image:: https://i.imgur.com/spFDqLT.png
 
-.. |smash| image:: https://cdn.discordapp.com/emojis/535532879820619786.png?v=1
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |corruptsigil+643507237985452032| image:: https://cdn.discordapp.com/emojis/643507237985452032.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cane| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</u>| raw:: html
 
-.. role:: bold-underline
-    :class: bold-underline
+    </u>
 
-.. |AirSurge| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/wij50MI.png| image:: https://i.imgur.com/wij50MI.png
 
-.. |Chaosrune| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/cRszUh8.png| image:: https://i.imgur.com/cRszUh8.png
 
-.. |cleave| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dharokbody| image:: https://cdn.discordapp.com/emojis/643507658267164672.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/wij50MI.png| image:: https://i.imgur.com/wij50MI.png
-
-.. |Airrune| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptsigil| image:: https://cdn.discordapp.com/emojis/643507237985452032.png?v=1
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |wm| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |undeadslayer| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientshard| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |runepouch| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |dharokbody+643507658267164672| image:: https://cdn.discordapp.com/emojis/643507658267164672.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 barrows
 =======
 
-:bold-underline:`Barrows as a High Level Player (Courtesy of <@133391081109716992>)`
+|<b>| |<u>| Barrows as a High Level Player (Courtesy of <@133391081109716992>) |</u>| |</b>|
 
 
 
@@ -82,7 +95,7 @@ barrows
 
 
 
-Introduction
+Introduction  
 ------------
 
 
@@ -108,15 +121,15 @@ If you encounter Akrisae in the tunnels, he can be one shot before he's able to 
 
 
 
-**Mage**
+|<b>| Mage |</b>|
 
- |AirSurge|  +  |deto|  +  |wm| 
+|AirSurge+543465115870035999| + |deto+535533833358016512| + |wm+535533809978966037|
 
 
 
-**Melee**
+|<b>| Melee |</b>|
 
-Auto +  |cleave|  →  |smash|  →  |cane| 
+Auto + |cleave+535532878616985610| → |smash+535532879820619786| → |cane+535532878969438210|
 
 
 
@@ -127,42 +140,42 @@ As a low level boss, Barrows will scale to the level of effort willing to be put
 
 
 
-Drops
+Drops  
 -----
 
 
--  |corruptsigil|   **Corruption sigil**
+- |corruptsigil+643507237985452032|  |<b>| Corruption sigil |</b>|
 
--  |dharokbody|   **Barrows equipment**
-
-
+- |dharokbody+643507658267164672|  |<b>| Barrows equipment |</b>|
 
 
 
 
-Presets
+
+
+Presets  
 -------
 
 
-If planning to camp long term, the Undead Slayer invention perk should be included on armour. The Undead Slayer  |undeadslayer|  ability is also very helpful.
+If planning to camp long term, the Undead Slayer invention perk should be included on armour. The Undead Slayer |undeadslayer+641339922019516416| ability is also very helpful.
 
 
 
-**Mage**
+|<b>| Mage |</b>|
 
--  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
--  |runepouch|   **Rune Pouch**  |Airrune|   |Chaosrune|   |Soulrune| 
+- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
 
-(Runes for  |AirSurge|  and  |Vuln| )
+(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
 
 
 
 |https://i.imgur.com/wij50MI.png|
 
-**Melee**
+|<b>| Melee |</b>|
 
--  |ancientshard|   **Ancient elven ritual shard** ``Restores prayer overtime, 5 minute cooldown``
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
 
 

@@ -1,175 +1,185 @@
-.. |Astralrune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |HealOther+567727985851891715| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bodyrune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/6zSiikv.png| image:: https://i.imgur.com/6zSiikv.png
-
-.. |Firerune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |Dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Cept| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
+.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |redpouch| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+.. |Blood_rune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/f5MEPfJ.png| image:: https://i.imgur.com/f5MEPfJ.png
-
-.. |WM| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |Fire_rune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soulrune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HealOther| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+.. |blackpouch+656786565359599626| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Deto| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+.. |Deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soul_rune| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/wvxkU0u.png| image:: https://i.imgur.com/wvxkU0u.png
+
+.. |Soul_rune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |WM+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astral_rune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sd+537341954392850442| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cept+543478434509357098| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cosmic_rune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reprisal+513190159462694912| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Dustrune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/oX4n5lR.png| image:: https://i.imgur.com/oX4n5lR.png
 
-.. role:: bold-underline
-    :class: bold-underline
-
-.. |Law_rune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Body_rune| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Astral_rune| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Water_rune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bloodrune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Onslaught| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+.. |Body_rune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Asphyx| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/6zSiikv.png| image:: https://i.imgur.com/6zSiikv.png
 
-.. |Reprisal| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dbreath| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Water_rune| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augseissing| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dust_rune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dustrune| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Magic| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |blackpouch| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |melee| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sd| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Blood_rune| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. role:: underline
-    :class: underline
-
-.. |disrupt| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+.. |Onslaught+513190159085207555| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/yljks1T.png| image:: https://i.imgur.com/yljks1T.png
 
-.. |https://i.imgur.com/wvxkU0u.png| image:: https://i.imgur.com/wvxkU0u.png
-
-.. |Cosmic_rune| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Fire_rune| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Dust_rune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Law_rune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/f5MEPfJ.png| image:: https://i.imgur.com/f5MEPfJ.png
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 vorago-hardmode
 ===============
 
-:bold-underline:`Hardmode Vorago `
+|<b>| |<u>| Hardmode Vorago |</u>| |</b>|
 
 
 
@@ -183,7 +193,7 @@ vorago-hardmode
 
 
 
-:bold-underline:`Differences from Normal Mode`
+|<b>| |<u>| Differences from Normal Mode |</u>| |</b>|
 
 - Waterfalls are shorter; hits between 10000-11000
 
@@ -210,13 +220,13 @@ vorago-hardmode
 
 
 
-Presets
+Presets  
 -------
 
 
 
 
-**Beginner Preset**
+|<b>| Beginner Preset |</b>|
 
 Take a yak if the food is needed, and a nihil if more comfortable.
 
@@ -231,17 +241,17 @@ Take a yak if the food is needed, and a nihil if more comfortable.
 
 
 
-**Experienced Preset**
+|<b>| Experienced Preset |</b>|
 
--  |augseissing|   **Seismic singularity** ``Flanking 4``
+- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
--  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
+- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
 
--  |purppouch|   **Rune Pouch**  |Cosmicrune|   |Astralrune|   |Lawrune| 
+- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
 
--  |blackpouch|   **Rune Pouch**  |Soulrune|   |Waterrune|   |Dustrune| 
+- |blackpouch+656786565359599626|  |<b>| Rune Pouch |</b>| |Soulrune+536252660333019136| |Waterrune+536252660165115905| |Dustrune+536252659670188042|
 
-(Runes for  |bloodbarrage|   |borrowedpower|   |Vuln|   |disrupt|   |sd|   |Cept|   |HealOther| )
+(Runes for |bloodbarrage+537338981747261446| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |sd+537341954392850442| |Cept+543478434509357098| |HealOther+567727985851891715| )
 
 
 
@@ -253,7 +263,7 @@ Take a yak if the food is needed, and a nihil if more comfortable.
 
 
 
-:bold-underline:`P1`
+|<b>| |<u>| P1 |</u>| |</b>|
 
 
 
@@ -276,7 +286,7 @@ Base should lure Rago to the NE quadrant (instead of the NW quadrant in normal m
 
 
 
-:bold-underline:`P2`
+|<b>| |<u>| P2 |</u>| |</b>|
 
 Same as P2 NM
 
@@ -287,27 +297,27 @@ Only one of the bomb tanks should go on for bleeds. Aside from this, the bomb ta
 
 
 
-:bold-underline:`P3 through P8 for 6+`
+|<b>| |<u>| P3 through P8 for 6+ |</u>| |</b>|
 
 The rotations listed below are for 6man and 7man. As team size is scaled down, the DPS requirement per person becomes higher. Strategies for smaller teams are detailed below.
 
 
 
-**All detonates listed in these rotations should be Auto Deto Abil releases, right after reflect ends.**
+|<b>| All detonates listed in these rotations should be Auto Deto Abil releases, right after reflect ends. |</b>|
 
 
 
 
 
-:underline:`P3 - Ceiling Collapse`
+|<u>| P3 - Ceiling Collapse |</u>|
 
- |Asphyx|  >  |WM|  >  |Dbreath|  >  |Deto|  >  |Asphyx|  >  |WM| 
-
-
+|Asphyx+535533833072672778| > |WM+535533809978966037| > |Dbreath+535533833391702017| > |Deto+535533833358016512| > |Asphyx+535533833072672778| > |WM+535533809978966037|
 
 
 
-:underline:`P4 - Scopulus`
+
+
+|<u>| P4 - Scopulus |</u>|
 
 Do a normal sunshine rotation, using 4TAA Barrage + Dark Form, and prioritizing AoE abilities.
 
@@ -315,53 +325,53 @@ Do a normal sunshine rotation, using 4TAA Barrage + Dark Form, and prioritizing 
 
 
 
-:underline:`P5 - Vitalis`
+|<u>| P5 - Vitalis |</u>|
 
 Stand MD 
 
- |WM|  >  |Asphyx|  >  |Dbreath|  >  |Deto|  >  |WM|  >  |Asphyx| 
+|WM+535533809978966037| > |Asphyx+535533833072672778| > |Dbreath+535533833391702017| > |Deto+535533833358016512| > |WM+535533809978966037| > |Asphyx+535533833072672778|
 
 
 
 
 
-:underline:`P6`
+|<u>| P6 |</u>|
 
- |Onslaught|  > Dummy at End
-
-
-
-
-
-:underline:`P7 - TeamSplit`
-
- |WM|  >  |Asphyx|  >  |Dbreath|  >  |Deto|  
-
-
-
-**If less than 70k**
-
-Go to TS and  |WM|  +  |Asphyx|  Out
-
-
-
-**If more than 70k**
-
- |Reprisal|   TS, then  |WM| 
+|Onslaught+513190159085207555| > Dummy at End
 
 
 
 
 
-:underline:`P8 - Purple Bomb`
+|<u>| P7 - TeamSplit |</u>|
 
- |Asphyx|  >   |WM|  >  |Dbreath|  > build to 100 while escaping arms,  |Sunshine| 
-
-
+|WM+535533809978966037| > |Asphyx+535533833072672778| > |Dbreath+535533833391702017| > |Deto+535533833358016512| 
 
 
 
-:bold-underline:`Small Teams Hardmode (courtesy of <@373844901273796608>)`
+|<b>| If less than 70k |</b>|
+
+Go to TS and |WM+535533809978966037| + |Asphyx+535533833072672778| Out
+
+
+
+|<b>| If more than 70k |</b>|
+
+|Reprisal+513190159462694912|  TS, then |WM+535533809978966037|
+
+
+
+
+
+|<u>| P8 - Purple Bomb |</u>|
+
+|Asphyx+535533833072672778| >  |WM+535533809978966037| > |Dbreath+535533833391702017| > build to 100 while escaping arms, |Sunshine+583430011948630016|
+
+
+
+
+
+|<b>| |<u>| Small Teams Hardmode (courtesy of <@373844901273796608>) |</u>| |</b>|
 
 
 
@@ -371,17 +381,17 @@ This section will detail strategies for teams of 4 or 5.
 
 
 
-:underline:`Mager (Bomb Tank) Preset`
+|<u>| Mager (Bomb Tank) Preset |</u>|
 
--  |augseissing|   **Seismic singularity** ``Flanking 4``
+- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
--  |redpouch|   **Rune Pouch**  |Bloodrune|   |Firerune|   |Bodyrune|  
+- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
 
--  |purppouch|   **Rune Pouch**  |Cosmicrune|   |Astralrune|   |Lawrune| 
+- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
 
--  |blackpouch|   **Rune Pouch**  |Soulrune|   |Waterrune|   |Dustrune| 
+- |blackpouch+656786565359599626|  |<b>| Rune Pouch |</b>| |Soulrune+536252660333019136| |Waterrune+536252660165115905| |Dustrune+536252659670188042|
 
-(Runes for  |bloodbarrage|   |borrowedpower|   |Vuln|   |disrupt|   |sd|   |Cept|   |HealOther| )
+(Runes for |bloodbarrage+537338981747261446| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |sd+537341954392850442| |Cept+543478434509357098| |HealOther+567727985851891715| )
 
 
 
@@ -396,17 +406,17 @@ A dummy is brought for either Ceilings, GB, or TS.
 
 
 
-:underline:`Meleer (Base Tank) Preset`
+|<u>| Meleer (Base Tank) Preset |</u>|
 
 Scythe is used for Green Bomb, P9, P10, and P11. A dummy should be used for shield dome mauling. Flanking can also be used, but the opportunities to flank are very rare.
 
 
 
-``Pouch 1:``  |Blood_rune|   |Body_rune|   |Astral_rune|  
+``Pouch 1:`` |Blood_rune+536252658970001409| |Body_rune+536252659301089280| |Astral_rune+536252658961481769| 
 
-``Pouch 2:``  |Dust_rune|   |Fire_rune|   |Water_rune|  
+``Pouch 2:`` |Dust_rune+536252659670188042| |Fire_rune+536252659850674186| |Water_rune+536252660165115905| 
 
-``Pouch 3:``  |Cosmic_rune|   |Soul_rune|   |Law_rune|  
+``Pouch 3:`` |Cosmic_rune+536252659615924258| |Soul_rune+536252660333019136| |Law_rune+536252661406760970| 
 
 
 
@@ -419,25 +429,25 @@ Scythe is used for Green Bomb, P9, P10, and P11. A dummy should be used for shie
 
 
 
-**Rotations for 4 or 5man (Courtesy of <@373844901273796608>)**
+|<b>| Rotations for 4 or 5man (Courtesy of <@373844901273796608>) |</b>|
 
 
 
-:underline:`Ceilings`
+|<u>| Ceilings |</u>|
 
 
 
-**4-man**
+|<b>| 4-man |</b>|
 
 
 
- |Magic| 
+|Magic+689504724159823906|
 
 Dummy mid on drop. BT Disrupt ASAP after the end of P2. Sunshine, apot, and build to 65% (needs enh apot, otherwise sigil). Auto Asphyx, Wild Magic, Dragon Breath, and Tuska if time (If everything was tick perfect it should be on the last tick before ref). 1 BT should be cepting the other during ref. 2 defensives, and deto for reflect. Release with DB then Asphyx + WM. Basics or Gstaff depending on adren.
 
 
 
- |melee| 
+|melee+615612332521029632|
 
 
 
@@ -445,17 +455,17 @@ Hammer into Quake. Shard on reflect and build with defensives. Berserk, 2 basics
 
 
 
-**5-man**
+|<b>| 5-man |</b>|
 
 
 
- |Magic| 
+|Magic+689504724159823906|
 
 Don't sun, save it for scop. On drop, auto asphyx, WM, Gstaff, Dragon BReath. BTs should cept on reflect, everyone deto. From here, follow 4man rotation.
 
 
 
- |melee| 
+|melee+615612332521029632|
 
 
 
@@ -470,23 +480,23 @@ Build on dummy after phase.
 
 
 
-:underline:`Scopulus`
+|<u>| Scopulus |</u>|
 
 
 
-**4-man  |Magic| **
+|<b>| 4-man |Magic+689504724159823906| |</b>|
 
 Bomb tanks should Disrupt ASAP. Debuffs should be planned out before drop. The DPSer should be standing west of the west scop spawn. Sun off CD, and Wild Magic Deto with Sigil if you can. When the east and north scop arrive, move east, to the edge of the Sunshine to stack them. This is when you want to use detonate, and any other AoE Abilities as frequently as possible. The phase should be over after your 2nd Wild Magic. If not, use basics to phase. Dummy end if possible.
 
 
 
-**4 or 5-man  |melee| **
+|<b>| 4 or 5-man |melee+615612332521029632| |</b>|
 
 Stay close to the west scop spawn and tag with mutated barge, followed by an assault and a slaughter. Switch to souls this phase. You can ZGS spec, alternatively just use scythe and Meteor Strike. Take advantage of Quake, Hurricane, Flurry, and Bladed Dive, as they are all AoEs.
 
 
 
-**5-man  |Magic| **
+|<b>| 5-man |Magic+689504724159823906| |</b>|
 
 Both mage DPSers stand west of the west scop spawn, one debuff west and north, and the other east. Sunshine apot when you can, and straight into Wild Magic + Detonate. Release with sigil ans Asphyx. The BT and DPS on the west should focus that scop, and the BT on the south should attack east with base, then change to north.
 
@@ -495,11 +505,11 @@ Both mage DPSers stand west of the west scop spawn, one debuff west and north, a
 
 
 
-:underline:`Vitalis`
+|<u>| Vitalis |</u>|
 
 
 
-**4-man  |Magic|  Mager**
+|<b>| 4-man |Magic+689504724159823906| Mager |</b>|
 
 
 
@@ -509,7 +519,7 @@ How this phase goes will depend on how quick you finished Scops. Either way, eve
 
 
 
-**5-man  |Magic|  Mager**
+|<b>| 5-man |Magic+689504724159823906| Mager |</b>|
 
 
 
@@ -517,7 +527,7 @@ If you are bomb tanking, detonate before dropdown on the L crack, and release wi
 
 
 
-**5-man  |melee|  Melee**
+|<b>| 5-man |melee+615612332521029632| Melee |</b>|
 
 
 
@@ -528,23 +538,23 @@ Hammer, Quake, Hurricane, 188s, off. Build, barge, Assault, 188s, Hurricane or Q
 
 
 
-:underline:`Green Bomb`
+|<u>| Green Bomb |</u>|
 
 
 
-**5-man  |Magic|  Mager**
+|<b>| 5-man |Magic+689504724159823906| Mager |</b>|
 
 Disrupt on dropdown if you are a bomb tank. Onslaught and don't die. Cancel the Onslaught with either a resonance or a Dragon Breath followed by a resonance. Finish with strong basics.
 
 
 
-**5-man  |melee|  Melee**
+|<b>| 5-man |melee+615612332521029632| Melee |</b>|
 
 Have aggro on vit before drop. Berserk when you land, and build with defensives. DO NOT lose target. A DPSer should place a dummy close to MD, and you can barge this. If not, barge Rago and Sigil Assault Hurricane, followed by a quake. This should finish the phase. Build on a dummy as high as you can.
 
 
 
-**4-man **: 
+|<b>| 4-man |</b>| : 
 
 You can either Onslaught or Sunshine. Refer to the 4man record POV linked below, as this will greatly help. The base should tank the GB, but can pass it first if it makes sense to. If the team opts to sunshine, the meleer can devo and intercept the bomb tanks. The DPSers should generally still Onslaught.
 
@@ -557,17 +567,17 @@ https://www.youtube.com/watch?v=NgS_YH8PG2A&feature=youtu.be
 
 
 
-:underline:`Team Split`
+|<u>| Team Split |</u>|
 
 
 
-**4 or 5-man  |Magic|  Mager**
+|<b>| 4 or 5-man |Magic+689504724159823906| Mager |</b>|
 
 The bomb tanks should Sunshine drop, with the help of a dummy and adrenaline potion. Run to the first TeamSplit, and get back into Sunshine ASAP. Use Wild Magic, Dragon Breath, Asphyx, Resonance, and get off. Deto during reflect with Dragon Breath. Eat up to 9k+, Disrupt + Reprisal, release, Wild Magic + Asphyx to finish phase.
 
 
 
-** |melee|   Meleer**
+|<b>| |melee+615612332521029632|  Meleer |</b>|
 
 Barge, Hammer, Assault, Quake, and use 188s. On reflect, voke, build with defensives, spellbook swap, auto + hurricane, reprisal + disrupt, auto, use 188s, and finish with a forceful backhand.
 
@@ -576,11 +586,11 @@ Barge, Hammer, Assault, Quake, and use 188s. On reflect, voke, build with defens
 
 
 
-:underline:`The End`
+|<u>| The End |</u>|
 
 
 
-** |melee|  Meleer**
+|<b>| |melee+615612332521029632| Meleer |</b>|
 
 
 
@@ -588,7 +598,7 @@ Hammer Spec, Quake, Hurricane, Build to 100%, Berserk, Auto + Cleave. Build with
 
 
 
-** |Magic|  Mager**
+|<b>| |Magic+689504724159823906| Mager |</b>|
 
 Tag reds (blues if you prefer it, not worth unless going for records). On first arm, do auto Asphyx, cancel asphyx with Wild Magic. The DPSer and tagging bomb tank do G Staff spec and build to 100%. Sunshine, apot, build, deto + Wild Magic, Asphyx. The tagging bomb tank cade cepts the team.
 
@@ -597,7 +607,7 @@ Tag reds (blues if you prefer it, not worth unless going for records). On first 
 
 
 
-:underline:`P9 - Waterfall and Weekly Special`
+|<u>| P9 - Waterfall and Weekly Special |</u>|
 
 This will be the same as P4 NM, aside from the differences noted above. Clone spawn will immediately asphyx. Pray magic and anticipate or freedom after the 2nd blue out of waterfall.
 
@@ -606,7 +616,7 @@ This will be the same as P4 NM, aside from the differences noted above. Clone sp
 
 
 
-:underline:`P10`
+|<u>| P10 |</u>|
 
 
 
@@ -618,7 +628,7 @@ The general strategy is to use a DPS ultimate at the start, while applying all d
 
 
 
-:bold-underline:`Broken TeamSplits (Courtesy of <@185315527571406848>)`
+|<b>| |<u>| Broken TeamSplits (Courtesy of <@185315527571406848>) |</u>| |</b>|
 
 
 
@@ -628,17 +638,17 @@ This diagram shows which team splits will be broken in red, and in tact in blue.
 
 
 
-:bold-underline:`When to Maul P10`
+|<b>| |<u>| When to Maul P10 |</u>| |</b>|
 
 
 
-**Ceilings**
+|<b>| Ceilings |</b>|
 
 Maul when GB comes out. P11 will start with 5 blues then Ts -> ref -> Vit
 
 
 
-**Scops**
+|<b>| Scops |</b>|
 
 Maul on either PB release or TS start
 
@@ -648,7 +658,7 @@ TS start maul gives you 3 autos->PB->reflect->Vit
 
 
 
-**Vit**
+|<b>| Vit |</b>|
 
 Maul on either PB release or on Vit release
 
@@ -658,25 +668,25 @@ PB release maul, 5 autos-> Vit->reflect
 
 
 
-**GB**
+|<b>| GB |</b>|
 
 Maul GB release, gives 5 autos ->reflect->TS
 
 
 
-**TS**
+|<b>| TS |</b>|
 
 Maul as Reflect starts, gives 3 autos->PB->TS
 
 
 
-**The End**
+|<b>| The End |</b>|
 
 Maul as soon as PB comes out. P11 starts with 5 blues then ref, then vit.
 
 
 
-**Note**
+|<b>| Note |</b>|
 
 Mauling reflect on p10 is good for all weeks, this works best with shield dome though, especially if vit is first spec after reflect.
 
@@ -685,7 +695,7 @@ Mauling reflect on p10 is good for all weeks, this works best with shield dome t
 
 
 
-:underline:`P11`
+|<u>| P11 |</u>|
 
 All adrenaline is drained from the transition between P10 to P11. Otherwise, essentially the same as P10, but with different weekly mechanics present. No constraints on when to maul, simply maul ASAP. Assuming usage of a dummy, you should build to roughly 35% without Shield Dome, or 70% with Shield Dome. Start off by immediately re-applying debuffs (vulnerability, hammer, quake, gstaff, bsa), then build to DPS ultimates. BT's once again alternate between Barricade and Sunshine depending on the special attack.
 
