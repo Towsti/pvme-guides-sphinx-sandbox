@@ -13,9 +13,9 @@ Separate file because the main theme is likely to change or be generated.
 img {
     /* max-width: 300em !important; */
     max-width: 750px !important;
-    width: auto !important;
+    /* width: auto !important; */
     max-height: 500px !important;
-    height: auto !important;
+    /* height: auto !important; */
 }
 
 /* inline code literal color set to code block color */
