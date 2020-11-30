@@ -1,14 +1,14 @@
+.. |<i>| raw:: html
+
+    <i>
+
 .. |</i>| raw:: html
 
     </i>
 
-.. |<u>| raw:: html
+.. |<b>| raw:: html
 
-    <u>
-
-.. |<i>| raw:: html
-
-    <i>
+    <b>
 
 .. |</u>| raw:: html
 
@@ -18,9 +18,9 @@
 
     </b>
 
-.. |<b>| raw:: html
+.. |<u>| raw:: html
 
-    <b>
+    <u>
 
 dpm-advice-faq
 ==============

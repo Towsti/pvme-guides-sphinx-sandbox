@@ -1,8 +1,6 @@
-.. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
+.. |<b>| raw:: html
 
-.. |<u>| raw:: html
-
-    <u>
+    <b>
 
 .. |</u>| raw:: html
 
@@ -12,9 +10,11 @@
 
     </b>
 
-.. |<b>| raw:: html
+.. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
 
-    <b>
+.. |<u>| raw:: html
+
+    <u>
 
 chaos-elemental
 ===============

@@ -1,8 +1,30 @@
+.. |range+580168050121113623| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/r43CwWP.png| image:: https://i.imgur.com/r43CwWP.png
+
 .. |</b>| raw:: html
 
     </b>
 
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ds+535541258924326912| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -14,15 +36,15 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://i.imgur.com/9z5HXa6.jpg| image:: https://i.imgur.com/9z5HXa6.jpg
+
+.. |<b>| raw:: html
+
+    <b>
 
 .. |https://i.imgur.com/DMq4jmu.png| image:: https://i.imgur.com/DMq4jmu.png
 
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -30,11 +52,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -42,35 +60,17 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<u>| raw:: html
+.. |</u>| raw:: html
 
-    <u>
-
-.. |range+580168050121113623| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </u>
 
 .. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |ds+535541258924326912| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
+.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |https://i.imgur.com/r43CwWP.png| image:: https://i.imgur.com/r43CwWP.png
-
-.. |<b>| raw:: html
-
-    <b>
 
 queen-black-dragon
 ==================

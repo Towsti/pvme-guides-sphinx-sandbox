@@ -1,18 +1,18 @@
+.. |<b>| raw:: html
+
+    <b>
+
 .. |</u>| raw:: html
 
     </u>
-
-.. |<u>| raw:: html
-
-    <u>
 
 .. |</b>| raw:: html
 
     </b>
 
-.. |<b>| raw:: html
+.. |<u>| raw:: html
 
-    <b>
+    <u>
 
 perk-info
 =========

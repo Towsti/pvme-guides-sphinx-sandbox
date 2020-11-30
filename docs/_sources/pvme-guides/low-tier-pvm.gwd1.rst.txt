@@ -1,4 +1,4 @@
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -6,13 +6,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/UcXWBwd.png| image:: https://i.imgur.com/UcXWBwd.png
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |decayingtooth+643150841280200717| image:: https://cdn.discordapp.com/emojis/643150841280200717.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -24,13 +18,25 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
+.. |https://i.imgur.com/QyyXACA.png| image:: https://i.imgur.com/QyyXACA.png
 
-    </u>
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://i.imgur.com/UcXWBwd.png| image:: https://i.imgur.com/UcXWBwd.png
 
 .. |godswordshard+643162769520066570| image:: https://cdn.discordapp.com/emojis/643162769520066570.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
 
 .. |</b>| raw:: html
 
@@ -40,9 +46,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/QyyXACA.png| image:: https://i.imgur.com/QyyXACA.png
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -50,13 +54,9 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |decayingtooth+643150841280200717| image:: https://cdn.discordapp.com/emojis/643150841280200717.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<u>| raw:: html
 
-.. |<b>| raw:: html
-
-    <b>
+    <u>
 
 gwd1
 ====

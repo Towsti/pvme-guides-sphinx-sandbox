@@ -1,31 +1,3 @@
-.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/ircZisL.png| image:: https://i.imgur.com/ircZisL.png
-
-.. |https://i.imgur.com/rPoS8lw.jpg| image:: https://i.imgur.com/rPoS8lw.jpg
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://youtu.be/o-1icC1bbGw| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/o-1icC1bbGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,39 +6,45 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
 
 .. |https://i.imgur.com/5iB0lC1.png| image:: https://i.imgur.com/5iB0lC1.png
 
-.. |https://i.imgur.com/jIiGyq3.png| image:: https://i.imgur.com/jIiGyq3.png
+.. |Dustrune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/EgMuCtj.png| image:: https://i.imgur.com/EgMuCtj.png
-
-.. |https://youtu.be/Iq5CcO35PH0| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Iq5CcO35PH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |runic+643505377211842582| image:: https://cdn.discordapp.com/emojis/643505377211842582.png?v=1
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/1U8ju0I.png| image:: https://i.imgur.com/1U8ju0I.png
+.. |https://i.imgur.com/jIiGyq3.png| image:: https://i.imgur.com/jIiGyq3.png
 
-.. |reaperor+544200033390690335| image:: https://cdn.discordapp.com/emojis/544200033390690335.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<u>| raw:: html
+
+    <u>
 
 .. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/rPoS8lw.jpg| image:: https://i.imgur.com/rPoS8lw.jpg
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -74,7 +52,29 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |https://i.imgur.com/EgMuCtj.png| image:: https://i.imgur.com/EgMuCtj.png
+
 .. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/Iq5CcO35PH0| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Iq5CcO35PH0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |reaperor+544200033390690335| image:: https://cdn.discordapp.com/emojis/544200033390690335.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |runic+643505377211842582| image:: https://cdn.discordapp.com/emojis/643505377211842582.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -82,17 +82,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/3LzbtRo.png| image:: https://i.imgur.com/3LzbtRo.png
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |https://i.imgur.com/1U8ju0I.png| image:: https://i.imgur.com/1U8ju0I.png
+
+.. |https://i.imgur.com/3LzbtRo.png| image:: https://i.imgur.com/3LzbtRo.png
+
+.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -100,13 +102,11 @@
 
     </u>
 
-.. |Dustrune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
+.. |https://i.imgur.com/ircZisL.png| image:: https://i.imgur.com/ircZisL.png
 
 vorago
 ======

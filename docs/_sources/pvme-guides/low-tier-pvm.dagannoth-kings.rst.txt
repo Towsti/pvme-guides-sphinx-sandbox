@@ -1,8 +1,4 @@
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dagegg+643155112948400128| image:: https://cdn.discordapp.com/emojis/643155112948400128.png?v=1
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -10,29 +6,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://i.imgur.com/NVCr6iF.png| image:: https://i.imgur.com/NVCr6iF.png
+
 .. |dagclaw+643155112809988118| image:: https://cdn.discordapp.com/emojis/643155112809988118.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |</b>| raw:: html
-
-    </b>
 
 .. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
@@ -42,25 +28,39 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |dagscale+643155113023635461| image:: https://cdn.discordapp.com/emojis/643155113023635461.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/NVCr6iF.png| image:: https://i.imgur.com/NVCr6iF.png
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://i.imgur.com/XXXQnIA.png| image:: https://i.imgur.com/XXXQnIA.png
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
 
 .. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <b>
+.. |dagegg+643155112948400128| image:: https://cdn.discordapp.com/emojis/643155112948400128.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dagscale+643155113023635461| image:: https://cdn.discordapp.com/emojis/643155113023635461.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
 
 dagannoth-kings
 ===============
