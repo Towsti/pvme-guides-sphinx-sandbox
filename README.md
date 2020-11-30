@@ -58,14 +58,19 @@ overview of all the current bugs that need to be resolved and new features.
 | support for <u>*italic underline*</u> text                   | :white_check_mark: |
 | support for <u>***bold italic underline***</u> text          | :white_check_mark: |
 | support for ~~strikethrough~~ text (including bold/italic/underline) | :white_check_mark: |
-| add logo to the top of navigation bar                        | :red_circle:       |
-| minor style change to `l2` navigation (background should contrast more with `l1`) | :red_circle:       |
+| ~~add logo to the top of navigation bar~~                    |                    |
+| add logo to tab bar                                          | :white_check_mark: |
+| ~~minor style change to `l2` navigation (background should contrast more with `l1`)~~ |                    |
 | ~~improve section identification*~~                          |                    |
-| add "generated on: DD/MM/YY" to the top of the navigation bar | :red_circle:       |
-| hyperlink support (according the pvme style-guide)           | :red_circle:       |
+| add "generated on: DD/MM/YY" to the top of the navigation bar** | :white_check_mark: |
+| ~~hyperlink support (according the pvme style-guide)~~       |                    |
 | embed Youtube/Twitch and other links                         | :warning:          |
 | automatically display images that don't start with `.img` at the end of a message | :red_circle:       |
 | categories are not sorted correctly                          | :red_circle:       |
-| Single line code ``code`` expands past body width limit      | :red_circle:       |
+| ~~Single line code ``code`` expands past body width limit***~~ |                    |
 
 *currently the `> __**` format is used to identify sections. This format is not consistently used across all sections and certain sections are not suited for displaying in the navigation bar.
+
+**added to the bottom of the page (so it doesn't take up important screen space)
+
+***should be solved in convention
