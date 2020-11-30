@@ -1,10 +1,4 @@
-.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/fAXA31v.png| image:: https://i.imgur.com/fAXA31v.png
-
-.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -12,19 +6,59 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |inquisitorstaff+694566917553520680| image:: https://cdn.discordapp.com/emojis/694566917553520680.png?v=1
+.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
+.. |ascoh+513190159362031631| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |https://i.imgur.com/2mIWf4H.png| image:: https://i.imgur.com/2mIWf4H.png
+
+.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/BfFBALx.png| image:: https://i.imgur.com/BfFBALx.png
+
+.. |Naturerune+536252660270104591| image:: https://cdn.discordapp.com/emojis/536252660270104591.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |barrowselitetectlegs+580177522700976138| image:: https://cdn.discordapp.com/emojis/580177522700976138.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |voke+535541259465392143| image:: https://cdn.discordapp.com/emojis/535541259465392143.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DeathsSwift+513190158812839936| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -32,11 +66,215 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |nat+535541258131865633| image:: https://cdn.discordapp.com/emojis/535541258131865633.png?v=1
+.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+.. |https://i.imgur.com/Ymi2gpw.png| image:: https://i.imgur.com/Ymi2gpw.png
+
+.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |backhand+535532854302605333| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/fAXA31v.png| image:: https://i.imgur.com/fAXA31v.png
+
+.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bbc+626714879218155521| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/A8kCwwLCuw4| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/A8kCwwLCuw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |quake+535532879506309150| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/MvsnJMR.png| image:: https://i.imgur.com/MvsnJMR.png
+
+.. |tight+535541275957657600| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |eofspec+746403211908481184| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sonic+535533809924571136| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |noxscythe+513190159341322240| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewalflask+736298313980182541| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/MRY4UR9.png| image:: https://i.imgur.com/MRY4UR9.png
+
+.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bombard+535541306391265284| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |StormShards+536256663641128971| image:: https://cdn.discordapp.com/emojis/536256663641128971.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |DeflectMage+544195487926845462| image:: https://cdn.discordapp.com/emojis/544195487926845462.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |inquisitorstaff+694566917553520680| image:: https://cdn.discordapp.com/emojis/694566917553520680.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Shatter+583429757761224715| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |chain+535533833056026624| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -46,67 +284,25 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
+.. |https://i.imgur.com/unHf5Wm.png| image:: https://i.imgur.com/unHf5Wm.png
+
+.. |gstaff+513203008608141314| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |mechchin+641669268722810881| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
+.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/A8kCwwLCuw4| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/A8kCwwLCuw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |<i>| raw:: html
-
-    <i>
-
-.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bbc+626714879218155521| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Shatter+583429757761224715| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |chain+535533833056026624| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |comb+535533833098100745| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -114,47 +310,35 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/BfFBALx.png| image:: https://i.imgur.com/BfFBALx.png
-
-.. |darkform+659122103269982228| image:: https://cdn.discordapp.com/emojis/659122103269982228.png?v=1
+.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+.. |mechchin+641669268722810881| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |<i>| raw:: html
+
+    <i>
+
+.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/MRY4UR9.png| image:: https://i.imgur.com/MRY4UR9.png
+.. |</u>| raw:: html
 
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    </u>
+
+.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Naturerune+536252660270104591| image:: https://cdn.discordapp.com/emojis/536252660270104591.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -162,33 +346,25 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |voke+535541259465392143| image:: https://cdn.discordapp.com/emojis/535541259465392143.png?v=1
+.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tight+535541275957657600| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
+.. |https://i.imgur.com/HL0Y4aI.jpg| image:: https://i.imgur.com/HL0Y4aI.jpg
+
+.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/Ymi2gpw.png| image:: https://i.imgur.com/Ymi2gpw.png
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -200,35 +376,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/RK5TQER2zeM| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RK5TQER2zeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -236,35 +384,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/HL0Y4aI.jpg| image:: https://i.imgur.com/HL0Y4aI.jpg
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sonic+535533809924571136| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/2mIWf4H.png| image:: https://i.imgur.com/2mIWf4H.png
-
-.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -272,55 +392,27 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eofspec+746403211908481184| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |StormShards+536256663641128971| image:: https://cdn.discordapp.com/emojis/536256663641128971.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/MvsnJMR.png| image:: https://i.imgur.com/MvsnJMR.png
-
-.. |adrenrenewalflask+736298313980182541| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/iCLMQBy.png| image:: https://i.imgur.com/iCLMQBy.png
-
 .. |assault+535532855191928842| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+.. |https://i.imgur.com/lRPMb5s.png| image:: https://i.imgur.com/lRPMb5s.png
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |https://youtu.be/RK5TQER2zeM| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RK5TQER2zeM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://i.imgur.com/iCLMQBy.png| image:: https://i.imgur.com/iCLMQBy.png
+
+.. |prep+535541258546970624| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -328,73 +420,9 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |noxscythe+513190159341322240| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bombard+535541306391265284| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://i.imgur.com/pb2i0Lz.jpg| image:: https://i.imgur.com/pb2i0Lz.jpg
 
-.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |barrowselitetectlegs+580177522700976138| image:: https://cdn.discordapp.com/emojis/580177522700976138.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DeathsSwift+513190158812839936| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |comb+535533833098100745| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+.. |nat+535541258131865633| image:: https://cdn.discordapp.com/emojis/535541258131865633.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -402,55 +430,27 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+.. |darkform+659122103269982228| image:: https://cdn.discordapp.com/emojis/659122103269982228.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |quake+535532879506309150| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gstaff+513203008608141314| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/lRPMb5s.png| image:: https://i.imgur.com/lRPMb5s.png
-
-.. |prep+535541258546970624| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/unHf5Wm.png| image:: https://i.imgur.com/unHf5Wm.png
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DeflectMage+544195487926845462| image:: https://cdn.discordapp.com/emojis/544195487926845462.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ascoh+513190159362031631| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |backhand+535532854302605333| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
     :width: 1.375em
     :height: 1.375em
 

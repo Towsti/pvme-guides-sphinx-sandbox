@@ -1,26 +1,4 @@
-.. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
-
-.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/ab02YuY.png| image:: https://i.imgur.com/ab02YuY.png
-
-.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
-
-.. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
-
 .. |mani+643505153709965322| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
-
-.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -28,33 +6,55 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
+.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
 
 .. |<u>| raw:: html
 
     <u>
 
+.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
+
 .. |https://i.imgur.com/oExT8r7.png| image:: https://i.imgur.com/oExT8r7.png
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/ab02YuY.png| image:: https://i.imgur.com/ab02YuY.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
+
+.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
+
+.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
+
+.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 solak-7s
 ========

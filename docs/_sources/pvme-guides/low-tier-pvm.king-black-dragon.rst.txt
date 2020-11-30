@@ -1,30 +1,12 @@
-.. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
-
-.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |kbdscale+643163047275266094| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
 .. |https://i.imgur.com/CP0Xelp.png| image:: https://i.imgur.com/CP0Xelp.png
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |</u>| raw:: html
-
-    </u>
+.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |kbdhead+643163046969212946| image:: https://cdn.discordapp.com/emojis/643163046969212946.png?v=1
     :width: 1.375em
@@ -33,6 +15,24 @@
 .. |<u>| raw:: html
 
     <u>
+
+.. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
+
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |<b>| raw:: html
+
+    <b>
 
 king-black-dragon
 =================
