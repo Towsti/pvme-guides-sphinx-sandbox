@@ -6,21 +6,21 @@
 
     <i>
 
-.. |</u>| raw:: html
-
-    </u>
-
 .. |<b>| raw:: html
 
     <b>
+
+.. |</i>| raw:: html
+
+    </i>
 
 .. |</b>| raw:: html
 
     </b>
 
-.. |</i>| raw:: html
+.. |</u>| raw:: html
 
-    </i>
+    </u>
 
 dpm-advice-faq
 ==============

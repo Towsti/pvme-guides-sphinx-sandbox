@@ -1,4 +1,4 @@
-.. |Telos+513212949033123840| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
+.. |Nex+513213159071547395| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -6,31 +6,19 @@
 
     <i>
 
-.. |vorago+572867742613635082| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Ambassador+583430542809235458| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |<b>| raw:: html
 
     <b>
 
-.. |</b>| raw:: html
-
-    </b>
+.. |solak+580167371310891029| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |Araxxi+513213019543699466| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</i>| raw:: html
-
-    </i>
-
-.. |Nex+513213159071547395| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+.. |karil+641696573272621086| image:: https://cdn.discordapp.com/emojis/641696573272621086.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -38,11 +26,23 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |solak+580167371310891029| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
+.. |</i>| raw:: html
+
+    </i>
+
+.. |Telos+513212949033123840| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |karil+641696573272621086| image:: https://cdn.discordapp.com/emojis/641696573272621086.png?v=1
+.. |vorago+572867742613635082| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Ambassador+583430542809235458| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
     :width: 1.375em
     :height: 1.375em
 

@@ -1,28 +1,8 @@
-.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Reaperpoints+704657943194501140| image:: https://cdn.discordapp.com/emojis/704657943194501140.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |death+641341976960172043| image:: https://cdn.discordapp.com/emojis/641341976960172043.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |anguish+583429936665198592| image:: https://cdn.discordapp.com/emojis/583429936665198592.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |loyaltypoint+704657054987452447| image:: https://cdn.discordapp.com/emojis/704657054987452447.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |Affliction+513190158468907008| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Ilujankancomp+513190158674427906| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -30,11 +10,31 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |corbicula+690136117273821280| image:: https://cdn.discordapp.com/emojis/690136117273821280.png?v=1
+.. |HoodedMax+580177869284835328| image:: https://cdn.discordapp.com/emojis/580177869284835328.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malletops+690136117374484508| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
+.. |bagrada+690136116992671875| image:: https://cdn.discordapp.com/emojis/690136116992671875.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Bond+513213538463121408| image:: https://cdn.discordapp.com/emojis/513213538463121408.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |teci+641332337451204608| image:: https://cdn.discordapp.com/emojis/641332337451204608.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -42,19 +42,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Invention+689509250946695292| image:: https://cdn.discordapp.com/emojis/689509250946695292.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |turmoil+583429936606347280| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
+.. |conservationofenergy+697808773711921195| image:: https://cdn.discordapp.com/emojis/697808773711921195.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+.. |anguish+583429936665198592| image:: https://cdn.discordapp.com/emojis/583429936665198592.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -62,27 +62,11 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |Desolation+513190159018098713| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |berserkersfury+697808774106185768| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Defence+689509250979987525| image:: https://cdn.discordapp.com/emojis/689509250979987525.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |torment+583429936958930964| image:: https://cdn.discordapp.com/emojis/583429936958930964.png?v=1
+.. |death+641341976960172043| image:: https://cdn.discordapp.com/emojis/641341976960172043.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -90,11 +74,91 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |furyofthesmall+697808773917573233| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |torment+583429936958930964| image:: https://cdn.discordapp.com/emojis/583429936958930964.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |vamp+643505653079343144| image:: https://cdn.discordapp.com/emojis/643505653079343144.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sharp+643505377291534366| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Strength+689509250879324165| image:: https://cdn.discordapp.com/emojis/689509250879324165.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cywircomp+583430147538026496| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |MarksofWar+704701746869567551| image:: https://cdn.discordapp.com/emojis/704701746869567551.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |loyaltypoint+704657054987452447| image:: https://cdn.discordapp.com/emojis/704657054987452447.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |achiev+641342351532621824| image:: https://cdn.discordapp.com/emojis/641342351532621824.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |corbicula+690136117273821280| image:: https://cdn.discordapp.com/emojis/690136117273821280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |excal+641337999170207763| image:: https://cdn.discordapp.com/emojis/641337999170207763.png?v=1
+.. |Constitution+689509250887712902| image:: https://cdn.discordapp.com/emojis/689509250887712902.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Reaperpoints+704657943194501140| image:: https://cdn.discordapp.com/emojis/704657943194501140.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |malletops+690136117374484508| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Armadylcomp+513190158477033474| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Desolation+513190159018098713| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -106,35 +170,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |conservationofenergy+697808773711921195| image:: https://cdn.discordapp.com/emojis/697808773711921195.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cywircomp+583430147538026496| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |MarksofWar+704701746869567551| image:: https://cdn.discordapp.com/emojis/704701746869567551.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Araxxi+513213019543699466| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |teci+641332337451204608| image:: https://cdn.discordapp.com/emojis/641332337451204608.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |achiev+641342351532621824| image:: https://cdn.discordapp.com/emojis/641342351532621824.png?v=1
+.. |excal+641337999170207763| image:: https://cdn.discordapp.com/emojis/641337999170207763.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -142,47 +178,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Invention+689509250946695292| image:: https://cdn.discordapp.com/emojis/689509250946695292.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Strength+689509250879324165| image:: https://cdn.discordapp.com/emojis/689509250879324165.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Constitution+689509250887712902| image:: https://cdn.discordapp.com/emojis/689509250887712902.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sharp+643505377291534366| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bagrada+690136116992671875| image:: https://cdn.discordapp.com/emojis/690136116992671875.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Ilujankancomp+513190158674427906| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Armadylcomp+513190158477033474| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
+.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -190,29 +186,33 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Araxxi+513213019543699466| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |brawler+643505376917979138| image:: https://cdn.discordapp.com/emojis/643505376917979138.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+.. |turmoil+583429936606347280| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |furyofthesmall+697808773917573233| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bond+513213538463121408| image:: https://cdn.discordapp.com/emojis/513213538463121408.png?v=1
+.. |Defence+689509250979987525| image:: https://cdn.discordapp.com/emojis/689509250979987525.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HoodedMax+580177869284835328| image:: https://cdn.discordapp.com/emojis/580177869284835328.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</u>| raw:: html
 
-.. |vamp+643505653079343144| image:: https://cdn.discordapp.com/emojis/643505653079343144.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </u>
 
 permanent-unlocks
 =================
@@ -391,7 +391,7 @@ Permanent Unlocks
 
 |Malevolence+513190159416557573| |Affliction+513190158468907008| |Desolation+513190159018098713| |<b>| T99 Curses |</b>|
 
-- Costs |coins+698816156961603654| $data_pvme:Unlocks!B13$ per prayer
+- Costs |coins+698816156961603654| 607,775,177 per prayer
 
 - Stronger versions of the level 95 variants that does the following:
 

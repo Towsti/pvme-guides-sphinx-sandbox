@@ -1,22 +1,32 @@
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://i.imgur.com/kS38HMy.png| image:: https://i.imgur.com/kS38HMy.png
 
 .. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+.. |https://i.imgur.com/U9MJoZp.png| image:: https://i.imgur.com/U9MJoZp.png
+
+.. |kalphiteegg+643163002794672130| image:: https://cdn.discordapp.com/emojis/643163002794672130.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/00EE3i6.png| image:: https://i.imgur.com/00EE3i6.png
+
+.. |kqhead+643163003537063946| image:: https://cdn.discordapp.com/emojis/643163003537063946.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/0SkjjCp.png| image:: https://i.imgur.com/0SkjjCp.png
 
-.. |persistentrage+739965637056659567| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<u>| raw:: html
 
-.. |kqhead+643163003537063946| image:: https://cdn.discordapp.com/emojis/643163003537063946.png?v=1
+    <u>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -24,57 +34,11 @@
 
     <b>
 
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kalphiteegg+643163002794672130| image:: https://cdn.discordapp.com/emojis/643163002794672130.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/kS38HMy.png| image:: https://i.imgur.com/kS38HMy.png
-
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |https://i.imgur.com/00EE3i6.png| image:: https://i.imgur.com/00EE3i6.png
-
-.. |https://i.imgur.com/viToGVx.png| image:: https://i.imgur.com/viToGVx.png
-
-.. |https://i.imgur.com/vUYBEPS.jpg| image:: https://i.imgur.com/vUYBEPS.jpg
-
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/U9MJoZp.png| image:: https://i.imgur.com/U9MJoZp.png
-
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
 .. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -82,13 +46,49 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |</b>| raw:: html
+
+    </b>
+
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
+.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |persistentrage+739965637056659567| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/viToGVx.png| image:: https://i.imgur.com/viToGVx.png
+
+.. |https://i.imgur.com/vUYBEPS.jpg| image:: https://i.imgur.com/vUYBEPS.jpg
+
 .. |turmoil+583429936606347280| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
 
 kalphite-queen
 ==============

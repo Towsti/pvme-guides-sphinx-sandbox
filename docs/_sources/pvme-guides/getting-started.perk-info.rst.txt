@@ -1,14 +1,14 @@
-.. |<b>| raw:: html
+.. |<u>| raw:: html
 
-    <b>
+    <u>
 
 .. |</b>| raw:: html
 
     </b>
 
-.. |<u>| raw:: html
+.. |<b>| raw:: html
 
-    <u>
+    <b>
 
 .. |</u>| raw:: html
 

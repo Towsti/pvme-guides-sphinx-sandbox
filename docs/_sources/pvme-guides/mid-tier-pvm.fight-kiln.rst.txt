@@ -1,3 +1,61 @@
+.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
+
+.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
+
+.. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
     :width: 1.375em
     :height: 1.375em
@@ -6,69 +64,11 @@
 
     <i>
 
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
-
-.. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
-
 .. |https://i.imgur.com/bB0xUd0.png| image:: https://i.imgur.com/bB0xUd0.png
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 .. |</u>| raw:: html
 
     </u>
-
-.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 fight-kiln
 ==========
