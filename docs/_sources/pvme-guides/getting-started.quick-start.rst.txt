@@ -1,0 +1,401 @@
+.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |</i>| raw:: html
+
+    </i>
+
+quick-start
+===========
+
+Money Making  
+------------
+
+
+- Assumes no main.
+
+- If main exists to transfer gp/purchase bonds, skip this section.
+
+
+
+The purpose of this section is to explain some methods in which you can make money to start buying gear as a low level player.
+
+
+
+``First:`` kill chickens for ~50-100k gp.
+
+
+
+|<u>| Shop Runs |</u>|
+
+- Rush to Fremennik Isles requirements for yak hide runs (~500k/day, requires 50k gp to do).
+
+Stats needed (include pre-requisite stats):
+
+- 20 Construction
+
+- 46 Crafting
+
+- 40 Agility
+
+- 56 Woodcutting
+
+- 25 Fletching
+
+
+
+- Buying feathers
+
+    At first you will only be able to buy from: Lumbridge fishing shop, Port Sarim Fishing shop, and the Shantay Pass.
+
+
+
+|<u>| Vis Wax |</u>|
+
+Requires: 50 Runecrafting
+
+Located in the Runecrafting Guild, you may activate this machine once per day and choose 3 runes to obtain up to 100 vis wax.
+
+The first rune is identical for everyone; the second rune is chosen at random between 3 runes; the third rune is random (rc skill cape perk reveals this rune).
+
+It is recommended to use cheap runes to obtain vis wax. Try to use any of the following: air, mind, earth, water, fire, body, chaos, death. Avoid combination runes at all costs.
+
+
+
+|<u>| Skilling |</u>|
+
+
+
+- Smithing Steel Bars
+
+    -Do the quest |<i>| The Knights Sword |</i>| to get the required smithing level. 
+
+
+
+- Making headless arrows.
+
+
+
+- Archaeology: Harvesting cache materials.
+
+
+
+
+
+
+|<u>| Other |</u>|
+
+
+
+-Doing easy clues
+
+    They require almost no stats, yet can reward you with Fortunate component-giving items worth ~400k/ea.
+
+        It is recommended to get at least 50 thieving and 40 agility should you plan to pickpocket H.A.M members for clues, however they are not required.
+
+
+
+
+
+|<u>| |<b>| Training |</b>| |</u>|
+
+-Assumes you are doing the money making methods mentioned prior |<b>| AND |</b>| that you will start doing some form of bossing when your stats are adequate enough.
+
+
+
+Note: You do not have to strictly follow this should your budget not allow you to do so.
+
+Note: Acquiring a charming imp before camping waterfiends will save you a lot of hassle, however it is not required. If you wish to do that, then you should do the Elite Dungeons 1 token farming method.
+
+
+
+The purpose of this section is to break down, as simply as possible, a relatively efficient means of getting the stats required to begin bossing.
+
+The goal is for you to end up with the following stats: 99 combat skills; 99 invention; 96 herblore; 95 prayer and 87 summoning.   
+
+
+
+|<u>| Combat |</u>|
+
+
+
+Notes:
+
+    -Constitution and Defence are not listed as they can be trained alongside the other combat styles.
+
+    -It is strongly recommended to focus on 99 Magic and 70 Prayer first as this will allow you to start some mid-tier bossing which will begin to become your main means of making gp to fund the skills listed below.    
+
+        -Magic is preferred as it gives you access to the Vulnerability spell and is a generally forgiving style to use.
+
+        -70 prayer as it gives you access to the Piety set of prayers after completion of |<i>| Knight Waves training ground |</i>| miniquest [Requires completion of |<i>| King's Ransom |</i>| ].
+
+    -While not mentioned, you should always upgrade to the highest tier weapon and then |<i>| power |</i>| armour that you can afford when training.
+
+
+
+
+
+
+
+|<b>| For ALL COMBAT |</b>|
+
+
+
+It is recommended to do Elite Dungeon runs in a trio for combat and dungeoneering exp. The two most common methods are:
+
+      - Elite Dungeons 3: tag all mobs up until the first boss.
+
+      - Elite Dungeons 1: tag minibosses for farming dungeoneering tokens while tagging as many mobs as you can.
+
+
+
+|<b>| Attack and Strength |</b>|
+
+
+
+Note: It is important to always make use of the highest tier halberd you are able to acquire when training both attack and strength.
+
+
+
+``1-30:`` Do |<i>| Waterfall Quest |</i>| .
+
+``30-36:`` [ |<b>| Attack only |</b>| ]: Do |<i>| The Fight Arena |</i>| .
+
+``30-40:`` Kill Trolls in Burthope Caves.
+
+``40-60:`` Kill Ghouls outside the Morytania Mauseleum.
+
+Do: |<i>| Regicide |</i>| for access to the Dragon Halberd.
+
+``60-90:`` Wilderness Abyss.
+
+    -Alternatively: 70-90: Guthans at Hellhounds.
+
+``90-99:`` Either Wilderness Abyss or Waterfiends.
+
+
+
+Note: |<i>| The Grand Tree |</i>| gives a 18,750 experience lamp that you can use on either Ranged, Strength, Attack, Defence, Hp or Magic. It is recommended to complete this quest and use it on either Ranged or Magic.
+
+
+
+|<b>| Range |</b>|
+
+
+
+Note: It is important to make use of the highest tier chinchompa you are able to acquire when training range in the abyss.
+
+Note: Unlock |corruptshot+535541306294796299| ability ASAP.
+
+
+
+``1-40:`` Kill Trolls in Burthope Caves.
+
+``40-60:`` Kill Ghouls outside the Morytania Mausoleum.
+
+``60-90:`` Wilderness Abyss with chinchompas.
+
+``90-99:`` Waterfiends in Ancient Cavern (Make sure to pick up all crimson and blue charms, and some gold charms).
+
+
+
+
+
+
+
+|<b>| Magic |</b>|
+
+Note: Unlock |corruptblast+513190159194259467| ability ASAP.
+
+
+
+``1-40:`` Kill Trolls in Burthope Caves.
+
+Note: At 30 magic you have the magic level for Evil Dave's Big day out, it is recommended to do this quest should you have the stats as it gives 50,000 magic experience.
+
+``40-60:`` Kill Ghouls outside the Morytania Mausoleum.
+
+``60-90:`` Wilderness Abyss.
+
+``90-99:`` Waterfiends in Ancient Cavern (Make sure to pick up all crimson and blue charms, and some gold charms).
+
+
+
+|<b>| Prayer |</b>|
+
+``1-27:`` Do: |<i>| Restless Ghost |</i>| ; |<i>| Priest in Peril |</i>| ; |<i>| One Piercing Note |</i>| , and then |<i>| God Statues |</i>| monthly d&d.
+
+``27-95:`` Dragon bones on gilded altar with 2 lit burners OR wilderness chaos altar (this should cost ~70m).
+
+Note: Once you reach 70 prayer you can make use of the Piety variants of prayers, allowing you access to a relatively decent damage-boosting prayer to start bossing with. It is recommended to do this so you can fund 95 prayer more easily.
+
+
+
+
+
+
+
+|<b>| Summoning |</b>|
+
+
+
+|<i>| This section assumes you have already done either 90-99 Ranged, Magic, Strength or Attack at Waterfiends and therefore have the gold and crimson charms needed for 87 |</i>|
+
+Note: Making use of the |<i>| Familiarisation |</i>| minigame will greatly aid in farming charms from Waterfiends.
+
+Note: Charming potions increase the number of charms dropped per kill by 1 for every mob, purchaseable from the Grand Exchange, and highly recommended when training combat via ED3, as the blue charms can be used to accelerate your summoning training.  
+
+
+
+``1-4:`` Do |<i>| Wolf Whistle |</i>|
+
+``4-16:`` Make Dreadfowls
+
+``16-32:`` Make Granite Crabs
+
+``32-46:`` Make Honeybadgers
+
+``46-49:`` Make Pyrelords
+
+``49-61:`` Make Bloated Leeches
+
+``61-64:`` Make Smoke Devils or Bloated Leeches
+
+``64-74:`` Make Stranger Plants or Smoke Devils
+
+``74-87:`` Make Granite Lobsters
+
+
+
+|<b>| Herblore |</b>|
+
+
+
+Warbands is one of the best ways to cut the costs of herblore, and is relatively efficient as well. However, you want to stop at around 84 so you can stockpile on potions for PvM as you hit 99. That being said, you may still continue to do them daily anyway.
+
+Note: If possible, you can wait for a Double Experience Weekend before training herblore to halve the overall cost.
+
+Note: Always make use of portable wells when making potions for the +10% experience boost.
+
+
+
+``1-84:`` Do |<i>| Warbands |</i>| daily
+
+``84-88:`` Adrenaline Potions
+
+``88-96:`` Make ~3350 of each extreme [Should that not be enough, just make some more adrenaline potions OR more extremes of equal amounts until you hit 96]
+
+``96-99:`` Overloads
+
+
+
+
+
+
+|<b>| Crafting |</b>|
+
+|<i>| 80 crafting is required for invention |</i>|
+
+
+
+Note: You can join a clan and make use of the weaving loom there for some crafting experience.
+
+
+
+|<b>| Slow but free |</b>| :
+
+``1-80:`` Dungeoneering Crafting - This method involves crafting either the magic or range armour in dungeoneering, selling that to smuggler, buying more supplies then repeating.
+
+
+
+|<b>| Slow but cheap |</b>|
+
+``1-80:`` Making the highest tier urn that you can.
+
+
+
+|<b>| Fast but expensive |</b>|
+
+``20-80:`` Cutting gems (sapphire, rubies, emeralds, diamonds).
+
+``63-80:`` Making dragonhide armour.
+
+
+
+|<u>| Divination |</u>|
+
+|<i>| 80 is needed for invention |</i>|
+
+
+
+1-80: Guthixian Caches
+
+    Note: You want to start doing Caches ASAP [At low level do them on legacy worlds, as there will be fewer people so you can Cres more often]
+
+
+
+|<b>| Smithing |</b>|
+
+|<i>| 80 smithing is required for invention |</i>|
+
+
+
+``1-30:`` Do |<i>| The Knight's Sword |</i>| then make steel platebodies
+
+``30-40:`` Make mithril platebodies
+
+``40-50:`` Make adamant platebodies
+
+``50-60:`` Make rune platebodies
+
+``60-70:`` Make orichalkum platebodies
+
+``70-80:`` Make necrite platebodies
+
+
+
+|<b>| Invention |</b>|
+
+
+
+Note: You are able to use invention potions to boost and discover blueprints for experience.
+
+
+
+``1-4:`` Do invention tutorial
+
+``4-27:`` Research lvl 5 max items, then augment t70-75 gear, black salamanders are relatively cheap, then kill waterfiends and then disassemble when it hits level 5
+
+``27-60:`` Research lvl 10 max items, then disassemble items once they hit level 10
+
+``60-99/120:`` Either augment relatively cheap halberd/staff weapons and go to wilderness abyss to level (or abyssal demons if you have the slayer level) and disassemble at level 10 OR Augment a relatively expensive (t80+) weapon and level it to 12 then siphon. Item experience is directly tied to combat experience, so high combat xp training methods such as ED3 are recommended, or afking at abyssal demons should you have trained slayer enough.
+
+
+
+
+

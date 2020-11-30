@@ -1,0 +1,118 @@
+.. |https://i.imgur.com/rZsWaTc.png| image:: https://i.imgur.com/rZsWaTc.png
+
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |rottenfang+643162604725862410| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://i.imgur.com/nRzOZDE.png| image:: https://i.imgur.com/nRzOZDE.png
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+giant-mole
+==========
+
+|<b>| |<u>| Giant Mole |</u>| |</b>|
+
+
+
+|https://i.imgur.com/nRzOZDE.png|
+
+
+
+
+
+
+
+Introduction  
+------------
+
+
+Another old boss, only camped for pet and title. Giant mole is very straightforward, only requiring the ability to do damage. The only relevant mechanic present is his dig, where he will dig to a different part of the arena, indicated by a dirt arrow on the ground. Falador Hard and Elite diaries provide buffs to the rewards from mole, but these are minimal, and not required for camping the boss. |soulsplit+615613924506599497| can be used to mitigate any damage done by the Mole.
+
+
+
+
+
+
+
+More information available at the wiki page:
+
+<https://runescape.wiki/w/Giant_mole>
+
+
+
+Drops  
+-----
+
+
+- |rottenfang+643162604725862410|  |<b>| Rotten fang |</b>| ``1/2500 Normal mode (500 threshold)``
+
+                                      ``1/500 Hard mode (500 threshold)``
+
+
+
+Preset  
+------
+
+
+Food is used for panic eating, excalibur is used for healing over time. Take as many prayer potions and overloads as needed for your desired trip length. Combat dummies are used to stall between kills. Vuln runes can be used to release stalled abilities.
+
+- |adrenurn+656426717413507074|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
+
+- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
+
+- |dummy+656844963522281473|  |<b>| Combat dummy |</b>| ``Used to stall adrenaline between kill``
+
+- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
+
+
+
+
+|https://i.imgur.com/rZsWaTc.png|
+

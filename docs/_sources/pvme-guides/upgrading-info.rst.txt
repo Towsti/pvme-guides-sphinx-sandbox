@@ -1,0 +1,11 @@
+upgrading-info
+==============
+
+.. toctree::
+    :maxdepth: 2
+
+    upgrading-info.abilities
+    upgrading-info.armour-and-weapons
+    upgrading-info.consumables
+    upgrading-info.permanent-unlocks
+    upgrading-info.upgrade-order

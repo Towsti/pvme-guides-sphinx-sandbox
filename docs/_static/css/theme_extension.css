@@ -1,0 +1,35 @@
+/*
+Extend the main theme.
+Separate file because the main theme is likely to change or be generated.
+*/
+
+/* max-width of the content field (content roughly the same as discord with people online section shown */
+.wy-nav-content {
+    max-width: 90% !important;
+    /* set to always 85% ? */
+}
+
+/* global image max size (maybe scaling ?) */
+img {
+    /* max-width: 300em !important; */
+    max-width: 750px !important;
+    /* width: auto !important; */
+    max-height: 500px !important;
+    /* height: auto !important; */
+}
+
+/* inline code literal color set to code block color */
+.rst-content code.literal, .rst-content tt.literal {
+    color: rgb(192, 186, 178) !important;
+}
+
+/* unused body section (right of the screen) consistent background color fix */
+.wy-body-for-nav {
+    background-color: #17191a !important;
+}
+
+/* highlighted text after search */
+.rst-content .highlighted {
+    background-color: #8e4221 !important;
+    box-shadow: #8e4221 0px 0px 0px 2px !important;
+}

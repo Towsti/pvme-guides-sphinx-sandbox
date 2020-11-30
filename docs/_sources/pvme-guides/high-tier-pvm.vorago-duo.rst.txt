@@ -1,0 +1,2264 @@
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/vGxAKmH.png| image:: https://i.imgur.com/vGxAKmH.png
+
+.. |https://i.imgur.com/UUEEhcY.png| image:: https://i.imgur.com/UUEEhcY.png
+
+.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |reaperor+544200033390690335| image:: https://cdn.discordapp.com/emojis/544200033390690335.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |grim+568262896375824385| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |NaturalInstinct+513213538496675850| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/FjKcCxO.png| image:: https://i.imgur.com/FjKcCxO.png
+
+.. |bindingshot+535541306563231790| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/PqvA5Py.png| image:: https://i.imgur.com/PqvA5Py.png
+
+.. |sonic+535533809924571136| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |https://i.imgur.com/dtpfsKd.png| image:: https://i.imgur.com/dtpfsKd.png
+
+.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/HQNNkhR.png| image:: https://i.imgur.com/HQNNkhR.png
+
+.. |onsl+513190159085207555| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |voke+535541259465392143| image:: https://cdn.discordapp.com/emojis/535541259465392143.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/JSkXxDK.png| image:: https://i.imgur.com/JSkXxDK.png
+
+.. |DeathsSwift+513190158812839936| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vigour+615613235512737792| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Shard+583429757975396366| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/tDd9GLM.png| image:: https://i.imgur.com/tDd9GLM.png
+
+.. |conc+535533833106489365| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |tight+535541275957657600| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/KQ4fnDs.png| image:: https://i.imgur.com/KQ4fnDs.png
+
+.. |chain+535533833056026624| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/7fdK1eK.png| image:: https://i.imgur.com/7fdK1eK.png
+
+.. |https://i.imgur.com/wvN2z9p.png| image:: https://i.imgur.com/wvN2z9p.png
+
+.. |EnhancedExcalibur+513200949016264727| image:: https://cdn.discordapp.com/emojis/513200949016264727.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |gstaff+513203008608141314| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |StormShards+536256663641128971| image:: https://cdn.discordapp.com/emojis/536256663641128971.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/8QHYTaJ.png| image:: https://i.imgur.com/8QHYTaJ.png
+
+.. |range+580168050121113623| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/vPPFzw4.png| image:: https://i.imgur.com/vPPFzw4.png
+
+.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |comb+535533833098100745| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sd+537341954392850442| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/CxVoKaW.png| image:: https://i.imgur.com/CxVoKaW.png
+
+.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/oMXSnMl.png| image:: https://i.imgur.com/oMXSnMl.png
+
+.. |https://i.imgur.com/flQD25W.png| image:: https://i.imgur.com/flQD25W.png
+
+.. |escape+535541258832052231| image:: https://cdn.discordapp.com/emojis/535541258832052231.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |prep+535541258546970624| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cept+543478434509357098| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |rout+535541259268521994| image:: https://cdn.discordapp.com/emojis/535541259268521994.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |cade+535541306353778689| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |bash+535541306546716692| image:: https://cdn.discordapp.com/emojis/535541306546716692.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |Reprisal+513190159462694912| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+vorago-duo
+==========
+
+
+
+
+
+|https://i.imgur.com/KQ4fnDs.png|
+
+
+
+
+
+
+
+(Written by <@!185315527571406848> and <@!158293690001915904>)
+
+
+
+The following guide is split into 2 roles, Base Tank and Bomb Tank.
+
+
+
+This guide assumes that both players have reasonable knowledge and understanding of Vorago's mechanics, such as clearing bleeds, how to deal with weekly mechanics, reflect timings, etc. It is recommended to practice these in larger team sizes before attempting to duo.
+
+
+
+Target cycling is a pivotal tactic at Vorago, and rotations in this guide are written to take advantage of it. For more information on target cycling, refer to <#538730485095071765>. All phases can be completed without the usage of target cycling, however, some will be significantly slower.
+
+
+
+A player’s default hit chance at Vorago is relatively poor, which is why on top of Auras, Overloads, Reaper Necklace, and Nihils, special attack weapons such as the Statius Warhammer and Guthix Staff have immense value. To optimize your duos significantly, it is recommended that both players acquire/unlock both special attacks (Ingenuity of the Humans is required for using SWH with magic or ranged).
+
+
+
+The usage of the Statius Warhammer and Seren Godbow special attacks, along with the Ingenuity of the Humans sigil, are included in most rotations in this guide. Seren Godbow special attack can be replaced with your most powerful available threshold. Please refer to the dpm advice guides for more information on ability prioritisation.
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/HQNNkhR.png|
+
+
+
+
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|<u>| With SWH |</u>| : |Magic+689504724159823906|
+
+
+
+|bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |comb+535533833098100745| (while running North) > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| > |Sunshine+583430011948630016| |enhreplen+634350450887622656| > |bloodbarrage+537338981747261446| |conc+535533833106489365| |wm+535533809978966037| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |comb+535533833098100745| (walk 2 squares North) > |bloodbarrage+537338981747261446| |sonic+535533809924571136| > |impact+535533809655873556| > (run behind Vorago after the TL has voked) |bloodbarrage+537338981747261446| |conc+535533833106489365| > |deep+535533833139912724| > |bloodbarrage+537338981747261446| |dbreath+535533833391702017| > |deto+535533833358016512| (4t) > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > |voke+535541259465392143| when necessary.
+
+
+
+
+
+
+After jump |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |wm+535533809978966037| (staff).
+
+
+
+|<u>| Without SWH |</u>| : |Magic+689504724159823906|
+
+
+
+|Sunshine+583430011948630016| |enhreplen+634350450887622656| > |bloodbarrage+537338981747261446| |dbreath+535533833391702017| > |comb+535533833098100745| > |bloodbarrage+537338981747261446| |wm+535533809978966037| > |limitless+641339233638023179| |deto+535533833358016512| (3t) > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| > |impact+535533809655873556| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |wm+535533809978966037| > |voke+535541259465392143| when necessary.
+
+
+
+
+
+
+After jump |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |dbreath+535533833391702017| .
+
+
+
+|<u>| Without SWH |</u>| : |range+580168050121113623|
+
+
+
+|DeathsSwift+513190158812839936| |enhreplen+634350450887622656| > 2H auto |snipe+535541258425204770| > |frag+535541273755385885| (walk 2 north) > |rapid+535541270521708566| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > |snipe+535541258425204770| > |needle+535541259108876293| > |freedom+535541258240786434| > |frag+535541273755385885| (walk 2 north) > |needle+535541259108876293| > |snap+535534127131394088| > |snipe+535541258425204770| > |needle+535541259108876293| > |ingen+641339234111848463| |shadowtend+642713547142332416|  > |rapid+535541270521708566| (walk behind rago before using rapid) > |tight+535541275957657600| ( |limitless+641339233638023179| ) + |voke+535541259465392143|
+
+
+
+|<u>| Notes |</u>| :
+
+-The base tank should escape right after the jump animation starts, and walk 1 square forward. This will cause Vorago to walk away from the spot which the TL will land on, stalling his attacks slightly. By stepping 1 square forward, you will prevent Vorago from walking over you. It is unnecessary to walk 1 square forward if you escape with dual wield ranged.
+
+
+
+
+
+
+|<b>| Bomb Tank: |</b>|
+
+
+
+|<u>| With Onslaught |</u>| : |Magic+689504724159823906|
+
+
+
+Climb to the top > Immediately target Vorago > |wm+535533809978966037| (stalled) > Click the correct lure spot > (release) |wm+535533809978966037| |comb+535533833098100745| |voke+535541259465392143| > |replen+634350514406162436| |bloodbarrage+537338981747261446| |onsl+513190159085207555| > Jump when necessary
+
+
+
+After jumping, use |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| (if you have the adren). If not, use |bloodbarrage+537338981747261446| |limitless+641339233638023179| |wm+535533809978966037| (staff).
+
+
+
+
+
+
+|<u>| Without Onslaught |</u>| : |Magic+689504724159823906|
+
+
+
+Climb to the top > Immediately target Vorago > |wm+535533809978966037| (stalled) > Click the correct lure spot > (release) |wm+535533809978966037| |comb+535533833098100745| |voke+535541259465392143| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Jump when necessary.
+
+
+
+
+
+
+|<u>| With Onslaught |</u>| : |range+580168050121113623|
+
+
+
+Climb to the top > Immediately target Vorago > |sgb+626466665848242186| |spec+537340400273195028| > Click the correct lure spot > |frag+535541273755385885| |voke+535541259465392143| > |enhreplen+634350450887622656| > |onsl+513190159085207555| > Jump when necessary
+
+
+
+After jumping, use |needle+535541259108876293| > |snap+535534127131394088| ( |limitless+641339233638023179| )
+
+
+
+
+
+
+|<u>| Without Onslaught |</u>| : |range+580168050121113623|
+
+
+
+Climb to the top > Immediately target vorago > |sgb+626466665848242186| |spec+537340400273195028| > Click the correct lure spot > |frag+535541273755385885| |voke+535541259465392143| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |rapid+535541270521708566| ( |limitless+641339233638023179| ) > Jump when necessary.
+
+
+
+After jumping, use |snipe+535541258425204770| > |needle+535541259108876293| > |tight+535541275957657600| .
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/VfFcGoARNtM>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/tDd9GLM.png|
+
+
+
+
+
+
+
+|<u>| Notes: |</u>|
+
+All P3 rotations are written with the assumption that:
+
+-Target cycling is used. This has major impact on Team Split and Purple Bomb week P3s.
+
+- |ingen+641339234111848463| and |sgb+626466665848242186| are available.
+
+-Combat Dummies are used for weeks which they significantly affect the rotation on.
+
+
+
+
+
+
+|Magic+689504724159823906| |<u>| Presets |</u>| :
+
+
+
+|<b>| General Purpose |</b>| :
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/wvN2z9p.png|
+
+
+
+
+
+
+
+
+
+|<b>| Scopulus |</b>|
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/FjKcCxO.png|
+
+
+
+
+
+
+
+- |grim+568262896375824385| should be used for P3, as this phase benefits heavily from |bloodbarrage+537338981747261446| . |grim+568262896375824385| may also be used for P1, if not Onslaughting.
+
+
+
+
+
+
+
+|<b>| Vitalis |</b>|
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/8QHYTaJ.png|
+
+
+
+
+
+
+
+-Adjust the amount of dummies based on the method you are using.
+
+- |aosor+544200033847869443| should be used on P3 for this week, if the player is inexperienced.
+
+
+
+
+
+
+
+|range+580168050121113623| |<u>| Presets |</u>| :
+
+
+
+|<b>| General Purpose |</b>|
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/JSkXxDK.png|
+
+
+
+
+
+
+
+
+
+|<b>| Vitalis |</b>|
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/vGxAKmH.png|
+
+
+
+
+
+
+
+
+
+|<b>| Purple Bomb |</b>|
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/dtpfsKd.png|
+
+
+
+
+
+
+
+-Scrimshaw should be used for P5 only.
+
+
+
+
+
+
+|<u>| About Presets: |</u>|
+
+-As |<u>| Bomb Tank |</u>| , equip your |reaperor+544200033390690335| , and replace the Phoenix Neckalce with a Super Saradomin Brew, which you will drink after the entry hit.
+
+-Adjust the amount of food you bring according to how much you feel that you will need. If the suggested preset does not have enough food, replacing Jellies and Super Guthix Brews with Super Saradomin Brews will help.
+
+- |aosor+544200033847869443| is left out for most weeks, as it is inferior to the |reaperor+544200033390690335| on all weeks except Scopulus P3. It is, however, recommended that |aosor+544200033847869443| be used for learning duo Vorago.
+
+-Super Guthix Brews and Jellies should be prioritized in general, as solids like Sailfish Soup drain adrenaline, and Saradomin Brews drain stats.
+
+
+
+
+
+
+|<u>| Bolt Usage at Vorago |</u>| :
+
+- |OnyxBakri+565726489362956308| are good prior to |onsl+513190159085207555| as they will increase the damage of |onsl+513190159085207555| as well as heal you resulting in a longer lasting |onsl+513190159085207555| - should always be equipped prior to |onsl+513190159085207555| . Onyx bolts are also generally used when Vorago is under 80k on P3's, and during P2/P4.
+
+- |HydrixBakri+550834403136503822| are good when building for |NaturalInstinct+513213538496675850| / |DeathsSwift+513190158812839936| on different weekly rotations, and should be used once Vorago has reached low HP on P5 during any week as rubies will not result in DPM increase at this point
+
+- |RubyBakri+565726489413287956| are used at the start of most phases (optional P2/P4).
+
+- Black Stone Arrows are worth using if you have slower kills as the stacks will never fall off during a phase and they provide more accuracy increase than |swh+641670143197446182| does, when above 15 stacks. However, if you have fast kills there is no point in bringing them.
+
+
+
+
+
+
+|<u>| Miscellaneous tips for ranging at Vorago |</u>| :
+
+- The correct timing for |snipe+535541258425204770| on reflect is exactly 1 tick after Voragos 2nd auto attack - this allows you to do a slow hitting ability such as |needle+535541259108876293| on top of the |snipe+535541258425204770| before a special attack like Teamsplit/Waterfall, which will prevent you from attacking.
+
+- |needle+535541259108876293| bug can be used on phases with additional targets to increase your DPM output substantially. This can be done on Vit week and any phases that you place a dummy down to natural instinct. This guide makes use of this in its rotations.
+
+- Playing with ability queueing allows you to 3-tick |snipe+535541258425204770| , which makes some of these rotations faster.
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/vPPFzw4.png|
+
+
+
+
+
+
+
+Phase 3  
+-------
+
+
+
+
+|<u>| Phase Breakdown: |</u>| Team Split → 3 Attacks → Reflect → Team Split → 3 Attacks → Red Bomb → 4 Attacks → Repeat
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |Magic+689504724159823906|  Target Cycle + |bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| > |prep+535541258546970624| > |freedom+535541258240786434| > |surge+535533810004262912| > |anti+535541306475151390| > |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| |comb+535533833098100745| (Bladed Dive/Surge to walk Vorago) > |Sunshine+583430011948630016| |enhreplen+634350450887622656| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |dbreath+535533833391702017| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |dbreath+535533833391702017| |<b>| [Team Split Start] |</b>| |escape+535541258832052231| > |Reprisal+513190159462694912| > |anti+535541306475151390| > |freedom+535541258240786434| |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| > |wm+535533809978966037| > |comb+535533833098100745| (walk) > |bloodbarrage+537338981747261446| > |asphyx+535533833072672778| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |range+580168050121113623| Target Cycle + |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| > |prep+535541258546970624| > |anti+535541306475151390| > |Reprisal+513190159462694912| (Stand under vorago) > |<b>| [Team Split End] |</b>| |frag+535541273755385885| |voke+535541259465392143| > |corruptshot+535541306294796299| > |sgb+626466665848242186| |spec+537340400273195028| > |snipe+535541258425204770| > |needle+535541259108876293| |<b>| [Reflect Start] |</b>| |prep+535541258546970624| > |res+535541258844635148| > |DeathsSwift+513190158812839936| |enhreplen+634350450887622656| > |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |needle+535541259108876293| |<b>| [Team Split Start] |</b>| |prep+535541258546970624| > |anti+535541306475151390| > |freedom+535541258240786434| |<b>| [Team Split End] |</b>| |ecb+615618531937222657| |spec+537340400273195028| > |frag+535541273755385885| (walk) > |rapid+535541270521708566| > |snap+535534127131394088| > |snipe+535541258425204770| > |mds+535541259033378827| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |Magic+689504724159823906|  |deto+535533833358016512| (charge 2 seconds of landing into P3) > |bloodbarrage+537338981747261446| |deto+535533833358016512| |gstaff+513203008608141314| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| |freedom+535541258240786434| > |prep+535541258546970624| > |surge+535533810004262912| > |anti+535541306475151390| |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| |corruptblast+513190159194259467| > |Sunshine+583430011948630016| |enhreplen+634350450887622656| > |bloodbarrage+537338981747261446| |dbreath+535533833391702017| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |impact+535533809655873556| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |dbreath+535533833391702017| |<b>| [Team Split Start] |</b>| |escape+535541258832052231| > |Reprisal+513190159462694912| > |anti+535541306475151390| > |freedom+535541258240786434| |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| > |wm+535533809978966037| > |deep+535533833139912724| > |limitless+641339233638023179| |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |impact+535533809655873556| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |range+580168050121113623| |<b>| [Team Split Start] |</b>| > |DeathsSwift+513190158812839936| (As TS is about to blow up) > Auto |needle+535541259108876293| |enhreplen+634350450887622656| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > |snipe+535541258425204770| >  |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| |anti+535541306475151390| |<b>| [Reflect End] |</b>| > |snipe+535541258425204770| > |needle+535541259108876293| |<b>| [Teamsplit Start] |</b>| |freedom+535541258240786434| > |Reprisal+513190159462694912| |EnhancedExcalibur+513200949016264727| |disrupt+535614336207552523| > |escape+535541258832052231| |<b>| [Team Split End] |</b>| > auto |snap+535534127131394088| > |rapid+535541270521708566| > |limitless+641339233638023179| |tight+535541275957657600| > |snipe+535541258425204770| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/2Ch7U6rLBv0>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+Phase 5  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Team Split → 3 Attacks → Reflect → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+-Team Split P5, while being one of the easiest P5s, is considerably more “fast paced” than most of the other P5s, meaning that you will not be able to get a full uninterrupted |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936|  off. Because of this, |onsl+513190159085207555| should not be used on this phase.
+
+-Using |Reprisal+513190159462694912| and tanking Team Splits is an easy way to improve your P5.
+
+-Team Splits clear |disrupt+535614336207552523| , so make sure to never use it right before a Team Split happens.
+
+
+
+
+
+
+|<u>| Method Overview |</u>| : The Base Tank will |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| before Team Splits spawn (after if not using Target Cycling). The Bomb Tank will |cade+535541306353778689| out of the first Team Split, then build to |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936|  as soon as possible.
+
+
+
+-Both players will move to melee distance after Reflect begins.
+
+
+
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : |Sunshine+583430011948630016| |enhreplen+634350450887622656| > Target Cycle + |bloodbarrage+537338981747261446| |dbreath+535533833391702017| |<b>| [Team Split Start] |</b>| |prep+535541258546970624| > |anti+535541306475151390| > |escape+535541258832052231| > |Reprisal+513190159462694912| |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |gstaff+513203008608141314| |spec+537340400273195028| > Improvise depending on stall.
+
+
+
+
+
+
+-Charge |deto+535533833358016512| after using 3 defensives during Reflect.
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |wm+535533809978966037| > |comb+535533833098100745| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise depending on bleeds > Use |disrupt+535614336207552523| after bleeds.
+
+
+
+-The Base Tank is expected to |cade+535541306353778689| out of the second Team Split, so use an appropriate amount of thresholds after bleeds if it does not look like the kill will end before then.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : |DeathsSwift+513190158812839936| |enhreplen+634350450887622656| > Target Cycle + |Tuskas+513201065513058306| |<b>| [Team Split Start] |</b>|  |prep+535541258546970624| > |anti+535541306475151390| > |escape+535541258832052231| > |Reprisal+513190159462694912| |<b>| [Team Split End] |</b>| auto |snap+535534127131394088| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > |snipe+535541258425204770| > |limitless+641339233638023179| |rapid+535541270521708566| > Improvise depending on stall.
+
+
+
+Use 3 defensives on Reflect before using |snipe+535541258425204770|
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| :  |snipe+535541258425204770| > |needle+535541259108876293| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |needle+535541259108876293| > |sgb+626466665848242186|  |spec+537340400273195028| > Improvise depending on bleeds > use |disrupt+535614336207552523| after bleeds.
+
+
+
+-The Base Tank is expected to |cade+535541306353778689| out of the second Team Split, so use an appropriate amount of thresholds after bleeds if it does not look like the kill will end before then.
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : (with |vigour+615613235512737792| ) Target Cycle + |bloodbarrage+537338981747261446| |deto+535533833358016512| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| |freedom+535541258240786434| > |prep+535541258546970624| > |anti+535541306475151390| > |Reprisal+513190159462694912| |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |corruptblast+513190159194259467| > |comb+535533833098100745| > |sonic+535533809924571136| > |cade+535541306353778689| > |bash+535541306546716692| > Improvise until Reflect > |Cept+543478434509357098| your partner when Reflect starts.
+
+
+
+-With sub-optimal stall, it may be necessary to tank the first Blue Bomb with |disrupt+535614336207552523| .
+
+-Build with defensives during Reflect.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |corruptblast+513190159194259467| > |comb+535533833098100745| > Basics until |Sunshine+583430011948630016| > |enhreplen+634350450887622656| |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |limitless+641339233638023179| |asphyx+535533833072672778| > Improvise until next Team Split.
+
+
+
+-Use |Reprisal+513190159462694912| for the second Team Split if you do not finish the kill before.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : (with |vigour+615613235512737792| ) Target Cycle + |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| |freedom+535541258240786434| |disrupt+535614336207552523| > |Reprisal+513190159462694912| > |anti+535541306475151390| > |escape+535541258832052231| (without mobile) |<b>| [Team Split End] |</b>| Auto |sgb+626466665848242186| |spec+537340400273195028| |enhreplen+634350450887622656| > |frag+535541273755385885| > |corruptshot+535541306294796299| > |needle+535541259108876293| > |snipe+535541258425204770| > |cade+535541306353778689| (on 2nd blue) > Improvise until Reflect > |Cept+543478434509357098| your partner when Reflect starts.
+
+
+
+-Build with defensives during Reflect.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Should be maul if not bleeds/basics and |limitless+641339233638023179| |rapid+535541270521708566| until maul.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/0oWM_ckJWBA>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/flQD25W.png|
+
+
+
+
+
+
+
+Phase 3  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Quadrants → Stand → 3 Attacks → Reflect → 3 Attacks → Repeat
+
+
+
+|<u>| Dealing with the quadrants |</u>| : There are multiple methods to deal with The End P3 in duo, none of which are significantly better over the others.
+
+
+
+
+
+
+
+1. Tagging |<i>| all |</i>| Blue Bombs with |Cept+543478434509357098| |devo+513190158728953857| and tagging 1 Red Bomb. On stand you will each get 1 Red Bomb and 1 Purple Bomb (as well as Vorago's normal attacks).
+
+
+
+2. Tagging |<i>| all |</i>| Blue Bombs with |Cept+543478434509357098| |devo+513190158728953857| . One player will tag 1 Red Bomb, and the other player will tag the remaining 2 Red Bombs. On stand you will each get 1 Purple Bomb only (as well as Vorago's normal attacks).
+
+
+
+3. Tagging |<i>| no |</i>| Blue Bombs, and having one player tag 1 Red Bomb, and the other player will tag the remaining 2 Red Bombs. On stand you will each get 3 Blue Bombs (as well as Vorago's normal attacks). This method results in the least adrenaline expended in dealing with quadrants, but also in the most damage taken during stand. If using method 3 with a melee partner, the Bomb Tank |<i>| must |</i>| |voke+535541259465392143| Vorago as he stands up.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |Magic+689504724159823906| Target Cycle + |bloodbarrage+537338981747261446| |deto+535533833358016512| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Quadrants] |</b>| |bloodbarrage+537338981747261446| |wm+535533809978966037| > |asphyx+535533833072672778| > Build to |Sunshine+583430011948630016| while dealing with the quadrants with one of the methods above > |<b>| [Stand] |</b>| (with |wm+535533809978966037|  stall) |wm+535533809978966037| |comb+535533833098100745| |voke+535541259465392143| (walk) > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |anti+535541306475151390| > |deto+535533833358016512| |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |dbreath+535533833391702017| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |range+580168050121113623| Target Cycle + |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Quadrants] |</b>| auto |sgb+626466665848242186| |spec+537340400273195028| > |shadowtend+642713547142332416| > |snap+535534127131394088| > build to |DeathsSwift+513190158812839936| while dealing with the quadrants with one of the methods above > |<b>| [Stand] |</b>| |snipe+535541258425204770| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > |limitless+641339233638023179| |rapid+535541270521708566| > |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |res+535541258844635148| |anti+535541306475151390| > |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |rout+535541259268521994| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |Magic+689504724159823906| Target Cycle + |bloodbarrage+537338981747261446| |deto+535533833358016512| |gstaff+513203008608141314| |spec+537340400273195028| |<b>| [Quadrants] |</b>| |bloodbarrage+537338981747261446| |wm+535533809978966037| > |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > Build to |Sunshine+583430011948630016| while dealing with quadrants with one of the methods above. |<b>| [Stand] |</b>| (with |wm+535533809978966037| stall) |wm+535533809978966037| |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |limitless+641339233638023179| |deep+535533833139912724| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |anti+535541306475151390| > |deto+535533833358016512| |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |dbreath+535533833391702017| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |range+580168050121113623| Target Cycle + |snap+535534127131394088| (or |rout+535541259268521994|  if no quick hitting override) |<b>| [Quadrants] |</b>| Auto |sgb+626466665848242186| |spec+537340400273195028| > |shadowtend+642713547142332416| > Build to |DeathsSwift+513190158812839936| while dealing with quadrants with one of the methods above. |<b>| [Stand] |</b>| |snipe+535541258425204770| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > |limitless+641339233638023179| |rapid+535541270521708566| > |Tuskas+513201065513058306| |<b>| [Reflect Start] |</b>| |res+535541258844635148| |anti+535541306475151390| |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |rout+535541259268521994| > Improvise.
+
+
+
+
+
+
+|<u>| Notes |</u>| :
+
+-Adrenaline on stand will depend on how early you used |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| . Adjust your |limitless+641339233638023179| timing and rotation accordingly.
+
+-If not stalling Wild Magic, replace the weakest ability in the rotation and begin with |bloodbarrage+537338981747261446| |wm+535533809978966037| and continue with the same rotation (moving 4taa autos when necessary).
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/moYaMdF-zoc>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+Phase 5  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Purple Bomb → 5 Attacks → Reflect → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+-The objective is to finish this phase before the second reflect, and this should be achievable without difficulty if both players follow the suggested rotations.
+
+
+
+
+
+
+|<u>| Method Overview |</u>| : Both players will use |disrupt+535614336207552523| before P5 starts. The Base Tank should disrupt immediately after the last waterfall spawns on P4. The Bomb Tank may also |disrupt+535614336207552523| after the waterfall spawns |<i>| if |</i>| Vorago’s HP is low enough for him to die before releasing any attacks. If this is not the case, the Bomb Tank should wait until the phase is over to |disrupt+535614336207552523| .
+
+
+
+The Base Tank will |onsl+513190159085207555| 2 squares out of melee distance on dropdown, cancelling when necessary. The Bomb Tank will |deto+535533833358016512| in melee distance. (if using |Magic+689504724159823906| )
+
+
+
+-The Bomb Tank will move 1 square back after releasing detonate to avoid getting melee swiped. In this scenario, the Base Tank (who is Onslaughting further than the Bomb Tank) will receive the |<i>| first |</i>| Blue Bomb, which will be blocked by |disrupt+535614336207552523| .
+
+
+
+-Immediately after the first Blue Bomb is released, the Bomb Tank will move further back to prevent the Base Tank from getting any more Blue Bombs.
+
+
+
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : |bloodbarrage+537338981747261446| |onsl+513190159085207555| > cancel when necessary > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017|
+
+
+
+-Use |enhreplen+634350450887622656| during reflect and charge |deto+535533833358016512| after doing 2-3 defensive abilities.
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > Improvise depending on bleeds > |disrupt+535614336207552523| and |cade+535541306353778689| the Blue Bombs after bleeds accordingly.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : Auto |onsl+513190159085207555| |OnyxBakri+565726489362956308| > cancel when necessary > |corruptshot+535541306294796299| > |snipe+535541258425204770| > |needle+535541259108876293|
+
+
+
+-Use |enhreplen+634350450887622656| during reflect and use |snipe+535541258425204770| after doing 2-3 defensive abilities.
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > |needle+535541259108876293| > |shadowtend+642713547142332416| > |limitless+641339233638023179| |rapid+535541270521708566| should be maul as bleeds end, if not good push |disrupt+535614336207552523| after bleeds and |cade+535541306353778689| bombs instead
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |corruptblast+513190159194259467| > |comb+535533833098100745| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |replen+634350514406162436| |cade+535541306353778689| (on |<i>| second |</i>| Blue Bomb) > |bash+535541306546716692| > Improvise until Reflect - |Cept+543478434509357098| your partner when Reflect starts.
+
+
+
+-In some cases |enhreplen+634350450887622656| may not be needed to build to |cade+535541306353778689| . Adjust your rotation according to the situation.
+
+- |sd+537341954392850442| the last attack of Reflect may prevent pushback in some cases.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : (During Reflect) |wrack+535533809823645697| > |StormShards+536256663641128971| > |Vuln+537349530551582720| |prep+535541258546970624| [Reflect End] |bloodbarrage+537338981747261446| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > if Vorago is >4 squares away from maul spot, build to |onsl+513190159085207555| and use it after bleeds end. If Vorago is ≤4 squares away from maul spot, simply using thresholds should be enough to finish the phase.
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : |sgb+626466665848242186| |spec+537340400273195028| > |snap+535534127131394088| > |enhreplen+634350450887622656| > |needle+535541259108876293| |shadowtend+642713547142332416| > |frag+535541273755385885| > |ingen+641339234111848463| |Vuln+537349530551582720| > |snipe+535541258425204770| > |needle+535541259108876293| > |cade+535541306353778689| > Improvise until Reflect - |Cept+543478434509357098| your partner when reflect starts.
+
+
+
+-In some cases |enhreplen+634350450887622656| may not be needed to build to |cade+535541306353778689| . Adjust your rotation according to the situation.
+
+- |sd+537341954392850442| the last attack of Reflect may prevent pushback in some cases.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > |frag+535541273755385885| > |corruptshot+535541306294796299| >  |rapid+535541270521708566| should be maul, if still far out from maul choose to not rapid and |onsl+513190159085207555| instead. if close to Maul continue threshing and it should be enough to finish the phase.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/L47CpPyR8B0>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/CxVoKaW.png|
+
+
+
+
+
+
+
+Phase 3  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Ceilings → 3 Attacks → Reflect → 3 Attacks → Ceilings → 3 Attacks → Red Bomb → 4 Attacks → Repeat
+
+
+
+|<i>| With a dummy for P2 end and P3 start |</i>|
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |Magic+689504724159823906| ( |NaturalInstinct+513213538496675850| Active) |Sunshine+583430011948630016| on dropdown in the center section of the arena > |prep+535541258546970624| > |freedom+535541258240786434| > |anti+535541306475151390| (on dummy, while using auto attacks to speed up building) > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |comb+535533833098100745| + |voke+535541259465392143| (walk) > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > |sonic+535533809924571136| > |dbreath+535533833391702017| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |asphyx+535533833072672778| > |dbreath+535533833391702017| > |enhreplen+634350450887622656| |bloodbarrage+537338981747261446| |comb+535533833098100745| (Vorago Jumps) > |wm+535533809978966037| > |sonic+535533809924571136| > |corruptblast+513190159194259467| > |onsl+513190159085207555| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |range+580168050121113623| ( |NaturalInstinct+513213538496675850| Active) |DeathsSwift+513190158812839936| on dropdown in the center section of the arena > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| (on dummy, while using auto attacks to speed up buidling) > auto |sgb+626466665848242186| |spec+537340400273195028| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |snipe+535541258425204770| > |mds+535541259033378827| (if he jumped out of range do |mds+535541259033378827| > |Tuskas+513201065513058306| instead) |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |ecb+615618531937222657| |spec+537340400273195028| |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |rapid+535541270521708566| > |snap+535534127131394088| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |Magic+689504724159823906|  ( |NaturalInstinct+513213538496675850|  Active) |Sunshine+583430011948630016| on dropdown in the center section of the arena > |voke+535541259465392143| > |freedom+535541258240786434| > |anti+535541306475151390| (on dummy, while using auto attacks to speed up building) > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |impact+535533809655873556| > |sonic+535533809924571136| > |dbreath+535533833391702017| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |asphyx+535533833072672778| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| (Vorago Jumps) > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |Reprisal+513190159462694912| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |range+580168050121113623| ( |NaturalInstinct+513213538496675850| Active) |DeathsSwift+513190158812839936| on dropdown in the center section of the arena > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| (On dummy, while using auto attacks to speed up building) > Auto |sgb+626466665848242186| |spec+537340400273195028| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |freedom+535541258240786434| |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |rapid+535541270521708566| > |needle+535541259108876293| > |snap+535534127131394088| > |frag+535541273755385885| (walk) > |sgb+626466665848242186| |spec+537340400273195028| > |Reprisal+513190159462694912| > Improvise.
+
+
+
+
+
+
+|<u>| Notes |</u>| :
+
+-It is possible to finish the phase without |onsl+513190159085207555| , however, the following the rotation is written to allow for a longer phase.
+
+-Vorago's movement adds some variance to the phase. If possible, use flanking to replace any weaker abilities.
+
+- |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| should be placed in this general area: (link)
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/fJcteTwV1uE>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+Phase 5  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Team Split → 3 Attacks → Reflect → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+-This Phase is identical to the Teamsplit P5.
+
+-Team Split P5, while being one of the easiest P5s, is considerably more “fast paced” than most of the other P5s, meaning that you will not be able to get a full uninterrupted |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936|  off. Because of this, |onsl+513190159085207555| should not be used on this phase.
+
+-Using |Reprisal+513190159462694912| and tanking Team Splits is an easy way to improve your P5.
+
+-Team Splits clear |disrupt+535614336207552523| , so make sure to never use it right before a Team Split happens.
+
+
+
+
+
+
+|<u>| Method Overview |</u>| : The Base Tank will |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| before Team Splits spawn (after if not using Target Cycling). The Bomb Tank will |cade+535541306353778689| out of the first Team Split, then build to |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936|  as soon as possible.
+
+
+
+-Both players will move to melee distance after Reflect begins.
+
+
+
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : |Sunshine+583430011948630016| |replen+634350514406162436| > Target Cycle + |bloodbarrage+537338981747261446| |dbreath+535533833391702017| |<b>| [Team Split Start] |</b>| |prep+535541258546970624| > |anti+535541306475151390| > |escape+535541258832052231| > |Reprisal+513190159462694912| |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |gstaff+513203008608141314| |spec+537340400273195028| > Improvise depending on stall.
+
+
+
+-Charge |deto+535533833358016512| after using 3 defensives during Reflect.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |wm+535533809978966037| > |comb+535533833098100745| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise depending on bleeds > Use |disrupt+535614336207552523| after bleeds.
+
+
+
+-The Base Tank is expected to |cade+535541306353778689| out of the second Team Split, so use an appropriate amount of thresholds after bleeds if it does not look like the kill will end before then.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : |DeathsSwift+513190158812839936| |enhreplen+634350450887622656| > Target Cycle + |Tuskas+513201065513058306| |<b>| [Team Split Start] |</b>|  |prep+535541258546970624| > |anti+535541306475151390| > |escape+535541258832052231| > |Reprisal+513190159462694912| |<b>| [Team Split End] |</b>| auto |snap+535534127131394088| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > |snipe+535541258425204770| > |limitless+641339233638023179| |rapid+535541270521708566| > Improvise depending on stall.
+
+
+
+Use 3 defensives on Reflect before using |snipe+535541258425204770|
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |needle+535541259108876293| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |needle+535541259108876293| > |sgb+626466665848242186|  |spec+537340400273195028| > Improvise depending on bleeds > use |disrupt+535614336207552523| after bleeds.
+
+
+
+
+
+
+-The Base Tank is expected to |cade+535541306353778689| out of the second Team Split, so use an appropriate amount of thresholds after bleeds if it does not look like the kill will end before then.
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : (with |vigour+615613235512737792| ) Target Cycle + |bloodbarrage+537338981747261446| |deto+535533833358016512| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| |freedom+535541258240786434| > |prep+535541258546970624| > |anti+535541306475151390| > |escape+535541258832052231| / |surge+535533810004262912| (without mobile) |<b>| [Team Split End] |</b>| |bloodbarrage+537338981747261446| |wm+535533809978966037| > |corruptblast+513190159194259467| > |comb+535533833098100745| > |conc+535533833106489365| > |dbreath+535533833391702017| > |cade+535541306353778689| > |bash+535541306546716692| > Improvise until Reflect > |Cept+543478434509357098| your partner when Reflect starts.
+
+
+
+
+
+
+-Build with defensives during Reflect.
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |corruptblast+513190159194259467| > |comb+535533833098100745| > Basics until |Sunshine+583430011948630016| > |enhreplen+634350450887622656| |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |limitless+641339233638023179| |asphyx+535533833072672778| > Improvise until next Team Split.
+
+
+
+-Use |Reprisal+513190159462694912| for the second Team Split if you do not finish the kill before.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : (with |vigour+615613235512737792| ) Target Cycle + |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| |<b>| [Team Split Start] |</b>| |freedom+535541258240786434| |disrupt+535614336207552523| > |Reprisal+513190159462694912| > |anti+535541306475151390| > |escape+535541258832052231| (without mobile) |<b>| [Team Split End] |</b>| Auto |sgb+626466665848242186| |spec+537340400273195028| |enhreplen+634350450887622656| > |frag+535541273755385885| > |corruptshot+535541306294796299| > |needle+535541259108876293| > |snipe+535541258425204770| > |cade+535541306353778689| (on 2nd blue) > Improvise until Reflect > |Cept+543478434509357098| your partner when Reflect starts.
+
+
+
+-Build with defensives during Reflect.
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |snap+535534127131394088| > |shadowtend+642713547142332416| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Should be maul if not bleeds/basics and |limitless+641339233638023179| |rapid+535541270521708566| until maul.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link 1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/0oWM_ckJWBA>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/oMXSnMl.png|
+
+
+
+
+
+
+
+Phase 3  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Kill the Scopuli as fast as possible.
+
+
+
+- |grim+568262896375824385| should be used for P1 if you are |<i>| not |</i>| Onslaughting. The same applies for P5. Otherwise, |grim+568262896375824385| should only be used for P3.
+
+
+
+|<u>| |<b>| Base Tank |</b>| |</u>| : |Sunshine+583430011948630016| |enhreplen+634350450887622656| Target Cycle (Backwards) + |Vuln+537349530551582720| |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |comb+535533833098100745| > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |wm+535533809978966037| > |deto+535533833358016512| (4t) > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > Improvise.
+
+
+
+
+
+
+|<u>| |<b>| Bomb Tank |</b>| |</u>| : |Sunshine+583430011948630016| |enhreplen+634350450887622656| Target Cycle (Forward, 1 tick late to ensure you do not get aggro) + |Vuln+537349530551582720| |limitless+641339233638023179| |wm+535533809978966037| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |corruptblast+513190159194259467| > |deto+535533833358016512| (4t) > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |impact+535533809655873556| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |wm+535533809978966037| (with staff) > Improvise.
+
+
+
+
+
+
+|<u>| Notes |</u>| :
+
+-A video example of one of the options to luring both Scopuli easily as Base Tank: <https://youtu.be/KmYgKcfLeRc>
+
+- |chain+535533833056026624| will not bounce if the Scopuli are standing on top of each other.
+
+- |grim+568262896375824385| is better than a Superior Scrimshaw of the Elements for this P3, as this phase benefits heavily from |bloodbarrage+537338981747261446| auto attacks.
+
+-Use |aosor+544200033847869443| over |reaperor+544200033390690335| for this P3.
+
+-The usage of Dark Form is recommended for this phase.
+
+-Using |devo+513190158728953857| is acceptable to reduce food usage, however this will slow down the phase, and is not be necessary if both players are following the rotations above.
+
+-While this phase is relatively heavy damage wise, the usage of Blue Blubber Jellyfish and Super Guthix Brews is still recommended over solids (e.g. Sailfish Soup) and Saradomin Brews.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+
+
+
+Phase 5  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Purple Bomb → 5 Attacks → Reflect → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+-This phase is identical to the Purple Bomb P5.
+
+-The objective is to finish this phase before the second reflect, and this should be achievable without difficulty if both players follow the suggested rotations.
+
+
+
+
+
+
+|<u>| Method Overview |</u>| : Both players will use |disrupt+535614336207552523| before P5 starts. The Base Tank should disrupt immediately after the last waterfall spawns on P4. The Bomb Tank may also |disrupt+535614336207552523| after the waterfall spawns |<i>| if |</i>| Vorago’s HP is low enough for him to die before releasing any attacks. If this is not the case, the Bomb Tank should wait until the phase is over to |disrupt+535614336207552523| .
+
+
+
+The Base Tank will |onsl+513190159085207555| 2 squares out of melee distance on dropdown, cancelling when necessary. The Bomb Tank will |deto+535533833358016512| in melee distance.
+
+
+
+-The Bomb Tank will move 1 square back after releasing detonate to avoid getting melee swiped. In this scenario, the Base Tank (who is Onslaughting further than the Bomb Tank) will receive the |<i>| first |</i>| Blue Bomb, which will be blocked by |disrupt+535614336207552523| .
+
+
+
+-Immediately after the first Blue Bomb is released, the Bomb Tank will move further back to prevent the Base Tank from getting any more Blue Bombs.
+
+
+
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|<u>| Pre-Reflect |</u>| : |bloodbarrage+537338981747261446| |onsl+513190159085207555| > cancel when necessary > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017|
+
+
+
+-Use |enhreplen+634350450887622656| during reflect and charge |deto+535533833358016512| after doing 2-3 defensive abilities.
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > Improvise depending on bleeds > |disrupt+535614336207552523| and |cade+535541306353778689| the Blue Bombs after bleeds accordingly.
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|<u>| Pre-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |corruptblast+513190159194259467| > |comb+535533833098100745| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |enhreplen+634350450887622656| |cade+535541306353778689| (on |<i>| second |</i>| Blue Bomb) > |bash+535541306546716692| > Improvise until Reflect - |Cept+543478434509357098| your partner when Reflect starts.
+
+
+
+-In some cases |enhreplen+634350450887622656| may not be needed to build to |cade+535541306353778689| . Adjust your rotation according to the situation.
+
+- |sd+537341954392850442| the last attack of Reflect may prevent pushback in some cases.
+
+
+
+|<u>| Post-Reflect |</u>| : (During Reflect) |wrack+535533809823645697| > |StormShards+536256663641128971| > |Vuln+537349530551582720| |prep+535541258546970624| [Reflect End] |bloodbarrage+537338981747261446| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > if Vorago is >4 squares away from maul spot, build to |onsl+513190159085207555| and use it after bleeds end. If Vorago is ≤4 squares away from maul spot, simply using thresholds should be enough to finish the phase.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/7fdK1eK.png|
+
+
+
+
+
+
+
+Phase 3  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Vitalis → 3 Attacks → Reflect → 3 Attacks → Vitalis → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+There are 2 methods of executing this phase:
+
+
+
+1. The Barricade method, where |cade+535541306353778689| is used to negate bleed damage. This method requires both players to stand next to eachother, as Vitali will block the usage of |Cept+543478434509357098| . This method is generally safer but also slower than method 2. Recommended for players learning to duo this week.
+
+
+
+2. The No Cade method, where players stand on opposite sides of Vorago (allowing for flanking and preventing the players from Blue Bombing eachother). This method involves both players doing full damage rotations, and using |Reprisal+513190159462694912| on bleeds if necessary. In general, this method is not recommended unless you are able to finish the phase within before the end of bleeds (at the very latest).
+
+
+
+
+
+
+|<u>| Method 1 |</u>| :
+
+
+
+|<u>| |<b>| Base Tank |</b>| |</u>| : |Magic+689504724159823906| (with |vigour+615613235512737792| ) |bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |corruptblast+513190159194259467| |voke+535541259465392143| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| |<b>| [Reflect Start] |</b>| |Sunshine+583430011948630016| |enhreplen+634350450887622656| > |StormShards+536256663641128971| > |anti+535541306475151390| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |range+580168050121113623| ( |NaturalInstinct+513213538496675850| Active) |DeathsSwift+513190158812839936| On dropdown on the L Rock > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293|  (on dummy, while using auto attacks to speed up building) auto |sgb+626466665848242186| |spec+537340400273195028| > |rapid+535541270521708566| > |snap+535534127131394088| > |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |needle+535541259108876293| (vit) |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |needle+535541259108876293| > |shadowtend+642713547142332416| > |rapid+535541270521708566| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise
+
+
+
+Your partner will |Cept+543478434509357098| you when bleeds begin, meaning you will hold aggro and tank the first 4 bleeds. |freedom+535541258240786434| as the 4th bleed hits you. After bleeds end, you may choose to |Cept+543478434509357098| your partner and use |devo+513190158728953857| , if Vorago has high HP.
+
+
+
+
+
+
+|<u>| |<b>| Bomb Tank |</b>| |</u>| : |Magic+689504724159823906| |Sunshine+583430011948630016| |enhreplen+634350450887622656| (before Vorago is targetable) > Target Cycle + |bloodbarrage+537338981747261446| |conc+535533833106489365| > |limitless+641339233638023179| |wm+535533809978966037| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |impact+535533809655873556| > |bloodbarrage+537338981747261446| |dbreath+535533833391702017| |<b>| [Reflect Start] |</b>| |StormShards+536256663641128971| > |anti+535541306475151390| > |prep+535541258546970624| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |sonic+535533809924571136| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > build with best basics to 100%, then |Cept+543478434509357098| |cade+535541306353778689| your partner after first bleed.
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |range+580168050121113623| ( |NaturalInstinct+513213538496675850| Active) |DeathsSwift+513190158812839936| On dropdown on the L Rock > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| (on dummy, while using auto attacks to speed up buidling) |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |rapid+535541270521708566| > |snap+535534127131394088| > |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |prep+535541258546970624| > |res+535541258844635148| > |needle+535541259108876293| (vit) |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |needle+535541259108876293| > |mds+535541259033378827| > |corruptshot+535541306294796299| > |needle+535541259108876293| > |snipe+535541258425204770| > |mds+535541259033378827| then |Cept+543478434509357098| |cade+535541306353778689| your partner after 1st bleed.
+
+
+
+
+
+
+The person using |cade+535541306353778689| must |voke+535541259465392143| Vorago after the 4th bleed.
+
+After bleeds end, you may choose to |Cept+543478434509357098| your partner and use |devo+513190158728953857| , if Vorago has high HP.
+
+
+
+
+
+
+|<u>| Method 2 |</u>| :
+
+
+
+|<u>| |<b>| Base Tank |</b>| |</u>| : |Magic+689504724159823906| |Sunshine+583430011948630016| |replen+634350514406162436| > (on P3 dummy) |voke+535541259465392143| > |freedom+535541258240786434| > Target Cycle + |bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |dbreath+535533833391702017| (if Vorago is facing you) / |impact+535533809655873556| (if Vorago is facing your partner) |<b>| [Reflect Start] |</b>| |prep+535541258546970624| > |StormShards+536256663641128971| > |voke+535541259465392143| > |anti+535541306475151390| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |wm+535533809978966037| > |corruptblast+513190159194259467| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |range+580168050121113623| ( |NaturalInstinct+513213538496675850| Active) |DeathsSwift+513190158812839936| On dropdown on the L Rock > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293|  (on dummy, while using auto attacks to speed up building) auto |sgb+626466665848242186| |spec+537340400273195028| > |rapid+535541270521708566| > |snap+535534127131394088| > |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |res+535541258844635148| > |prep+535541258546970624| > |needle+535541259108876293| (vit) |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |needle+535541259108876293| > |shadowtend+642713547142332416| > |rapid+535541270521708566| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise
+
+
+
+
+
+
+From here, the rest of your rotation will depend on Vorago’s health. If Vorago has high HP, using |Reprisal+513190159462694912| for tanking the first 2 bleeds, then using |freedom+535541258240786434| after is recommended.
+
+
+
+
+
+
+|<u>| |<b>| Bomb Tank |</b>| |</u>| : |Magic+689504724159823906| |Sunshine+583430011948630016| |enhreplen+634350450887622656| > (on P3 dummy) |voke+535541259465392143| > |freedom+535541258240786434| > Target Cycle + |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |dbreath+535533833391702017| (if Vorago is facing you) / |impact+535533809655873556| (if Vorago is facing your partner) |<b>| [Reflect Start] |</b>| |StormShards+536256663641128971| > |anti+535541306475151390| > |prep+535541258546970624| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |impact+535533809655873556| > |bloodbarrage+537338981747261446| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |range+580168050121113623| ( |NaturalInstinct+513213538496675850| Active) |DeathsSwift+513190158812839936| On dropdown opposite to your base > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| (on dummy, while using auto attacks to speed up building) |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |rapid+535541270521708566| > |snap+535534127131394088| > |bindingshot+535541306563231790| |<b>| [Reflect Start] |</b>| |prep+535541258546970624| > |res+535541258844635148| > |needle+535541259108876293| (vit) |<b>| [Reflect End] |</b>| |snipe+535541258425204770| > |needle+535541259108876293| > |shadowtend+642713547142332416| > |rapid+535541270521708566| ( |limitless+641339233638023179| ) > |snap+535534127131394088| > |tight+535541275957657600| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+From here, the rest of your rotation will depend on Vorago’s health. If Vorago has high HP, using |Reprisal+513190159462694912| for tanking bleeds 3 and 4 is recommended, keeping in mind that a blue bomb will be released along with the 3rd bleed. Use |freedom+535541258240786434| after the 4th bleed.
+
+
+
+|<u>| Notes |</u>| :
+
+-Both players must flick between Mage and Melee protection prayers according to which attacks Vorago uses.
+
+-While both players are in MD, Blue Bombs will target the players randomly. With method 2 each player will take, on average, half the damage from Blue Bombs when compared to method 1.
+
+-Method 1 allows for the usage of |devo+513190158728953857| and |Cept+543478434509357098| to further reduce the damage, though ideally this is not required.
+
+-Blue Bombs may be |res+535541258844635148| if the ability is used on the same tick as the Blue Bomb damage comes through.
+
+-A Blue Bomb will be released on the third bleed (like on P2 and P4 bleeds). This should be taken into account, especially if using method 2.
+
+-Is using method 1, the Bomb Tank can flank from the indicated spot (Base Tank stands on the red circle, and Bomb tank stands on the blue circle):
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/UUEEhcY.png|
+
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage - Method 1 |</b>| - <link1>
+
+|<b>| Base Tank Mage - Method 2 |</b>| - <link2>
+
+|<b>| Bomb Tank Mage - Method 1 |</b>| - <link 3>
+
+|<b>| Bomb Tank Mage - Method 2 |</b>| - <link 4>
+
+
+
+|<b>| Base Tank Range- Method 1 |</b>| - <https://youtu.be/FIdkw4mmyCw>
+
+|<b>| Base Tank Range- Method 2 |</b>| - <https://youtu.be/kYogI51beKE>
+
+|<b>| Bomb Tank Range- Method 1 |</b>| - <link 3>
+
+|<b>| Bomb Tank Range- Method 2 |</b>| - <link 4>
+
+
+
+
+
+
+Phase 5  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Vitalis Orb → 3 Attacks → Reflect → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+-Each Vitalis Orb will spawn 2-4 Vitali. These should be dealt with before continuing to attack the boss.
+
+-It is recommended that one player uses |cade+535541306353778689| for each Vitalis Orb, however, if duoing with Melee or Ranged, it is possible to opt for alternative strategies. |cade+535541306353778689| value is relatively high if you get a 2 Vitalis spawn, but relatively low if you get a 0 Vitalis spawn.
+
+|<i>| A P4 dummy is recommended for this week |</i>|
+
+
+
+
+
+
+|<u>| Method Overview |</u>| : On dropdown, both players will place dominion mines. The Base Tank will |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| , while the Bomb Tank will |cade+535541306353778689| the first Vitalis Orb, then build to |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| during Reflect.
+
+
+
+Players will alternate using |cade+535541306353778689| on Vitalis Orbs, and building to |Sunshine+583430011948630016| / |DeathsSwift+513190158812839936| after.
+
+
+
+
+
+
+|<u>| With Natural Instinct (P4 dummy) |</u>|
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : |Sunshine+583430011948630016| |enhreplen+634350450887622656| > |freedom+535541258240786434| > |anti+535541306475151390| > Target Cycle + |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |limitless+641339233638023179| |asphyx+535533833072672778| > Improvise depending on Vitalis spawns and stall.
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise depending on bleeds.
+
+
+
+
+
+
+-The Base Tank should use |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| after their |Sunshine+583430011948630016| runs out. The Base Tank is responsible for using |cade+535541306353778689| for the 2nd Vitalis Orb, so adjust your threshold usage after bleeds with this in mind.
+
+-Use |disrupt+535614336207552523| after bleeds.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : |DeathsSwift+513190158812839936| |enhreplen+634350450887622656| |prep+535541258546970624| > |freedom+535541258240786434| > |anti+535541306475151390| > |shadowtend+642713547142332416| > |snipe+535541258425204770| > |rapid+535541270521708566| > |sgb+626466665848242186| |spec+537340400273195028| > |needle+535541259108876293| > |snap+535534127131394088| > Improvise depending on Vitalis spawns and stall.
+
+
+
+|<u>| Post-Reflect |</u>| : Build with with defensives on reflect, |snipe+535541258425204770| > |needle+535541259108876293| > |rapid+535541270521708566| > |snap+535534127131394088| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise depending on bleeds
+
+
+
+-The Base Tank should equip |HydrixBakri+550834403136503822| on reflect, and make sure that they will have enough adrenaline to |cade+535541306353778689| the 2nd Vitalis orb.
+
+-Use |disrupt+535614336207552523| after bleeds.
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : |vigour+615613235512737792| |bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |comb+535533833098100745| > |corruptblast+513190159194259467| > |cade+535541306353778689| > Improvise according to Vitalis spawns, using |dbreath+535533833391702017| and |bash+535541306546716692| .
+
+
+
+-If you have 5 or less seconds left on your |cade+535541306353778689| timer when Reflect starts, you should run melee distance to Vorago.
+
+
+
+|<u>| Post-Reflect |</u>| : |Sunshine+583430011948630016| as soon as you have 100% > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > Improvise according to bleeds.
+
+
+
+
+
+
+-Use |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| during or after bleeds, depending on your adrenaline.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : |vigour+615613235512737792| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |frag+535541273755385885| > |corruptshot+535541306294796299| > |cade+535541306353778689| + |Cept+543478434509357098| > Improvise according to Vitalis spawns, use |snipe+535541258425204770| and |bash+535541306546716692|
+
+
+
+-If you have 5 or less seconds left on your |cade+535541306353778689| timer when Reflect starts, you should run melee distance to Vorago.
+
+
+
+|<u>| Post-Reflect |</u>| : |DeathsSwift+513190158812839936| as soon as you have 100% |enhreplen+634350450887622656| > auto |snipe+535541258425204770| > |needle+535541259108876293| > |snap+535534127131394088| > |rapid+535541270521708566| > |limitless+641339233638023179| |shadowtend+642713547142332416| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<u>| Without Natural Instinct |</u>| :
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|<u>| Pre-Reflect |</u>| : |Sunshine+583430011948630016| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |limitless+641339233638023179| |asphyx+535533833072672778| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > Improvise depending on Vitalis spawns and stall.
+
+
+
+The rest of the method remains consistent with the |NaturalInstinct+513213538496675850| rotation.
+
+
+
+-Players may choose to |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| or |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| after Reflect.
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|<u>| Pre-Reflect |</u>| : |bloodbarrage+537338981747261446| |wm+535533809978966037| > |comb+535533833098100745| > |corruptblast+513190159194259467| > |cade+535541306353778689| >  Improvise according to Vitalis spawns, using |dbreath+535533833391702017| and |bash+535541306546716692| .
+
+
+
+-If you have 5 or less seconds left on your |cade+535541306353778689| timer when Reflect starts, you should run melee distance to Vorago.
+
+
+
+The rest of the method remains consistent with the |NaturalInstinct+513213538496675850| rotation.
+
+
+
+-Players may choose to |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| or |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| after Reflect.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <link 2>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/XDiZdUZGvPo>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+
+
+
+
+|https://i.imgur.com/PqvA5Py.png|
+
+
+
+
+
+
+
+Phase 3  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Green Bomb → 3 Attacks (5 if bouncing) → Reflect → 3 Attacks → Green Bomb → 3 Attacks (5 if bouncing) → Red Bomb → 4 Attacks → Repeat
+
+
+
+Players will stand slightly separated from each other, allowing for the usage of Flanking.
+
+
+
+To deal with the Green Bomb, the player who gets targeted will always step |<i>| in |</i>| , while the other player stays still or steps out, depending on the situation. This way it is safe to tank the 10k hit from the Green Bomb.
+
+
+
+
+
+
+|<i>| With a dummy for P2 end and P3 start |</i>|
+
+
+
+|<u>| |<b>| Base Tank |</b>| |</u>| : |Magic+689504724159823906| |Sunshine+583430011948630016| |enhreplen+634350450887622656| > (on P3 dummy) |freedom+535541258240786434| > |anti+535541306475151390| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |wm+535533809978966037| |voke+535541259465392143| > |bloodbarrage+537338981747261446| |conc+535533833106489365| > (step in if the Green Bomb is on you, stay/step out if the Green Bomb is on your partner) |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |sonic+535533809924571136| |<b>| [Reflect Start] |</b>| |StormShards+536256663641128971| > |prep+535541258546970624| > |anti+535541306475151390| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |sonic+535533809924571136| > |dbreath+535533833391702017| (move according to the Green Bomb) > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Base Tank |</u>| |</b>| : |range+580168050121113623| |DeathsSwift+513190158812839936| |enhreplen+634350450887622656| ( |NaturalInstinct+513213538496675850| Active) |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| (on dummy, while using autos to build adrenaline) > |ingen+641339234111848463| |swh+641670143197446182| |spec+537340400273195028| > |snap+535534127131394088| > |rapid+535541270521708566| (step in if the Green Bomb is on you, Stay/step out if the Green Bomb is on your partner) |snipe+535541258425204770| > |needle+535541259108876293| |<b>| [Reflect Start] |</b>| |Shard+583429757975396366| > |needle+535541259108876293| (dummy) > |res+535541258844635148| > |snipe+535541258425204770| > |snap+535534127131394088| (move according to the Green Bomb) > |rapid+535541270521708566| > |shadowtend+642713547142332416| > |needle+535541259108876293| > |sgb+626466665848242186| |spec+537340400273195028| > Improvise
+
+
+
+If you received the second Green Bomb, use |Reprisal+513190159462694912| before it hits for additional damage.
+
+
+
+
+
+
+|<u>| |<b>| Bomb Tank |</b>| |</u>| : |Magic+689504724159823906| |Sunshine+583430011948630016| |enhreplen+634350450887622656| > (on P3 dummy) |freedom+535541258240786434| > |voke+535541259465392143| > |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| > |conc+535533833106489365| > |impact+535533809655873556| (step in if the Green Bomb is on you, stay/step out if the Green Bomb is on your partner) > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |dbreath+535533833391702017| |<b>| [Reflect Start] |</b>| |StormShards+536256663641128971| > |prep+535541258546970624| > |res+535541258844635148| > |deto+535533833358016512| (charge) |<b>| [Reflect End] |</b>| |bloodbarrage+537338981747261446| |deto+535533833358016512| |conc+535533833106489365| > |wm+535533809978966037| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |impact+535533809655873556| (move according to the Green Bomb) > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise.
+
+
+
+
+
+
+|<b>| |<u>| Bomb Tank |</u>| |</b>| : |range+580168050121113623| |DeathsSwift+513190158812839936| |enhreplen+634350450887622656| ( |NaturalInstinct+513213538496675850| Active) |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| (on dummy, while using autos to build adrenaline) > |sgb+626466665848242186| |spec+537340400273195028| > |rapid+535541270521708566| (Step in if the Green Bomb is on you, stay/step out if the Green Bomb is on your partner) > |snap+535534127131394088| > |snipe+535541258425204770| > |mds+535541259033378827| |<b>| [Reflect Start] |</b>| |Shard+583429757975396366| > |res+535541258844635148| > |needle+535541259108876293| (dummy) |<b>| [Reflect End] |</b>| > |snipe+535541258425204770| > |rapid+535541270521708566| > |snap+535534127131394088| (move according to the Green Bomb) > |shadowtend+642713547142332416| > |needle+535541259108876293| |sgb+626466665848242186| |spec+537340400273195028| > Improvise.
+
+
+
+
+
+
+|<u>| Notes |</u>| :
+
+-The Green Bomb full impact causes Vorago to transition to his next special attack, meaning that the first Green Bomb will lead directly into reflect, and the second Green Bomb will lead directly into a Red Bomb being released.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <https://youtu.be/bKeMIlx2GhQ>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/EjRI2ShT3gw>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+Phase 5  
+-------
+
+
+
+
+|<u>| Phase Breakdown |</u>| : Green Bomb → 5 Attacks (once the Green Bomb hits, reflect will begin regardless of the number of Blue bombs released) → Reflect → 3 Attacks → Bleeds → 3 Attacks → Repeat
+
+
+
+
+
+
+|<u>| Method Overview |</u>| : This method is not divided into explicit Base Tank and Bomb Tank roles, but rather will have the players adapt according to who is targeted by the Green Bomb.
+
+
+
+Players will have different rotations on dropdown, to allow for the Base Tank to either move in or step out, depending on the Green Bomb:
+
+
+
+-Both players will begin equally far away from Vorago.
+
+-If the Green Bomb is on the |<u>| Base Tank |</u>| , they will move |<i>| in |</i>| , causing the Blue Bombs to target the other player.
+
+-If the Green Bomb is on the |<u>| Bomb Tank |</u>| , the |<u>| Base Tank |</u>| will move |<i>| out |</i>| , causing the Blue Bombs to target them.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will be tanking Blue Bombs before and during Reflect.
+
+
+
+
+
+
+|<i>| With a dummy for P4 end and P5 start |</i>|
+
+
+
+
+
+
+|<b>| Base Tank |</b>| :
+
+
+
+|Magic+689504724159823906|
+
+|<u>| Pre-Reflect |</u>| : (While building on P5 dummy) |Sunshine+583430011948630016| > |freedom+535541258240786434| > |voke+535541259465392143| > Target Cycle + |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > |wm+535533809978966037| (move according to Green Bomb) > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > |dbreath+535533833391702017| > Improvise depending on how much stall you get. Reflect will be Vorago’s next attack |<i>| after |</i>| the Green Bomb impact.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will be tanking Blue Bombs before and during Reflect. After charging |deto+535533833358016512| , press |sd+537341954392850442| and cancel it by drinking a Restore/Overload |<i>| after |</i>| the 2nd Blue Bomb hits.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise according to bleeds.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will use |onsl+513190159085207555| after bleeds end. The goal is to finish the phase before the second Green Bomb hits.
+
+
+
+-If you tanked the Green Bomb, you will stay out after bleeds, and use |disrupt+535614336207552523| and |cade+535541306353778689| to block the pushback from the Blue Bombs.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : (While building on P5 Dummy) |DeathsSwift+513190158812839936| > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| > target Vorago |sgb+626466665848242186| |spec+537340400273195028| > |rapid+535541270521708566| (move according to Green Bomb) > |snap+535534127131394088| > |snipe+535541258425204770| > |needle+535541259108876293| > |shadowtend+642713547142332416| if GB is NOT on you.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will be tanking Blue Bombs before and during Reflect. |sd+537341954392850442| bombs on Reflect.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |rapid+535541270521708566| > |sgb+626466665848242186| > |needle+535541259108876293| > |snap+535534127131394088| > build to whichever ult you are required to use depending on the first Green Bomb
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will use |onsl+513190159085207555| after bleeds end. The goal is to finish the phase before the second Green Bomb hits.
+
+
+
+-If you tanked the Green Bomb, you will stay out after bleeds, and use |disrupt+535614336207552523| and |cade+535541306353778689| to block the pushback from the Blue Bombs.
+
+
+
+
+
+
+|<b>| Bomb Tank |</b>| :
+
+
+
+|<u>| Pre-Reflect |</u>| : (While building on P5 dummy) |Sunshine+583430011948630016| > |freedom+535541258240786434| > |voke+535541259465392143| > Target Cycle + |bloodbarrage+537338981747261446| |gstaff+513203008608141314| |spec+537340400273195028| > |wm+535533809978966037| > |Vuln+537349530551582720| |asphyx+535533833072672778| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |ingen+641339234111848463| |sgb+626466665848242186| |spec+537340400273195028| > Improvise depending on how much stall you get. Reflect will be Vorago’s next attack |<i>| after |</i>| the Green Bomb impact.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will be tanking Blue Bombs before and during Reflect. After charging |deto+535533833358016512| , press |sd+537341954392850442| and cancel it by drinking a Restore/Overload |<i>| after |</i>| the 2nd Blue Bomb hits.
+
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |bloodbarrage+537338981747261446| |deto+535533833358016512| |wm+535533809978966037| > |dbreath+535533833391702017| > |bloodbarrage+537338981747261446| |asphyx+535533833072672778| > Improvise according to bleeds.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will use |onsl+513190159085207555| after bleeds end. The goal is to finish the phase before the second Green Bomb hits.
+
+
+
+-If you tanked the Green Bomb, you will stay out after bleeds, and use |disrupt+535614336207552523| and |cade+535541306353778689| to block the pushback from the Blue Bombs.
+
+
+
+
+
+
+|range+580168050121113623|
+
+|<u>| Pre-Reflect |</u>| : (While building on P5 Dummy) |DeathsSwift+513190158812839936| > |freedom+535541258240786434| > |anti+535541306475151390| > |needle+535541259108876293| > Target Vorago auto |snap+535534127131394088| > |sgb+626466665848242186| > |rapid+535541270521708566| (move according to Green Bomb) > |snipe+535541258425204770| > |needle+535541259108876293| |shadowtend+642713547142332416| if GB is NOT on you.
+
+
+
+-If you did |<i>| not |</i>| tank the Green Bomb, you will be tanking Blue Bombs before and during Reflect. |sd+537341954392850442| bombs on Reflect.
+
+
+
+
+
+|<u>| Post-Reflect |</u>| : |snipe+535541258425204770| > |rapid+535541270521708566| > |snap+535534127131394088| > |sgb+626466665848242186| |spec+537340400273195028| > build to whichever ult you are required to use depending on the first Green Bomb
+
+
+
+-If you did not tank the Green Bomb, you will use |onsl+513190159085207555| after bleeds end. The goal is to finish the phase before the second Green Bomb hits.
+
+
+
+-If you tanked the Green Bomb, you will stay out after bleeds, and use |disrupt+535614336207552523| and |cade+535541306353778689| to block the pushback from the Blue Bombs.
+
+
+
+
+
+
+|<u>| Video Examples |</u>|
+
+|<b>| Base Tank Mage |</b>| - <link1>
+
+|<b>| Bomb Tank Mage |</b>| - <https://youtu.be/y24rc9HGxwU>
+
+
+
+|<b>| Base Tank Range |</b>| - <https://youtu.be/9HdhZ0pclmg>
+
+|<b>| Bomb Tank Range |</b>| - <link 4>
+
+
+
+
+
+
+|<u>| |<b>| Clips Directory |</b>| |</u>|
+
+
+
+|range+580168050121113623|
+
+|<b>| Phase 1 (Base) |</b>| - <https://youtu.be/VfFcGoARNtM>
+
+
+
+|<b>| Ceilings P3 (Base) |</b>| - <https://youtu.be/fJcteTwV1uE>
+
+|<b>| PB P3 (Base) |</b>| - <https://youtu.be/moYaMdF-zoc>
+
+|<b>| TS P3 (Base) |</b>| - <https://youtu.be/2Ch7U6rLBv0>
+
+|<b>| Vit P3 (No Cade) (Base) |</b>| <https://youtu.be/kYogI51beKE>
+
+|<b>| Vit P3 (Cade) (Base) |</b>| - <https://youtu.be/FIdkw4mmyCw>
+
+|<b>| GB P3 (Base) |</b>| <https://youtu.be/EjRI2ShT3gw>
+
+
+
+|<b>| Vit P5 (Base) |</b>| - <https://youtu.be/XDiZdUZGvPo>
+
+|<b>| TS P5 (Base) |</b>| - <https://youtu.be/0oWM_ckJWBA>
+
+|<b>| PB P5 (Base) |</b>| - <https://youtu.be/L47CpPyR8B0>
+
+|<b>| GB P5 |</b>| - <https://youtu.be/9HdhZ0pclmg>
+
+
+
+|Magic+689504724159823906|
+
+|<b>| GB P3 (Bomb Tank) |</b>| - <https://youtu.be/bKeMIlx2GhQ>
+
+
+
+|<b>| GB P5 |</b>| <https://youtu.be/y24rc9HGxwU>
+
+
+
+|<b>| Other |</b>|
+
+|<b>| (Scop Lure) |</b>| - <https://youtu.be/KmYgKcfLeRc>
+
+
+
+
+
+
+
+
+
+
+
