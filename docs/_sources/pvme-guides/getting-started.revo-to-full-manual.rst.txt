@@ -2,27 +2,27 @@
 
     <u>
 
+.. |</i>| raw:: html
+
+    </i>
+
 .. |<i>| raw:: html
 
     <i>
+
+.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
 
 .. |<b>| raw:: html
 
     <b>
 
-.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
+.. |</u>| raw:: html
 
-.. |</i>| raw:: html
-
-    </i>
+    </u>
 
 .. |</b>| raw:: html
 
     </b>
-
-.. |</u>| raw:: html
-
-    </u>
 
 revo-to-full-manual
 ===================

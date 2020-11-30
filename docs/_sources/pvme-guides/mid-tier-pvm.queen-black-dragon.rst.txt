@@ -1,42 +1,4 @@
-.. |https://i.imgur.com/DMq4jmu.png| image:: https://i.imgur.com/DMq4jmu.png
-
-.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |royalstabiliser+643168122815381534| image:: https://cdn.discordapp.com/emojis/643168122815381534.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
 .. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -44,33 +6,71 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</u>| raw:: html
 
-.. |https://i.imgur.com/9z5HXa6.jpg| image:: https://i.imgur.com/9z5HXa6.jpg
-
-.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/r43CwWP.png| image:: https://i.imgur.com/r43CwWP.png
-
-.. |range+580168050121113623| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </u>
 
 .. |ds+535541258924326912| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
+.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/DMq4jmu.png| image:: https://i.imgur.com/DMq4jmu.png
+
+.. |range+580168050121113623| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/r43CwWP.png| image:: https://i.imgur.com/r43CwWP.png
+
+.. |royalstabiliser+643168122815381534| image:: https://cdn.discordapp.com/emojis/643168122815381534.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/9z5HXa6.jpg| image:: https://i.imgur.com/9z5HXa6.jpg
+
 .. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 queen-black-dragon
 ==================

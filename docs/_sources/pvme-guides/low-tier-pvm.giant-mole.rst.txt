@@ -1,32 +1,12 @@
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |rottenfang+643162604725862410| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -34,11 +14,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/rZsWaTc.png| image:: https://i.imgur.com/rZsWaTc.png
-
-.. |rottenfang+643162604725862410| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
+.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://i.imgur.com/rZsWaTc.png| image:: https://i.imgur.com/rZsWaTc.png
+
+.. |</b>| raw:: html
+
+    </b>
 
 .. |https://i.imgur.com/nRzOZDE.png| image:: https://i.imgur.com/nRzOZDE.png
 
@@ -46,13 +34,25 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |</b>| raw:: html
-
-    </b>
-
 .. |</u>| raw:: html
 
     </u>
+
+.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 giant-mole
 ==========
