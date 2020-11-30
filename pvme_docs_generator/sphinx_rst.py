@@ -15,12 +15,13 @@ CONTENT_FORMATTERS = [
     TableOfContents,
     Section,
     # Emoji,
-    DiscordMarkdownHTML,
     CodeBlock,
+    DiscordMarkdownHTML,
     InlineLiteral,
     LineBreak,
     ListSection,
     EmbedLink,
+    PVMESpreadsheet,
     Cleanup
 ]
 
@@ -210,5 +211,5 @@ if __name__ == "__main__":
     # generate_channel("../sphinx/source", "../pvme-guides/getting-started/perks.txt", "getting-started", "perks")
     generate_channel("../sphinx/source", "../pvme-guides/miscellaneous-information/ability-information.txt", "miscellaneous-information", "ability-information")
 
-    # generate_sphinx_rst("../pvme-guides", "../sphinx/source")
+    generate_sphinx_rst("../pvme-guides", "../sphinx/source")
     pass

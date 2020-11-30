@@ -1,8 +1,14 @@
 import re
 import textwrap
 from urllib.parse import urlparse
+from functools import lru_cache
+import pathlib
 
-__all__ = ['Bot', 'TableOfContents', 'Section', 'InlineLiteral',
+import gspread
+from gspread.utils import a1_to_rowcol
+
+
+__all__ = ['Bot', 'TableOfContents', 'Section', 'InlineLiteral', 'PVMESpreadsheet',
            'LineBreak', 'ListSection', 'Emoji', 'EmbedLink', 'DiscordMarkdownHTML', 'Cleanup', 'CodeBlock']
 
 
@@ -85,7 +91,6 @@ class TableOfContents(SphinxRstMixIn):
 
 
 class Emoji(SphinxRstMixIn):
-    # todo: add spacing ONLY if the surrounding characters isn't empty/new line
     PATTERN = re.compile(r"<:([^:]+):([0-9]+)>")
 
     @staticmethod
@@ -103,6 +108,30 @@ class Emoji(SphinxRstMixIn):
             '''.format(match.group(1), match.group(2), match.group(2))))
 
 
+class PVMESpreadsheet(SphinxRstMixIn):
+    # $data_pvme:Perks!H11$
+    PATTERN = re.compile(r"\$data_pvme:([^!]+)!([^$]+)\$")
+
+    @staticmethod
+    @lru_cache(maxsize=None)
+    def obtain_pvme_spreadsheet_data(worksheet):
+        module_path = pathlib.Path(__file__).parent.absolute()
+        gc = gspread.service_account(filename="{}/credentials.json".format(module_path))
+        sh = gc.open_by_url("https://docs.google.com/spreadsheets/d/1nFepmgXBFh1Juc0Qh5nd1HLk50iiFTt3DHapILozuIM/edit#gid=0")
+
+        worksheet = sh.worksheet(worksheet)
+        return worksheet.get_all_values()
+
+    @staticmethod
+    def format_sphinx_html(msg, doc_info):
+        matches = [match for match in re.finditer(PVMESpreadsheet.PATTERN, msg.content)]
+        for match in reversed(matches):
+            worksheet_data = PVMESpreadsheet.obtain_pvme_spreadsheet_data(match.group(1))
+            row, column = a1_to_rowcol(match.group(2))
+            price_formatted = "{}".format(worksheet_data[row-1][column-1])
+            msg.content = msg.content[:match.start()] + price_formatted + msg.content[match.end():]
+
+
 class InlineLiteral(SphinxRstMixIn):
     PATTERN = re.compile(r"`")
 
@@ -112,21 +141,37 @@ class InlineLiteral(SphinxRstMixIn):
 
 
 class CodeBlock(SphinxRstMixIn):
+    """
+    NOTE: alternatively, discord markdown html formatting can be used for code blocks.
+          the rst style code blocks are limited in styling (e.g. no bold/underline code blocks)
+          they also do not allow for the line after the code block to start with a tab.
+          That said the styling looks a lot better and it is advised to use rst styling wherever possible
+
+    """
     PATTERN = re.compile(r"```")
 
     @staticmethod
     def format_sphinx_html(msg, doc_info):
-        # res = re.findall(r"(?<=(```))([a-z A-Z0-9\n\t]+?)(?=(```))", msg.content)
-        # res = re.findall(r"```", msg.content)
-        # # print(res)
-        #
-        # matches = [match for match in re.finditer(CodeBlock.PATTERN, msg.content)]
-        # if len(matches) % 2 == 1:
-        #     matches = matches[:-1]
-        #
-        # for match in matches:
-        pass
+        matches = [match for match in re.finditer(CodeBlock.PATTERN, msg.content)]
 
+        if len(matches) % 2 == 1:
+            matches = matches[:-1]
+
+        end = None
+        for index, match in enumerate(reversed(matches)):
+            if index % 2:
+                start = match
+                code_block_lines = msg.content[start.start()+len("```"):end.end()-len("```")].splitlines()
+                formatted_codeblock = textwrap.dedent('''\
+
+.. code:: none
+
+    {}
+           
+                '''.format('\n    '.join(code_block_lines)))
+                msg.content = msg.content[:start.start()] + formatted_codeblock + msg.content[end.end():]
+            else:
+                end = match
 
 
 class LineBreak(SphinxRstMixIn):
@@ -193,28 +238,6 @@ class DiscordMarkdownHTML(SphinxRstMixIn):
     hello |<b>| bold |<u>| bold-underline ``bold-underline-mono`` |</b>| underline |</u>| end
     """
     PATTERNS = [
-        (re.compile(r"\*\*\*"), "|<i>| |<b>|", "|</b>| |</i>|", {
-            textwrap.dedent('''\
-.. |<b>| raw:: html
-
-    <b>
-            '''),
-            textwrap.dedent('''\
-.. |<i>| raw:: html
-
-    <i>
-            '''),
-            textwrap.dedent('''\
-.. |</b>| raw:: html
-
-    </b>
-            '''),
-            textwrap.dedent('''\
-.. |</i>| raw:: html
-
-    </i>
-            ''')
-        }),
         (re.compile(r"\*\*"), "|<b>|", "|</b>|", {
             textwrap.dedent('''\
 .. |<b>| raw:: html
@@ -253,14 +276,14 @@ class DiscordMarkdownHTML(SphinxRstMixIn):
          }),
         (re.compile(r"```"), "|<code>|", "|</code>|", {
             textwrap.dedent('''\
-.. |<code>| raw:: html
+.. |<s>| raw:: html
 
-    <code style="display:block; white-space:pre-wrap">
+    <s>
             '''),
             textwrap.dedent('''\
-.. |</code>| raw:: html
+.. |</s>| raw:: html
 
-    </code>
+    </s>
             ''')
         }),
     ]

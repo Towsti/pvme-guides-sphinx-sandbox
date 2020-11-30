@@ -10,6 +10,7 @@ Sandbox project for pvme-guides sphinx documentation that is hosted on Read the 
 - python 3.7
 - `pip install sphinx`
 - `pip install sphinx_rtd_theme`
+- `pip install gspread`
 
 **Steps**
 
@@ -49,16 +50,17 @@ overview of all the current bugs that need to be resolved and new features.
 | ------------------------------------------------------------ | ------------------ |
 | `.img` not always shown on a new line (e.g. solak-7s presets) | :white_check_mark: |
 | `_ _` character not yet removed                              | :white_check_mark: |
-| add GE prices to perks                                       | :red_circle:       |
+| add GE prices to perks                                       | :white_check_mark: |
 | image max-height should be relative                          | :red_circle:       |
-| support for ***bold italic*** text                           | :red_circle:       |
-| support for <u>underline</u> text                            | :warning:          |
-| support for <u>**bold underline**</u> text                   | :warning:          |
-| support for <u>*italic underline*</u> text                   | :red_circle:       |
-| support for <u>***bold italic underline***</u> text          | :red_circle:       |
+| support for ***bold italic*** text                           | :white_check_mark: |
+| support for <u>underline</u> text                            | :white_check_mark: |
+| support for <u>**bold underline**</u> text                   | :white_check_mark: |
+| support for <u>*italic underline*</u> text                   | :white_check_mark: |
+| support for <u>***bold italic underline***</u> text          | :white_check_mark: |
+| support for ~~strikethrough~~ text (including bold/italic/underline) | :white_check_mark: |
 | add logo to the top of navigation bar                        | :red_circle:       |
 | minor style change to `l2` navigation (background should contrast more with `l1`) | :red_circle:       |
-| improve section identification*                              | :red_circle:       |
+| ~~improve section identification*~~                          |                    |
 | add "generated on: DD/MM/YY" to the top of the navigation bar | :red_circle:       |
 | hyperlink support (according the pvme style-guide)           | :red_circle:       |
 | embed Youtube/Twitch and other links                         | :warning:          |
