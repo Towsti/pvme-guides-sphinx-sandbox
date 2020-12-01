@@ -1,17 +1,36 @@
+PVME-Guides Documentation
+=========================
+
+The goal of this site is to make it easier to navigate the guides using a navigation menu and a search field.  
+
+The content is generated from the pvme-guides repository and is therefore always up-to-date with the PVME discord.
+
+The bottom of every page displays when the site was last updated. The site is updated every 4 days to update the perks prices.
+
+**Theme**
+
+- the site is build with Sphinx using the Read the Docs theme
+- the dark-mode styling is created using the Dark Reader extension 
+
+**Links**
+
+- `PVME Discord <https://discord.com/invite/pvme>`_
+- `pvme-guides Github <https://github.com/pvme/pvme-guides>`_
+
 Table Of Contents
 =================
 
 .. toctree::
     :maxdepth: 2
 
-    pvme-guides/dpm-advice
-    pvme-guides/getting-started
-    pvme-guides/high-tier-pvm
     pvme-guides/information
+    pvme-guides/getting-started
+    pvme-guides/upgrading-info
+    pvme-guides/miscellaneous-information
+    pvme-guides/dpm-advice
     pvme-guides/low-tier-pvm
     pvme-guides/mid-tier-pvm
-    pvme-guides/miscellaneous-information
-    pvme-guides/upgrading-info
+    pvme-guides/high-tier-pvm
 
 Indices and tables
 ==================

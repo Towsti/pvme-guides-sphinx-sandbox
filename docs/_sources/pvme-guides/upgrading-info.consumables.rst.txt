@@ -1,108 +1,4 @@
-.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |greatgunkan+689528927928188963| image:: https://cdn.discordapp.com/emojis/689528927928188963.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |FellstalkSticks+690987265421213746| image:: https://cdn.discordapp.com/emojis/690987265421213746.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |RanarrSticks+690987265186594857| image:: https://cdn.discordapp.com/emojis/690987265186594857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |poisonbomb+655341074591645707| image:: https://cdn.discordapp.com/emojis/655341074591645707.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |KwuarmSticks+565726489341984779| image:: https://cdn.discordapp.com/emojis/565726489341984779.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |LantaSticks+565726489404899368| image:: https://cdn.discordapp.com/emojis/565726489404899368.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |IceNihil+513195712163348506| image:: https://cdn.discordapp.com/emojis/513195712163348506.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |supersara+642708771344482314| image:: https://cdn.discordapp.com/emojis/642708771344482314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |ovlsalve+642709927265304608| image:: https://cdn.discordapp.com/emojis/642709927265304608.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Brew+565726489400573962| image:: https://cdn.discordapp.com/emojis/565726489400573962.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Herblore+689554435583508558| image:: https://cdn.discordapp.com/emojis/689554435583508558.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sailfishsoup+537336701933060106| image:: https://cdn.discordapp.com/emojis/537336701933060106.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |stickybomb+655341074306301964| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sailfish+565726489363087360| image:: https://cdn.discordapp.com/emojis/565726489363087360.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |supergrest+690140078407680059| image:: https://cdn.discordapp.com/emojis/690140078407680059.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |grest+689530593901412578| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -114,15 +10,23 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |<u>| raw:: html
 
     <u>
 
-.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+.. |supergrest+690140078407680059| image:: https://cdn.discordapp.com/emojis/690140078407680059.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |RanarrSticks+690987265186594857| image:: https://cdn.discordapp.com/emojis/690987265186594857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |LantaSticks+565726489404899368| image:: https://cdn.discordapp.com/emojis/565726489404899368.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |greatgunkan+689528927928188963| image:: https://cdn.discordapp.com/emojis/689528927928188963.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -134,7 +38,43 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |holyovl+689551388463595590| image:: https://cdn.discordapp.com/emojis/689551388463595590.png?v=1
+.. |IceNihil+513195712163348506| image:: https://cdn.discordapp.com/emojis/513195712163348506.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Brew+565726489400573962| image:: https://cdn.discordapp.com/emojis/565726489400573962.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |supersara+642708771344482314| image:: https://cdn.discordapp.com/emojis/642708771344482314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -142,9 +82,69 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<i>| raw:: html
+.. |</i>| raw:: html
 
-    <i>
+    </i>
+
+.. |FellstalkSticks+690987265421213746| image:: https://cdn.discordapp.com/emojis/690987265421213746.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |stickybomb+655341074306301964| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |poisonbomb+655341074591645707| image:: https://cdn.discordapp.com/emojis/655341074591645707.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |sailfishsoup+537336701933060106| image:: https://cdn.discordapp.com/emojis/537336701933060106.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |KwuarmSticks+565726489341984779| image:: https://cdn.discordapp.com/emojis/565726489341984779.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Herblore+689554435583508558| image:: https://cdn.discordapp.com/emojis/689554435583508558.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sailfish+565726489363087360| image:: https://cdn.discordapp.com/emojis/565726489363087360.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |holyovl+689551388463595590| image:: https://cdn.discordapp.com/emojis/689551388463595590.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |grest+689530593901412578| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 consumables
 ===========
@@ -159,7 +159,7 @@ Food
 
 - |<u>| |<b>| Solid Food |</b>| |</u>|
 
-     - |Sailfish+565726489363087360| |<b>| Sailfish |</b>| |coins+698816156961603654| 5,233
+     - |Sailfish+565726489363087360| |<b>| Sailfish |</b>| |coins+698816156961603654| 5,152
 
          - Heals |<b>| 2400 |</b>| life points.
 
@@ -169,7 +169,7 @@ Food
 
          - Cheap general purpose food, only really used for places where panic eating might be necessary due to the adrenaline loss.
 
-     - |sailfishsoup+537336701933060106| |<b>| Sailfish Soup |</b>| |coins+698816156961603654| 26,078
+     - |sailfishsoup+537336701933060106| |<b>| Sailfish Soup |</b>| |coins+698816156961603654| 25,868
 
          - Heals |<b>| 2600 |</b>| life points.
 
@@ -195,7 +195,7 @@ Food
 
 - |<u>| |<b>| Potions |</b>| |</u>| 
 
-     - |Brew+565726489400573962| |<b>| Saradomin Brew |</b>| |coins+698816156961603654| 38,093
+     - |Brew+565726489400573962| |<b>| Saradomin Brew |</b>| |coins+698816156961603654| 38,172
 
          - Heals |<b>| 1000 |</b>| life points per dose, 6 doses total (in a flask) for a total of |<b>| 6000 |</b>| per inventory slot.
 
@@ -241,7 +241,7 @@ Food
 
 - |<u>| |<b>| Miscellaneous |</b>| |</u>|
 
-     - |blueblubber+689530593742291033| |<b>| Blue Blubber Jellyfish |</b>| |coins+698816156961603654| 6,270
+     - |blueblubber+689530593742291033| |<b>| Blue Blubber Jellyfish |</b>| |coins+698816156961603654| 6,263
 
          - Heals |<b>| 750 |</b>| life points per bite. 3 bites, for a total of |<b>| 2250 |</b>| per inventory slot.
 

@@ -6,14 +6,6 @@
 
     <u>
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |</u>| raw:: html
-
-    </u>
-
 .. |<i>| raw:: html
 
     <i>
@@ -21,6 +13,14 @@
 .. |</i>| raw:: html
 
     </i>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |</u>| raw:: html
+
+    </u>
 
 dpm-advice-faq
 ==============

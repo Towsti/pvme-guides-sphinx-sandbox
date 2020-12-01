@@ -2,9 +2,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |ascgrips+643166338461859850| image:: https://cdn.discordapp.com/emojis/643166338461859850.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/e9dxzak.png| image:: https://i.imgur.com/e9dxzak.png
 
 .. |<b>| raw:: html
 
@@ -14,21 +12,23 @@
 
     <u>
 
+.. |https://i.imgur.com/30ADQz6.png| image:: https://i.imgur.com/30ADQz6.png
+
+.. |csignet1+643164866395504671| image:: https://cdn.discordapp.com/emojis/643164866395504671.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |</b>| raw:: html
 
     </b>
 
-.. |csignet1+643164866395504671| image:: https://cdn.discordapp.com/emojis/643164866395504671.png?v=1
+.. |ascgrips+643166338461859850| image:: https://cdn.discordapp.com/emojis/643166338461859850.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |</u>| raw:: html
 
     </u>
-
-.. |https://i.imgur.com/30ADQz6.png| image:: https://i.imgur.com/30ADQz6.png
-
-.. |https://i.imgur.com/e9dxzak.png| image:: https://i.imgur.com/e9dxzak.png
 
 legiones
 ========
