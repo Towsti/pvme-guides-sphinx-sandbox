@@ -51,7 +51,7 @@ overview of all the current bugs that need to be resolved and new features.
 | `.img` not always shown on a new line (e.g. solak-7s presets) | :white_check_mark: |
 | `_ _` character not yet removed                              | :white_check_mark: |
 | add GE prices to perks                                       | :white_check_mark: |
-| image max-height should be relative                          | :red_circle:       |
+| ~~image max-height should be relative~~                      |                    |
 | support for ***bold italic*** text                           | :white_check_mark: |
 | support for <u>underline</u> text                            | :white_check_mark: |
 | support for <u>**bold underline**</u> text                   | :white_check_mark: |
@@ -66,7 +66,7 @@ overview of all the current bugs that need to be resolved and new features.
 | ~~hyperlink support (according the pvme style-guide)~~       |                    |
 | embed Youtube/Twitch and other links                         | :warning:          |
 | automatically display images that don't start with `.img` at the end of a message | :red_circle:       |
-| categories are not sorted correctly                          | :red_circle:       |
+| categories are not sorted correctly                          | :white_check_mark: |
 | ~~Single line code ``code`` expands past body width limit***~~ |                    |
 
 *currently the `> __**` format is used to identify sections. This format is not consistently used across all sections and certain sections are not suited for displaying in the navigation bar.

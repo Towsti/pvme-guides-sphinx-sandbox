@@ -14,7 +14,6 @@ CONTENT_FORMATTERS = [
     Emoji,
     TableOfContents,
     Section,
-    # Emoji,
     CodeBlock,
     DiscordMarkdownHTML,
     InlineLiteral,
@@ -25,16 +24,22 @@ CONTENT_FORMATTERS = [
     Cleanup
 ]
 
+# default folder sequence is in alphabetical order, the folder sequence is used to customize this order.
+# to enable/disable the fixed category sequence; set the generate_sphinx_rst(custom_list_sequence: bool)
+CUSTOM_CATEGORY_SEQUENCE = [
+    "information",
+    "getting-started",
+    "upgrading-info",
+    "miscellaneous-information",
+    "dpm-advice",
+    "low-tier-pvm",
+    "mid-tier-pvm",
+    "high-tier-pvm"
+]
+
 # names (no '.txt' extension) of all the excluded categories
 EXCLUDE_CATEGORIES = {
-    'guide-writing',
-    # 'getting-started',
-    # 'high-tier-pvm',
-    # 'information',
-    # 'low-tier-pvm',
-    # 'mid-tier-pvm',
-    # 'miscellaneous-information',
-    # 'upgrading-info'
+    "guide-writing"
 }
 
 # names (no '.txt' extension) of all the excluded channels
@@ -42,8 +47,7 @@ EXCLUDE_CHANNELS = {
 }
 
 
-class Message:
-
+class Message(object):
     def __init__(self, content, bot_command):
         self.content = content
         self.embeds = list()
@@ -121,9 +125,29 @@ def generate_category(sphinx_source_dir, category_name, channel_names):
 
 
 def generate_index(sphinx_source_dir, category_names):
+    # todo: appending to .. toctree instead of generating the entire index makes more sense but cba
     categories_formatted = ''.join(["\n    pvme-guides/{}".format(category_name) for category_name in category_names])
 
     index_formatted = textwrap.dedent('''\
+PVME-Guides Documentation
+=========================
+
+The goal of this site is to make it easier to navigate the guides using a navigation menu and a search field.  
+
+The content is generated from the pvme-guides repository and is therefore always up-to-date with the PVME discord.
+
+The bottom of every page displays when the site was last updated. The site is updated every 4 days to update the perks prices.
+
+**Theme**
+
+- the site is build with Sphinx using the Read the Docs theme
+- the dark-mode styling is created using the Dark Reader extension 
+
+**Links**
+
+- `PVME Discord <https://discord.com/invite/pvme>`_
+- `pvme-guides Github <https://github.com/pvme/pvme-guides>`_
+
 Table Of Contents
 =================
 
@@ -146,7 +170,7 @@ Indices and tables
         print(e)
 
 
-def generate_sphinx_rst(pvme_guides_dir: str, sphinx_source_dir: str) -> bool:
+def generate_sphinx_rst(pvme_guides_dir: str, sphinx_source_dir: str, custom_list_sequence: bool=True) -> bool:
     """Iterates the pvme-guides input folder and generates the following files:
         - sphinx_source_dir/index.rst
         - sphinx_source_dir/pvme-guides/category
@@ -154,6 +178,7 @@ def generate_sphinx_rst(pvme_guides_dir: str, sphinx_source_dir: str) -> bool:
     
     :param pvme_guides_dir: folder to the pvme-guides (generally cloned from git repo beforehand)
     :param sphinx_source_dir: sphinx source directory.
+    :param custom_list_sequence: enable or disable the category sequence in CUSTOM_CATEGORY_SEQUENCE.
     :return: the result of file generation (note: this result isn't strict and is not reliable for CI)
     """
     # guard clauses for ensuring the paths exist
@@ -173,8 +198,13 @@ def generate_sphinx_rst(pvme_guides_dir: str, sphinx_source_dir: str) -> bool:
 
     index_categories = []
 
+    if custom_list_sequence:
+        categories = CUSTOM_CATEGORY_SEQUENCE
+    else:
+        categories = os.listdir(pvme_guides_dir)
+
     # iterate categories (dpm-advice, high-tier-pvm etc)
-    for category_name in os.listdir(pvme_guides_dir):
+    for category_name in categories:
         category_dir = "{}/{}".format(pvme_guides_dir, category_name)
 
         # exclude non-directories like README.md and LICENSE
