@@ -1,6 +1,7 @@
 /*
 Extend the main theme.
 Separate file because the main theme is likely to change or be generated.
+All settings are flagged as "!important" to ensure that they overwrite the Dark Reader and Read the Docs theme.
 */
 
 /* max-width of the content field (content roughly the same as discord with people online section shown */
@@ -14,18 +15,34 @@ Separate file because the main theme is likely to change or be generated.
 img {
     /* max-width: 300em !important; */
     /* max-width: 750px !important; */
-    max-width: 100% !important;
-    width: auto !important;
+    max-width: 700px !important;
     /* width: auto !important; */
     /* max-height: 500px !important; */
-    max-height: 400px !important;
+    max-height: 450px !important;
     /* height: auto !important; */
 }
 
 /* inline code literal color set to code block color */
 .rst-content code.literal, .rst-content tt.literal {
     color: rgb(192, 186, 178) !important;
+    /*
+    display:block !important;
+    white-space: normal !important;
+    width:100% !important;
+    overflow-wrap: break-word !important;
+    */
 }
+
+.section {
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+}
+
+/*
+.pre {
+    overflow-wrap: break-word !important;
+}
+*/
 
 /* unused body section (right of the screen) consistent background color fix */
 .wy-body-for-nav {

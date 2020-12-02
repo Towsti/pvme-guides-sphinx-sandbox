@@ -1,20 +1,20 @@
-.. |<b>| raw:: html
-
-    <b>
-
 .. |</b>| raw:: html
 
     </b>
+
+.. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
-
 .. |</u>| raw:: html
 
     </u>
+
+.. |<b>| raw:: html
+
+    <b>
 
 chaos-elemental
 ===============

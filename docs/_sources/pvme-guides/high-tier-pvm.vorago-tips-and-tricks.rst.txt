@@ -2,43 +2,43 @@
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/5MMV0_JraMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |<b>| raw:: html
-
-    <b>
+.. |https://i.imgur.com/h7dRWus.gif| image:: https://i.imgur.com/h7dRWus.gif
 
 .. |</b>| raw:: html
 
     </b>
 
+.. |<u>| raw:: html
+
+    <u>
+
 .. |https://youtu.be/3bMTu1YJIbQ| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/3bMTu1YJIbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |https://i.imgur.com/64bHib9.png| image:: https://i.imgur.com/64bHib9.png
-
-.. |https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4| image:: https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4
-
-.. |https://youtu.be/-HOB3kLpHgI| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/-HOB3kLpHgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4| image:: https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4
 
 .. |https://youtu.be/UtBBbOpRx84| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/UtBBbOpRx84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4| image:: https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4
-
 .. |</u>| raw:: html
 
     </u>
 
-.. |https://i.imgur.com/h7dRWus.gif| image:: https://i.imgur.com/h7dRWus.gif
+.. |https://youtu.be/-HOB3kLpHgI| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/-HOB3kLpHgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4| image:: https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4
+
+.. |https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4| image:: https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4
+
+.. |https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4| image:: https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4
+
+.. |https://i.imgur.com/64bHib9.png| image:: https://i.imgur.com/64bHib9.png
 
 vorago-tips-and-tricks
 ======================
