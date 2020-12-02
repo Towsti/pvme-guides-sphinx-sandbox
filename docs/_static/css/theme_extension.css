@@ -5,17 +5,20 @@ Separate file because the main theme is likely to change or be generated.
 
 /* max-width of the content field (content roughly the same as discord with people online section shown */
 .wy-nav-content {
-    /* max-width: 90% !important; */
-    max-width: 100% !important;
+    max-width: 90% !important;
+    /* max-width: 100% !important; */
     /* set to always 85% ? */
 }
 
 /* global image max size (maybe scaling ?) */
 img {
     /* max-width: 300em !important; */
-    max-width: 750px !important;
+    /* max-width: 750px !important; */
+    max-width: 100% !important;
+    width: auto !important;
     /* width: auto !important; */
-    max-height: 500px !important;
+    /* max-height: 500px !important; */
+    max-height: 400px !important;
     /* height: auto !important; */
 }
 

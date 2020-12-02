@@ -1,10 +1,10 @@
-.. |</i>| raw:: html
+.. |<b>| raw:: html
 
-    </i>
+    <b>
 
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</b>| raw:: html
+
+    </b>
 
 .. |<i>| raw:: html
 
@@ -22,13 +22,13 @@
 
     </u>
 
-.. |</b>| raw:: html
+.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </b>
+.. |</i>| raw:: html
 
-.. |<b>| raw:: html
-
-    <b>
+    </i>
 
 quick-start
 ===========
