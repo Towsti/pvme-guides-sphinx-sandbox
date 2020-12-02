@@ -1,4 +1,4 @@
-.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -6,19 +6,21 @@
 
     </b>
 
-.. |incend+535541258429661215| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
+.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/SHdAj7o.png| image:: https://i.imgur.com/SHdAj7o.png
-
-.. |drygorelongmh+513190158900658180| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
+.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |perfectchitin+643162983543078922| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
     :width: 1.375em
@@ -28,37 +30,15 @@
 
     <u>
 
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
-
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://youtu.be/uisDoTEmFSI| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/uisDoTEmFSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+.. |destroy+535532879330148352| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kalphiteclaw+643162983220117605| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
+.. |drygorelongmh+513190158900658180| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -66,13 +46,33 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |destroy+535532879330148352| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |kalphiteclaw+643162983220117605| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |incend+535541258429661215| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |https://i.imgur.com/SHdAj7o.png| image:: https://i.imgur.com/SHdAj7o.png
+
+.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
 
 kalphite-king
 =============

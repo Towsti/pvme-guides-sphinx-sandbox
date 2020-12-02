@@ -1,11 +1,3 @@
-.. |<i>| raw:: html
-
-    <i>
-
-.. |</u>| raw:: html
-
-    </u>
-
 .. |</i>| raw:: html
 
     </i>
@@ -13,6 +5,14 @@
 .. |<u>| raw:: html
 
     <u>
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |</u>| raw:: html
+
+    </u>
 
 .. |</b>| raw:: html
 

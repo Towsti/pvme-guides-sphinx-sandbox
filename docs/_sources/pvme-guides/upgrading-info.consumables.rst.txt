@@ -1,42 +1,14 @@
-.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+.. |grest+689530593901412578| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
+.. |<i>| raw:: html
+
+    <i>
+
+.. |supersara+642708771344482314| image:: https://cdn.discordapp.com/emojis/642708771344482314.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |LantaSticks+565726489404899368| image:: https://cdn.discordapp.com/emojis/565726489404899368.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |greatgunkan+689528927928188963| image:: https://cdn.discordapp.com/emojis/689528927928188963.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |Brew+565726489400573962| image:: https://cdn.discordapp.com/emojis/565726489400573962.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
 
 .. |poisonbomb+655341074591645707| image:: https://cdn.discordapp.com/emojis/655341074591645707.png?v=1
     :width: 1.375em
@@ -46,59 +18,11 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</b>| raw:: html
 
-.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |RanarrSticks+690987265186594857| image:: https://cdn.discordapp.com/emojis/690987265186594857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |IritSticks+690987265371144202| image:: https://cdn.discordapp.com/emojis/690987265371144202.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |supergrest+690140078407680059| image:: https://cdn.discordapp.com/emojis/690140078407680059.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sailfish+565726489363087360| image:: https://cdn.discordapp.com/emojis/565726489363087360.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |SpiritSticks+565726489136463894| image:: https://cdn.discordapp.com/emojis/565726489136463894.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |supersara+642708771344482314| image:: https://cdn.discordapp.com/emojis/642708771344482314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |FellstalkSticks+690987265421213746| image:: https://cdn.discordapp.com/emojis/690987265421213746.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </b>
 
 .. |holyovl+689551388463595590| image:: https://cdn.discordapp.com/emojis/689551388463595590.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |IceNihil+513195712163348506| image:: https://cdn.discordapp.com/emojis/513195712163348506.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -106,31 +30,51 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |IceNihil+513195712163348506| image:: https://cdn.discordapp.com/emojis/513195712163348506.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
 .. |ovlsalve+642709927265304608| image:: https://cdn.discordapp.com/emojis/642709927265304608.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |sailfishsoup+537336701933060106| image:: https://cdn.discordapp.com/emojis/537336701933060106.png?v=1
+.. |supergrest+690140078407680059| image:: https://cdn.discordapp.com/emojis/690140078407680059.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<i>| raw:: html
-
-    <i>
-
-.. |Herblore+689554435583508558| image:: https://cdn.discordapp.com/emojis/689554435583508558.png?v=1
+.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |grest+689530593901412578| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
+.. |LantaSticks+565726489404899368| image:: https://cdn.discordapp.com/emojis/565726489404899368.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |SpiritSticks+565726489136463894| image:: https://cdn.discordapp.com/emojis/565726489136463894.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -138,11 +82,67 @@
 
     </i>
 
-.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
+.. |RanarrSticks+690987265186594857| image:: https://cdn.discordapp.com/emojis/690987265186594857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Brew+565726489400573962| image:: https://cdn.discordapp.com/emojis/565726489400573962.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |IritSticks+690987265371144202| image:: https://cdn.discordapp.com/emojis/690987265371144202.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Herblore+689554435583508558| image:: https://cdn.discordapp.com/emojis/689554435583508558.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Sailfish+565726489363087360| image:: https://cdn.discordapp.com/emojis/565726489363087360.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |FellstalkSticks+690987265421213746| image:: https://cdn.discordapp.com/emojis/690987265421213746.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |sailfishsoup+537336701933060106| image:: https://cdn.discordapp.com/emojis/537336701933060106.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |greatgunkan+689528927928188963| image:: https://cdn.discordapp.com/emojis/689528927928188963.png?v=1
     :width: 1.375em
     :height: 1.375em
 

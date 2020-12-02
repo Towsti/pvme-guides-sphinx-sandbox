@@ -1,20 +1,16 @@
 .. |https://i.imgur.com/rZsWaTc.png| image:: https://i.imgur.com/rZsWaTc.png
 
-.. |</u>| raw:: html
-
-    </u>
-
 .. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/nRzOZDE.png| image:: https://i.imgur.com/nRzOZDE.png
 
-.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<u>| raw:: html
 
-.. |rottenfang+643162604725862410| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
+    <u>
+
+.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -22,7 +18,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -30,7 +26,23 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |rottenfang+643162604725862410| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -38,21 +50,9 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |</b>| raw:: html
-
-    </b>
-
 .. |<b>| raw:: html
 
     <b>
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 giant-mole
 ==========

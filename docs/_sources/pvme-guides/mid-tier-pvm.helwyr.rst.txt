@@ -1,10 +1,24 @@
+.. |<u>| raw:: html
+
+    <u>
+
+.. |https://i.imgur.com/iNcL1NL.png| image:: https://i.imgur.com/iNcL1NL.png
+
 .. |</u>| raw:: html
 
     </u>
 
-.. |https://i.imgur.com/iNcL1NL.png| image:: https://i.imgur.com/iNcL1NL.png
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/iqvf7NK.png| image:: https://i.imgur.com/iqvf7NK.png
 
 .. |AoS_OR+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -12,23 +26,9 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/iqvf7NK.png| image:: https://i.imgur.com/iqvf7NK.png
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |</b>| raw:: html
-
-    </b>
-
 .. |<b>| raw:: html
 
     <b>
-
-.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 helwyr
 ======
