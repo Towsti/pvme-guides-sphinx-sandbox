@@ -102,10 +102,10 @@ class Emoji(SphinxRstMixIn):
             msg.content = msg.content[:match.start()] + emoji_formatted + msg.content[match.end():]
 
             doc_info.add(textwrap.dedent('''\
-.. |{}+{}| image:: https://cdn.discordapp.com/emojis/{}.png?v=1
+.. {} image:: https://cdn.discordapp.com/emojis/{}.png?v=1
     :width: 1.375em
     :height: 1.375em
-            '''.format(match.group(1), match.group(2), match.group(2))))
+            '''.format(substitution, match.group(2))))
 
 
 class PVMESpreadsheet(SphinxRstMixIn):
