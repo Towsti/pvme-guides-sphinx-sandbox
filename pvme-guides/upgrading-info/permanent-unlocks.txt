@@ -246,7 +246,7 @@ __Note__: For Dominion Mines, only the last quests in a quest line are listed, r
 
 > __**Relics**__
 The general layout for most pvm scenarios is: Fury of the Small, Berserker's Fury, and Death Ward.
-Further examples may be seen here: https://runescape.wiki/w/Optimal_PvM_Relic_Power_Setup
+Further examples may be seen here: <https://runescape.wiki/w/Optimal_PvM_Relic_Power_Setup>
 
 <:fontoflife:698225967679930408> **Font of Life**
 Increases maximum health by 500
