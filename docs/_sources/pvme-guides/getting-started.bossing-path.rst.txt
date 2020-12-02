@@ -1,96 +1,16 @@
-.. |Nex+513213159071547395| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vindicta+513212949385445376| image:: https://cdn.discordapp.com/emojis/513212949385445376.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
 .. |Ambassador+583430542809235458| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Gregorovic+513212998274383914| image:: https://cdn.discordapp.com/emojis/513212998274383914.png?v=1
+.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |Guthan+513226730002055169| image:: https://cdn.discordapp.com/emojis/513226730002055169.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HarAken+513212948781596682| image:: https://cdn.discordapp.com/emojis/513212948781596682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |TwinFury+513212995892019211| image:: https://cdn.discordapp.com/emojis/513212995892019211.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Kalphite_King+513212971409866765| image:: https://cdn.discordapp.com/emojis/513212971409866765.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |Vorago+572867742613635082| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |Mallory+513212580148543489| image:: https://cdn.discordapp.com/emojis/513212580148543489.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |BSD+583430542326759435| image:: https://cdn.discordapp.com/emojis/583430542326759435.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Telos+513212949033123840| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<i>| raw:: html
-
-    <i>
 
 .. |Reeves+513226730111238145| image:: https://cdn.discordapp.com/emojis/513226730111238145.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Seiryu+583430543321071626| image:: https://cdn.discordapp.com/emojis/583430543321071626.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Twin_Fury+513213159209828373| image:: https://cdn.discordapp.com/emojis/513213159209828373.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |Helwyr+513213019635843100| image:: https://cdn.discordapp.com/emojis/513213019635843100.png?v=1
+.. |BSD+583430542326759435| image:: https://cdn.discordapp.com/emojis/583430542326759435.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -98,13 +18,93 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |</b>| raw:: html
+
+    </b>
+
+.. |HarAken+513212948781596682| image:: https://cdn.discordapp.com/emojis/513212948781596682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Gregorovic+513212998274383914| image:: https://cdn.discordapp.com/emojis/513212998274383914.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |Telos+513212949033123840| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Kalphite_King+513212971409866765| image:: https://cdn.discordapp.com/emojis/513212971409866765.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Guthan+513226730002055169| image:: https://cdn.discordapp.com/emojis/513226730002055169.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |TwinFury+513212995892019211| image:: https://cdn.discordapp.com/emojis/513212995892019211.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |yakahelm2+725230791260504144| image:: https://cdn.discordapp.com/emojis/725230791260504144.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+.. |Nex+513213159071547395| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |Twin_Fury+513213159209828373| image:: https://cdn.discordapp.com/emojis/513213159209828373.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Helwyr+513213019635843100| image:: https://cdn.discordapp.com/emojis/513213019635843100.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vindicta+513212949385445376| image:: https://cdn.discordapp.com/emojis/513212949385445376.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |Mallory+513212580148543489| image:: https://cdn.discordapp.com/emojis/513212580148543489.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Vorago+572867742613635082| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Seiryu+583430543321071626| image:: https://cdn.discordapp.com/emojis/583430543321071626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
 
 bossing-path
 ============

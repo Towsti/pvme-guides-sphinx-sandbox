@@ -1,40 +1,8 @@
-.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |Wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |</u>| raw:: html
 
     </u>
 
-.. |Deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |Ice_Barrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |Asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -46,13 +14,45 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |Asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |Deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |Wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |Ice_Barrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 telos-stun-guide
 ================

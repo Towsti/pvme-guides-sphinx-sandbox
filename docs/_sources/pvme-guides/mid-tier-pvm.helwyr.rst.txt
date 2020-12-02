@@ -1,4 +1,18 @@
+.. |</u>| raw:: html
+
+    </u>
+
 .. |https://i.imgur.com/iNcL1NL.png| image:: https://i.imgur.com/iNcL1NL.png
+
+.. |AoS_OR+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/iqvf7NK.png| image:: https://i.imgur.com/iqvf7NK.png
 
 .. |<u>| raw:: html
 
@@ -8,25 +22,11 @@
 
     </b>
 
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
 .. |<b>| raw:: html
 
     <b>
 
-.. |https://i.imgur.com/iqvf7NK.png| image:: https://i.imgur.com/iqvf7NK.png
-
-.. |AoS_OR+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
     :width: 1.375em
     :height: 1.375em
 

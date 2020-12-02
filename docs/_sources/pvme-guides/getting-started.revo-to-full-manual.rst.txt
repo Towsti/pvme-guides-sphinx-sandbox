@@ -1,6 +1,16 @@
+.. |<i>| raw:: html
+
+    <i>
+
+.. |</u>| raw:: html
+
+    </u>
+
 .. |</i>| raw:: html
 
     </i>
+
+.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
 
 .. |<u>| raw:: html
 
@@ -10,19 +20,9 @@
 
     </b>
 
-.. |</u>| raw:: html
-
-    </u>
-
 .. |<b>| raw:: html
 
     <b>
-
-.. |<i>| raw:: html
-
-    <i>
-
-.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
 
 revo-to-full-manual
 ===================
