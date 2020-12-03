@@ -204,17 +204,36 @@ class ListSection(SphinxRstMixIn):
 
 
 def generate_embed(link):
+    """Obtain the html embed link from a raw (unparsed) link
+
+    :param link: raw unparsed link
+    :return: html formatted embed link or None (link cannot be parsed)
+    """
+
+    # youtu.be
     match = re.match(r"https://youtu\.be/([a-zA-Z0-9_\-]+)", link)
     if match:
         return "<iframe class=\"media\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/{}\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>".format(match.group(1))
 
+    # youtube.com
     match = re.match(r"https://(www\.)?youtube\.[a-z0-9.]*?/watch\?([0-9a-zA-Z$\-_.+!*'(),;/?:@=&#]*&)?v=([a-zA-Z0-9_\-]+)", link)
     if match:
         return "<iframe class=\"media\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/{}\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>".format(match.group(3))
 
+    # clips.twitch.tv
     match = re.match(r"https://clips\.twitch\.tv/([a-zA-Z]+)", link)
     if match:
-        return "<iframe class=\"media\" src=\"https://clips.twitch.tv/embed?autoplay=false&clip={}\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"335\" width=\"550\"></iframe>".format(match.group(1))
+        return "<iframe class=\"media\" src=\"https://clips.twitch.tv/embed?autoplay=false&clip={}\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"315\" width=\"560\"></iframe>".format(match.group(1))
+
+    # twitch.tv/videos
+    match = re.match(r"https://www\.twitch\.tv/videos/([0-9a-zA-Z]+)", link)
+    if match:
+        return "<iframe class=\"media\" src=\"https://player.twitch.tv/?autoplay=false&video=v{}\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"335\" width=\"550\"></iframe>".format(match.group(1))
+
+    # streamable
+    match = re.match(r"https://streamable.com/([a-zA-Z0-9]+)", link)
+    if match:
+        return "<iframe class=\"media\" src=\"https://streamable.com/o/{}\" frameborder=\"0\" scrolling=\"no\" width=\"560\" height=\"315\" allowfullscreen></iframe>".format(match.group(1))
 
 
 class EmbedLink(SphinxRstMixIn):
@@ -231,40 +250,18 @@ class EmbedLink(SphinxRstMixIn):
 
     @staticmethod
     def format_sphinx_html(msg, doc_info):
-        res = re.findall(EmbedLink.PATTERN, msg.content)
+        for link in re.findall(EmbedLink.PATTERN, msg.content):
+            html_embed = generate_embed(link)
 
-        for link in res:
-
-            html = generate_embed(link)
-
-            if html:
+            if html_embed:
                 substitution = "|{}|".format(link)
-                # print(substitution)
                 msg.embeds.append(substitution)
 
                 doc_info.add(textwrap.dedent('''\
 .. {} raw:: html
     
     {}
-                '''.format(substitution, html)))
-
-        # for match in re.findall(EmbedLink.PATTERN, msg.content):
-            # print("match: {} - {}".format(match.group(1), match.group(2)))
-            # generate_embed(match)
-            # print(match)
-#         for link in re.findall(EmbedLink.PATTERN, msg.content):
-#             embed_formatted = "|{}|".format(link)
-#
-#             link_components = urlparse(link)
-#
-#             if link_components.netloc == "youtu.be":
-#                 msg.embeds.append(embed_formatted)
-#                 doc_info.add(textwrap.dedent('''\
-# .. |{}| raw:: html
-#
-#     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed{}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-#
-#                 '''.format(link, link_components.path)))
+                '''.format(substitution, html_embed)))
 
 
 class DiscordMarkdownHTML(SphinxRstMixIn):
