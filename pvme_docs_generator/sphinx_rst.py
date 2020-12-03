@@ -71,6 +71,12 @@ def get_messages(channel_file):
                 messages.append(Message('\n\n'.join(file_lines[prev_i: i]), file_lines[i]))
                 prev_i = i + 1
 
+        # last message sometimes doesn't end with MESSAGE_END_START
+        if prev_i < len(file_lines):
+            messages.append(Message('\n\n'.join(file_lines[prev_i:]), '.'))
+
+        # print("{}\n{}, {}".format(channel_file, prev_i, len(file_lines)))
+
     return messages
 
 
@@ -89,7 +95,7 @@ def generate_channel(sphinx_source_dir, channel_dir, category_name, channel_name
 {}
         
 {}
-        '''.format(message.content, ''.join(message.embeds), Bot.format_sphinx_html(message.bot_command, doc_info))))
+        '''.format(message.content, '\n\n'.join(message.embeds), Bot.format_sphinx_html(message.bot_command, doc_info))))
 
     channel_formatted = textwrap.dedent('''\
 {}

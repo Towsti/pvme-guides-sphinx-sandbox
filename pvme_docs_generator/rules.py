@@ -203,24 +203,68 @@ class ListSection(SphinxRstMixIn):
         msg.content = re.sub(ListSection.PATTERN, '-', msg.content)
 
 
+def generate_embed(link):
+    match = re.match(r"https://youtu\.be/([a-zA-Z0-9_\-]+)", link)
+    if match:
+        return "<iframe class=\"media\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/{}\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>".format(match.group(1))
+
+    match = re.match(r"https://(www\.)?youtube\.[a-z0-9.]*?/watch\?([0-9a-zA-Z$\-_.+!*'(),;/?:@=&#]*&)?v=([a-zA-Z0-9_\-]+)", link)
+    if match:
+        return "<iframe class=\"media\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/{}\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>".format(match.group(3))
+
+    match = re.match(r"https://clips\.twitch\.tv/([a-zA-Z]+)", link)
+    if match:
+        return "<iframe class=\"media\" src=\"https://clips.twitch.tv/embed?autoplay=false&clip={}\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"335\" width=\"550\"></iframe>".format(match.group(1))
+
+
 class EmbedLink(SphinxRstMixIn):
-    PATTERN = re.compile(r"[\n ]\b((?:https?://)?(?:(?:www\.)?(?:[\da-z.-]+)\.(?:[a-z]{2,6})|(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|(?:(?:[0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}|(?:[0-9a-fA-F]{1,4}:){1,7}:|(?:[0-9a-fA-F]{1,4}:){1,6}:[0-9a-fA-F]{1,4}|(?:[0-9a-fA-F]{1,4}:){1,5}(?::[0-9a-fA-F]{1,4}){1,2}|(?:[0-9a-fA-F]{1,4}:){1,4}(?::[0-9a-fA-F]{1,4}){1,3}|(?:[0-9a-fA-F]{1,4}:){1,3}(?::[0-9a-fA-F]{1,4}){1,4}|(?:[0-9a-fA-F]{1,4}:){1,2}(?::[0-9a-fA-F]{1,4}){1,5}|[0-9a-fA-F]{1,4}:(?:(?::[0-9a-fA-F]{1,4}){1,6})|:(?:(?::[0-9a-fA-F]{1,4}){1,7}|:)|fe80:(?::[0-9a-fA-F]{0,4}){0,4}%[0-9a-zA-Z]{1,}|::(?:ffff(?::0{1,4}){0,1}:){0,1}(?:(?:25[0-5]|(?:2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(?:25[0-5]|(?:2[0-4]|1{0,1}[0-9]){0,1}[0-9])|(?:[0-9a-fA-F]{1,4}:){1,4}:(?:(?:25[0-5]|(?:2[0-4]|1{0,1}[0-9]){0,1}[0-9])\.){3,3}(?:25[0-5]|(?:2[0-4]|1{0,1}[0-9]){0,1}[0-9])))(?::[0-9]{1,4}|[1-5][0-9]{4}|6[0-4][0-9]{3}|65[0-4][0-9]{2}|655[0-2][0-9]|6553[0-5])?(?:/[\w.-]*)*/?)\b(?#[ \n])")
+    PATTERN = re.compile(
+        r'(?:[^<])' # check for valid embed links (don't start with '<')
+        r'((?:http|ftp)s?://'  # http:// or https://
+        r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|'  # domain...
+        r'localhost|'  # localhost...
+        r'\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}|'  # ...or ipv4
+        r'\[?[A-F0-9]*:[A-F0-9:]+\]?)'  # ...or ipv6
+        r'(?::\d+)?'  # optional port
+        r'(?:/?|[/?]\S+)'
+        r'(?:[^ \n\t\r]*))', re.IGNORECASE)    # anything at the end of the link
 
     @staticmethod
     def format_sphinx_html(msg, doc_info):
-        for link in re.findall(EmbedLink.PATTERN, msg.content):
-            embed_formatted = "|{}|".format(link)
+        res = re.findall(EmbedLink.PATTERN, msg.content)
 
-            link_components = urlparse(link)
+        for link in res:
 
-            if link_components.netloc == "youtu.be":
-                msg.embeds.append(embed_formatted)
+            html = generate_embed(link)
+
+            if html:
+                substitution = "|{}|".format(link)
+                # print(substitution)
+                msg.embeds.append(substitution)
+
                 doc_info.add(textwrap.dedent('''\
-.. |{}| raw:: html
+.. {} raw:: html
     
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed{}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
-                '''.format(link, link_components.path)))
+    {}
+                '''.format(substitution, html)))
+
+        # for match in re.findall(EmbedLink.PATTERN, msg.content):
+            # print("match: {} - {}".format(match.group(1), match.group(2)))
+            # generate_embed(match)
+            # print(match)
+#         for link in re.findall(EmbedLink.PATTERN, msg.content):
+#             embed_formatted = "|{}|".format(link)
+#
+#             link_components = urlparse(link)
+#
+#             if link_components.netloc == "youtu.be":
+#                 msg.embeds.append(embed_formatted)
+#                 doc_info.add(textwrap.dedent('''\
+# .. |{}| raw:: html
+#
+#     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed{}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#
+#                 '''.format(link, link_components.path)))
 
 
 class DiscordMarkdownHTML(SphinxRstMixIn):
