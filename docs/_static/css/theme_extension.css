@@ -12,30 +12,23 @@ All settings are flagged as "!important" to ensure that they overwrite the Dark 
 }
 
 /* global image max size (maybe scaling ?) */
-
 img {
     max-width: 560px !important;
     height: auto !important;
-    /* max-width: 100% !important; */
-    /* max-height: 100% !important; */
+}
 
-    /* width: 100% !important; */
-
-    /* max-width: 750px !important; */
-    /* max-height: 500px !important! */
-    /* height: auto !important; */
-    /* max-width: 300em !important; */
-    /* max-width: 750px !important; */
-    /* max-width: 700px !important; */
-    /* width: auto !important; */
-    /* max-height: 500px !important; */
-    /* max-height: 450px !important; */
+.media {
+    max-width: 560px !important;
     /* height: auto !important; */
 }
 
 /* should use body width, for now a rough estimation is fine */
-@media (max-width: 980px) {
+@media (max-width: 1070px) {
     img {
+        max-width: 100% !important;
+    }
+
+    .media {
         max-width: 100% !important;
     }
 }

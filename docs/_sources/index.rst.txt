@@ -10,6 +10,9 @@ The bottom of every page displays when the site was last updated. The site is up
 **Theme**
 
 - the site is build with Sphinx using the Read the Docs theme
+
+    - support for mobile and desktop
+
 - the dark-mode styling is created using the Dark Reader extension 
 
 **Links**

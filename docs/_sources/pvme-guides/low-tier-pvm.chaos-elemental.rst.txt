@@ -1,12 +1,12 @@
+.. |</u>| raw:: html
+
+    </u>
+
 .. |<u>| raw:: html
 
     <u>
 
 .. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
-
-.. |</u>| raw:: html
-
-    </u>
 
 .. |</b>| raw:: html
 

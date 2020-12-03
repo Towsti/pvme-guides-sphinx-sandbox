@@ -1,22 +1,4 @@
-.. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kbdscale+643163047275266094| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kbdhead+643163046969212946| image:: https://cdn.discordapp.com/emojis/643163046969212946.png?v=1
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -24,11 +6,29 @@
 
     </u>
 
+.. |643163046969212946.png| image:: https://cdn.discordapp.com/emojis/643163046969212946.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |643163047275266094.png| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |https://i.imgur.com/CP0Xelp.png| image:: https://i.imgur.com/CP0Xelp.png
 
 .. |</b>| raw:: html
 
     </b>
+
+.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
 
 .. |<b>| raw:: html
 
@@ -65,9 +65,9 @@ Drops
 -----
 
 
-- |kbdhead+643163046969212946|  |<b>| KBD Head |</b>| ``1/128``
+- |643163046969212946.png|  |<b>| KBD Head |</b>| ``1/128``
 
-- |kbdscale+643163047275266094|  |<b>| KBD Scale |</b>| ``1/2500 (500 threshold)``
+- |643163047275266094.png|  |<b>| KBD Scale |</b>| ``1/2500 (500 threshold)``
 
 
 
@@ -83,9 +83,9 @@ It is highly recommended to use the dragon slayer perk. A slayer helmet can be u
 
 
 
-- |adrenurn+656426717413507074|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
+- |656426717413507074.png|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
 
-- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
+- |656426717505650708.png|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
 
 

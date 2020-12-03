@@ -1,118 +1,24 @@
-.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |736298121704767538.png| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |583430011948630016.png| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+.. |536252659615924258.png| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |revenge+535541259645878302| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
+.. |712073737377284146.png| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spiritualprayer+651079281882955787| image:: https://cdn.discordapp.com/emojis/651079281882955787.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |conc+535533833106489365| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cade+535541306353778689| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/LD4SNF3.png| image:: https://i.imgur.com/LD4SNF3.png
-
-.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gstaff+513203008608141314| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/RxLWEFOH38c| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RxLWEFOH38c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |tsunami+535533809995874304| image:: https://cdn.discordapp.com/emojis/535533809995874304.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |comb+535533833098100745| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |iceblitz+535613865912696883| image:: https://cdn.discordapp.com/emojis/535613865912696883.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sonic+535533809924571136| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |tectlegs+643849257962438656| image:: https://cdn.discordapp.com/emojis/643849257962438656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |turt4+712073737377284146| image:: https://cdn.discordapp.com/emojis/712073737377284146.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |NaturalInstinct+513213538496675850| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -120,101 +26,39 @@
 
     </u>
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |https://i.imgur.com/lGSbFlz.png| image:: https://i.imgur.com/lGSbFlz.png
-
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+.. |537340400185245701.png| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |567727987274022924.png| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ent+567727987274022924| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
+.. |535533810004262912.png| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+.. |535533809978966037.png| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+.. |657248051190300682.png| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiterebounder+643846849223983125| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://youtu.be/RxLWEFOH38c| raw:: html
 
-.. |bloodblitz+535616247807868938| image:: https://cdn.discordapp.com/emojis/535616247807868938.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RxLWEFOH38c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |debil+535541278264393729| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ch4+712073087864012840| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |meta+535533811304497183| image:: https://cdn.discordapp.com/emojis/535533811304497183.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+.. |535533811304497183.png| image:: https://cdn.discordapp.com/emojis/535533811304497183.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -222,37 +66,193 @@
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/lwzNwocdlNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |535533809655873556.png| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |513213538496675850.png| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
+.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+.. |535613865912696883.png| image:: https://cdn.discordapp.com/emojis/535613865912696883.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |reflect+535541258786177064| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
+.. |536252661406760970.png| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |537338981747261446.png| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+.. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |543478434953822208.png| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641670143197446182.png| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643846849223983125.png| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643849257962438656.png| image:: https://cdn.discordapp.com/emojis/643849257962438656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565149884427.png| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659850674186.png| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833072672778.png| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833098100745.png| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541278264393729.png| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848915020447745.png| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/lGSbFlz.png| image:: https://i.imgur.com/lGSbFlz.png
+
+.. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833139912724.png| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259645878302.png| image:: https://cdn.discordapp.com/emojis/535541259645878302.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306353778689.png| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833358016512.png| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |712073087864012840.png| image:: https://cdn.discordapp.com/emojis/712073087864012840.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513203008608141314.png| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258786177064.png| image:: https://cdn.discordapp.com/emojis/535541258786177064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/LD4SNF3.png| image:: https://i.imgur.com/LD4SNF3.png
+
+.. |535616247807868938.png| image:: https://cdn.discordapp.com/emojis/535616247807868938.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809995874304.png| image:: https://cdn.discordapp.com/emojis/535533809995874304.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |651079281882955787.png| image:: https://cdn.discordapp.com/emojis/651079281882955787.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833391702017.png| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809823645697.png| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 telos-1k-plus-magic
 ===================
@@ -305,15 +305,15 @@ Preset
 
 
 
-The Tectonic Legs |tectlegs+643849257962438656| are augmented with Turtling 4 |turt4+712073737377284146| and Clear Headed 4 |ch4+712073087864012840| for use on Phase 5. The Rune Pouches are unchanged but require the use of Borrowed Power Entangle |ent+567727987274022924|
+The Tectonic Legs |643849257962438656.png| are augmented with Turtling 4 |712073737377284146.png| and Clear Headed 4 |712073087864012840.png| for use on Phase 5. The Rune Pouches are unchanged but require the use of Borrowed Power Entangle |567727987274022924.png|
 
-- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
+- |690848915020447745.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252659850674186.png| |536252659301089280.png| 
 
-- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
+- |656786565149884427.png|  |<b>| Rune Pouch |</b>| |536252659615924258.png| |536252658961481769.png| |536252661406760970.png|
 
-- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
+- |656786565527502858.png|  |<b>| Rune Pouch |</b>| |536252660165115905.png| |536252659586433024.png| |536252659808731137.png|
 
-(Runes for |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |borrowedpower+657248051190300682| |disrupt+535614336207552523| |Veng+543478434953822208| )
+(Runes for |537338981747261446.png| |537340400185245701.png| |657248051190300682.png| |535614336207552523.png| |543478434953822208.png| )
 
 
 
@@ -333,11 +333,11 @@ Phase 1
 
 
 
-P1 remains mostly unchanged from 999%. The only thing to be aware of as you start to push higher and higher is that tendrils will start to require more and more damage to free yourself from. Note that this rotation requires building on a dummy inside the arena, and using Tsunami |tsunami+535533809995874304| → Natural Instinct |NaturalInstinct+513213538496675850| and building to 100% adrenaline again before starting the fight. This means your adrenaline potion |adrenrenewal+736298121704767538| won't be on cooldown for Phase 4 start. It's important to make sure you are either south or west of Telos to ensure your deto wm hits are all on the same tick. You do this by checking walk direction with your combust at start, and then if West walk, run to the east to drag telos and escape back into your sun. When walking your second combust, click on Telos at the same time to stay on his west side.
+P1 remains mostly unchanged from 999%. The only thing to be aware of as you start to push higher and higher is that tendrils will start to require more and more damage to free yourself from. Note that this rotation requires building on a dummy inside the arena, and using Tsunami |535533809995874304.png| → Natural Instinct |513213538496675850.png| and building to 100% adrenaline again before starting the fight. This means your adrenaline potion |736298121704767538.png| won't be on cooldown for Phase 4 start. It's important to make sure you are either south or west of Telos to ensure your deto wm hits are all on the same tick. You do this by checking walk direction with your combust at start, and then if West walk, run to the east to drag telos and escape back into your sun. When walking your second combust, click on Telos at the same time to stay on his west side.
 
 
 
-    |bloodblitz+535616247807868938| |dbreath+535533833391702017| → |swh+641670143197446182| |ingen+641339234111848463| |spec+537340400273195028| → (2h) |comb+535533833098100745| → |freedom+535541258240786434| |bloodblitz+535616247807868938| → |iceblitz+535613865912696883| |wrack+535533809823645697| ( |debil+535541278264393729| if you have good adren) → |conc+535533833106489365| → |asphyx+535533833072672778| (3-hit) → |deep+535533833139912724| → |bloodblitz+535616247807868938| |wrack+535533809823645697| → |dbreath+535533833391702017| → |bloodblitz+535616247807868938| |impact+535533809655873556| → |comb+535533833098100745| → |iceblitz+535613865912696883| |wrack+535533809823645697| (res |res+535541258844635148| if wrack not needed) → |deto+535533833358016512| → |bloodblitz+535616247807868938| |deto+535533833358016512| |wm+535533809978966037|
+    |535616247807868938.png| |535533833391702017.png| → |641670143197446182.png| |641339234111848463.png| |537340400273195028.png| → (2h) |535533833098100745.png| → |535541258240786434.png| |535616247807868938.png| → |535613865912696883.png| |535533809823645697.png| ( |535541278264393729.png| if you have good adren) → |535533833106489365.png| → |535533833072672778.png| (3-hit) → |535533833139912724.png| → |535616247807868938.png| |535533809823645697.png| → |535533833391702017.png| → |535616247807868938.png| |535533809655873556.png| → |535533833098100745.png| → |535613865912696883.png| |535533809823645697.png| (res |535541258844635148.png| if wrack not needed) → |535533833358016512.png| → |535616247807868938.png| |535533833358016512.png| |535533809978966037.png|
 
 
 
@@ -359,7 +359,7 @@ Again, very little will change during Phase 2. It's important to be aware that d
 
 
 
-    (dw) |iceblitz+535613865912696883| |corruptblast+513190159194259467| → |bloodblitz+535616247807868938| |asphyx+535533833072672778| (3-hit) → |deep+535533833139912724| → |bloodblitz+535616247807868938| |impact+535533809655873556| → |comb+535533833098100745| → |iceblitz+535613865912696883| |wm+535533809978966037| → |wrack+535533809823645697| → |iceblitz+535613865912696883| |gstaff+513203008608141314| |spec+537340400273195028| → |deto+535533833358016512| (3t) → |iceblitz+535613865912696883| |deto+535533833358016512| |wrack+535533809823645697| → |corruptblast+513190159194259467| → |bloodblitz+535616247807868938| |asphyx+535533833072672778| (3-hit) → |wrack+535533809823645697|
+    (dw) |535613865912696883.png| |513190159194259467.png| → |535616247807868938.png| |535533833072672778.png| (3-hit) → |535533833139912724.png| → |535616247807868938.png| |535533809655873556.png| → |535533833098100745.png| → |535613865912696883.png| |535533809978966037.png| → |535533809823645697.png| → |535613865912696883.png| |513203008608141314.png| |537340400273195028.png| → |535533833358016512.png| (3t) → |535613865912696883.png| |535533833358016512.png| |535533809823645697.png| → |513190159194259467.png| → |535616247807868938.png| |535533833072672778.png| (3-hit) → |535533809823645697.png|
 
 
 
@@ -370,7 +370,7 @@ Phase 3
 -------
 
 
-|bloodblitz+535616247807868938| |sonic+535533809924571136| → |meta+535533811304497183| → |iceblitz+535613865912696883| |wrack+535533809823645697| → |comb+535533833098100745| → |bloodblitz+535616247807868938| |corruptblast+513190159194259467| → |dbreath+535533833391702017| → |limitless+641339233638023179| |iceblitz+535613865912696883| |wm+535533809978966037| → |deto+535533833358016512| (3t) → |iceblitz+535613865912696883| |deto+535533833358016512| |gstaff+513203008608141314| (or |asphyx+535533833072672778| if low adren) → |wrack+535533809823645697| (+ drink |spiritualprayer+651079281882955787| on tick)
+|535616247807868938.png| |535533809924571136.png| → |535533811304497183.png| → |535613865912696883.png| |535533809823645697.png| → |535533833098100745.png| → |535616247807868938.png| |513190159194259467.png| → |535533833391702017.png| → |641339233638023179.png| |535613865912696883.png| |535533809978966037.png| → |535533833358016512.png| (3t) → |535613865912696883.png| |535533833358016512.png| |513203008608141314.png| (or |535533833072672778.png| if low adren) → |535533809823645697.png| (+ drink |651079281882955787.png| on tick)
 
 
 
@@ -381,7 +381,7 @@ Phase 4
 -------
 
 
-Should aim to minimise number of autos here, similar to <#534571389487808534>. Phase start varies greatly depending on how much adren you have, but should |adrenrenewal+736298121704767538| and aim to |swh+641670143197446182| |spec+537340400273195028| at some point before going into the font.
+Should aim to minimise number of autos here, similar to <#534571389487808534>. Phase start varies greatly depending on how much adren you have, but should |736298121704767538.png| and aim to |641670143197446182.png| |537340400273195028.png| at some point before going into the font.
 
 
 
@@ -390,23 +390,23 @@ Should aim to minimise number of autos here, similar to <#534571389487808534>. P
 
 On Drop:
 
-    (dw) |bloodblitz+535616247807868938| |corruptblast+513190159194259467| → |iceblitz+535613865912696883| |wrack+535533809823645697| → |comb+535533833098100745| → |asphyx+535533833072672778| → |impact+535533809655873556| → |deep+535533833139912724| → |swh+641670143197446182| |ingen+641339234111848463| |spec+537340400273195028|
+    (dw) |535616247807868938.png| |513190159194259467.png| → |535613865912696883.png| |535533809823645697.png| → |535533833098100745.png| → |535533833072672778.png| → |535533809655873556.png| → |535533833139912724.png| → |641670143197446182.png| |641339234111848463.png| |537340400273195028.png|
 
 
 
 First Font:
 
-    |reflect+535541258786177064| → defensives and freeze golems as font finishes charging → |deto+535533833358016512| → (all with 2h) |iceblitz+535613865912696883| |deto+535533833358016512| |wm+535533809978966037| → |asphyx+535533833072672778| 
+    |535541258786177064.png| → defensives and freeze golems as font finishes charging → |535533833358016512.png| → (all with 2h) |535613865912696883.png| |535533833358016512.png| |535533809978966037.png| → |535533833072672778.png| 
 
 
 
 Second Font:
 
-    |devo+513190158728953857| → |revenge+535541259645878302| → defensives and freeze golems as font finishes charging → |iceblitz+535613865912696883| |wm+535533809978966037| → |bloodblitz+535616247807868938| |asphyx+535533833072672778| (skip auto if late tag) → |deep+535533833139912724| → |bloodblitz+535616247807868938| |impact+535533809655873556| (5taa auto impact if you skipped auto before asphyx for better freedom timing)
+    |513190158728953857.png| → |535541259645878302.png| → defensives and freeze golems as font finishes charging → |535613865912696883.png| |535533809978966037.png| → |535616247807868938.png| |535533833072672778.png| (skip auto if late tag) → |535533833139912724.png| → |535616247807868938.png| |535533809655873556.png| (5taa auto impact if you skipped auto before asphyx for better freedom timing)
 
 
 
-Optionally run the golems around the centre before Entangling |ent+567727987274022924| + surging |surge+535533810004262912| to enter the 3rd font. This allows you to guarantee high hp and adren start to P5. You can see this here: https://youtu.be/RxLWEFOH38c?t=228 (Courtesy of <@231624498435194880>)
+Optionally run the golems around the centre before Entangling |567727987274022924.png| + surging |535533810004262912.png| to enter the 3rd font. This allows you to guarantee high hp and adren start to P5. You can see this here: https://youtu.be/RxLWEFOH38c?t=228 (Courtesy of <@231624498435194880>)
 
 |https://youtu.be/RxLWEFOH38c|
 
@@ -422,7 +422,7 @@ Optionally run the golems around the centre before Entangling |ent+5677279872740
 
 Third font rotation:
 
-    |reflect+535541258786177064| → defensives and freeze golems as font finishes charging → (all with 2h) |deto+535533833358016512| → |iceblitz+535613865912696883| |deto+535533833358016512| |corruptblast+513190159194259467| → |asphyx+535533833072672778| → |impact+535533809655873556| → |dbreath+535533833391702017|
+    |535541258786177064.png| → defensives and freeze golems as font finishes charging → (all with 2h) |535533833358016512.png| → |535613865912696883.png| |535533833358016512.png| |513190159194259467.png| → |535533833072672778.png| → |535533809655873556.png| → |535533833391702017.png|
 
 
 
@@ -433,13 +433,13 @@ Phase 5
 -------
 
 
-Phase 5 is a phase where significant changes occur at 1k. Most importantly, immortality will no longer block the instakill, so you will need to either 0 font or font minions. Also due to the number of rocks that fall and how much damage the virus deals, it becomes almost a requirement to Barricade |cade+535541306353778689| . An armour switch with Turtling 4 |turt4+712073737377284146| and Clear Headed 4 |ch4+712073087864012840| is heavily recommended to allow you to Barricade |cade+535541306353778689| with your Kalphite Rebounder |kalphiterebounder+643846849223983125| .
+Phase 5 is a phase where significant changes occur at 1k. Most importantly, immortality will no longer block the instakill, so you will need to either 0 font or font minions. Also due to the number of rocks that fall and how much damage the virus deals, it becomes almost a requirement to Barricade |535541306353778689.png| . An armour switch with Turtling 4 |712073737377284146.png| and Clear Headed 4 |712073087864012840.png| is heavily recommended to allow you to Barricade |535541306353778689.png| with your Kalphite Rebounder |643846849223983125.png| .
 
 
 
 |<b>| Rotations: |</b>|
 
-Start with |bloodblitz+535616247807868938| |gstaff+513203008608141314| |spec+537340400273195028| → |kalphiterebounder+643846849223983125| |debil+535541278264393729| → ...
+Start with |535616247807868938.png| |513203008608141314.png| |537340400273195028.png| → |643846849223983125.png| |535541278264393729.png| → ...
 
 
 
@@ -448,13 +448,13 @@ Start with |bloodblitz+535616247807868938| |gstaff+513203008608141314| |spec+537
 
 |<b>| Sidebeam Green/Black |</b>|
 
-    |res+535541258844635148| → |reflect+535541258786177064| → |revenge+535541259645878302| → |Sunshine+583430011948630016| → |dbreath+535533833391702017| → |deto+535533833358016512| (3t) → |bloodbarrage+537338981747261446| |deto+535533833358016512| |wm+535533809978966037| → |cade+535541306353778689| → |iceblitz+535613865912696883| |wrack+535533809823645697| → |asphyx+535533833072672778| → |tsunami+535533809995874304| → |dbreath+535533833391702017| |surge+535533810004262912| + clear virus
+    |535541258844635148.png| → |535541258786177064.png| → |535541259645878302.png| → |583430011948630016.png| → |535533833391702017.png| → |535533833358016512.png| (3t) → |537338981747261446.png| |535533833358016512.png| |535533809978966037.png| → |535541306353778689.png| → |535613865912696883.png| |535533809823645697.png| → |535533833072672778.png| → |535533809995874304.png| → |535533833391702017.png| |535533810004262912.png| + clear virus
 
 
 
 |<b>| Sidebeam Reds |</b>|
 
-    |res+535541258844635148| → |reflect+535541258786177064| →  |Sunshine+583430011948630016| → |anti+535541306475151390| → |revenge+535541259645878302| → |deto+535533833358016512| (3t) → |bloodbarrage+537338981747261446| |deto+535533833358016512| |dbreath+535533833391702017|  → |cade+535541306353778689| → |limitless+641339233638023179| |iceblitz+535613865912696883| |wm+535533809978966037| →  |asphyx+535533833072672778| → |tsunami+535533809995874304| → |freedom+535541258240786434| (if needed) |surge+535533810004262912| + clear virus
+    |535541258844635148.png| → |535541258786177064.png| →  |583430011948630016.png| → |535541306475151390.png| → |535541259645878302.png| → |535533833358016512.png| (3t) → |537338981747261446.png| |535533833358016512.png| |535533833391702017.png|  → |535541306353778689.png| → |641339233638023179.png| |535613865912696883.png| |535533809978966037.png| →  |535533833072672778.png| → |535533809995874304.png| → |535541258240786434.png| (if needed) |535533810004262912.png| + clear virus
 
 
 
@@ -463,11 +463,11 @@ Start with |bloodblitz+535616247807868938| |gstaff+513203008608141314| |spec+537
 
 |<b>| Backbeam |</b>|
 
-    |corruptblast+513190159194259467| → |res+535541258844635148| → |ent+567727987274022924| |impact+535533809655873556| → |bd+535532854281764884| |Sunshine+583430011948630016| (4 squares from Telos, run to the back edge of your sun to lure rocks) → |bloodbarrage+537338981747261446| |dbreath+535533833391702017| → |wm+535533809978966037| |surge+535533810004262912| → |bloodbarrage+537338981747261446| (2h) |asphyx+535533833072672778| → (2h) |tsunami+535533809995874304| → |sgb+626466665848242186| |ingen+641339234111848463| |spec+537340400273195028| → |deto+535533833358016512| (3t) → |bloodbarrage+537338981747261446| |deto+535533833358016512| |gstaff+513203008608141314| |spec+537340400273195028| → |reflect+535541258786177064| → |revenge+535541259645878302| → |cade+535541306353778689| ( |revenge+535541259645878302| → |anti+535541306475151390| → |cade+535541306353778689| if reds)
+    |513190159194259467.png| → |535541258844635148.png| → |567727987274022924.png| |535533809655873556.png| → |535532854281764884.png| |583430011948630016.png| (4 squares from Telos, run to the back edge of your sun to lure rocks) → |537338981747261446.png| |535533833391702017.png| → |535533809978966037.png| |535533810004262912.png| → |537338981747261446.png| (2h) |535533833072672778.png| → (2h) |535533809995874304.png| → |626466665848242186.png| |641339234111848463.png| |537340400273195028.png| → |535533833358016512.png| (3t) → |537338981747261446.png| |535533833358016512.png| |513203008608141314.png| |537340400273195028.png| → |535541258786177064.png| → |535541259645878302.png| → |535541306353778689.png| ( |535541259645878302.png| → |535541306475151390.png| → |535541306353778689.png| if reds)
 
 
 
-Note if you don't Bladed Dive |bd+535532854281764884| to backbeam you'll have to |dbreath+535533833391702017| → |Sunshine+583430011948630016| instead.
+Note if you don't Bladed Dive |535532854281764884.png| to backbeam you'll have to |535533833391702017.png| → |583430011948630016.png| instead.
 
 
 

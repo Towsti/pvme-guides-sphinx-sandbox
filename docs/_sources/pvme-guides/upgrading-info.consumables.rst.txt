@@ -1,76 +1,12 @@
-.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+.. |736298121704767538.png| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Titan+513195724738002944| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
+.. |565726489136463894.png| image:: https://cdn.discordapp.com/emojis/565726489136463894.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |Sailfish+565726489363087360| image:: https://cdn.discordapp.com/emojis/565726489363087360.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |grest+689530593901412578| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |poisonbomb+655341074591645707| image:: https://cdn.discordapp.com/emojis/655341074591645707.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |SpiritSticks+565726489136463894| image:: https://cdn.discordapp.com/emojis/565726489136463894.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |greatgunkan+689528927928188963| image:: https://cdn.discordapp.com/emojis/689528927928188963.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Herblore+689554435583508558| image:: https://cdn.discordapp.com/emojis/689554435583508558.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |supergrest+690140078407680059| image:: https://cdn.discordapp.com/emojis/690140078407680059.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |FellstalkSticks+690987265421213746| image:: https://cdn.discordapp.com/emojis/690987265421213746.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ovlsalve+642709927265304608| image:: https://cdn.discordapp.com/emojis/642709927265304608.png?v=1
+.. |689530593901412578.png| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -78,35 +14,23 @@
 
     </u>
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |IritSticks+690987265371144202| image:: https://cdn.discordapp.com/emojis/690987265371144202.png?v=1
+.. |655341074306301964.png| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+.. |565726489341984779.png| image:: https://cdn.discordapp.com/emojis/565726489341984779.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |IceNihil+513195712163348506| image:: https://cdn.discordapp.com/emojis/513195712163348506.png?v=1
+.. |537336701933060106.png| image:: https://cdn.discordapp.com/emojis/537336701933060106.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+.. |642708771344482314.png| image:: https://cdn.discordapp.com/emojis/642708771344482314.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |supersara+642708771344482314| image:: https://cdn.discordapp.com/emojis/642708771344482314.png?v=1
+.. |690987265371144202.png| image:: https://cdn.discordapp.com/emojis/690987265371144202.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -114,37 +38,113 @@
 
     <i>
 
-.. |stickybomb+655341074306301964| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
+.. |513195724738002944.png| image:: https://cdn.discordapp.com/emojis/513195724738002944.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+.. |565726489362956308.png| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |LantaSticks+565726489404899368| image:: https://cdn.discordapp.com/emojis/565726489404899368.png?v=1
+.. |689554435583508558.png| image:: https://cdn.discordapp.com/emojis/689554435583508558.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sailfishsoup+537336701933060106| image:: https://cdn.discordapp.com/emojis/537336701933060106.png?v=1
+.. |655341074591645707.png| image:: https://cdn.discordapp.com/emojis/655341074591645707.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Brew+565726489400573962| image:: https://cdn.discordapp.com/emojis/565726489400573962.png?v=1
+.. |690987265421213746.png| image:: https://cdn.discordapp.com/emojis/690987265421213746.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |holyovl+689551388463595590| image:: https://cdn.discordapp.com/emojis/689551388463595590.png?v=1
+.. |513195712163348506.png| image:: https://cdn.discordapp.com/emojis/513195712163348506.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |KwuarmSticks+565726489341984779| image:: https://cdn.discordapp.com/emojis/565726489341984779.png?v=1
+.. |689530593742291033.png| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |RanarrSticks+690987265186594857| image:: https://cdn.discordapp.com/emojis/690987265186594857.png?v=1
+.. |689551388463595590.png| image:: https://cdn.discordapp.com/emojis/689551388463595590.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |565726489404899368.png| image:: https://cdn.discordapp.com/emojis/565726489404899368.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |690987265186594857.png| image:: https://cdn.discordapp.com/emojis/690987265186594857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |565726489400573962.png| image:: https://cdn.discordapp.com/emojis/565726489400573962.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |550834403136503822.png| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |655341074235129858.png| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690140078407680059.png| image:: https://cdn.discordapp.com/emojis/690140078407680059.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |648976643687317532.png| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689528927928188963.png| image:: https://cdn.discordapp.com/emojis/689528927928188963.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |642709927265304608.png| image:: https://cdn.discordapp.com/emojis/642709927265304608.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |703581275453128714.png| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |634350514406162436.png| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |565726489413287956.png| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |698816156961603654.png| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |565726489363087360.png| image:: https://cdn.discordapp.com/emojis/565726489363087360.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 consumables
 ===========
@@ -159,7 +159,7 @@ Food
 
 - |<u>| |<b>| Solid Food |</b>| |</u>|
 
-     - |Sailfish+565726489363087360| |<b>| Sailfish |</b>| |coins+698816156961603654| 5,230
+     - |565726489363087360.png| |<b>| Sailfish |</b>| |698816156961603654.png| 5,255
 
          - Heals |<b>| 2400 |</b>| life points.
 
@@ -169,7 +169,7 @@ Food
 
          - Cheap general purpose food, only really used for places where panic eating might be necessary due to the adrenaline loss.
 
-     - |sailfishsoup+537336701933060106| |<b>| Sailfish Soup |</b>| |coins+698816156961603654| 25,868
+     - |537336701933060106.png| |<b>| Sailfish Soup |</b>| |698816156961603654.png| 25,585
 
          - Heals |<b>| 2600 |</b>| life points.
 
@@ -179,7 +179,7 @@ Food
 
          - More expensive so only really used for high profit, high risk encounters. Primarily Telos.
 
-     - |greatgunkan+689528927928188963| |<b>| Great Gunkan |</b>| |coins+698816156961603654| 3,981
+     - |689528927928188963.png| |<b>| Great Gunkan |</b>| |698816156961603654.png| 3,981
 
          - Heals 1500 life points instantly, +150 life points every 1.2 seconds for 9 times total (10.8 seconds), for a total of |<b>| 2850 |</b>| life points.
 
@@ -195,7 +195,7 @@ Food
 
 - |<u>| |<b>| Potions |</b>| |</u>| 
 
-     - |Brew+565726489400573962| |<b>| Saradomin Brew |</b>| |coins+698816156961603654| 37,928
+     - |565726489400573962.png| |<b>| Saradomin Brew |</b>| |698816156961603654.png| 37,851
 
          - Heals |<b>| 1000 |</b>| life points per dose, 6 doses total (in a flask) for a total of |<b>| 6000 |</b>| per inventory slot.
 
@@ -205,7 +205,7 @@ Food
 
          - Used wherever KO potential is high, as you can combo-eat with a sailfish for a total of 3400 lifepoints healed in 1 tick.
 
-     - |supersara+642708771344482314| |<b>| Super Saradomin Brew |</b>| |coins+698816156961603654| 203,775
+     - |642708771344482314.png| |<b>| Super Saradomin Brew |</b>| |698816156961603654.png| 203,775
 
          - Heals |<b>| 1300 |</b>| life points per dose, 6 doses total, for a total of of |<b>| 7800 |</b>| per inventory slot.
 
@@ -219,7 +219,7 @@ Food
 
 
 
-     - |grest+689530593901412578| |<b>| Guthix Rest |</b>| |coins+698816156961603654| 27,524
+     - |689530593901412578.png| |<b>| Guthix Rest |</b>| |698816156961603654.png| 28,605
 
          - Heals |<b>| 500 |</b>| life points per dose, 6 doses total (in a flask) for a total of |<b>| 3000 |</b>| per inventory slot.
 
@@ -229,7 +229,7 @@ Food
 
          - Used wherever inventory space isn't at a premium, and where dps/accuracy is important. Primarily AoD.
 
-     - |supergrest+690140078407680059| |<b>| Super Guthix Brew |</b>| |coins+698816156961603654| 22,862
+     - |690140078407680059.png| |<b>| Super Guthix Brew |</b>| |698816156961603654.png| 22,862
 
          - Heals |<b>| 650 |</b>| life points per dose, 6 doses total (in a flask) for a total of |<b>| 3900 |</b>| per inventory slot.
 
@@ -241,7 +241,7 @@ Food
 
 - |<u>| |<b>| Miscellaneous |</b>| |</u>|
 
-     - |blueblubber+689530593742291033| |<b>| Blue Blubber Jellyfish |</b>| |coins+698816156961603654| 6,268
+     - |689530593742291033.png| |<b>| Blue Blubber Jellyfish |</b>| |698816156961603654.png| 6,268
 
          - Heals |<b>| 750 |</b>| life points per bite. 3 bites, for a total of |<b>| 2250 |</b>| per inventory slot.
 
@@ -264,7 +264,7 @@ Potions
 
 - |<u>| |<b>| Overloads |</b>| |</u>|
 
-     - |holyovl+689551388463595590| |<b>| Holy Overload |</b>|
+     - |689551388463595590.png| |<b>| Holy Overload |</b>|
 
         - Boosts Attack, Strength, Magic, Ranged and Defence by 15% of each level +3 (up to 116 at level 99)
 
@@ -272,13 +272,13 @@ Potions
 
         - Boosts will reapply every 15 seconds.
 
-        - Requires level 97 Herblore |Herblore+689554435583508558|
+        - Requires level 97 Herblore |689554435583508558.png|
 
         - Cheaper than just using a regular non-combination overload.
 
         - The lower stat boost relative to supreme/elder overloads means this isn't worth using or making for PvM purposes. 
 
-     - |ovlsalve+642709927265304608| |<b>| Supreme Overload Salve |</b>|
+     - |642709927265304608.png| |<b>| Supreme Overload Salve |</b>|
 
         - Boosts Attack, Strength, Magic, Ranged and Defence by 16% of each level +4 (Up to 118 at level 99)
 
@@ -288,11 +288,11 @@ Potions
 
         - Boosts will reapply every 15 seconds.
 
-        - Requires level 99 Herblore |Herblore+689554435583508558|
+        - Requires level 99 Herblore |689554435583508558.png|
 
         - Worth making until you have the level for Elders. These can be directly upgraded.
 
-     - |elderovlsalve+648976643687317532| |<b>| Elder Overload Salve |</b>|
+     - |648976643687317532.png| |<b>| Elder Overload Salve |</b>|
 
         - Boosts Attack, Strength, Magic, Ranged and Defence by 17% of each level +5 (Up to 120 at level 99)
 
@@ -302,7 +302,7 @@ Potions
 
         - Boosts will reapply every 15 seconds.
 
-        - Requires level 107 Herblore |Herblore+689554435583508558|
+        - Requires level 107 Herblore |689554435583508558.png|
 
         - Worth making as soon as you have the level for them.
 
@@ -313,31 +313,31 @@ Potions
 
 - |<u>| |<b>| Adrenaline Potions |</b>| |</u>|
 
-     - |replen+634350514406162436| |<b>| Replenishment Potion |</b>|
+     - |634350514406162436.png| |<b>| Replenishment Potion |</b>|
 
         - Gives 25% adrenaline, with a 2 minute cooldown timer.
 
         - Restoring lowered stats by up to 25% + 8.
 
-        - Requires level 87 Herblore |Herblore+689554435583508558|
+        - Requires level 87 Herblore |689554435583508558.png|
 
         - Primarily used for low gp/h bossing or slayer, e.g. casual GWD2.
 
-     - |enhreplen+634350450887622656| |<b>| Enhanced Replenishment Potion |</b>|
+     - |634350450887622656.png| |<b>| Enhanced Replenishment Potion |</b>|
 
         - Gives 30% adrenaline, with a 2 minute cooldown timer.
 
         - Restoring lowered stats by up to 25% + 8.
 
-        - Requires level 90 Herblore |Herblore+689554435583508558|
+        - Requires level 90 Herblore |689554435583508558.png|
 
         - Worth using for high level PvM like Solak, Telos, AoD where you have a consistent rotation which relies on it, until you have the herblore level for Adrenaline renewal potion.
 
-     - |adrenrenewal+736298121704767538| |<b>| Adrenaline renewal potion |</b>|
+     - |736298121704767538.png| |<b>| Adrenaline renewal potion |</b>|
 
         - Gives 4% adrenaline per tick for 10 ticks (total of 40% adrenaline).
 
-        - Requires level 115 Herblore |Herblore+689554435583508558| , but this can be assisted.
+        - Requires level 115 Herblore |689554435583508558.png| , but this can be assisted.
 
         - Best-in-Slot Adrenaline potion, for the majority of use cases.
 
@@ -348,7 +348,7 @@ Potions
 
 - |<u>| |<b>| Bombs |</b>| |</u>|
 
-     - |vulnbomb+655341074235129858| |<b>| Vulnerability bomb |</b>|
+     - |655341074235129858.png| |<b>| Vulnerability bomb |</b>|
 
         - Creates a 3x3 area which lasts 1.8 seconds and applies the Vulnerability effect to monsters standing in it.
 
@@ -358,13 +358,13 @@ Potions
 
         - The probability of the effect applying is based on the players current accuracy against the target.
 
-     - |stickybomb+655341074306301964| |<b>| Sticky bomb |</b>|
+     - |655341074306301964.png| |<b>| Sticky bomb |</b>|
 
         - Creates a 3x3 area for 6 seconds which binds monsters stood in it.
 
         - Cast range of 9 tiles.
 
-     - |poisonbomb+655341074591645707| |<b>| Poison bomb |</b>|
+     - |655341074591645707.png| |<b>| Poison bomb |</b>|
 
         - Create a 3x3 area for 6 seconds which applies poison to monsters stood in it.
 
@@ -395,17 +395,17 @@ You can have up to 3 different effects active at once at 95 firemaking.
 
 The relevant incense sticks with pvm benefits are listed as follows:
 
-- |RanarrSticks+690987265186594857| Ranarr: Each potency level gives a +1 prayer bonus (functionally useless)
+- |690987265186594857.png| Ranarr: Each potency level gives a +1 prayer bonus (functionally useless)
 
-- |SpiritSticks+565726489136463894| Spirit Weed: Each potency level provides a 10% increased familiar special attack recovery rate
+- |565726489136463894.png| Spirit Weed: Each potency level provides a 10% increased familiar special attack recovery rate
 
-- |IritSticks+690987265371144202| Irit: Each potency level reduces poison damage by 25%
+- |690987265371144202.png| Irit: Each potency level reduces poison damage by 25%
 
-- |KwuarmSticks+565726489341984779| Kwuarm: Each potency level provides +2.5% weapon poison damage
+- |565726489341984779.png| Kwuarm: Each potency level provides +2.5% weapon poison damage
 
-- |LantaSticks+565726489404899368| Lantadyme: Each potency level increases potion timer by 30 seconds. Not usually cost effective to use but can reduce the need to make more overloads.
+- |565726489404899368.png| Lantadyme: Each potency level increases potion timer by 30 seconds. Not usually cost effective to use but can reduce the need to make more overloads.
 
-- |FellstalkSticks+690987265421213746| Fellstalk (For Slayer): Each potency level provides a x1.01 chance to spawn elite monsters
+- |690987265421213746.png| Fellstalk (For Slayer): Each potency level provides a x1.01 chance to spawn elite monsters
 
 
 
@@ -449,7 +449,7 @@ Incense sticks are rather expensive to use in dangerous pvm due to having to re-
 
 
 
-- |IceNihil+513195712163348506| Nihil
+- |513195712163348506.png| Nihil
 
       - Nihils boost their users Melee/Ranged/Magic accuracy by 5% depending on nihil summoned
 
@@ -457,7 +457,7 @@ Incense sticks are rather expensive to use in dangerous pvm due to having to re-
 
 
 
-- |Titan+513195724738002944| Steel Titan
+- |513195724738002944.png| Steel Titan
 
       - DPS familiar
 
@@ -473,7 +473,7 @@ Incense sticks are rather expensive to use in dangerous pvm due to having to re-
 
 
 
-- |ripperpouch+703581275453128714| Ripper Demon
+- |703581275453128714.png| Ripper Demon
 
       - Best DPS familiar
 
@@ -502,7 +502,7 @@ Enchanted bakriminel bolts provide various effects which can be very useful in c
 
 
 
-|<b>| Ruby bolts |</b>| |RubyBakri+565726489413287956| - Overall best dps bolt for general pvm. 5% chance to activate, replacing a hit with a new one based on target's HP. The bolts have a shared cooldown per target, making them less effective (but still very powerful) in groups. Around ~70k HP, it is recommended to switch to another type of bolt, as ruby bolts can reduce DPS if the bolt damage is less than the original hit.
+|<b>| Ruby bolts |</b>| |565726489413287956.png| - Overall best dps bolt for general pvm. 5% chance to activate, replacing a hit with a new one based on target's HP. The bolts have a shared cooldown per target, making them less effective (but still very powerful) in groups. Around ~70k HP, it is recommended to switch to another type of bolt, as ruby bolts can reduce DPS if the bolt damage is less than the original hit.
 
 
 
@@ -510,11 +510,11 @@ Enchanted bakriminel bolts provide various effects which can be very useful in c
 
 
 
-|<b>| Onyx bolts |</b>| |OnyxBakri+565726489362956308| - 10% chance to activate, heals 25% of the hit that triggered activation. Also increases damage by 25% on activation. Great for sustained healing, and alternative bolts after ruby bolts are no longer effective. Expensive.
+|<b>| Onyx bolts |</b>| |565726489362956308.png| - 10% chance to activate, heals 25% of the hit that triggered activation. Also increases damage by 25% on activation. Great for sustained healing, and alternative bolts after ruby bolts are no longer effective. Expensive.
 
 
 
-|<b>| Hydrix bolts |</b>| |HydrixBakri+550834403136503822| - 10% chance to activate, immediately granting 10% adren, and +1% on basics for 15 seconds. Used as a utility bolt for pumping out more thresholds while in Death's Swiftness. |<i>| These are the hardest bolts to use effectively as they require you to improvise a rotation based off of how much adrenaline you gain |</i>| . Very expensive.
+|<b>| Hydrix bolts |</b>| |550834403136503822.png| - 10% chance to activate, immediately granting 10% adren, and +1% on basics for 15 seconds. Used as a utility bolt for pumping out more thresholds while in Death's Swiftness. |<i>| These are the hardest bolts to use effectively as they require you to improvise a rotation based off of how much adrenaline you gain |</i>| . Very expensive.
 
 
 

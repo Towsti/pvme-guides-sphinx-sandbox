@@ -1,332 +1,120 @@
-.. |noxbow+513190159425208342| image:: https://cdn.discordapp.com/emojis/513190159425208342.png?v=1
+.. |656786565397348361.png| image:: https://cdn.discordapp.com/emojis/656786565397348361.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |praeswand+643166769518739477| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
+.. |615618531937222657.png| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tmwbody+536966366272552960| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
+.. |513190159429271562.png| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |drygorelongmh+513190158900658180| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cade+535541306353778689| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+.. |543478434953822208.png| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphitedefender+643151141382651907| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
+.. |641670143197446182.png| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |536252659670188042.png| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |RoD+513190159462825984| image:: https://cdn.discordapp.com/emojis/513190159462825984.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Laceration+602581988599398400| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |vigour+615613235512737792| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bbc+626714879218155521| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |barrowsmalevlegs+580177522831130634| image:: https://cdn.discordapp.com/emojis/580177522831130634.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |noxscythe+513190159341322240| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |pinkpouch+656786565397348361| image:: https://cdn.discordapp.com/emojis/656786565397348361.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |detoboots+602581956072439828| image:: https://cdn.discordapp.com/emojis/602581956072439828.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |seiswand+583429704837758997| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Naturerune+536252660270104591| image:: https://cdn.discordapp.com/emojis/536252660270104591.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |SaraBook+574290439482638346| image:: https://cdn.discordapp.com/emojis/574290439482638346.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |greenpouch+690848914638766082| image:: https://cdn.discordapp.com/emojis/690848914638766082.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |noxstaff+513190159294922753| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |SBSLunars+565726489467682816| image:: https://cdn.discordapp.com/emojis/565726489467682816.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ent+567727987274022924| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kalphiterepriser+643846849362657280| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elysianspiritshield+690976217792250007| image:: https://cdn.discordapp.com/emojis/690976217792250007.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Enfeeble+567727986409734145| image:: https://cdn.discordapp.com/emojis/567727986409734145.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Merciless_kiteshield+536258779730411531| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |torvabody+643166871285137458| image:: https://cdn.discordapp.com/emojis/643166871285137458.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Mudrune+536252660286881832| image:: https://cdn.discordapp.com/emojis/536252660286881832.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mechchin+641669268722810881| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gstaff+513203008608141314| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sd+537341954392850442| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DTB+513190159429271562| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sos+626466320132734976| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spellcaster+643214402169864213| image:: https://cdn.discordapp.com/emojis/643214402169864213.png?v=1
+.. |536966366272552960.png| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |achtoprimevaltop+641344704939819028| image:: https://cdn.discordapp.com/emojis/641344704939819028.png?v=1
+.. |643166871285137458.png| image:: https://cdn.discordapp.com/emojis/643166871285137458.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HealOther+567727985851891715| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |khopeshmh+513206794844110858| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+.. |535541306353778689.png| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aos+513190158359724056| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |565726489467682816.png| image:: https://cdn.discordapp.com/emojis/565726489467682816.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dustrune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Reaper+513190159412494367| image:: https://cdn.discordapp.com/emojis/513190159412494367.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cept+543478434509357098| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |grim+568262896375824385| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<i>| raw:: html
-
-    <i>
-
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |643846849362657280.png| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |NMG+513190159441723392| image:: https://cdn.discordapp.com/emojis/513190159441723392.png?v=1
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |615613235512737792.png| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |asr+513190158472839208| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
+.. |513190159462825984.png| image:: https://cdn.discordapp.com/emojis/513190159462825984.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+.. |690848914638766082.png| image:: https://cdn.discordapp.com/emojis/690848914638766082.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aoskit+583430147487563776| image:: https://cdn.discordapp.com/emojis/583430147487563776.png?v=1
+.. |537340400185245701.png| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+.. |641669268722810881.png| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |626714879218155521.png| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ascmh+513190158468775936| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
+.. |537341954392850442.png| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |643151141382651907.png| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+.. |694566917456789554.png| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |643846849223983125.png| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |eof+745279787894833313| image:: https://cdn.discordapp.com/emojis/745279787894833313.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
 
-.. |blackpouch+656786565359599626| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -334,19 +122,231 @@
 
     <u>
 
-.. |kalphiterebounder+643846849223983125| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+.. |602581988599398400.png| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |debil+535541278264393729| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
+.. |583430147487563776.png| image:: https://cdn.discordapp.com/emojis/583430147487563776.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |masterworkbody+643847056527458324| image:: https://cdn.discordapp.com/emojis/643847056527458324.png?v=1
+.. |513190158472839208.png| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Cruelty+513190159546712074| image:: https://cdn.discordapp.com/emojis/513190159546712074.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |513203008608141314.png| image:: https://cdn.discordapp.com/emojis/513203008608141314.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159425208342.png| image:: https://cdn.discordapp.com/emojis/513190159425208342.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |536252659615924258.png| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643214402169864213.png| image:: https://cdn.discordapp.com/emojis/643214402169864213.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |567727987274022924.png| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690976217792250007.png| image:: https://cdn.discordapp.com/emojis/690976217792250007.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159441723392.png| image:: https://cdn.discordapp.com/emojis/513190159441723392.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |567727985851891715.png| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |626466320132734976.png| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |568262896375824385.png| image:: https://cdn.discordapp.com/emojis/568262896375824385.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |574290439482638346.png| image:: https://cdn.discordapp.com/emojis/574290439482638346.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252661406760970.png| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565359599626.png| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537338981747261446.png| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641344704939819028.png| image:: https://cdn.discordapp.com/emojis/641344704939819028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159546712074.png| image:: https://cdn.discordapp.com/emojis/513190159546712074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159412494367.png| image:: https://cdn.discordapp.com/emojis/513190159412494367.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565149884427.png| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429704837758997.png| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541278264393729.png| image:: https://cdn.discordapp.com/emojis/535541278264393729.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536258779730411531.png| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159294922753.png| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660286881832.png| image:: https://cdn.discordapp.com/emojis/536252660286881832.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |567727986409734145.png| image:: https://cdn.discordapp.com/emojis/567727986409734145.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |602581956072439828.png| image:: https://cdn.discordapp.com/emojis/602581956072439828.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158900658180.png| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |513190158359724056.png| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643166769518739477.png| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |536252660270104591.png| image:: https://cdn.discordapp.com/emojis/536252660270104591.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158468775936.png| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |580177522831130634.png| image:: https://cdn.discordapp.com/emojis/580177522831130634.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513206794844110858.png| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659850674186.png| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158355660812.png| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848915020447745.png| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543478434509357098.png| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159341322240.png| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643847056527458324.png| image:: https://cdn.discordapp.com/emojis/643847056527458324.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |745279787894833313.png| image:: https://cdn.discordapp.com/emojis/745279787894833313.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -367,7 +367,7 @@ Armour
 
 
 
-|torvabody+643166871285137458| |<b>| T80 Armour |</b>|
+|643166871285137458.png| |<b>| T80 Armour |</b>|
 
 - The standard armour for all PvMing
 
@@ -380,7 +380,7 @@ Armour
 
 
 
-|masterworkbody+643847056527458324| |<b>| T90 Armour |</b>|
+|643847056527458324.png| |<b>| T90 Armour |</b>|
 
 - Better defensive bonuses, as well as marginal dps increase over T80 armour.
 
@@ -391,7 +391,7 @@ Armour
 
 
 
-|tmwbody+536966366272552960| |<b>| T92 Armour |</b>|
+|536966366272552960.png| |<b>| T92 Armour |</b>|
 
 - The best armour. Relatively small defense and dps boost vs T90 armour.
 
@@ -410,7 +410,7 @@ Armour
 
 
 
-|achtoprimevaltop+641344704939819028| |<b>| Achto |</b>|
+|641344704939819028.png| |<b>| Achto |</b>|
 
 - T90 tank armour that has a chance to reset all defensive cooldowns when atleast 3 pieces are worn (2% chance per piece worn).
 
@@ -425,7 +425,7 @@ Armour
 
 
 
-|Cinderbanes+513190158355660812| |<b>| Cinderbanes |</b>|
+|513190158355660812.png| |<b>| Cinderbanes |</b>|
 
 - BiS gloves for poisonable targets
 
@@ -438,7 +438,7 @@ Armour
 
 
 
-|NMG+513190159441723392| |<b>| Nightmare Gauntlets |</b>|
+|513190159441723392.png| |<b>| Nightmare Gauntlets |</b>|
 
 - Passive Effect:
 
@@ -455,7 +455,7 @@ Armour
 
 
 
-|DTB+513190159429271562| |<b>| Deathtouch Bracelet |</b>|
+|513190159429271562.png| |<b>| Deathtouch Bracelet |</b>|
 
 - Passive Effect:
 
@@ -470,7 +470,7 @@ Armour
 
 
 
-|spellcaster+643214402169864213| |<b>| Dominion Tower Gloves |</b>|
+|643214402169864213.png| |<b>| Dominion Tower Gloves |</b>|
 
 - Of these gloves, the only ones that see any niche use in PvM are |<i>| Spellcaster Gloves |</i>| . When casting a basic ability or an auto attack with these worn, there is a 5% chance of the following effect being applied:
 
@@ -491,7 +491,7 @@ Armour
 
 
 
-|detoboots+602581956072439828| |<b>| Blast Diffusion Boots |</b>|
+|602581956072439828.png| |<b>| Blast Diffusion Boots |</b>|
 
 - Halves the charge time of the Detonate ability.
 
@@ -504,7 +504,7 @@ Armour
 
 
 
-|Laceration+602581988599398400| |<b>| Laceration Boots |</b>|
+|602581988599398400.png| |<b>| Laceration Boots |</b>|
 
 - Allows Bladed Dive to be used with only a mainhand or 2h melee weapon
 
@@ -523,7 +523,7 @@ Weapons
 
 
 
-|noxscythe+513190159341322240| |<b>| T90 Weapons |</b>|
+|513190159341322240.png| |<b>| T90 Weapons |</b>|
 
 
 
@@ -536,7 +536,7 @@ Weapons
 
 |<b>| |<u>| Melee |</u>| |</b>|
 
-|noxscythe+513190159341322240| |<b>| Noxious Scythe |</b>|
+|513190159341322240.png| |<b>| Noxious Scythe |</b>|
 
 - BiS halberd-range weapon. Good for AoE and staying out of melee distance.
 
@@ -552,7 +552,7 @@ Weapons
 
 
 
-|drygorelongmh+513190158900658180| |<b>| Drygores |</b>|
+|513190158900658180.png| |<b>| Drygores |</b>|
 
 - Note: All Drygore variants will be the same overall dps, maces however will allow you to 5taa should the need arise.
 
@@ -565,7 +565,7 @@ Weapons
 
 |<b>| |<u>| Magic |</u>| |</b>|
 
-|noxstaff+513190159294922753| |<b>| Noxious Staff |</b>|
+|513190159294922753.png| |<b>| Noxious Staff |</b>|
 
 - Special Attack: |<i>| Mirrorback |</i>|
 
@@ -579,7 +579,7 @@ Weapons
 
 
 
-|seiswand+583429704837758997| |<b>| Seismic Wand and Singularity |</b>|
+|583429704837758997.png| |<b>| Seismic Wand and Singularity |</b>|
 
 - Priority ``High``
 
@@ -590,7 +590,7 @@ Weapons
 
 |<u>| |<b>| Ranged |</b>| |</u>|
 
-|noxbow+513190159425208342| |<b>| Noxious Longbow |</b>|
+|513190159425208342.png| |<b>| Noxious Longbow |</b>|
 
 - Note: Can make kiting easier due to longer range than Ascension crossbows.
 
@@ -606,7 +606,7 @@ Weapons
 
 
 
-|ascmh+513190158468775936| |<b>| Ascension Crossbows |</b>|
+|513190158468775936.png| |<b>| Ascension Crossbows |</b>|
 
 - Typically used with bakriminel bolts making them superior to 2h bows in almost all scenarios.
 
@@ -617,11 +617,11 @@ Weapons
 
 
 
-|zgs+626465964325601290| |<b>| T92 Weapons |</b>|
+|626465964325601290.png| |<b>| T92 Weapons |</b>|
 
 |<u>| |<b>| Melee |</b>| |</u>|
 
-|zgs+626465964325601290| |<b>| Zaros Godsword |</b>|
+|626465964325601290.png| |<b>| Zaros Godsword |</b>|
 
 - Special Attack: |<i>| Blackhole |</i>|
 
@@ -635,7 +635,7 @@ Weapons
 
 
 
-|masterworkspearofannihilation+694566917456789554| |<b>| Masterwork Spear of Annihilation |</b>|
+|694566917456789554.png| |<b>| Masterwork Spear of Annihilation |</b>|
 
 - Passive Effect: Increases duration of melee bleed abilities by 50%.
 
@@ -651,7 +651,7 @@ Weapons
 
 
 
-|khopeshmh+513206794844110858| |<b>| Khopesh of Tumeken and Khopesh of Elidinis |</b>|
+|513206794844110858.png| |<b>| Khopesh of Tumeken and Khopesh of Elidinis |</b>|
 
 - Priority: ``Medium``
 
@@ -662,7 +662,7 @@ Weapons
 
 |<b>| |<u>| Magic |</u>| |</b>|
 
-|Sos+626466320132734976| |<b>| Staff of Sliske |</b>|
+|626466320132734976.png| |<b>| Staff of Sliske |</b>|
 
 - Special Attack: |<i>| From the Shadows |</i>|
 
@@ -678,7 +678,7 @@ Weapons
 
 
 
-|praeswand+643166769518739477| |<b>| Praesul Wand and Imperium Core |</b>|
+|643166769518739477.png| |<b>| Praesul Wand and Imperium Core |</b>|
 
 - Priority: ``Medium``
 
@@ -686,7 +686,7 @@ Weapons
 
 |<b>| |<u>| Ranged |</u>| |</b>|
 
-|sgb+626466665848242186| |<b>| Seren Godbow |</b>|
+|626466665848242186.png| |<b>| Seren Godbow |</b>|
 
 - Special Attack: |<i>| Crystal Rain |</i>|
 
@@ -704,7 +704,7 @@ Weapons
 
 
 
-|ecb+615618531937222657| |<b>| Eldritch Crossbow |</b>|
+|615618531937222657.png| |<b>| Eldritch Crossbow |</b>|
 
 - Special Attack: |<i>| Split Soul |</i>|
 
@@ -720,7 +720,7 @@ Weapons
 
 
 
-|bbc+626714879218155521| |<b>| Blightbound Crossbow |</b>|
+|626714879218155521.png| |<b>| Blightbound Crossbow |</b>|
 
 - 25% chance per bow to save Bakriminel Bolts, up to 50% with both crossbows.
 
@@ -733,7 +733,7 @@ Weapons
 
 |<b>| |<u>| Special Weapons |</u>| |</b>|
 
-|gstaff+513203008608141314| |<b>| Guthix's Staff |</b>|
+|513203008608141314.png| |<b>| Guthix's Staff |</b>|
 
 - T60 staff earned from the Mage Arena:
 
@@ -756,7 +756,7 @@ Weapons
 
 
 
-|swh+641670143197446182| |<b>| Statius Warhammer |</b>|
+|641670143197446182.png| |<b>| Statius Warhammer |</b>|
 
 - T78 mainhand weapon that can be upgraded to a T88 superior version.
 
@@ -768,7 +768,7 @@ Weapons
 
       - Reduces target's Defence level by 30% and applies a debuff that increases the target's affinity values by 5.
 
-- Generally used in situations where higher hitchance is needed. This is even used when using Magic or Ranged in conjunction with the Ingenuity of the Humans |ingen+641339234111848463| ability.
+- Generally used in situations where higher hitchance is needed. This is even used when using Magic or Ranged in conjunction with the Ingenuity of the Humans |641339234111848463.png| ability.
 
 - Priority: ``High``
 
@@ -777,7 +777,7 @@ Weapons
 
 
 
-|mechchin+641669268722810881| |<b>| Mechanical Chinchompas |</b>|
+|641669268722810881.png| |<b>| Mechanical Chinchompas |</b>|
 
 - T75 Chinchompa weapon. Has T81.5 damage and will hit up to 9 targets in a 3x3 area around your target. If the target is 2x2 or larger, this 3x3 area will be centered on the southwest-most square the target occupies.
 
@@ -800,11 +800,11 @@ Defenders and Shields
 
 
 
-|Merciless_kiteshield+536258779730411531| |<b>| T90 Shield |</b>|
+|536258779730411531.png| |<b>| T90 Shield |</b>|
 
 - BiS Shields
 
-      - Any defensives that scale with shield level (Resonance |res+535541258844635148| , Debilitate |debil+535541278264393729| , and Barricade |cade+535541306353778689| ) will be most effective with a t90 shield
+      - Any defensives that scale with shield level (Resonance |535541258844635148.png| , Debilitate |535541278264393729.png| , and Barricade |535541306353778689.png| ) will be most effective with a t90 shield
 
       - Note: The right click voke options of these shields allow you to drop target when using ability queueing
 
@@ -815,7 +815,7 @@ Defenders and Shields
 
 
 
-|elysianspiritshield+690976217792250007| |<b>| Spirit Shields |</b>|
+|690976217792250007.png| |<b>| Spirit Shields |</b>|
 
 - Tier 75 Shield.
 
@@ -823,7 +823,7 @@ Defenders and Shields
 
       - Only useful in places you would shield camp, e.g. raids basing on slow teams.
 
-	  - Lower tier means that Resonance |res+535541258844635148| and Barricade |cade+535541306353778689| are rendered less effective. If using these frequently, it would be better to use a T90 shield instead.
+	  - Lower tier means that Resonance |535541258844635148.png| and Barricade |535541306353778689.png| are rendered less effective. If using these frequently, it would be better to use a T90 shield instead.
 
 - Priority: ``Low``
 
@@ -832,7 +832,7 @@ Defenders and Shields
 
 
 
-|kalphiterepriser+643846849362657280| |<b>| Kalphite Repriser |</b>|
+|643846849362657280.png| |<b>| Kalphite Repriser |</b>|
 
 - Like all defenders it has the following passives:
 
@@ -851,7 +851,7 @@ Defenders and Shields
 
 
 
-|kalphitedefender+643151141382651907| |<b>| Kalphite Defender |</b>|
+|643151141382651907.png| |<b>| Kalphite Defender |</b>|
 
 - Like all defenders it has the following passives:
 
@@ -870,7 +870,7 @@ Defenders and Shields
 
 
 
-|kalphiterebounder+643846849223983125| |<b>| Kalphite Rebounder |</b>|
+|643846849223983125.png| |<b>| Kalphite Rebounder |</b>|
 
 - Like all defenders it has the following passives:
 
@@ -897,7 +897,7 @@ Jewellery
 
 
 
-|RoD+513190159462825984| |<b>| Ring of Death |</b>|
+|513190159462825984.png| |<b>| Ring of Death |</b>|
 
 - BiS degradable ring statwise with the following passives:
 
@@ -918,7 +918,7 @@ Jewellery
 
 
 
-|asr+513190158472839208| |<b>| Asylum Surgeon's Ring |</b>|
+|513190158472839208.png| |<b>| Asylum Surgeon's Ring |</b>|
 
 - A ring with the following passives:
 
@@ -937,7 +937,7 @@ Jewellery
 
 
 
-|vigour+615613235512737792| |<b>| Ring of Vigour |</b>|
+|615613235512737792.png| |<b>| Ring of Vigour |</b>|
 
 - A ring with the following passives:
 
@@ -954,7 +954,7 @@ Jewellery
 
 
 
-|aos+513190158359724056| |<b>| Amulet of Souls |</b>|
+|513190158359724056.png| |<b>| Amulet of Souls |</b>|
 
 - Passive: 50% chance to make Soul Split heal 25-50% more (~18.75% increase in average healing) and increases protection prayer effectiveness by an additive +10% for a total of 60% damage reduction.
 
@@ -965,7 +965,7 @@ Jewellery
 
 
 
-|Reaper+513190159412494367| |<b>| Reaper Necklace |</b>|
+|513190159412494367.png| |<b>| Reaper Necklace |</b>|
 
 - Passive: All successful hits give a 0.1% hitchance boost for 54s since last attack, capping at 30 stacks for a 3% total increase in hitchance.
 
@@ -976,9 +976,9 @@ Jewellery
 
 
 
-|eof+745279787894833313| |<b>| Essence of Finality amulet |</b>|
+|745279787894833313.png| |<b>| Essence of Finality amulet |</b>|
 
-- Passive: This combines the effect of Amulet of Souls |aos+513190158359724056| and Reaper Necklace |Reaper+513190159412494367| into a single amulet.
+- Passive: This combines the effect of Amulet of Souls |513190158359724056.png| and Reaper Necklace |513190159412494367.png| into a single amulet.
 
 - Priority: ``N/A`` (waiting for price to settle)
 
@@ -987,9 +987,9 @@ Jewellery
 
 
 
-|aoskit+583430147487563776| |<b>| Ornament Kits |</b>|
+|583430147487563776.png| |<b>| Ornament Kits |</b>|
 
-- Refer to the Amulet of Souls |aos+513190158359724056| , Reaper Necklace |Reaper+513190159412494367| , and Essence of Finality |eof+745279787894833313| .
+- Refer to the Amulet of Souls |513190158359724056.png| , Reaper Necklace |513190159412494367.png| , and Essence of Finality |745279787894833313.png| .
 
 - Provides a +2 (+3 for Essence of Finality) to all style bonuses when combined with the base jewellery.
 
@@ -1008,7 +1008,7 @@ Miscellaneous
 
 
 
-|Cruelty+513190159546712074| Scrimshaws
+|513190159546712074.png| Scrimshaws
 
 - Scrimshaw of the Elements
 
@@ -1025,7 +1025,7 @@ Miscellaneous
 
 
 
-|SaraBook+574290439482638346| |<b>| God Books |</b>|
+|574290439482638346.png| |<b>| God Books |</b>|
 
 - These books come with various effects when active, as well as offering style bonuses as a pocket slot item.
 
@@ -1042,7 +1042,7 @@ Miscellaneous
 
 
 
-|grim+568262896375824385| |<b>| Erethdor's Grimoire |</b>|
+|568262896375824385.png| |<b>| Erethdor's Grimoire |</b>|
 
 - When activated, every hit has a 12% chance to become a forced critical hit. This stacks with the Biting perk for a maximum of 18% chance per ability. It also raises your max hit to 15k for critical hits.
 
@@ -1053,7 +1053,7 @@ Miscellaneous
 
 
 
-|runepouch+583430011868938283| |<b>| Large rune pouches |</b>|
+|583430011868938283.png| |<b>| Large rune pouches |</b>|
 
 - Allows you to store 16k of 3 different runes per pouch.
 
@@ -1070,69 +1070,69 @@ Miscellaneous
 
 |<b>| |<u>| Rune Pouch Setup |</u>| |</b>|
 
-- |runepouch+583430011868938283| : |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
+- |583430011868938283.png| : |536252658986647589.png| |536252659422855188.png| |536252660333019136.png|
 
-- |redpouch+690848915020447745| : |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280|
+- |690848915020447745.png| : |536252658970001409.png| |536252659850674186.png| |536252659301089280.png|
 
-- |purppouch+656786565149884427| : |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
+- |656786565149884427.png| : |536252659615924258.png| |536252658961481769.png| |536252661406760970.png|
 
-- |bluepouch+656786565527502858| : |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
+- |656786565527502858.png| : |536252660165115905.png| |536252659586433024.png| |536252659808731137.png|
 
-- |greenpouch+690848914638766082| : |Chaosrune+536252659422855188| |Naturerune+536252660270104591| |Soulrune+536252660333019136|
+- |690848914638766082.png| : |536252659422855188.png| |536252660270104591.png| |536252660333019136.png|
 
-- |blackpouch+656786565359599626| : |Soulrune+536252660333019136| |Waterrune+536252660165115905| |Dustrune+536252659670188042|
+- |656786565359599626.png| : |536252660333019136.png| |536252660165115905.png| |536252659670188042.png|
 
-- |yellowpouch+690848914949144616| : |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
+- |690848914949144616.png| : |536252658970001409.png| |536252658961481769.png| |536252659301089280.png|
 
-- |pinkpouch+656786565397348361| : |Deathrune+536252659586433024| |Mudrune+536252660286881832| |Soulrune+536252660333019136|
-
-
+- |656786565397348361.png| : |536252659586433024.png| |536252660286881832.png| |536252660333019136.png|
 
 
 
 
 
 
-|<b>| Normal Spellbook: |</b>| |runepouch+583430011868938283|
-
-	Spells used: |AirSurge+543465115870035999| |Vuln+537349530551582720|
 
 
+|<b>| Normal Spellbook: |</b>| |583430011868938283.png|
 
-|<b>| General Borrowed Power Mage (no Shield Dome): |</b>| |redpouch+690848915020447745| + |purppouch+656786565149884427| + |bluepouch+656786565527502858|
-
-	Spells used: |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |SBSLunars+565726489467682816| |disrupt+535614336207552523| |Veng+543478434953822208|
+	Spells used: |543465115870035999.png| |537349530551582720.png|
 
 
 
-|<b>| General Borrowed Power mage (with Shield Dome): |</b>|  |redpouch+690848915020447745| + |purppouch+656786565149884427| + |pinkpouch+656786565397348361|
+|<b>| General Borrowed Power Mage (no Shield Dome): |</b>| |690848915020447745.png| + |656786565149884427.png| + |656786565527502858.png|
 
-	Spells used: |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |SBSLunars+565726489467682816| |disrupt+535614336207552523| |Veng+543478434953822208| |sd+537341954392850442|
-
-
-
-|<b>| Melee/Ranged Lunars: |</b>| |bluepouch+656786565527502858| + |yellowpouch+690848914949144616|
-
-	Spells used: |disrupt+535614336207552523| |Veng+543478434953822208|
+	Spells used: |537338981747261446.png| |537340400185245701.png| |565726489467682816.png| |535614336207552523.png| |543478434953822208.png|
 
 
 
-|<b>| Telos 1k+: |</b>| |redpouch+690848915020447745| + |purppouch+656786565149884427| + |bluepouch+656786565527502858| + |greenpouch+690848914638766082|
+|<b>| General Borrowed Power mage (with Shield Dome): |</b>|  |690848915020447745.png| + |656786565149884427.png| + |656786565397348361.png|
 
-	Spells used: |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |SBSLunars+565726489467682816| |disrupt+535614336207552523| |Veng+543478434953822208| |sd+537341954392850442| |ent+567727987274022924| |Vuln+537349530551582720|
-
-
-
-|<b>| Vorago: |</b>| |redpouch+690848915020447745| + |purppouch+656786565149884427| + |blackpouch+656786565359599626|
-
-	Spells used: |bloodbarrage+537338981747261446| |SBSLunars+565726489467682816| |disrupt+535614336207552523| |sd+537341954392850442| |Cept+543478434509357098| |HealOther+567727985851891715| |Enfeeble+567727986409734145|
+	Spells used: |537338981747261446.png| |537340400185245701.png| |565726489467682816.png| |535614336207552523.png| |543478434953822208.png| |537341954392850442.png|
 
 
 
+|<b>| Melee/Ranged Lunars: |</b>| |656786565527502858.png| + |690848914949144616.png|
+
+	Spells used: |535614336207552523.png| |543478434953822208.png|
 
 
 
-|barrowsmalevlegs+580177522831130634| |<b>| Dyed Switches |</b>|
+|<b>| Telos 1k+: |</b>| |690848915020447745.png| + |656786565149884427.png| + |656786565527502858.png| + |690848914638766082.png|
+
+	Spells used: |537338981747261446.png| |537340400185245701.png| |565726489467682816.png| |535614336207552523.png| |543478434953822208.png| |537341954392850442.png| |567727987274022924.png| |537349530551582720.png|
+
+
+
+|<b>| Vorago: |</b>| |690848915020447745.png| + |656786565149884427.png| + |656786565359599626.png|
+
+	Spells used: |537338981747261446.png| |565726489467682816.png| |535614336207552523.png| |537341954392850442.png| |543478434509357098.png| |567727985851891715.png| |567727986409734145.png|
+
+
+
+
+
+
+|580177522831130634.png| |<b>| Dyed Switches |</b>|
 
 - This just means you dye a switch so you can can have t92/t90 damage when making use of a switch like Flank or non-mobile Barge
 

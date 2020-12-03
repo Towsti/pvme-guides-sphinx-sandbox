@@ -1,44 +1,10 @@
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif| image:: https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif
+
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |arcanesigil+643161640350646293| image:: https://cdn.discordapp.com/emojis/643161640350646293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/ZLZzvG4.png| image:: https://i.imgur.com/ZLZzvG4.png
-
-.. |corporealbone+643162604361089080| image:: https://cdn.discordapp.com/emojis/643162604361089080.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/OBVXVEc.png| image:: https://i.imgur.com/OBVXVEc.png
-
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -46,115 +12,149 @@
 
     </u>
 
-.. |</b>| raw:: html
+.. |643161640107245580.png| image:: https://cdn.discordapp.com/emojis/643161640107245580.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </b>
+.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/GIExXXw.png| image:: https://i.imgur.com/GIExXXw.png
+
+.. |739965637056659567.png| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879376023572.png| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854327640064.png| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/ZLZzvG4.png| image:: https://i.imgur.com/ZLZzvG4.png
+
+.. |694566917456789554.png| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643161660231516165.png| image:: https://cdn.discordapp.com/emojis/643161660231516165.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/OBVXVEc.png| image:: https://i.imgur.com/OBVXVEc.png
+
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879237873666.png| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |aos+513190158359724056| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643161640162033666.png| image:: https://cdn.discordapp.com/emojis/643161640162033666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505653062565907.png| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643161640350646293.png| image:: https://cdn.discordapp.com/emojis/643161640350646293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643162604361089080.png| image:: https://cdn.discordapp.com/emojis/643162604361089080.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532853979512842.png| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/BRMEDBz.png| image:: https://i.imgur.com/BRMEDBz.png
+
+.. |643161659984183351.png| image:: https://cdn.discordapp.com/emojis/643161659984183351.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158359724056.png| image:: https://cdn.discordapp.com/emojis/513190158359724056.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643161640342388767.png| image:: https://cdn.discordapp.com/emojis/643161640342388767.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/GIExXXw.png| image:: https://i.imgur.com/GIExXXw.png
-
-.. |spectralsigil+643161640162033666| image:: https://cdn.discordapp.com/emojis/643161640162033666.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/BRMEDBz.png| image:: https://i.imgur.com/BRMEDBz.png
-
-.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |slaughter+535532879237873666| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spiritshield+643161660231516165| image:: https://cdn.discordapp.com/emojis/643161660231516165.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |persistentrage+739965637056659567| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |divinesigil+643161640342388767| image:: https://cdn.discordapp.com/emojis/643161640342388767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |assault+535532853979512842| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif| image:: https://thumbs.gfycat.com/PartialSameIvorygull-size_restricted.gif
-
-.. |dismember+535532879376023572| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodtendrils+535532854327640064| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |holyelixir+643161659984183351| image:: https://cdn.discordapp.com/emojis/643161659984183351.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elysiansigil+643161640107245580| image:: https://cdn.discordapp.com/emojis/643161640107245580.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 corporeal-beast
 ===============
@@ -188,19 +188,19 @@ Drops
 
 The droprate for obtaining a sigil is ``1/512``. If a player rolls the sigil drop table, there is a ``1/5`` chance of Arcane, ``1/5`` chance of Divine, ``1/5`` chance of Elysian, and ``2/5`` chance of Spectral.
 
-- |spiritshield+643161660231516165|  |<b>| Spirit shield |</b>| ``1/64``
+- |643161660231516165.png|  |<b>| Spirit shield |</b>| ``1/64``
 
-- |holyelixir+643161659984183351|  |<b>| Holy elixir |</b>| ``1/171``
+- |643161659984183351.png|  |<b>| Holy elixir |</b>| ``1/171``
 
-- |spectralsigil+643161640162033666|  |<b>| Spectral sigil |</b>|
+- |643161640162033666.png|  |<b>| Spectral sigil |</b>|
 
-- |arcanesigil+643161640350646293|  |<b>| Arcane sigil |</b>|
+- |643161640350646293.png|  |<b>| Arcane sigil |</b>|
 
-- |divinesigil+643161640342388767|  |<b>| Divine sigil |</b>|
+- |643161640342388767.png|  |<b>| Divine sigil |</b>|
 
-- |elysiansigil+643161640107245580|  |<b>| Elysian sigil |</b>|
+- |643161640107245580.png|  |<b>| Elysian sigil |</b>|
 
-- |corporealbone+643162604361089080|  |<b>| Corporeal bone |</b>| ``1/2500 (500 threshold)``
+- |643162604361089080.png|  |<b>| Corporeal bone |</b>| ``1/2500 (500 threshold)``
 
 
 
@@ -219,9 +219,9 @@ Weapon Poison will stack with the cinderbanes effect. A vampirism scrimshaw will
 
 
 
-- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
+- |690848914949144616.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252658961481769.png| |536252659301089280.png|
 
-(Runes for |disrupt+535614336207552523| )
+(Runes for |535614336207552523.png| )
 
 
 
@@ -242,13 +242,13 @@ This method will net a lower amount of kills per hour but may be used if you do 
 
 For this method it is important to have 3 things:
 
-- |masterworkspearofannihilation+694566917456789554|  |<b>| Masterwork Spear |</b>|
+- |694566917456789554.png|  |<b>| Masterwork Spear |</b>|
 
-- |aosor+544200033847869443| / |aos+513190158359724056|  |<b>| Amulet of souls |</b>|
+- |544200033847869443.png| / |513190158359724056.png|  |<b>| Amulet of souls |</b>|
 
-- |penance+643505653062565907|  |<b>| Penance Aura |</b>|
+- |643505653062565907.png|  |<b>| Penance Aura |</b>|
 
-- |persistentrage+739965637056659567|  |<b>| Persistent Rage relic |</b>|
+- |739965637056659567.png|  |<b>| Persistent Rage relic |</b>|
 
 
 
@@ -331,7 +331,7 @@ It is done in these steps:
 
 |<u>| |<b>| Non-instanced corp: |</b>| |</u>|
 
-|gbarge+535532879250456578| → |dismember+535532879376023572| → |gflurry+535532879283879977| (stall for 1st hit)> |cleave+535532878616985610| → |zgs+626465964325601290| |spec+537340400273195028| → |sever+535532879577612298| → |gfury+535532879334080527| → |cleave+535532878616985610| → |deci+535532879325822986| → |assault+535532853979512842| → |cleave+535532878616985610| → |deci+535532879325822986| → |cane+535532878969438210| → improvise as it is near death.
+|535532879250456578.png| → |535532879376023572.png| → |535532879283879977.png| (stall for 1st hit)> |535532878616985610.png| → |626465964325601290.png| |537340400273195028.png| → |535532879577612298.png| → |535532879334080527.png| → |535532878616985610.png| → |535532879325822986.png| → |535532853979512842.png| → |535532878616985610.png| → |535532879325822986.png| → |535532878969438210.png| → improvise as it is near death.
 
 
 
@@ -340,7 +340,7 @@ It is done in these steps:
 
 |<u>| |<b>| Instanced corp: |</b>| |</u>|
 
-Auto + |dismember+535532879376023572| → |cleave+535532878616985610| → |zerk+535532854004678657| asap + |enhreplen+634350450887622656| / |limitless+641339233638023179|  based on cd (don't use sever on corp unless you are under 60% adren) → |gbarge+535532879250456578| → |cleave+535532878616985610| → |deci+535532879325822986| → |assault+535532853979512842| → |sever+535532879577612298| → |cleave+535532878616985610| → |cane+535532878969438210| → |deci+535532879325822986| → improvise.
+Auto + |535532879376023572.png| → |535532878616985610.png| → |535532854004678657.png| asap + |634350450887622656.png| / |641339233638023179.png|  based on cd (don't use sever on corp unless you are under 60% adren) → |535532879250456578.png| → |535532878616985610.png| → |535532879325822986.png| → |535532853979512842.png| → |535532879577612298.png| → |535532878616985610.png| → |535532878969438210.png| → |535532879325822986.png| → improvise.
 
 
 
@@ -353,7 +353,7 @@ These arent necesarily optimal but instead of throwing a zgs spec (because you d
 
 Looks roughly like:
 
-|gbarge+535532879250456578| → |dismember+535532879376023572| → |gflurry+535532879283879977| → |cleave+535532878616985610| → |sever+535532879577612298| → |deci+535532879325822986| → |slaughter+535532879237873666| → |cleave+535532878616985610| → |assault+535532853979512842| → |bloodtendrils+535532854327640064| → |deci+535532879325822986| → |cleave+535532878616985610| → |cane+535532878969438210| → improvise.
+|535532879250456578.png| → |535532879376023572.png| → |535532879283879977.png| → |535532878616985610.png| → |535532879577612298.png| → |535532879325822986.png| → |535532879237873666.png| → |535532878616985610.png| → |535532853979512842.png| → |535532854327640064.png| → |535532879325822986.png| → |535532878616985610.png| → |535532878969438210.png| → improvise.
 
 
 

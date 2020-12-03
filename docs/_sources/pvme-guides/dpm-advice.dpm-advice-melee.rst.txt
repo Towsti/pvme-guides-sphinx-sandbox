@@ -1,162 +1,142 @@
-.. |fbackhand+535532879346794516| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augdrygoremacemh+697485495684431902| image:: https://cdn.discordapp.com/emojis/697485495684431902.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |tmwbody+536966366272552960| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |drygorelongmh+513190158900658180| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eq1+689504357414207490| image:: https://cdn.discordapp.com/emojis/689504357414207490.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kalphitedefender+643151141382651907| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/mwMXofd.png| image:: https://i.imgur.com/mwMXofd.png
 
-.. |as4+712074245202772009| image:: https://cdn.discordapp.com/emojis/712074245202772009.png?v=1
+.. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |strcape+689503815296352308| image:: https://cdn.discordapp.com/emojis/689503815296352308.png?v=1
+.. |535532879376023572.png| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/aI8RM8r.png| image:: https://i.imgur.com/aI8RM8r.png
-
-.. |as1+689502339891331093| image:: https://cdn.discordapp.com/emojis/689502339891331093.png?v=1
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |assault+535532853979512842| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+.. |643161541931171872.png| image:: https://cdn.discordapp.com/emojis/643161541931171872.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/GPPMjY2wrjw| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/GPPMjY2wrjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |Laceration+602581988599398400| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
+.. |641670143197446182.png| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vigour+615613235512737792| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |580176857140428828.png| image:: https://cdn.discordapp.com/emojis/580176857140428828.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/2Bis7lJ.png| image:: https://i.imgur.com/2Bis7lJ.png
-
-.. |noxscythe+513190159341322240| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+.. |513190158468907012.png| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/gjDPnY1.png| image:: https://i.imgur.com/gjDPnY1.png
-
-.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</i>| raw:: html
-
-    </i>
-
-.. |Ambassador+583430542809235458| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
+.. |535532879510372352.png| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+.. |536966366272552960.png| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |destroy+535532879330148352| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+.. |697405383752548382.png| image:: https://cdn.discordapp.com/emojis/697405383752548382.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dragonriderlance+643161541931171872| image:: https://cdn.discordapp.com/emojis/643161541931171872.png?v=1
+.. |689504357414207490.png| image:: https://cdn.discordapp.com/emojis/689504357414207490.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |replenpot+641337470491033600| image:: https://cdn.discordapp.com/emojis/641337470491033600.png?v=1
+.. |https://i.imgur.com/sQpb7RM.mp4| image:: https://i.imgur.com/sQpb7RM.mp4
+
+.. |513190159416557573.png| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vorago+572867742613635082| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
+.. |583430542809235458.png| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+.. |572867742613635082.png| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |fury+535532879510372352| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
+.. |615613235512737792.png| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eq2+689502258424971564| image:: https://cdn.discordapp.com/emojis/689502258424971564.png?v=1
+.. |535532854302605333.png| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientweapongizmo+697405383752548382| image:: https://cdn.discordapp.com/emojis/697405383752548382.png?v=1
+.. |643151141382651907.png| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ruthless1+712244800924942396| image:: https://cdn.discordapp.com/emojis/712244800924942396.png?v=1
+.. |656785061072338954.png| image:: https://cdn.discordapp.com/emojis/656785061072338954.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowskhopeshoh+580176857140428828| image:: https://cdn.discordapp.com/emojis/580176857140428828.png?v=1
+.. |513206794752098327.png| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/1zvgPM9.png| image:: https://i.imgur.com/1zvgPM9.png
-
-.. |terramaul+602561894829522954| image:: https://cdn.discordapp.com/emojis/602561894829522954.png?v=1
+.. |694566917456789554.png| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Seiryu+583430543321071626| image:: https://cdn.discordapp.com/emojis/583430543321071626.png?v=1
+.. |697405383769194516.png| image:: https://cdn.discordapp.com/emojis/697405383769194516.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |quake+535532879506309150| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |602581988599398400.png| image:: https://cdn.discordapp.com/emojis/602581988599398400.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |khopeshmh+513206794844110858| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+.. |689503815296352308.png| image:: https://cdn.discordapp.com/emojis/689503815296352308.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |602561894829522954.png| image:: https://cdn.discordapp.com/emojis/602561894829522954.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/SxmrcM5.png| image:: https://i.imgur.com/SxmrcM5.png
+
+.. |580176857144492042.png| image:: https://cdn.discordapp.com/emojis/580176857144492042.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -164,119 +144,17 @@
 
     <b>
 
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/fuHQDk3.png| image:: https://i.imgur.com/fuHQDk3.png
-
-.. |https://i.imgur.com/sQpb7RM.mp4| image:: https://i.imgur.com/sQpb7RM.mp4
-
-.. |rapieroh+656785061072338954| image:: https://cdn.discordapp.com/emojis/656785061072338954.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |assault+535532855191928842| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |<i>| raw:: html
 
     <i>
 
-.. |https://youtu.be/5gX2iBeToPk| raw:: html
+.. |https://i.imgur.com/fuHQDk3.png| image:: https://i.imgur.com/fuHQDk3.png
 
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/5gX2iBeToPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |dismember+535532879376023572| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+.. |697485495684431902.png| image:: https://cdn.discordapp.com/emojis/697485495684431902.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |khopeshoh+513206794752098327| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |barrowskhopeshmh+580176857144492042| image:: https://cdn.discordapp.com/emojis/580176857144492042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |biting4+712073087809617931| image:: https://cdn.discordapp.com/emojis/712073087809617931.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |backhand+535532854302605333| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/SxmrcM5.png| image:: https://i.imgur.com/SxmrcM5.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |Berserk+513190158468907012| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |p6+712073088769982475| image:: https://cdn.discordapp.com/emojis/712073088769982475.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |BSD+583430542326759435| image:: https://cdn.discordapp.com/emojis/583430542326759435.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augdrygorerapieroh+697485495718117536| image:: https://cdn.discordapp.com/emojis/697485495718117536.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |malevbody+643846996842512405| image:: https://cdn.discordapp.com/emojis/643846996842512405.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/w0sVzOo.png| image:: https://i.imgur.com/w0sVzOo.png
-
-.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientarmourgizmo+697405383769194516| image:: https://cdn.discordapp.com/emojis/697405383769194516.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |aod+580167371365548042| image:: https://cdn.discordapp.com/emojis/580167371365548042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |flank4+712073088296157185| image:: https://cdn.discordapp.com/emojis/712073088296157185.png?v=1
+.. |580167371310891029.png| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -284,7 +162,129 @@
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/9cwMPBt6mg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |solak+580167371310891029| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
+.. |712073088296157185.png| image:: https://cdn.discordapp.com/emojis/712073088296157185.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641337470491033600.png| image:: https://cdn.discordapp.com/emojis/641337470491033600.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689502339891331093.png| image:: https://cdn.discordapp.com/emojis/689502339891331093.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430542326759435.png| image:: https://cdn.discordapp.com/emojis/583430542326759435.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |580167371365548042.png| image:: https://cdn.discordapp.com/emojis/580167371365548042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158900658180.png| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532855191928842.png| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/GPPMjY2wrjw| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/GPPMjY2wrjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://i.imgur.com/w0sVzOo.png| image:: https://i.imgur.com/w0sVzOo.png
+
+.. |https://i.imgur.com/2Bis7lJ.png| image:: https://i.imgur.com/2Bis7lJ.png
+
+.. |535532853979512842.png| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879346794516.png| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |643846996842512405.png| image:: https://cdn.discordapp.com/emojis/643846996842512405.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/gjDPnY1.png| image:: https://i.imgur.com/gjDPnY1.png
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879506309150.png| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/1zvgPM9.png| image:: https://i.imgur.com/1zvgPM9.png
+
+.. |https://youtu.be/5gX2iBeToPk| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/5gX2iBeToPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |712073088769982475.png| image:: https://cdn.discordapp.com/emojis/712073088769982475.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |712074245202772009.png| image:: https://cdn.discordapp.com/emojis/712074245202772009.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/aI8RM8r.png| image:: https://i.imgur.com/aI8RM8r.png
+
+.. |513206794844110858.png| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |712073087809617931.png| image:: https://cdn.discordapp.com/emojis/712073087809617931.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430543321071626.png| image:: https://cdn.discordapp.com/emojis/583430543321071626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |697485495718117536.png| image:: https://cdn.discordapp.com/emojis/697485495718117536.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159341322240.png| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |712244800924942396.png| image:: https://cdn.discordapp.com/emojis/712244800924942396.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689502258424971564.png| image:: https://cdn.discordapp.com/emojis/689502258424971564.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -490,51 +490,51 @@ Having said that, PVME recommends upgrading your melee kit in this order (orderi
 
 
 
-- Scythe AND/OR Drygores |noxscythe+513190159341322240| |augdrygoremacemh+697485495684431902| |augdrygorerapieroh+697485495718117536|
+- Scythe AND/OR Drygores |513190159341322240.png| |697485495684431902.png| |697485495718117536.png|
 
-- Entry Level Perks |ancientweapongizmo+697405383752548382| |ancientarmourgizmo+697405383769194516| 
+- Entry Level Perks |697405383752548382.png| |697405383769194516.png| 
 
-- Malevolent Armour |malevbody+643846996842512405|
+- Malevolent Armour |643846996842512405.png|
 
-- Greater Barge |gbarge+535532879250456578| 
+- Greater Barge |535532879250456578.png| 
 
-- Greater Flurry |gflurry+535532879283879977| 
+- Greater Flurry |535532879283879977.png| 
 
-- An off-hand Lunging 4 switch + Strength Skillcape |rapieroh+656785061072338954| |strcape+689503815296352308|
+- An off-hand Lunging 4 switch + Strength Skillcape |656785061072338954.png| |689503815296352308.png|
 
-- Biting 4 |biting4+712073087809617931|
+- Biting 4 |712073087809617931.png|
 
-- An off-hand t90 Flanking 4 Switch. |flank4+712073088296157185|
+- An off-hand t90 Flanking 4 Switch. |712073088296157185.png|
 
-- Zaros Godsword |zgs+626465964325601290| 
+- Zaros Godsword |626465964325601290.png| 
 
-- Malevolence |Malevolence+513190159416557573| 
+- Malevolence |513190159416557573.png| 
 
-- Masterwork Spear of Annihilation |masterworkspearofannihilation+694566917456789554|
+- Masterwork Spear of Annihilation |694566917456789554.png|
 
-- Limitless |limitless+641339233638023179| 
+- Limitless |641339233638023179.png| 
 
-- Khopesh of Tumeken |khopeshmh+513206794844110858| 
+- Khopesh of Tumeken |513206794844110858.png| 
 
-- P6AS1 + AS4E2 (or P6R1 on 2h) |p6+712073088769982475| |as1+689502339891331093| |as4+712074245202772009| |eq2+689502258424971564| |ruthless1+712244800924942396|
+- P6AS1 + AS4E2 (or P6R1 on 2h) |712073088769982475.png| |689502339891331093.png| |712074245202772009.png| |689502258424971564.png| |712244800924942396.png|
 
-- Laceration Boots |Laceration+602581988599398400| 
+- Laceration Boots |602581988599398400.png| 
 
-- Custom Fitted Trimmed Masterwork |tmwbody+536966366272552960| 
+- Custom Fitted Trimmed Masterwork |536966366272552960.png| 
 
-- Khopesh of Elidinis |khopeshoh+513206794752098327|   
+- Khopesh of Elidinis |513206794752098327.png|   
 
-- Greater Fury |gfury+535532879334080527| 
+- Greater Fury |535532879334080527.png| 
 
-- SGB + IOTH |sgb+626466665848242186| |ingen+641339234111848463| 
+- SGB + IOTH |626466665848242186.png| |641339234111848463.png| 
 
-- Hammer |swh+641670143197446182| 
+- Hammer |641670143197446182.png| 
 
-- Kalphite Defender |kalphitedefender+643151141382651907|
+- Kalphite Defender |643151141382651907.png|
 
-- Upgrade to Flanking 4 Equilibrum 1 |flank4+712073088296157185| |eq1+689504357414207490|
+- Upgrade to Flanking 4 Equilibrum 1 |712073088296157185.png| |689504357414207490.png|
 
-- Upgrade to T92 Flanking Switch |barrowskhopeshoh+580176857140428828|
+- Upgrade to T92 Flanking Switch |580176857140428828.png|
 
 
 
@@ -562,27 +562,27 @@ Camping a weapon
 
 
 
-Camping in this context refers to the exclusive usage of either DW or 2H without taking advantage of the benefits from switching. Most players will start learning melee by grabbing a 2h or DW and camping with said weapon. While you are limited to what rotations you can do while camping 2h or DW, it is still important to optimize with what you have. Your rotation will be generally built around either Lesser Fury |fury+535532879510372352| or Greater Fury |gfury+535532879334080527| , depending on availability. High damage basics such as Cleave |cleave+535532878616985610| (2h exclusive), Decimate |deci+535532879325822986| (DW exclusive), and Sever |sever+535532879577612298| should be used as often as possible following Fury. 
+Camping in this context refers to the exclusive usage of either DW or 2H without taking advantage of the benefits from switching. Most players will start learning melee by grabbing a 2h or DW and camping with said weapon. While you are limited to what rotations you can do while camping 2h or DW, it is still important to optimize with what you have. Your rotation will be generally built around either Lesser Fury |535532879510372352.png| or Greater Fury |535532879334080527.png| , depending on availability. High damage basics such as Cleave |535532878616985610.png| (2h exclusive), Decimate |535532879325822986.png| (DW exclusive), and Sever |535532879577612298.png| should be used as often as possible following Fury. 
 
 
 
-Rotations will following a simple scheme as follows: Fury |fury+535532879510372352| -> Ability -> Ability -> Repeat.
+Rotations will following a simple scheme as follows: Fury |535532879510372352.png| -> Ability -> Ability -> Repeat.
 
 
 
-The general idea is to build to your Berserk |Berserk+513190158468907012| , and then within Berserk, use Assault |assault+535532853979512842| , then either Destroy |destroy+535532879330148352| (DW) or Hurricane |cane+535532878969438210| (2h), and then if you have the adrenaline to spare, use either Flurry |gflurry+535532879283879977| (DW) or Quake |quake+535532879506309150| (2h).
+The general idea is to build to your Berserk |513190158468907012.png| , and then within Berserk, use Assault |535532853979512842.png| , then either Destroy |535532879330148352.png| (DW) or Hurricane |535532878969438210.png| (2h), and then if you have the adrenaline to spare, use either Flurry |535532879283879977.png| (DW) or Quake |535532879506309150.png| (2h).
 
 
 
 2h
 
-Build to 100% -> Berserk |Berserk+513190158468907012| -> Assault |assault+535532853979512842| -> Hurricane |cane+535532878969438210| -> Quake |quake+535532879506309150| -> Repeat
+Build to 100% -> Berserk |513190158468907012.png| -> Assault |535532853979512842.png| -> Hurricane |535532878969438210.png| -> Quake |535532879506309150.png| -> Repeat
 
 
 
 DW
 
-Build to 100% -> Berserk |Berserk+513190158468907012| -> Assault |assault+535532853979512842| -> Destroy |destroy+535532879330148352| -> Flurry |gflurry+535532879283879977| -> Repeat
+Build to 100% -> Berserk |513190158468907012.png| -> Assault |535532853979512842.png| -> Destroy |535532879330148352.png| -> Flurry |535532879283879977.png| -> Repeat
 
 
 
@@ -603,7 +603,7 @@ Flanking is a perk unlocked via Invention at level 55.
 
 The effect states ``Backhand, Impact and Binding Shot no longer stun and deal 40% more damage per rank to targets that are not facing you. Forceful Backhand, Deep Impact and Tight Bindings no longer stun and deal 15% more damage per rank to targets that are not facing you`` and goes up to rank 4.
 
-Should the opportunity arise at group bosses flanking can be incredibly powerful. Backhand |backhand+535532854302605333| becomes your 2nd most powerful basic inside of Berserk while Forceful Backhand |fbackhand+535532879346794516| becomes your 4th best threshold in Berserk. The basic ability Backhand should be used as often as possible and the threshold Forceful Backhand should be used either in Berserk or in-between Berserk cooldowns. 
+Should the opportunity arise at group bosses flanking can be incredibly powerful. Backhand |535532854302605333.png| becomes your 2nd most powerful basic inside of Berserk while Forceful Backhand |535532879346794516.png| becomes your 4th best threshold in Berserk. The basic ability Backhand should be used as often as possible and the threshold Forceful Backhand should be used either in Berserk or in-between Berserk cooldowns. 
 
 
 
@@ -611,25 +611,25 @@ Example rotations with Flanking:
 
 |<b>| 2h Camping |</b>| 
 
-Berserk |Berserk+513190158468907012| -> Assault |assault+535532853979512842| -> Hurricane |cane+535532878969438210| -> Forceful Backhand-Flanking |fbackhand+535532879346794516| -> Repeat
+Berserk |513190158468907012.png| -> Assault |535532853979512842.png| -> Hurricane |535532878969438210.png| -> Forceful Backhand-Flanking |535532879346794516.png| -> Repeat
 
 
 
 |<b>| DW Camping |</b>|
 
-Berserk |Berserk+513190158468907012| -> Assault |assault+535532853979512842| -> Destroy |destroy+535532879330148352| -> Forceful Backhand-Flanking |fbackhand+535532879346794516| -> Repeat
+Berserk |513190158468907012.png| -> Assault |535532853979512842.png| -> Destroy |535532879330148352.png| -> Forceful Backhand-Flanking |535532879346794516.png| -> Repeat
 
 
 
-\*Note that for DW, once you have Greater Flurry |gflurry+535532879283879977| unlocked it should be used as your 3rd threshold inside Berserk. Flanking would be downgraded to a threshold used in-between Berserk cooldowns.
+\*Note that for DW, once you have Greater Flurry |535532879283879977.png| unlocked it should be used as your 3rd threshold inside Berserk. Flanking would be downgraded to a threshold used in-between Berserk cooldowns.
 
 
 
-This perk should be placed on a Dual Wield Off-hand switch and upgraded to your highest tier available (Drygore |drygorelongmh+513190158900658180| t90 or dyed-Khopesh |barrowskhopeshmh+580176857144492042| t92). 
+This perk should be placed on a Dual Wield Off-hand switch and upgraded to your highest tier available (Drygore |513190158900658180.png| t90 or dyed-Khopesh |580176857144492042.png| t92). 
 
 
 
-Example bosses to bring flanking to include: Vorago |vorago+572867742613635082| , Angel of Death |aod+580167371365548042| , group ED1-3 |Seiryu+583430543321071626| |BSD+583430542326759435| |Ambassador+583430542809235458| , Solak |solak+580167371310891029| , and any other group bossing.
+Example bosses to bring flanking to include: Vorago |572867742613635082.png| , Angel of Death |580167371365548042.png| , group ED1-3 |583430543321071626.png| |583430542326759435.png| |583430542809235458.png| , Solak |580167371310891029.png| , and any other group bossing.
 
 
 
@@ -646,7 +646,7 @@ Lunging is a perk unlocked via Invention at level 89.
 
 The effect states ``The maximum damage of Combust, Dismember and Fragmentation shot is incrased by 20% weapon damage per rank, but enemies that move will only take 1.5x increased damage.`` and goes up to rank 4. 
 
-The only basic bleed in melee affected by Lunging is Dismember |dismember+535532879376023572| . Since Dismember cannot be walked to gain bonus damage, the effects of Lunging will always activate for Dismember, thus it is |<b>| strictly |</b>| an upgrade over non-lunging Dismember. In fact, the effect of Lunging is extra strong on Dismember |<i>| because |</i>| Dismember cannot be walked (the same applies to the 99 Strength Cape effect). With Lunging 4 and Strength Cape effect combined, Dismember |dismember+535532879376023572| becomes the |<b>| strongest basic ability |</b>| for melee outside of Berserk.
+The only basic bleed in melee affected by Lunging is Dismember |535532879376023572.png| . Since Dismember cannot be walked to gain bonus damage, the effects of Lunging will always activate for Dismember, thus it is |<b>| strictly |</b>| an upgrade over non-lunging Dismember. In fact, the effect of Lunging is extra strong on Dismember |<i>| because |</i>| Dismember cannot be walked (the same applies to the 99 Strength Cape effect). With Lunging 4 and Strength Cape effect combined, Dismember |535532879376023572.png| becomes the |<b>| strongest basic ability |</b>| for melee outside of Berserk.
 
 Dismsmber should be used outside Berserk as bleeds do not get boosted damage (Dismember has a 15s cooldown so you should plan to use Dismember before a Berserk, then 20s later, use Dismember after a Berserk).
 
@@ -656,7 +656,7 @@ The goal is to have 100% uptime of the Dismember effect when using Lunging4 + St
 
 
 
-A Dual Wield Off-hand switch should be used for this perk and later upgraded to a Masterwork Spear of Annihilation |masterworkspearofannihilation+694566917456789554| due to it further extending the duration of Dismember.
+A Dual Wield Off-hand switch should be used for this perk and later upgraded to a Masterwork Spear of Annihilation |694566917456789554.png| due to it further extending the duration of Dismember.
 
 
 
@@ -669,7 +669,7 @@ DW and 2H weapon switching
 
 
 
-The biggest jump in DPM will come from incorporating weapon juggling of DW and 2h weapons. Having both weapon styles gives access to both DW Decimate |deci+535532879325822986| and 2h Cleave |cleave+535532878616985610| basic abilities, each sporting a strong 188% ability damage and a low 7s cooldown. |<b>| Even if you have to pair a high tier weapon with a lower tier weapon, the ability to access both Deci/Cleave is worth it |</b>| (eg. Drygores with Dragon Rider Lance). With DW/2h Switching, it is possible to break beyond the 170k DPM barrier that Camping generally struggles to overcome.
+The biggest jump in DPM will come from incorporating weapon juggling of DW and 2h weapons. Having both weapon styles gives access to both DW Decimate |535532879325822986.png| and 2h Cleave |535532878616985610.png| basic abilities, each sporting a strong 188% ability damage and a low 7s cooldown. |<b>| Even if you have to pair a high tier weapon with a lower tier weapon, the ability to access both Deci/Cleave is worth it |</b>| (eg. Drygores with Dragon Rider Lance). With DW/2h Switching, it is possible to break beyond the 170k DPM barrier that Camping generally struggles to overcome.
 
 
 
@@ -681,42 +681,42 @@ Example pairings of DW and 2h weapons:
 
  - t90 Elder Rune
 
- - t90 Drygores |drygorelongmh+513190158900658180|
+ - t90 Drygores |513190158900658180.png|
 
- - t92 Khopeshes |khopeshmh+513206794844110858| |khopeshoh+513206794752098327|
+ - t92 Khopeshes |513206794844110858.png| |513206794752098327.png|
 
 
 
  - t70 Any GWD1 Godsword
 
- - t80 Dragon Rider Lance |dragonriderlance+643161541931171872|
+ - t80 Dragon Rider Lance |643161541931171872.png|
 
- - t90 Noxious Scythe |noxscythe+513190159341322240| 
+ - t90 Noxious Scythe |513190159341322240.png| 
 
- - t92 Zaros Godsword |zgs+626465964325601290|
-
-
+ - t92 Zaros Godsword |626465964325601290.png|
 
 
 
 
-Here we will abandon camping rotations built around Fury |fury+535532879510372352| |gfury+535532879334080527| 
-
-Fury |fury+535532879510372352| |gfury+535532879334080527| -> Basic -> Basic -> Repeat.
 
 
+Here we will abandon camping rotations built around Fury |535532879510372352.png| |535532879334080527.png| 
 
-Your new DW/2h rotations will be built around Decimate |deci+535532879325822986| and Cleave |cleave+535532878616985610|
+Fury |535532879510372352.png| |535532879334080527.png| -> Basic -> Basic -> Repeat.
 
-Deci |deci+535532879325822986| -> Cleave |cleave+535532878616985610| -> Ability -> Ability -> Repeat.
+
+
+Your new DW/2h rotations will be built around Decimate |535532879325822986.png| and Cleave |535532878616985610.png|
+
+Deci |535532879325822986.png| -> Cleave |535532878616985610.png| -> Ability -> Ability -> Repeat.
 
 OR 
 
-Cleave |cleave+535532878616985610| -> Deci |deci+535532879325822986| -> Ability -> Ability -> Repeat.
+Cleave |535532878616985610.png| -> Deci |535532879325822986.png| -> Ability -> Ability -> Repeat.
 
 
 
-Substitute 'Ability' with other strong basic abilities such as Dismember |dismember+535532879376023572| , Sever |sever+535532879577612298| , Fury |gfury+535532879334080527| , Backhand-Flanking |fbackhand+535532879346794516| , etc. We use Deci/Cleave as often as possible as they each have a 7s cooldown and deal great damage at 188% ability damage. 
+Substitute 'Ability' with other strong basic abilities such as Dismember |535532879376023572.png| , Sever |535532879577612298.png| , Fury |535532879334080527.png| , Backhand-Flanking |535532879346794516.png| , etc. We use Deci/Cleave as often as possible as they each have a 7s cooldown and deal great damage at 188% ability damage. 
 
 
 
@@ -729,7 +729,7 @@ Berserk Rotations will also change once you begin DW/2h switching:
 
 |<u>| With Adrenaline Pot |</u>|
 
-Berserk |Berserk+513190158468907012| -> Assault |assault+535532855191928842| -> Destroy |destroy+535532879330148352| -> Forceful Backhand |fbackhand+535532879346794516| 
+Berserk |513190158468907012.png| -> Assault |535532855191928842.png| -> Destroy |535532879330148352.png| -> Forceful Backhand |535532879346794516.png| 
 
 
 
@@ -737,13 +737,13 @@ OR
 
 
 
-Berserk |Berserk+513190158468907012| -> Assault |assault+535532855191928842| -> Destroy |destroy+535532879330148352| -> Greater Flurry |gflurry+535532879283879977|
+Berserk |513190158468907012.png| -> Assault |535532855191928842.png| -> Destroy |535532879330148352.png| -> Greater Flurry |535532879283879977.png|
 
 
 
 |<u>| Without Adrenaline Pot |</u>|
 
-Berserk |Berserk+513190158468907012| -> Assault |assault+535532855191928842| -> Hurricane |cane+535532878969438210| -> Forceful Backhand |fbackhand+535532879346794516|
+Berserk |513190158468907012.png| -> Assault |535532855191928842.png| -> Hurricane |535532878969438210.png| -> Forceful Backhand |535532879346794516.png|
 
 
 
@@ -751,11 +751,11 @@ OR
 
 
 
-Berserk |Berserk+513190158468907012| -> Assault |assault+535532855191928842| -> Hurricane |cane+535532878969438210| -> Greater Flurry |gflurry+535532879283879977| 
+Berserk |513190158468907012.png| -> Assault |535532855191928842.png| -> Hurricane |535532878969438210.png| -> Greater Flurry |535532879283879977.png| 
 
 
 
-Note: use Greater Flurry |gflurry+535532879283879977| over Forceful Backhand-Flanking |fbackhand+535532879346794516| if you have it available
+Note: use Greater Flurry |535532879283879977.png| over Forceful Backhand-Flanking |535532879346794516.png| if you have it available
 
 
 
@@ -800,7 +800,7 @@ Once you've incorporated DW/2h Switching, auto attacks become more prevelant as 
 
 
 
-DW |drygorelongmh+513190158900658180| = 5t, 2h |zgs+626465964325601290| = 7t.
+DW |513190158900658180.png| = 5t, 2h |626465964325601290.png| = 7t.
 
 We will be using 2h auto attacks as they deal more damage.
 
@@ -814,7 +814,7 @@ There are two specific instances of when you want to incorporate auto attacks in
 
 By performing a non-damaging ability with DW equipped, the auto attack cooldown is initiated and begins counting down; 5t cooldown, a GCD is 3t. After GCD, waiting an additional 2t would mean your auto attack becomes available again. By swapping to a 2h, an auto attack can be used by clicking on your target (click BEFORE inputting an ability). Auto attacks can deal up to 5k damage, 8k in a Berserk and in most cases is worth the 2t wait. 
 
-Thus, you can perform an auto attack on every Berserk |Berserk+513190158468907012| activation by doing the following:
+Thus, you can perform an auto attack on every Berserk |513190158468907012.png| activation by doing the following:
 
 
 
@@ -887,7 +887,7 @@ The prioritization of upgrades can vary depending on what your focus is with PvM
 
 
 
-If you will be primarily doing Vorago or Solak, it is recommended to pick up a Greater Barge codex |gbarge+535532879250456578| . Its special affect allows you to turn channeled abilities into bleeds.
+If you will be primarily doing Vorago or Solak, it is recommended to pick up a Greater Barge codex |535532879250456578.png| . Its special affect allows you to turn channeled abilities into bleeds.
 
 
 
@@ -910,7 +910,7 @@ In the end you should aim to grab all three of these upgrades.
 
 
 
-The Zaros Godsword |zgs+626465964325601290| is a T92 2H melee weapon noteworthy for its powerful Special Attack 'Blackhole'. Blackhole is a DPS buff - essentially a Sunshine or Death's Swiftness for melee - which uses 50% Adrenaline (45% with Vigour |vigour+615613235512737792| ), buffs damage by 20% and lasts for 20 seconds. It should be used in rotation with Berserk (ie. use Blackhole when Berserk is on cooldown) OR when the situation is too dangerous to Berserk in. ZGS rotations are similar to Berserk rotations but vary based on the boss. 
+The Zaros Godsword |626465964325601290.png| is a T92 2H melee weapon noteworthy for its powerful Special Attack 'Blackhole'. Blackhole is a DPS buff - essentially a Sunshine or Death's Swiftness for melee - which uses 50% Adrenaline (45% with Vigour |615613235512737792.png| ), buffs damage by 20% and lasts for 20 seconds. It should be used in rotation with Berserk (ie. use Blackhole when Berserk is on cooldown) OR when the situation is too dangerous to Berserk in. ZGS rotations are similar to Berserk rotations but vary based on the boss. 
 
 Note that you do not need to keep ZGS equipped once you've activated its special attack. Also note that ZGS does not have scythe range.
 
@@ -920,18 +920,18 @@ As for adrenaline potions, it is recommended to save adrenaline potions for Bers
 
 
 
-Berserk |Berserk+513190158468907012| + Adrenaline Potion |replenpot+641337470491033600| / Limitless Sigil |limitless+641339233638023179| → Berserk Cooldown → ZGS Special → ZGS Cooldown → Repeat
+Berserk |513190158468907012.png| + Adrenaline Potion |641337470491033600.png| / Limitless Sigil |641339233638023179.png| → Berserk Cooldown → ZGS Special → ZGS Cooldown → Repeat
 
 
 
 
 
 
-|<b>| |<u>| Statius' Warhammer |</u>| |</b>| |swh+641670143197446182|
+|<b>| |<u>| Statius' Warhammer |</u>| |</b>| |641670143197446182.png|
 
 
 
-One of the more powerful aspects of melee in group pvm is access to the SWH special attack without the need for an Ingenuity of the Humans ability |ingen+641339234111848463| . If you intend to do group PvM it is recommended to buy a SWH and use its special attack at high defence bosses (eg. Vorago, Yakamaru, Beast Master, Angel of Death). Usage of the SWH varies from boss to boss and will be covered more specifically in our boss guides.
+One of the more powerful aspects of melee in group pvm is access to the SWH special attack without the need for an Ingenuity of the Humans ability |641339234111848463.png| . If you intend to do group PvM it is recommended to buy a SWH and use its special attack at high defence bosses (eg. Vorago, Yakamaru, Beast Master, Angel of Death). Usage of the SWH varies from boss to boss and will be covered more specifically in our boss guides.
 
 
 
@@ -942,7 +942,7 @@ One of the more powerful aspects of melee in group pvm is access to the SWH spec
 
 
 
-Greater Barge |gbarge+535532879250456578| can be unlocked through consuming a Greater Barge Ability Codex and transforms your lesser Barge ability to Greater Barge. The description of Greater Barge is as follows:
+Greater Barge |535532879250456578.png| can be unlocked through consuming a Greater Barge Ability Codex and transforms your lesser Barge ability to Greater Barge. The description of Greater Barge is as follows:
 
 
 
@@ -964,15 +964,15 @@ This effect is |<b>| EXTREMELY |</b>| powerful and can create lots of burst DPS.
 
 The applications of this are explored moreso in our specific boss guides but generally it is used as follows:
 
-Wait 5 ticks to proc Greater Barge -> Barge Target -> Activate channeled threshold (eg. Assault |assault+535532853979512842| , Destroy |destroy+535532879330148352| , or Greater Flurry |gflurry+535532879283879977| ) -> Continue DPS rotation within next GCD.
+Wait 5 ticks to proc Greater Barge -> Barge Target -> Activate channeled threshold (eg. Assault |535532853979512842.png| , Destroy |535532879330148352.png| , or Greater Flurry |535532879283879977.png| ) -> Continue DPS rotation within next GCD.
 
 
 
 Greater Barge is also often used in tandom with Berserk and Greater Flurry for even more burst DPS. Starting the rotation at 92% adrenaline:
 
-Anticipate |anti+535541306475151390| -> Berserk |Berserk+513190158468907012| -> gBarge |gbarge+535532879250456578| -> Greater Flurry |gflurry+535532879283879977| (bleed) -> Continue with DPS
+Anticipate |535541306475151390.png| -> Berserk |513190158468907012.png| -> gBarge |535532879250456578.png| -> Greater Flurry |535532879283879977.png| (bleed) -> Continue with DPS
 
-Using greater flurry as gBarge's bleed will allow its full duration to take effect thereby lowering Berserk's cooldown. In this rotation, Anticipate can be replaced with Resonance |res+535541258844635148| if you think you will have a hard time surviving after you Berserk. 
+Using greater flurry as gBarge's bleed will allow its full duration to take effect thereby lowering Berserk's cooldown. In this rotation, Anticipate can be replaced with Resonance |535541258844635148.png| if you think you will have a hard time surviving after you Berserk. 
 
 
 
@@ -987,7 +987,7 @@ The 'bleed' from gBarge is not a true bleed. There are several ramifications of 
 
   2) Equipping a different tier weapon |<i>| after |</i>| you apply the bleed will change the bleed's damage according to the latter weapon tier. For example, if you apply the gBarge bleed with Drygores (t90) equipped, then switch to ZGS (t92) the damage will be calculated as a t92 weapon.
 
-    2.1) If the initial weapon has a special effect against a target, the effect can activate |<i>| after |</i>| you switch to another weapon. For example, apply a gBarge bleed with Terrasaur Maul |terramaul+602561894829522954| then switching to Khopeshes will apply its special buff against Ranged monsters during its bleed calculations, to give T92 + 12.5% damage, rather than T80 + 12.5%.
+    2.1) If the initial weapon has a special effect against a target, the effect can activate |<i>| after |</i>| you switch to another weapon. For example, apply a gBarge bleed with Terrasaur Maul |602561894829522954.png| then switching to Khopeshes will apply its special buff against Ranged monsters during its bleed calculations, to give T92 + 12.5% damage, rather than T80 + 12.5%.
 
   3) During Yakamaru's Stun Pool, mbarging a Destroy ability will still apply its stun effect for the entire 4 hits. This can be a costly mistake.
 

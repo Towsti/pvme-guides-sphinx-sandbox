@@ -1,94 +1,12 @@
-.. |araxxifang+643148203604049940| image:: https://cdn.discordapp.com/emojis/643148203604049940.png?v=1
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |736298121704767538.png| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |heightenedsenses+697808773573771344| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DeathsSwift+513190158812839936| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/w037qfT.png| image:: https://i.imgur.com/w037qfT.png
-
-.. |https://i.imgur.com/LF3YAeJ.png| image:: https://i.imgur.com/LF3YAeJ.png
-
-.. |https://i.imgur.com/QR0YouB.png| image:: https://i.imgur.com/QR0YouB.png
-
-.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |furyofthesmall+697808773917573233| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cade+535541306353778689| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |accel+756236265472524418| image:: https://cdn.discordapp.com/emojis/756236265472524418.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eofor+745279787471470713| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |incend+535541258429661215| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |pheromone+643122483641188372| image:: https://cdn.discordapp.com/emojis/643122483641188372.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deathward+697808774068699286| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sharp+643505377291534366| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |NaturalInstinct+513213538496675850| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spiderlegtop+643122501521768491| image:: https://cdn.discordapp.com/emojis/643122501521768491.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -96,107 +14,189 @@
 
     </u>
 
-.. |</b>| raw:: html
+.. |535533810004262912.png| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </b>
+.. |643848618553507843.png| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |<u>| raw:: html
+.. |535541258429661215.png| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <u>
+.. |643122501521768491.png| image:: https://cdn.discordapp.com/emojis/643122501521768491.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+.. |615618531937222657.png| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535534127131394088.png| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513213538496675850.png| image:: https://cdn.discordapp.com/emojis/513213538496675850.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/8XrM5tg.jpg| image:: https://i.imgur.com/8XrM5tg.jpg
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |513190158812839936.png| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eofspec+746403211908481184| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+.. |643505179378974748.png| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |643149217313062913.png| image:: https://cdn.discordapp.com/emojis/643149217313062913.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/9AQwEMq.png| image:: https://i.imgur.com/9AQwEMq.png
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |immort+535541258538582017| image:: https://cdn.discordapp.com/emojis/535541258538582017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+.. |535541258538582017.png| image:: https://cdn.discordapp.com/emojis/535541258538582017.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/F1aXxlH.jpg| image:: https://i.imgur.com/F1aXxlH.jpg
 
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |https://i.imgur.com/QR0YouB.png| image:: https://i.imgur.com/QR0YouB.png
+
+.. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+.. |535541258425204770.png| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |berserkersfury+697808774106185768| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |656844963522281473.png| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dbow+643848618553507843| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+.. |535541270521708566.png| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |araxyteegg+643149217313062913| image:: https://cdn.discordapp.com/emojis/643149217313062913.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |697808773573771344.png| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643122483641188372.png| image:: https://cdn.discordapp.com/emojis/643122483641188372.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306353778689.png| image:: https://cdn.discordapp.com/emojis/535541306353778689.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/LF3YAeJ.png| image:: https://i.imgur.com/LF3YAeJ.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |697808774068699286.png| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |745279787471470713.png| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |550834403136503822.png| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |746403211908481184.png| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/9AQwEMq.png| image:: https://i.imgur.com/9AQwEMq.png
+
+.. |697808774106185768.png| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |756236265472524418.png| image:: https://cdn.discordapp.com/emojis/756236265472524418.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/w037qfT.png| image:: https://i.imgur.com/w037qfT.png
+
+.. |565726489413287956.png| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643148203604049940.png| image:: https://cdn.discordapp.com/emojis/643148203604049940.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |697808773917573233.png| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505377291534366.png| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541273755385885.png| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 araxxor-range
 =============
@@ -258,13 +258,13 @@ His drops include components for three level 90 two-handed weapons, one for each
 
 
 
-- |pheromone+643122483641188372|  |<b>| Pheromone |</b>| ``1/(50-[Enrage/20])``
+- |643122483641188372.png|  |<b>| Pheromone |</b>| ``1/(50-[Enrage/20])``
 
-- |spiderlegtop+643122501521768491|  |<b>| Leg piece |</b>| ``1/40 (1/70 in duo)``
+- |643122501521768491.png|  |<b>| Leg piece |</b>| ``1/40 (1/70 in duo)``
 
-- |araxxifang+643148203604049940|  |<b>| Hilt |</b>| ``1/120  (1/200 in duo)``
+- |643148203604049940.png|  |<b>| Hilt |</b>| ``1/120  (1/200 in duo)``
 
-- |araxyteegg+643149217313062913|  |<b>| Araxyte egg |</b>| ``1/500 (200 threshold)``
+- |643149217313062913.png|  |<b>| Araxyte egg |</b>| ``1/500 (200 threshold)``
 
 
 
@@ -285,7 +285,7 @@ As a beginner range will allow to you keep your distance from Araxxor making it 
 
 
 
-As with most bosses, it is strongly recommended to use |reckless+643505179378974748| , or your highest tier |sharp+643505377291534366| if reckless is not available
+As with most bosses, it is strongly recommended to use |643505179378974748.png| , or your highest tier |643505377291534366.png| if reckless is not available
 
 
 
@@ -300,29 +300,29 @@ As with most bosses, it is strongly recommended to use |reckless+643505179378974
 
 For the advanced range method it is important to have 3 things:
 
-- |ecb+615618531937222657|  |<b>| Eldritch Crossbow |</b>|
+- |615618531937222657.png|  |<b>| Eldritch Crossbow |</b>|
 
-- |sgb+626466665848242186| |eofor+745279787471470713|  |<b>| Essence of Finality |</b>| SGB spec stored
+- |626466665848242186.png| |745279787471470713.png|  |<b>| Essence of Finality |</b>| SGB spec stored
 
-- |limitless+641339233638023179|  |<b>| Limitless ability |</b>|
+- |641339233638023179.png|  |<b>| Limitless ability |</b>|
 
 
 
 Relics:
 
-- |heightenedsenses+697808773573771344| / |berserkersfury+697808774106185768| Heightened Senses / Berserkers Fury
+- |697808773573771344.png| / |697808774106185768.png| Heightened Senses / Berserkers Fury
 
-- |furyofthesmall+697808773917573233| Fury of the small
+- |697808773917573233.png| Fury of the small
 
-- |deathward+697808774068699286| Death ward
+- |697808774068699286.png| Death ward
 
 
 
 A combat dummy is brought for building adrenaline during the P4 transition. If you want efficient kph, use the grimoire, if you want efficient gp/hr, use scrim. If choosing to use a grim it is mainly beneficial to use during phase 2, 3 and 4. Jellies are used for healing over time without losing adrenaline.
 
-- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
+- |690848914949144616.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252658961481769.png| |536252659301089280.png|
 
-(Runes for |disrupt+535614336207552523| )
+(Runes for |535614336207552523.png| )
 
 
 
@@ -343,7 +343,7 @@ Mechanics
 
 
 
-``Note:`` Araxxor will use a special attack every 5 auto attacks. Generally, this should be prepared for by using anticipate |anti+535541306475151390| or freedom |freedom+535541258240786434| before the 5th auto attack, so the player is not pulled in by cleave or receives a long bind for coccoon. Araxxor will never use the same special twice in a row. For example, if araxxor cleaves, the next special will not be a cleave.
+``Note:`` Araxxor will use a special attack every 5 auto attacks. Generally, this should be prepared for by using anticipate |535541306475151390.png| or freedom |535541258240786434.png| before the 5th auto attack, so the player is not pulled in by cleave or receives a long bind for coccoon. Araxxor will never use the same special twice in a row. For example, if araxxor cleaves, the next special will not be a cleave.
 
 
 
@@ -352,7 +352,7 @@ Mechanics
 
 |<u>| |<b>| Cleave |</b>| |</u>|
 
-Dealing with cleave is rather simple. If you have not used anticipate |anti+535541306475151390| or freedom |freedom+535541258240786434| beforehand, you will be pulled in and have roughly 2 ticks to react to cleave. Simply move away from Araxxor to avoid taking damage. Cleave is particularly deadly at high enrages, as it has very high KO potential.
+Dealing with cleave is rather simple. If you have not used anticipate |535541306475151390.png| or freedom |535541258240786434.png| beforehand, you will be pulled in and have roughly 2 ticks to react to cleave. Simply move away from Araxxor to avoid taking damage. Cleave is particularly deadly at high enrages, as it has very high KO potential.
 
 
 
@@ -361,7 +361,7 @@ Dealing with cleave is rather simple. If you have not used anticipate |anti+5355
 
 |<u>| |<b>| Cocoon |</b>| |</u>|
 
-You will take damage for every tick you are still inside the cocoon. When wrapped in the cocoon, simply spam click to escape. The length of this special can be greatly shortened by using anticipate |anti+535541306475151390| or freedom |freedom+535541258240786434| beforehand.
+You will take damage for every tick you are still inside the cocoon. When wrapped in the cocoon, simply spam click to escape. The length of this special can be greatly shortened by using anticipate |535541306475151390.png| or freedom |535541258240786434.png| beforehand.
 
 
 
@@ -411,7 +411,7 @@ Araxxor will spawn a group of 2 or 3 eggs, and fire a slow moving projectile at 
 
 |<u>| |<b>| Instakill Spider |</b>| |</u>|
 
-Only occurs on p2 if acid path is taken or p3 if acid path is open. Araxxor will perform a melee attack animation and send out a projectile which will leave a green mark where it lands; the spider will spawn here. You will see the spider spawn and start walking towards you with a gauge bar above its head that fills up. when it fills up fully the spider will explode and you will be safe. If it touches you before the bar fills up it will explode on you and deal a severe amount of damage. its speed is variable. On p2, if you're already at the HP threshold and waiting for the phase to end, either barricade |cade+535541306353778689| or immortality |immort+535541258538582017| to negate the damage from the spider, or bladed dive |bd+535532854281764884| away from it if you wish to save your adrenaline. Since phase 3 is a damage gated phase, it's recommended to simply run away from the spider and avoid wasting adrenaline on a defensive ultimate.
+Only occurs on p2 if acid path is taken or p3 if acid path is open. Araxxor will perform a melee attack animation and send out a projectile which will leave a green mark where it lands; the spider will spawn here. You will see the spider spawn and start walking towards you with a gauge bar above its head that fills up. when it fills up fully the spider will explode and you will be safe. If it touches you before the bar fills up it will explode on you and deal a severe amount of damage. its speed is variable. On p2, if you're already at the HP threshold and waiting for the phase to end, either barricade |535541306353778689.png| or immortality |535541258538582017.png| to negate the damage from the spider, or bladed dive |535532854281764884.png| away from it if you wish to save your adrenaline. Since phase 3 is a damage gated phase, it's recommended to simply run away from the spider and avoid wasting adrenaline on a defensive ultimate.
 
 
 
@@ -491,7 +491,7 @@ Dodging the attack correctly will destroy the wall and let you into phase 3, fai
 
 
 
-It is very beneficial to have bladed dive |bd+535532854281764884| unlocked and mobile perk on some piece of gear, along with double surge unlocked. Position your character to always face the longer part of the hallway. this lets you surge straight and then have control over where you bladed dive ahead of you from there, making it easier to reach the light quickly. If the light spawns behind you, you can simply bladed dive to it.
+It is very beneficial to have bladed dive |535532854281764884.png| unlocked and mobile perk on some piece of gear, along with double surge unlocked. Position your character to always face the longer part of the hallway. this lets you surge straight and then have control over where you bladed dive ahead of you from there, making it easier to reach the light quickly. If the light spawns behind you, you can simply bladed dive to it.
 
 
 
@@ -536,9 +536,9 @@ Advanced Guide
 
    - This phase is timegated so it can be used to set yourself up for p2 while you deal damage
 
-   - Use |NaturalInstinct+513213538496675850| when the web burn reaches ~70%
+   - Use |513213538496675850.png| when the web burn reaches ~70%
 
-   - Build adrenaline to 100% and use |DeathsSwift+513190158812839936|
+   - Build adrenaline to 100% and use |513190158812839936.png|
 
    - Build back to 100%
 
@@ -551,11 +551,11 @@ Advanced Guide
 
 |<u>| Phase 2 |</u>|
 
-   - Start with |RubyBakri+565726489413287956|
+   - Start with |565726489413287956.png|
 
-   - |ecb+615618531937222657| |spec+537340400273195028| → |corruptshot+535541306294796299| → |sgb+626466665848242186| |eofor+745279787471470713| → |rapid+535541270521708566| → |snap+535534127131394088| → |mds+535541259033378827|
+   - |615618531937222657.png| |537340400273195028.png| → |535541306294796299.png| → |626466665848242186.png| |745279787471470713.png| → |535541270521708566.png| → |535534127131394088.png| → |535541259033378827.png|
 
-   - |surge+535533810004262912| → |bd+535532854281764884| → |surge+535533810004262912| towards p3 while doing defensive abilities to gain adrenaline when araxxor does the egg bomb special attack in phase 2 (the first spec that happens in phase 2)
+   - |535533810004262912.png| → |535532854281764884.png| → |535533810004262912.png| towards p3 while doing defensive abilities to gain adrenaline when araxxor does the egg bomb special attack in phase 2 (the first spec that happens in phase 2)
 
 
 
@@ -572,9 +572,9 @@ Advanced Guide
 
 - Run to the end of the hallway to start phase 3, then run back towards araxxor. equip ruby bolts again.
 
-- |ecb+615618531937222657| |spec+537340400273195028| → |corruptshot+535541306294796299| → |rapid+535541270521708566| → |snap+535534127131394088| / |sgb+626466665848242186| |eofor+745279787471470713| (depending on if SGB spec is off cd yet or not)
+- |615618531937222657.png| |537340400273195028.png| → |535541306294796299.png| → |535541270521708566.png| → |535534127131394088.png| / |626466665848242186.png| |745279787471470713.png| (depending on if SGB spec is off cd yet or not)
 
-- By this point in the p3 rotation araxxor will start spawning minions. look out for the special spider and kill it, then finish araxxor off with bleeds and another |snap+535534127131394088| / |rapid+535541270521708566| as needed. Try to end phase 3 on high adrenaline.
+- By this point in the p3 rotation araxxor will start spawning minions. look out for the special spider and kill it, then finish araxxor off with bleeds and another |535534127131394088.png| / |535541270521708566.png| as needed. Try to end phase 3 on high adrenaline.
 
 
 
@@ -600,9 +600,9 @@ Advanced Guide
 
  |<u>| Phase 3 |</u>|
 
-   - Start with |RubyBakri+565726489413287956|
+   - Start with |565726489413287956.png|
 
-   - |ecb+615618531937222657| |spec+537340400273195028| → Auto + |sgb+626466665848242186| |eofor+745279787471470713| → |rapid+535541270521708566| →  |corruptshot+535541306294796299| → |frag+535541273755385885| + walk under → |snipe+535541258425204770| → |snap+535534127131394088| 
+   - |615618531937222657.png| |537340400273195028.png| → Auto + |626466665848242186.png| |745279787471470713.png| → |535541270521708566.png| →  |535541306294796299.png| → |535541273755385885.png| + walk under → |535541258425204770.png| → |535534127131394088.png| 
 
 
 
@@ -632,9 +632,9 @@ Advanced Guide
 
 |<b>| Phase 3 |</b>|
 
-   - Start with |RubyBakri+565726489413287956|
+   - Start with |565726489413287956.png|
 
-   - Right click attack for 2h auto + |ecb+615618531937222657| |spec+537340400273195028| → |corruptshot+535541306294796299| → |sgb+626466665848242186| |eofor+745279787471470713| → |snap+535534127131394088| → |frag+535541273755385885| + walk under → |rapid+535541270521708566| → |mds+535541259033378827|
+   - Right click attack for 2h auto + |615618531937222657.png| |537340400273195028.png| → |535541306294796299.png| → |626466665848242186.png| |745279787471470713.png| → |535534127131394088.png| → |535541273755385885.png| + walk under → |535541270521708566.png| → |535541259033378827.png|
 
 
 
@@ -647,11 +647,11 @@ Advanced Guide
 
     - Spam a defensive or non-mobile surge to gain adren when cutscene ends and drop a dummy, build to 100% adren
 
-    - |DeathsSwift+513190158812839936| + |adrenrenewal+736298121704767538| , build with |HydrixBakri+550834403136503822|
+    - |513190158812839936.png| + |736298121704767538.png| , build with |550834403136503822.png|
 
-    - When Araxxi drops down onto Araxxor and is about to raise her legs, you can optionally do |needle+535541259108876293| → equip ECB + switch to ruby bakriminel bolts to get the needle strike buff on most abilities on your phase 4
+    - When Araxxi drops down onto Araxxor and is about to raise her legs, you can optionally do |535541259108876293.png| → equip ECB + switch to ruby bakriminel bolts to get the needle strike buff on most abilities on your phase 4
 
-    - Just before Araxxi becomes attackable, |ecb+615618531937222657| |spec+537340400273195028| → auto + |sgb+626466665848242186| |eofor+745279787471470713| → |limitless+641339233638023179| |rapid+535541270521708566| →  cancel with |snap+535534127131394088| when araxxi has 26k hp left to avoid adrenaline drain when acid core comes out. Finish with basics if needed
+    - Just before Araxxi becomes attackable, |615618531937222657.png| |537340400273195028.png| → auto + |626466665848242186.png| |745279787471470713.png| → |641339233638023179.png| |535541270521708566.png| →  cancel with |535534127131394088.png| when araxxi has 26k hp left to avoid adrenaline drain when acid core comes out. Finish with basics if needed
 
 
 
@@ -660,7 +660,7 @@ Advanced Guide
 
 |<b>| Note: |</b>| if you get a really good phase 3 SGB spec and it is still on cooldown when phase 4 becomes attackable then you may switch your rotation:
 
-    - |ecb+615618531937222657| |spec+537340400273195028| → |rapid+535541270521708566| → |sgb+626466665848242186| |eofor+745279787471470713| → |snap+535534127131394088| → |corruptshot+535541306294796299| → good basics until araxxi dies
+    - |615618531937222657.png| |537340400273195028.png| → |535541270521708566.png| → |626466665848242186.png| |745279787471470713.png| → |535534127131394088.png| → |535541306294796299.png| → good basics until araxxi dies
 
 
 
@@ -671,7 +671,7 @@ Alternative Top Path Strategy (Courtesy of <@213693069764198401>)
 -----------------------------------------------------------------
 
 
-The idea of this method is to solo skip phase 3. If that fails then you still have |DeathsSwift+513190158812839936| to help carry the damage to finish phase 3 the normal way. This method doesn't get average times as fast as the non-skip method mentioned above, but it has a way faster killtime potential due to being able to solo skip.
+The idea of this method is to solo skip phase 3. If that fails then you still have |513190158812839936.png| to help carry the damage to finish phase 3 the normal way. This method doesn't get average times as fast as the non-skip method mentioned above, but it has a way faster killtime potential due to being able to solo skip.
 
 
 
@@ -680,25 +680,25 @@ The idea of this method is to solo skip phase 3. If that fails then you still ha
 
 |<b>| Extra requirements: |</b>|
 
-- |dbow+643848618553507843| |eofspec+746403211908481184| |<b>| A second EoF |</b>| (Dark Bow spec)
+- |643848618553507843.png| |746403211908481184.png| |<b>| A second EoF |</b>| (Dark Bow spec)
 
-- |accel+756236265472524418| |<b>| Powerburst of acceleration |</b>|
+- |756236265472524418.png| |<b>| Powerburst of acceleration |</b>|
 
-- |dummy+656844963522281473| |<b>| A second dummy |</b>|
+- |656844963522281473.png| |<b>| A second dummy |</b>|
 
-- |heightenedsenses+697808773573771344| |<b>| Heightened senses relic is mandatory |</b>|
+- |697808773573771344.png| |<b>| Heightened senses relic is mandatory |</b>|
 
 
 
 |<b>| Phase 1: |</b>|
 
-- |incend+535541258429661215| at ~62% web burn
+- |535541258429661215.png| at ~62% web burn
 
-- |NaturalInstinct+513213538496675850| at ~85% web burn
+- |513213538496675850.png| at ~85% web burn
 
 - Build to 110% adren
 
-- Turn towards web, and when it burns, drink the powerburst of acceleration and |surge+535533810004262912| → |bd+535532854281764884| → |surge+535533810004262912| → |surge+535533810004262912| → |bd+535532854281764884| straight to phase 3, then immediately drop a |dummy+656844963522281473| and |DeathsSwift+513190158812839936| , then build adrenaline with basics and defensives using |HydrixBakri+550834403136503822|
+- Turn towards web, and when it burns, drink the powerburst of acceleration and |535533810004262912.png| → |535532854281764884.png| → |535533810004262912.png| → |535533810004262912.png| → |535532854281764884.png| straight to phase 3, then immediately drop a |656844963522281473.png| and |513190158812839936.png| , then build adrenaline with basics and defensives using |550834403136503822.png|
 
 
 
@@ -707,11 +707,11 @@ The idea of this method is to solo skip phase 3. If that fails then you still ha
 
 |<b>| Phase 3: |</b>|
 
-- Near 100% adren, use |needle+535541259108876293| and switch to ruby bakriminel bolts, then use |ecb+615618531937222657| |spec+537340400273195028| + |adrenrenewal+736298121704767538| . If you have extra time before araxxor catches up to you, you can also do |anti+535541306475151390|
+- Near 100% adren, use |535541259108876293.png| and switch to ruby bakriminel bolts, then use |615618531937222657.png| |537340400273195028.png| + |736298121704767538.png| . If you have extra time before araxxor catches up to you, you can also do |535541306475151390.png|
 
-- Target araxxor and use an Auto + |sgb+626466665848242186| |eofor+745279787471470713| → equip Dark Bow EoF then use |dbow+643848618553507843| |eofspec+746403211908481184| → |mds+535541259033378827|
+- Target araxxor and use an Auto + |626466665848242186.png| |745279787471470713.png| → equip Dark Bow EoF then use |643848618553507843.png| |746403211908481184.png| → |535541259033378827.png|
 
-- If Araxxor doesn't die from that, he will start healing hp so do your best to improvise with basics while building up to |rapid+535541270521708566| or |snap+535534127131394088| to finish him off
+- If Araxxor doesn't die from that, he will start healing hp so do your best to improvise with basics while building up to |535541270521708566.png| or |535534127131394088.png| to finish him off
 
 
 

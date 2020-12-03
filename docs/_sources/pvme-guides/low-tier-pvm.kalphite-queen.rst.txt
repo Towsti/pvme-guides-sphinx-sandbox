@@ -1,94 +1,94 @@
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |643163002794672130.png| image:: https://cdn.discordapp.com/emojis/643163002794672130.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |https://i.imgur.com/vUYBEPS.jpg| image:: https://i.imgur.com/vUYBEPS.jpg
+
+.. |https://i.imgur.com/U9MJoZp.png| image:: https://i.imgur.com/U9MJoZp.png
+
+.. |583429936606347280.png| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kqhead+643163003537063946| image:: https://cdn.discordapp.com/emojis/643163003537063946.png?v=1
+.. |739965637056659567.png| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ripperpouch+703581275453128714| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kalphiteegg+643163002794672130| image:: https://cdn.discordapp.com/emojis/643163002794672130.png?v=1
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/viToGVx.png| image:: https://i.imgur.com/viToGVx.png
 
-.. |https://i.imgur.com/U9MJoZp.png| image:: https://i.imgur.com/U9MJoZp.png
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |</b>| raw:: html
+.. |513190158355660812.png| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </b>
+.. |656844963522281473.png| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/kS38HMy.png| image:: https://i.imgur.com/kS38HMy.png
+
+.. |643163003537063946.png| image:: https://cdn.discordapp.com/emojis/643163003537063946.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505653062565907.png| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/00EE3i6.png| image:: https://i.imgur.com/00EE3i6.png
+
+.. |703581275453128714.png| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/0SkjjCp.png| image:: https://i.imgur.com/0SkjjCp.png
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |https://i.imgur.com/vUYBEPS.jpg| image:: https://i.imgur.com/vUYBEPS.jpg
-
-.. |turmoil+583429936606347280| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/00EE3i6.png| image:: https://i.imgur.com/00EE3i6.png
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/0SkjjCp.png| image:: https://i.imgur.com/0SkjjCp.png
-
-.. |persistentrage+739965637056659567| image:: https://cdn.discordapp.com/emojis/739965637056659567.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/kS38HMy.png| image:: https://i.imgur.com/kS38HMy.png
 
 kalphite-queen
 ==============
@@ -123,9 +123,9 @@ Drops
 -----
 
 
-- |kqhead+643163003537063946|  |<b>| KQ head |</b>| ``1/128``
+- |643163003537063946.png|  |<b>| KQ head |</b>| ``1/128``
 
-- |kalphiteegg+643163002794672130|  |<b>| Kalphite egg |</b>| ``1/2500 (500 threshold)``
+- |643163002794672130.png|  |<b>| Kalphite egg |</b>| ``1/2500 (500 threshold)``
 
 
 
@@ -141,11 +141,11 @@ The preset for DKs can be recycled, simply removing a range or mage weapon, as o
 
 Preset with fewer switches:
 
-- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
+- |656426717505650708.png|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
-- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
+- |583430011868938283.png|  |<b>| Rune Pouch |</b>| |536252658986647589.png| |536252659422855188.png| |536252660333019136.png|
 
-(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
+(Runes for |543465115870035999.png| and |537349530551582720.png| )
 
 
 
@@ -160,7 +160,7 @@ Preset with fewer switches:
 
 |<b>| Advanced preset: |</b>|
 
-- |dummy+656844963522281473|  |<b>| Combat dummy |</b>| ``Used to stall adrenaline between kill``
+- |656844963522281473.png|  |<b>| Combat dummy |</b>| ``Used to stall adrenaline between kill``
 
 
 
@@ -175,7 +175,7 @@ Preset with fewer switches:
 
 |<b>| AFK Preset (~37 kph) |</b>|
 
-This method is slower than the active hybrid methods, but it requires little to no input. Verac the Defiled’s set effect along with weapon poison and a ripper demon with scrolls effectively kills kalphite queen’s second phase in a timely manner. Elder overload salve, penance aura, and elven ritual shard activation will sustain |soulsplit+615613924506599497| and |turmoil+583429936606347280| use indefinitely. No active pocket slot is necessary.
+This method is slower than the active hybrid methods, but it requires little to no input. Verac the Defiled’s set effect along with weapon poison and a ripper demon with scrolls effectively kills kalphite queen’s second phase in a timely manner. Elder overload salve, penance aura, and elven ritual shard activation will sustain |615613924506599497.png| and |583429936606347280.png| use indefinitely. No active pocket slot is necessary.
 
 
 
@@ -208,13 +208,13 @@ For this method it is important to have a few things:
 
 - Verac the Defiled’s equipment (perk with budget combat perks)
 
-- |Cinderbanes+513190158355660812| |<b>| Cinderbane gloves |</b>|
+- |513190158355660812.png| |<b>| Cinderbane gloves |</b>|
 
-- |ripperpouch+703581275453128714| |<b>| Ripper demon familiar with scrolls |</b>|
+- |703581275453128714.png| |<b>| Ripper demon familiar with scrolls |</b>|
 
-- |penance+643505653062565907|  |<b>| Penance Aura |</b>|
+- |643505653062565907.png|  |<b>| Penance Aura |</b>|
 
-- |persistentrage+739965637056659567|  |<b>| Persistent Rage relic |</b>|
+- |739965637056659567.png|  |<b>| Persistent Rage relic |</b>|
 
 
 

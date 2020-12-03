@@ -1,116 +1,32 @@
-.. |https://i.imgur.com/Dn6UDOV.png| image:: https://i.imgur.com/Dn6UDOV.png
-
-.. |asr+513190158472839208| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
+.. |583430011948630016.png| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/RVpzQgtG--Y| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RVpzQgtG--Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |praeswand+643166769518739477| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |conc+535533833106489365| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |aosor+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
 
 .. |https://i.imgur.com/ihbsrD9.png| image:: https://i.imgur.com/ihbsrD9.png
 
-.. |comb+535533833098100745| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |sonic+535533809924571136| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/6uH4KVg.mp4| image:: https://i.imgur.com/6uH4KVg.mp4
-
-.. |drider+656785090994503700| image:: https://cdn.discordapp.com/emojis/656785090994503700.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/86JdLZq.png| image:: https://i.imgur.com/86JdLZq.png
 
 .. |https://i.imgur.com/CrJ3Ee1.png| image:: https://i.imgur.com/CrJ3Ee1.png
 
-.. |Sacrifice+513201065907322880| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
+.. |https://i.imgur.com/Dn6UDOV.png| image:: https://i.imgur.com/Dn6UDOV.png
 
 .. |</u>| raw:: html
 
     </u>
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |noxstaff+513190159294922753| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+.. |535533809978966037.png| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/nUH6Fro.mp4| image:: https://i.imgur.com/nUH6Fro.mp4
+.. |https://i.imgur.com/6uH4KVg.mp4| image:: https://i.imgur.com/6uH4KVg.mp4
 
-.. |https://i.imgur.com/Bot78Z2.png| image:: https://i.imgur.com/Bot78Z2.png
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/4L0aa2h.png| image:: https://i.imgur.com/4L0aa2h.png
-
-.. |lunge4+736522494315593759| image:: https://cdn.discordapp.com/emojis/736522494315593759.png?v=1
+.. |643166751067996160.png| image:: https://cdn.discordapp.com/emojis/643166751067996160.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -118,37 +34,121 @@
 
     <i>
 
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+.. |https://i.imgur.com/Bot78Z2.png| image:: https://i.imgur.com/Bot78Z2.png
+
+.. |535533809655873556.png| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |chain+535533833056026624| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |impercore+643166751067996160| image:: https://cdn.discordapp.com/emojis/643166751067996160.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/T2LGvgy.png| image:: https://i.imgur.com/T2LGvgy.png
 
 .. |https://i.imgur.com/B03UBE3.mp4| image:: https://i.imgur.com/B03UBE3.mp4
 
-.. |https://youtu.be/HmZR1BBwsK0| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/HmZR1BBwsK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+.. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://i.imgur.com/86JdLZq.png| image:: https://i.imgur.com/86JdLZq.png
+
+.. |https://i.imgur.com/4L0aa2h.png| image:: https://i.imgur.com/4L0aa2h.png
 
 .. |https://youtu.be/XkDqJFcck4I| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/XkDqJFcck4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://i.imgur.com/T2LGvgy.png| image:: https://i.imgur.com/T2LGvgy.png
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833072672778.png| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833098100745.png| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656785090994503700.png| image:: https://cdn.discordapp.com/emojis/656785090994503700.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065513058306.png| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |535533833056026624.png| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159294922753.png| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833139912724.png| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158472839208.png| image:: https://cdn.discordapp.com/emojis/513190158472839208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/nUH6Fro.mp4| image:: https://i.imgur.com/nUH6Fro.mp4
+
+.. |535533833358016512.png| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065907322880.png| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/HmZR1BBwsK0| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/HmZR1BBwsK0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://youtu.be/RVpzQgtG--Y| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/RVpzQgtG--Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |736522494315593759.png| image:: https://cdn.discordapp.com/emojis/736522494315593759.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833391702017.png| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643166769518739477.png| image:: https://cdn.discordapp.com/emojis/643166769518739477.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809823645697.png| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 dpm-advice-mage
 ===============
@@ -261,7 +261,7 @@ Revolution (not revo++) is a combat mode wherein basic abilities are used automa
 
 
 
-If you are new to using revolution, simply let revo use basic abilities for you. Activate sunshine |Sunshine+583430011948630016| once you reach 100% adrenaline. From there use your thresholds whenever you reach 50% adrenaline (wm |wm+535533809978966037| , asphyx |asphyx+535533833072672778| , deep impact |deep+535533833139912724| ). Repeat.
+If you are new to using revolution, simply let revo use basic abilities for you. Activate sunshine |583430011948630016.png| once you reach 100% adrenaline. From there use your thresholds whenever you reach 50% adrenaline (wm |535533809978966037.png| , asphyx |535533833072672778.png| , deep impact |535533833139912724.png| ). Repeat.
 
 Following this simple repeating pattern of |<i>| Build to 100% → Sunshine → Thresholds → Repeat |</i>| , one can expect to reach around 150k dpm with low-medium player input.
 
@@ -318,15 +318,15 @@ See this image for an idea of which abilities should be prioritized based on dam
 
 
 
-When building a rotation, ability prioritizations AND cooldowns should be on your mind. Filler abilities such as Sonic Wave |sonic+535533809924571136| and Concentrated Blast |conc+535533833106489365| should be used in-between high damage abilities such as Dragon Breath |dbreath+535533833391702017| , Corruption Blast |corruptblast+513190159194259467| , Impact-Flanking |impact+535533809655873556| , and Combust-Walk |comb+535533833098100745| . Any basic ability with damage lower than Sonic/Conc would be considered a weak ability (wrack |wrack+535533809823645697| , tuska |Tuskas+513201065513058306| , sacrifice |Sacrifice+513201065907322880| , impact |impact+535533809655873556| without flanking, chain |chain+535533833056026624| on 1v1).
+When building a rotation, ability prioritizations AND cooldowns should be on your mind. Filler abilities such as Sonic Wave |535533809924571136.png| and Concentrated Blast |535533833106489365.png| should be used in-between high damage abilities such as Dragon Breath |535533833391702017.png| , Corruption Blast |513190159194259467.png| , Impact-Flanking |535533809655873556.png| , and Combust-Walk |535533833098100745.png| . Any basic ability with damage lower than Sonic/Conc would be considered a weak ability (wrack |535533809823645697.png| , tuska |513201065513058306.png| , sacrifice |513201065907322880.png| , impact |535533809655873556.png| without flanking, chain |535533833056026624.png| on 1v1).
 
 
 
-If you are 2h or DW camping, you will be limited to only one filler ability (Sonic Wave or Concentrated Blast, respectively). Thus, try to utilize Sonic Wave or Concentrated Blast as often as possible in your rotation. A basic pattern of |<i>| Sonic |sonic+535533809924571136| → Ability → Ability → Repeat |</i>| is recommended for camping rotations.
+If you are 2h or DW camping, you will be limited to only one filler ability (Sonic Wave or Concentrated Blast, respectively). Thus, try to utilize Sonic Wave or Concentrated Blast as often as possible in your rotation. A basic pattern of |<i>| Sonic |535533809924571136.png| → Ability → Ability → Repeat |</i>| is recommended for camping rotations.
 
 
 
-For weapon juggling, you will have access to both Sonic Wave and Concentrated Blast as filler abilities. This lets you have more breathing room in what rotations and fillers you create. While there is no singular rotation that is |<i>| best |</i>| here, a general pattern of |<i>| Sonic |sonic+535533809924571136| → Ability → Conc |conc+535533833106489365| → Ability → Repeat |</i>| will give you strong dps. 
+For weapon juggling, you will have access to both Sonic Wave and Concentrated Blast as filler abilities. This lets you have more breathing room in what rotations and fillers you create. While there is no singular rotation that is |<i>| best |</i>| here, a general pattern of |<i>| Sonic |535533809924571136.png| → Ability → Conc |535533833106489365.png| → Ability → Repeat |</i>| will give you strong dps. 
 
 
 
@@ -481,7 +481,7 @@ Your threshold order in Sunshine should be:
 
 With no flanking OR Blast Diffusion Boots: 
 
-Wild Magic |wm+535533809978966037| → Asphyxiate |asphyx+535533833072672778| → (Auto Attack + 100% Detonate |deto+535533833358016512| + Dragon Breath |dbreath+535533833391702017| stack) → Wild Magic |wm+535533809978966037| → Asphyxiate |asphyx+535533833072672778|
+Wild Magic |535533809978966037.png| → Asphyxiate |535533833072672778.png| → (Auto Attack + 100% Detonate |535533833358016512.png| + Dragon Breath |535533833391702017.png| stack) → Wild Magic |535533809978966037.png| → Asphyxiate |535533833072672778.png|
 
 
 
@@ -506,13 +506,13 @@ With Flanking:
 
 Adrenaline Potion:
 
-Wild Magic |wm+535533809978966037| → Asphyxiate |asphyx+535533833072672778| → Deep Impact |deep+535533833139912724| → Wild Magic |wm+535533809978966037| → Asphyxiate |asphyx+535533833072672778| → Deep Impact |deep+535533833139912724|
+Wild Magic |535533809978966037.png| → Asphyxiate |535533833072672778.png| → Deep Impact |535533833139912724.png| → Wild Magic |535533809978966037.png| → Asphyxiate |535533833072672778.png| → Deep Impact |535533833139912724.png|
 
 
 
 Without Adrenaline Potion:
 
-Wild Magic |wm+535533809978966037| → Deep Impact |deep+535533833139912724| → Asphyxiate |asphyx+535533833072672778| → Wild Magic |wm+535533809978966037| → Deep Impact |deep+535533833139912724|
+Wild Magic |535533809978966037.png| → Deep Impact |535533833139912724.png| → Asphyxiate |535533833072672778.png| → Wild Magic |535533809978966037.png| → Deep Impact |535533833139912724.png|
 
 
 
@@ -522,7 +522,7 @@ With Blast Diffusion Boots:
 
 Adrenaline Potion:
 
-Wild Magic |wm+535533809978966037| → Asphyxiate |asphyx+535533833072672778| → 3t 80% Detonate |deto+535533833358016512| → Wild Magic |wm+535533809978966037| → Asphyxiate |asphyx+535533833072672778| → Deep Impact |deep+535533833139912724|
+Wild Magic |535533809978966037.png| → Asphyxiate |535533833072672778.png| → 3t 80% Detonate |535533833358016512.png| → Wild Magic |535533809978966037.png| → Asphyxiate |535533833072672778.png| → Deep Impact |535533833139912724.png|
 
 
 
@@ -530,13 +530,13 @@ OR
 
 
 
-3t 80% Detonate |deto+535533833358016512| → Wild Magic |wm+535533809978966037| → Deep Impact |deep+535533833139912724| → Asphyxiate |asphyx+535533833072672778| → Wild Magic |wm+535533809978966037| → Deep Impact |deep+535533833139912724|
+3t 80% Detonate |535533833358016512.png| → Wild Magic |535533809978966037.png| → Deep Impact |535533833139912724.png| → Asphyxiate |535533833072672778.png| → Wild Magic |535533809978966037.png| → Deep Impact |535533833139912724.png|
 
 
 
 Without Adrenaline Potion:
 
-Wild Magic |wm+535533809978966037| → 3t 80% Detonate |deto+535533833358016512| → Asphyxiate |asphyx+535533833072672778| → Wild Magic |wm+535533809978966037| → Deep Impact |deep+535533833139912724|
+Wild Magic |535533809978966037.png| → 3t 80% Detonate |535533833358016512.png| → Asphyxiate |535533833072672778.png| → Wild Magic |535533809978966037.png| → Deep Impact |535533833139912724.png|
 
 
 
@@ -553,7 +553,7 @@ Additionally, there are two other techniques to learn at this stage:
 
  - Start your Sunshine with a planted feet wand, then quickly swap to your Staff and hit your auto attack before the GCD is over. This forces an 2h auto attack which deals an extra 1-4k damage each time you activate Sunshine.
 
- - Remember to use your flanking switch for impact |impact+535533809655873556| basics. Using flanking on impact improves that ability from 100% ability damage to 220% ability damage and is often overlooked by inexperienced players.
+ - Remember to use your flanking switch for impact |535533809655873556.png| basics. Using flanking on impact improves that ability from 100% ability damage to 220% ability damage and is often overlooked by inexperienced players.
 
 
 
@@ -572,11 +572,11 @@ Once you're at 160k DPM, reaching higher levels of DPM will require either lots 
 
 
 
-Min-max optimizations refers to additional gear switches to squeeze out dps by just a hair. Items include asylum surgeon ring switch |asr+513190158472839208| , dragon rider amulet |drider+656785090994503700| switch, and a lunging |lunge4+736522494315593759| switch. If you choose to go down this route, the idea is to equip an item momentarily for its effects, then unequip once you've used it. An example would be equipping Dragon Rider Amulet every time you dragonbreath for its chance of burn damage, then re-equipping Amulet of Souls |aosor+544200033847869443| (better stats) after you've used dragonbreath. 
+Min-max optimizations refers to additional gear switches to squeeze out dps by just a hair. Items include asylum surgeon ring switch |513190158472839208.png| , dragon rider amulet |656785090994503700.png| switch, and a lunging |736522494315593759.png| switch. If you choose to go down this route, the idea is to equip an item momentarily for its effects, then unequip once you've used it. An example would be equipping Dragon Rider Amulet every time you dragonbreath for its chance of burn damage, then re-equipping Amulet of Souls |544200033847869443.png| (better stats) after you've used dragonbreath. 
 
 
 
-At this point we encourage you to incorporate weapon switching to reach higher DPMs. Switching between 2h and DW will open up access to using both Sonic Wave |sonic+535533809924571136| (2h basic) and Concentrated Blast |conc+535533833106489365| (DW basic) abilities – both have a 5 second cooldown and both are good damage at 157% ability damage. 
+At this point we encourage you to incorporate weapon switching to reach higher DPMs. Switching between 2h and DW will open up access to using both Sonic Wave |535533809924571136.png| (2h basic) and Concentrated Blast |535533833106489365.png| (DW basic) abilities – both have a 5 second cooldown and both are good damage at 157% ability damage. 
 
 
 
@@ -611,7 +611,7 @@ Assuming 4taa, here are some general tips and optimizations to make for furtheri
 
  - Remember than you cannot auto attack after a channeled ability. This means that in your rhythm of Auto – Ability – Ability, your channeled ability should be the first ability between the two abilities.
 
- - Consider reorganizing your keybinds to make 4ting easier. This is for especially if you struggle with executing Auto |AirSurge+543465115870035999| Conc |conc+535533833106489365| or Auto |AirSurge+543465115870035999| Asphyx |asphyx+535533833072672778| .
+ - Consider reorganizing your keybinds to make 4ting easier. This is for especially if you struggle with executing Auto |543465115870035999.png| Conc |535533833106489365.png| or Auto |543465115870035999.png| Asphyx |535533833072672778.png| .
 
  - Make sure your timing for Auto attack is correct. Inefficient 4t is a very detrimental to dps as you will be doing abilities slower AND you will be missing autos. Therefore it is very important to get the rhythm of 4t down and be able to consistently do 2h autos.
 
@@ -638,7 +638,7 @@ The basic principles is you can do lossless spellcasting by hitting a spell from
 
 
 
-When you can autoattack is based on a delay depending on your weapon speed: |praeswand+643166769518739477| = 4t and |noxstaff+513190159294922753| = 6t
+When you can autoattack is based on a delay depending on your weapon speed: |643166769518739477.png| = 4t and |513190159294922753.png| = 6t
 
 
 
@@ -655,29 +655,29 @@ Implications from this are that if you do a wand ability you'll be able to autoa
 
 Things you need:
 
- 1) Wand |praeswand+643166769518739477| + Orb |impercore+643166751067996160| 
+ 1) Wand |643166769518739477.png| + Orb |643166751067996160.png| 
 
- 2) Staff |noxstaff+513190159294922753| 
+ 2) Staff |513190159294922753.png| 
 
- 3) Runes |Airrune+536252658986647589| 
+ 3) Runes |536252658986647589.png| 
 
- 4) The basic abilities Sonic Blast |sonic+535533809924571136| , Concentration blast |conc+535533833106489365| , Wrack |wrack+535533809823645697| , and auto attack |AirSurge+543465115870035999| on your ability bar.
+ 4) The basic abilities Sonic Blast |535533809924571136.png| , Concentration blast |535533833106489365.png| , Wrack |535533809823645697.png| , and auto attack |543465115870035999.png| on your ability bar.
 
 
 
 |<b>| Step 1 |</b>|
 
-Equip Wand |praeswand+643166769518739477| + Orb |impercore+643166751067996160| , acquire a target, and wrack |wrack+535533809823645697|
+Equip Wand |643166769518739477.png| + Orb |643166751067996160.png| , acquire a target, and wrack |535533809823645697.png|
 
 
 
 |<b>| Step 2 |</b>|
 
-Equip staff |noxstaff+513190159294922753|
+Equip staff |513190159294922753.png|
 
 Press Auto attack -> Sonic. 
 
-( |AirSurge+543465115870035999| → |sonic+535533809924571136| )
+( |543465115870035999.png| → |535533809924571136.png| )
 
 
 
@@ -685,7 +685,7 @@ Press Auto attack -> Sonic.
 
 Equip Wand/Orb and Wrack.
 
-( |praeswand+643166769518739477| + |impercore+643166751067996160| → |wrack+535533809823645697| )
+( |643166769518739477.png| + |643166751067996160.png| → |535533809823645697.png| )
 
 
 
@@ -707,7 +707,7 @@ Steps 2-3 demonstrated
 
 Equip Staff, wait 1 tick after gcd and press Auto attack → Equip Wand/Orb → Concentrated Blast.
 
-( |noxstaff+513190159294922753| → |AirSurge+543465115870035999| → |praeswand+643166769518739477| + |impercore+643166751067996160| → |conc+535533833106489365| )
+( |513190159294922753.png| → |543465115870035999.png| → |643166769518739477.png| + |643166751067996160.png| → |535533833106489365.png| )
 
 
 
@@ -715,7 +715,7 @@ Equip Staff, wait 1 tick after gcd and press Auto attack → Equip Wand/Orb → 
 
 Use Wrack with Wand/Orb still equipped.
 
-( |wrack+535533809823645697| )
+( |535533809823645697.png| )
 
 
 
@@ -741,7 +741,7 @@ Steps 4-6 demonstrated
 
 |<b>| Steps 2-6 in one video |</b>|
 
-Entire rotation: |noxstaff+513190159294922753| → |AirSurge+543465115870035999| |sonic+535533809924571136| → |praeswand+643166769518739477| + |impercore+643166751067996160| + |wrack+535533809823645697| → |noxstaff+513190159294922753| → |AirSurge+543465115870035999| + |praeswand+643166769518739477| + |impercore+643166751067996160|  + |conc+535533833106489365| → |wrack+535533809823645697| → repeat
+Entire rotation: |513190159294922753.png| → |543465115870035999.png| |535533809924571136.png| → |643166769518739477.png| + |643166751067996160.png| + |535533809823645697.png| → |513190159294922753.png| → |543465115870035999.png| + |643166769518739477.png| + |643166751067996160.png|  + |535533833106489365.png| → |535533809823645697.png| → repeat
 
 https://youtu.be/RVpzQgtG--Y
 
@@ -753,7 +753,7 @@ https://youtu.be/RVpzQgtG--Y
 
 |<b>| 4taa Additional info |</b>|
 
-1) |<b>| Note that this is just a practice rotation. |</b>| Wrack is generally not a good basic ability to use in combat and is only utilized here due to it's very short cooldown. In real combat, replace Wrack with Dragon Breath |dbreath+535533833391702017| , Corruption Blast |corruptblast+513190159194259467| , Impact |impact+535533809655873556| , Wild Magic |wm+535533809978966037| , etc.
+1) |<b>| Note that this is just a practice rotation. |</b>| Wrack is generally not a good basic ability to use in combat and is only utilized here due to it's very short cooldown. In real combat, replace Wrack with Dragon Breath |535533833391702017.png| , Corruption Blast |513190159194259467.png| , Impact |535533809655873556.png| , Wild Magic |535533809978966037.png| , etc.
 
 
 
@@ -855,7 +855,7 @@ There are some niche tricks available for increasing DPM. These tricks are gener
 
 
 
-One thing to note is the usage of auto > dual-wield |asphyx+535533833072672778| rather than auto > 2-handed |asphyx+535533833072672778| is preferred, as combo abilities reset the auto-attack timer meaning you cannot auto on the next ability with a 2h asphyx rather than a dw one. In most cases, it is better to dw asphyx over 2h asphyx.
+One thing to note is the usage of auto > dual-wield |535533833072672778.png| rather than auto > 2-handed |535533833072672778.png| is preferred, as combo abilities reset the auto-attack timer meaning you cannot auto on the next ability with a 2h asphyx rather than a dw one. In most cases, it is better to dw asphyx over 2h asphyx.
 
 
 

@@ -1,40 +1,4 @@
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |kalphiteclaw+643162983220117605| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |drygorelongmh+513190158900658180| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/uisDoTEmFSI| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/uisDoTEmFSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |incend+535541258429661215| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |destroy+535532879330148352| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -42,35 +6,71 @@
 
     </u>
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
+.. |535541258429661215.png| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/uisDoTEmFSI| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/uisDoTEmFSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |<b>| raw:: html
 
     <b>
 
+.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643162983543078922.png| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |513190158900658180.png| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |https://i.imgur.com/SHdAj7o.png| image:: https://i.imgur.com/SHdAj7o.png
 
-.. |perfectchitin+643162983543078922| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+.. |643162983220117605.png| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -97,11 +97,11 @@ Drops
 
 
 
-- |drygorelongmh+513190158900658180|  |<b>| Drygore weaponry |</b>| ``1/43``
+- |513190158900658180.png|  |<b>| Drygore weaponry |</b>| ``1/43``
 
-- |perfectchitin+643162983543078922|  |<b>| Perfect chitin |</b>| ``1/50``
+- |643162983543078922.png|  |<b>| Perfect chitin |</b>| ``1/50``
 
-- |kalphiteclaw+643162983220117605|  |<b>| Kalphite claw |</b>| ``1/2000 (400 threshold)``
+- |643162983220117605.png|  |<b>| Kalphite claw |</b>| ``1/2000 (400 threshold)``
 
 
 
@@ -280,7 +280,7 @@ Strategies and Tips
 
 
 
-- |anti+535541306475151390| before and |zerk+535532854004678657| at the start of every kill.
+- |535541306475151390.png| before and |535532854004678657.png| at the start of every kill.
 
 
 
@@ -296,30 +296,30 @@ Strategies and Tips
 
 
 
-- |anti+535541306475151390| or |freedom+535541258240786434| at the start of range and magic phases, use the other defensive when your first runs out.
+- |535541306475151390.png| or |535541258240786434.png| at the start of range and magic phases, use the other defensive when your first runs out.
 
 
 
-- |anti+535541306475151390| during mage charge.
+- |535541306475151390.png| during mage charge.
 
 
 
-- |res+535541258844635148| blue ball during mage phase (usually happens the attack after mage charge if you forget how to count).
+- |535541258844635148.png| blue ball during mage phase (usually happens the attack after mage charge if you forget how to count).
 
 
 
-- Use |freedom+535541258240786434| on melee phase only after you receive both bleeds. If you |freedom+535541258240786434| a dismember before you get slaughtered you’re not going to have a fun time, especially if you get pushed.
+- Use |535541258240786434.png| on melee phase only after you receive both bleeds. If you |535541258240786434.png| a dismember before you get slaughtered you’re not going to have a fun time, especially if you get pushed.
 
 
 
 
 
 
-- The amount of times you get hit by the standard attack while the Incendiary Shot icon ( |incend+535541258429661215| )is on your buff bar is the amount of times you will be hit by the Incendiary Shot 
+- The amount of times you get hit by the standard attack while the Incendiary Shot icon ( |535541258429661215.png| )is on your buff bar is the amount of times you will be hit by the Incendiary Shot 
 
 
 
-- If you get a stun with the Incendiary Shot after green, don’t freedom. Either wait until the stun clears and |gbarge+535532879250456578| to KK when he surfaces or |gbarge+535532879250456578| to minions to clear and then |bd+535532854281764884| back to KK.
+- If you get a stun with the Incendiary Shot after green, don’t freedom. Either wait until the stun clears and |535532879250456578.png| to KK when he surfaces or |535532879250456578.png| to minions to clear and then |535532854281764884.png| back to KK.
 
 
 
@@ -327,7 +327,7 @@ Strategies and Tips
 
 
 
-- Use |devo+513190158728953857| during the first 4 autos of mage phase so you can continue to attack the boss without moving.
+- Use |513190158728953857.png| during the first 4 autos of mage phase so you can continue to attack the boss without moving.
 
 
 
@@ -342,7 +342,7 @@ Step-by-step Bladed Dive Guide
 
 
 
-Don’t |bd+535532854281764884| during range phase. Always skip green with a stun. If you use |destroy+535532879330148352| remember to cancel after 1 GCD.
+Don’t |535532854281764884.png| during range phase. Always skip green with a stun. If you use |535532879330148352.png| remember to cancel after 1 GCD.
 
 
 
@@ -354,15 +354,15 @@ Don’t |bd+535532854281764884| during range phase. Always skip green with a stu
 
 2. Count 2 KK autos.
 
-3\*. Equip shield or defender if you are learning. Can be done after |bd+535532854281764884| when more experienced.
+3\*. Equip shield or defender if you are learning. Can be done after |535532854281764884.png| when more experienced.
 
-3. |freedom+535541258240786434| 
+3. |535541258240786434.png| 
 
 4. Let the boss green you
 
-5. Queue |bd+535532854281764884| and aim away from walls and minions
+5. Queue |535532854281764884.png| and aim away from walls and minions
 
-     -Never |bd+535532854281764884| through KK
+     -Never |535532854281764884.png| through KK
 
 6. Look at the stun timer
 
@@ -370,11 +370,11 @@ Don’t |bd+535532854281764884| during range phase. Always skip green with a stu
 
 8. Quickly equip shield or defender if not already equipped
 
-9. |devo+513190158728953857| , |res+535541258844635148| or |disrupt+535614336207552523| (Only |res+535541258844635148| or |disrupt+535614336207552523|  if there are no minions)
+9. |513190158728953857.png| , |535541258844635148.png| or |535614336207552523.png| (Only |535541258844635148.png| or |535614336207552523.png|  if there are no minions)
 
 
 
-|<b>| If you get greened solo, you can spam Freedom |freedom+535541258240786434| and a teleport to avoid death. |</b>|
+|<b>| If you get greened solo, you can spam Freedom |535541258240786434.png| and a teleport to avoid death. |</b>|
 
 
 

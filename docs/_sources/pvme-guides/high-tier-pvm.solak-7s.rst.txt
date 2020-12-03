@@ -1,32 +1,14 @@
-.. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
-
-.. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
-
 .. |https://i.imgur.com/oExT8r7.png| image:: https://i.imgur.com/oExT8r7.png
 
-.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
-
-.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
+.. |643505652865695767.png| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
+.. |643505652634746881.png| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+.. |643505153709965322.png| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -34,7 +16,19 @@
 
     </u>
 
-.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+.. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
+
+.. |643505116347105290.png| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
+
+.. |643148943856762890.png| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -42,15 +36,21 @@
 
     </b>
 
-.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+.. |643505179378974748.png| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |643505652571963417.png| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
 
 .. |https://i.imgur.com/ab02YuY.png| image:: https://i.imgur.com/ab02YuY.png
 
-.. |mani+643505153709965322| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
+
+.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
 
 .. |<b>| raw:: html
 
@@ -83,9 +83,9 @@ Solak is the first boss that has made hybrid a viable strategy, which results in
 
 Recommended auras for this fight. You have 100% accuracy at Solak (except roots on p1) which means you should utilize other auras instead of the accuracy boosting ones.
 
-For hybrid, the best aura goes as follows: |mahj+643148943856762890| > |dm+643505652571963417| > |inspiration+643505652634746881| > |invig+643505652865695767|
+For hybrid, the best aura goes as follows: |643148943856762890.png| > |643505652571963417.png| > |643505652634746881.png| > |643505652865695767.png|
 
-For one style camping, the best aura to use would be the respective zerker aura ( |mani+643505153709965322| / |reckless+643505179378974748| / |berserker+643505116347105290| ), and then the other hybrid auras as mentioned earlier
+For one style camping, the best aura to use would be the respective zerker aura ( |643505153709965322.png| / |643505179378974748.png| / |643505116347105290.png| ), and then the other hybrid auras as mentioned earlier
 
 If camping one style it is recommended to use magic as it gives you access to vulnerability and 4TAA. However, this guide will showcase a magic and a ranged non-hybrid 7man preset. If you’re planning to melee you can just change the gear to match your own.
 

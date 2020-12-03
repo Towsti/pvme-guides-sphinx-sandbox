@@ -1,30 +1,30 @@
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |513190158355660812.png| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |https://i.imgur.com/iqvf7NK.png| image:: https://i.imgur.com/iqvf7NK.png
-
-.. |https://i.imgur.com/iNcL1NL.png| image:: https://i.imgur.com/iNcL1NL.png
+.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |</u>| raw:: html
 
     </u>
 
+.. |<u>| raw:: html
+
+    <u>
+
+.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/iqvf7NK.png| image:: https://i.imgur.com/iqvf7NK.png
+
 .. |</b>| raw:: html
 
     </b>
 
-.. |Cinderbanes+513190158355660812| image:: https://cdn.discordapp.com/emojis/513190158355660812.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |AoS_OR+544200033847869443| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/iNcL1NL.png| image:: https://i.imgur.com/iNcL1NL.png
 
 .. |<b>| raw:: html
 
@@ -59,7 +59,7 @@ Preset
 ------
 
 
-A scythe is used to deal with the minion spawn special attack by using AoEs. The shield is used for resonance. A bladed dive switch can be brought for extra mobility. |Cinderbanes+513190158355660812| are brought as they are best in slot when the boss is poisonable. An |AoS_OR+544200033847869443| is used to gain extra HP back with |soulsplit+615613924506599497| and mitigate more damage with protection curses. 
+A scythe is used to deal with the minion spawn special attack by using AoEs. The shield is used for resonance. A bladed dive switch can be brought for extra mobility. |513190158355660812.png| are brought as they are best in slot when the boss is poisonable. An |544200033847869443.png| is used to gain extra HP back with |615613924506599497.png| and mitigate more damage with protection curses. 
 
 
 

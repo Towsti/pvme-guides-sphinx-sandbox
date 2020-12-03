@@ -1,28 +1,8 @@
-.. |Imp+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<b>| raw:: html
 
-.. |Asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <b>
 
-.. |<u>| raw:: html
-
-    <u>
-
-.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Ice_Barrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+.. |537340400185245701.png| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -30,15 +10,11 @@
 
     </u>
 
-.. |Deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<u>| raw:: html
 
-.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <u>
 
-.. |Wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+.. |535533833139912724.png| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -46,13 +22,21 @@
 
     </b>
 
-.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |535533833358016512.png| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
+.. |535533809655873556.png| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <b>
+.. |535533809823645697.png| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833072672778.png| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 telos-stun-guide
 ================
@@ -75,13 +59,13 @@ telos-stun-guide
 
 |<b>| Stuns |</b>|
 
-- |impact+535533809655873556| only stuns when it hits, for 1.2s, 100% ability damage, 15s cd
+- |535533809655873556.png| only stuns when it hits, for 1.2s, 100% ability damage, 15s cd
 
-- |deep+535533833139912724| only stuns when hits, for 3.6s i think, 200% ability damage, 15s cd
+- |535533833139912724.png| only stuns when hits, for 3.6s i think, 200% ability damage, 15s cd
 
-- |asphyx+535533833072672778| always stuns Telos |<b>| regardless |</b>| of accuracy, so your best stun 3.6s stun, 20s cd
+- |535533833072672778.png| always stuns Telos |<b>| regardless |</b>| of accuracy, so your best stun 3.6s stun, 20s cd
 
-- |icebarrage+537340400185245701| do not stun but bind, so break his freedom. especially with 4taa, makes ancients pretty sick if used properly
+- |537340400185245701.png| do not stun but bind, so break his freedom. especially with 4taa, makes ancients pretty sick if used properly
 
 
 
@@ -132,9 +116,9 @@ Notice he does an auto after I impact but only 1, if I asphyxed instead of sonic
 
 
 
-- |Imp+535533809655873556| , |Deep+535533833139912724| , auto |Asphyx+535533833072672778|
+- |535533809655873556.png| , |535533833139912724.png| , auto |535533833072672778.png|
 
-- |Asphyx+535533833072672778| , cancel after 3rd hit with |Imp+535533809655873556| , |Deep+535533833139912724|
+- |535533833072672778.png| , cancel after 3rd hit with |535533809655873556.png| , |535533833139912724.png|
 
 https://clips.twitch.tv/CrispyAcceptablePuppyRickroll
 
@@ -142,15 +126,15 @@ https://clips.twitch.tv/CrispyAcceptablePuppyRickroll
 
 
 
-- |Asphyx+535533833072672778| , cancel after 3rd hit with |Deep+535533833139912724| , auto/wait |Imp+535533809655873556| ( |<b>| DONT |</b>| impact right after deep impact, see common mistakes)
+- |535533833072672778.png| , cancel after 3rd hit with |535533833139912724.png| , auto/wait |535533809655873556.png| ( |<b>| DONT |</b>| impact right after deep impact, see common mistakes)
 
 
 
-- |Deep+535533833139912724| , Auto |Asphyx+535533833072672778| , cancel after 3rd hit |Imp+535533809655873556| (works i guess just not comfortable for me)
+- |535533833139912724.png| , Auto |535533833072672778.png| , cancel after 3rd hit |535533809655873556.png| (works i guess just not comfortable for me)
 
 
 
-- |Deep+535533833139912724| , Auto |Imp+535533809655873556| , |Asphyx+535533833072672778| 
+- |535533833139912724.png| , Auto |535533809655873556.png| , |535533833072672778.png| 
 
 
 
@@ -188,13 +172,13 @@ If he didn't have freedom up, would've done auto 1 tick later so same speed, so 
 
 
 
-- |Asphyx+535533833072672778| , |Deep+535533833139912724| , |Imp+535533809655873556| , no waiting ( |Deep+535533833139912724| |Imp+535533809655873556| just does some bad damage with no stunning, just use |Wrack+535533809823645697| )
+- |535533833072672778.png| , |535533833139912724.png| , |535533809655873556.png| , no waiting ( |535533833139912724.png| |535533809655873556.png| just does some bad damage with no stunning, just use |535533809823645697.png| )
 
 
 
 |<u>| |<b>| P4 |</b>| |</u>| :
 
-- At fonts, can damage him with |Imp+535533809655873556| (+ stacked Auto |Deto+535533833358016512| ) which will proc his freedom, and then (auto) |Deep+535533833139912724| |Imp+535533809655873556| |Asphyx+535533833072672778| 
+- At fonts, can damage him with |535533809655873556.png| (+ stacked Auto |535533833358016512.png| ) which will proc his freedom, and then (auto) |535533833139912724.png| |535533809655873556.png| |535533833072672778.png| 
 
 can just do auto deto wm then a stun rotation after, like if he has 1 attack before hold still or something and u res before going to 2nd font
 
@@ -204,7 +188,7 @@ https://clips.twitch.tv/StupidTangentialAlligatorGOWSkull
 
 
 
-- Break freedom with |Ice_Barrage+537340400185245701| / |Imp+535533809655873556| when he is charging, then |Asphyx+535533833072672778| tick before he is about to attack, |Wrack+535533809823645697| |Imp+535533809655873556| if you want to be safe afterwards, see below
+- Break freedom with |537340400185245701.png| / |535533809655873556.png| when he is charging, then |535533833072672778.png| tick before he is about to attack, |535533809823645697.png| |535533809655873556.png| if you want to be safe afterwards, see below
 
 
 
@@ -214,7 +198,7 @@ https://clips.twitch.tv/StupidTangentialAlligatorGOWSkull
 
 - P5 is quite variable depending on if you surge properly, if you don't waste ticks getting into beam
 
-- Ideally though its not usually worth to impact right after sun if you started properly; the way his autos line up, waiting 1 tick to get 50 adren and |Asphyx+535533833072672778| then cancel with |Deep+535533833139912724| after 3rd hit creates more stall 
+- Ideally though its not usually worth to impact right after sun if you started properly; the way his autos line up, waiting 1 tick to get 50 adren and |535533833072672778.png| then cancel with |535533833139912724.png| after 3rd hit creates more stall 
 
 - Watch couchy vods for great examples on how to effectively stun p5
 
@@ -238,7 +222,7 @@ https://clips.twitch.tv/ExuberantDullSnailYouDontSay
 
 This is the standard P1 copied from couchy, notice that at the start my abilities and Telos autos were on same tick so had to stop 4ticking for at least 1 abil, 
 
-I chose |Asphyx+535533833072672778| . Asphyxiate first without breaking freedom is to have consistency, it always stuns so if you splash no worries for stall before tendrils
+I chose |535533833072672778.png| . Asphyxiate first without breaking freedom is to have consistency, it always stuns so if you splash no worries for stall before tendrils
 
 
 
@@ -250,7 +234,7 @@ https://clips.twitch.tv/GloriousOriginalPuddingPMSTwin
 
 
 
-- There are a lot of ways to deal with insta smp, and a few diff ways to stun, the one that's least rng is break his freedom while he is charging anima bomb then |Asphyx+535533833072672778| as he is attackable. On maniacal it's usually fine to yolo stun as long as you didn't brew down
+- There are a lot of ways to deal with insta smp, and a few diff ways to stun, the one that's least rng is break his freedom while he is charging anima bomb then |535533833072672778.png| as he is attackable. On maniacal it's usually fine to yolo stun as long as you didn't brew down
 
 https://clips.twitch.tv/ElatedRichAlfalfaResidentSleeper
 

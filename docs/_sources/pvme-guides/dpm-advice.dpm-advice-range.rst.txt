@@ -1,124 +1,14 @@
-.. |https://i.imgur.com/jCHwBgT.png| image:: https://i.imgur.com/jCHwBgT.png
-
 .. |https://i.imgur.com/ZKwiC3l.png| image:: https://i.imgur.com/ZKwiC3l.png
 
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DeathsSwift+513190158812839936| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |nightmaregauntlets+679628668120727571| image:: https://cdn.discordapp.com/emojis/679628668120727571.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |piercing+535541258538450944| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |replen+634350514406162436| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/6Fmy2MK.png| image:: https://i.imgur.com/6Fmy2MK.png
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |https://i.imgur.com/lENhef2.png| image:: https://i.imgur.com/lENhef2.png
-
-.. |decimation+643848618477879328| image:: https://cdn.discordapp.com/emojis/643848618477879328.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |http://youtu.be/bd64iILPqJM| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/bd64iILPqJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |tight+535541275957657600| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dazing+535541307142307860| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+.. |615613235512737792.png| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/6uH4KVg.mp4| image:: https://i.imgur.com/6uH4KVg.mp4
 
-.. |Sacrifice+513201065907322880| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/jCHwBgT.png| image:: https://i.imgur.com/jCHwBgT.png
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |https://i.imgur.com/qXlCYVf.png| image:: https://i.imgur.com/qXlCYVf.png
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bindingshot+535541306563231790| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/k_IxIyoZFww| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/k_IxIyoZFww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |ricochet+535541259566186521| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/r0FnCrmn034| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/r0FnCrmn034" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |Nex+513213159071547395| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+.. |535541275957657600.png| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -126,19 +16,129 @@
 
     <i>
 
-.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+.. |535534127131394088.png| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://youtu.be/r0FnCrmn034| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/r0FnCrmn034" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://i.imgur.com/qXlCYVf.png| image:: https://i.imgur.com/qXlCYVf.png
+
+.. |565726489362956308.png| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513213159071547395.png| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258538450944.png| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643848618477879328.png| image:: https://cdn.discordapp.com/emojis/643848618477879328.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158812839936.png| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/6Fmy2MK.png| image:: https://i.imgur.com/6Fmy2MK.png
+
+.. |535541258425204770.png| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065513058306.png| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541270521708566.png| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/k_IxIyoZFww| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/k_IxIyoZFww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |550834403136503822.png| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |http://youtu.be/bd64iILPqJM| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/bd64iILPqJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |535541306563231790.png| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |679628668120727571.png| image:: https://cdn.discordapp.com/emojis/679628668120727571.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/lENhef2.png| image:: https://i.imgur.com/lENhef2.png
+
+.. |513201065907322880.png| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |634350514406162436.png| image:: https://cdn.discordapp.com/emojis/634350514406162436.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |565726489413287956.png| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |642713547142332416.png| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259566186521.png| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
 
 .. |https://i.imgur.com/nhRFoZ1.png| image:: https://i.imgur.com/nhRFoZ1.png
 
-.. |bombard+535541306391265284| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
+.. |535541306391265284.png| image:: https://cdn.discordapp.com/emojis/535541306391265284.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vigour+615613235512737792| image:: https://cdn.discordapp.com/emojis/615613235512737792.png?v=1
+.. |535541273755385885.png| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 dpm-advice-range
 ================
@@ -310,11 +310,11 @@ See this image for an idea of which abilities should be prioritized based on dam
 
 
 
-When building a rotation, ability prioritizations AND cooldowns should be on your mind. Filler abilities such as Needle Strike |needle+535541259108876293| and Dazing Shot |dazing+535541307142307860| should be used in-between high damage abilities such as Snipe |snipe+535541258425204770| , Corruption Shot |corruptshot+535541306294796299| , Binding Shot-Flanking |bindingshot+535541306563231790| , and Fragmentation Shot-Walk |frag+535541273755385885| . Any basic ability with damage lower than Needle/Dazing would be considered a weak ability (Piercing |piercing+535541258538450944| , tuska |Tuskas+513201065513058306| , sacrifice |Sacrifice+513201065907322880| , binding shot |bindingshot+535541306563231790| without flanking, richochet |ricochet+535541259566186521| on 1v1).
+When building a rotation, ability prioritizations AND cooldowns should be on your mind. Filler abilities such as Needle Strike |535541259108876293.png| and Dazing Shot |535541307142307860.png| should be used in-between high damage abilities such as Snipe |535541258425204770.png| , Corruption Shot |535541306294796299.png| , Binding Shot-Flanking |535541306563231790.png| , and Fragmentation Shot-Walk |535541273755385885.png| . Any basic ability with damage lower than Needle/Dazing would be considered a weak ability (Piercing |535541258538450944.png| , tuska |513201065513058306.png| , sacrifice |513201065907322880.png| , binding shot |535541306563231790.png| without flanking, richochet |535541259566186521.png| on 1v1).
 
 
 
-If you are 2h or DW camping you will be limited to only one filler ability (Dazing Shot or Needle Strike, respectively. Thus, try to utilize Dazing or Needle as often as possible in your rotations. A basic pattern of |<i>| Needle |needle+535541259108876293| -> Ability -> Ability -> Repeat |</i>| is recommended for camping rotations.
+If you are 2h or DW camping you will be limited to only one filler ability (Dazing Shot or Needle Strike, respectively. Thus, try to utilize Dazing or Needle as often as possible in your rotations. A basic pattern of |<i>| Needle |535541259108876293.png| -> Ability -> Ability -> Repeat |</i>| is recommended for camping rotations.
 
 
 
@@ -425,7 +425,7 @@ Enchanted bakriminel bolts provide various effects which can be very useful in c
 
 
 
-|<b>| Ruby bolts |</b>| |RubyBakri+565726489413287956| - Overall best dps bolt for general pvm. 5% chance to activate, replacing a hit with a new one based on target's HP. The bolts have a shared cooldown per target, making them less effective (but still very powerful) in groups. Around ~70k HP, it is recommended to switch to another type of bolt, as ruby bolts can reduce DPS if the bolt damage is less than the original hit.
+|<b>| Ruby bolts |</b>| |565726489413287956.png| - Overall best dps bolt for general pvm. 5% chance to activate, replacing a hit with a new one based on target's HP. The bolts have a shared cooldown per target, making them less effective (but still very powerful) in groups. Around ~70k HP, it is recommended to switch to another type of bolt, as ruby bolts can reduce DPS if the bolt damage is less than the original hit.
 
 
 
@@ -433,11 +433,11 @@ Enchanted bakriminel bolts provide various effects which can be very useful in c
 
 
 
-|<b>| Onyx bolts |</b>| |OnyxBakri+565726489362956308| - 10% chance to activate, heals 25% of the hit that triggered activation. Also increases damage by 25% on activation. Great for sustained healing, and alternative bolts after ruby bolts are no longer effective. Expensive.
+|<b>| Onyx bolts |</b>| |565726489362956308.png| - 10% chance to activate, heals 25% of the hit that triggered activation. Also increases damage by 25% on activation. Great for sustained healing, and alternative bolts after ruby bolts are no longer effective. Expensive.
 
 
 
-|<b>| Hydrix bolts |</b>| |HydrixBakri+550834403136503822| - 10% chance to activate, immediately granting 10% adren, and +1% on basics for 15 seconds. Used as a utility bolt for pumping out more thresholds while in Death's Swiftness. |<i>| These are the hardest bolts to use effectively as they require you to improvise a rotation based off of how much adrenaline you gain |</i>| . Very expensive.
+|<b>| Hydrix bolts |</b>| |550834403136503822.png| - 10% chance to activate, immediately granting 10% adren, and +1% on basics for 15 seconds. Used as a utility bolt for pumping out more thresholds while in Death's Swiftness. |<i>| These are the hardest bolts to use effectively as they require you to improvise a rotation based off of how much adrenaline you gain |</i>| . Very expensive.
 
 
 
@@ -462,7 +462,7 @@ Learning Path
 -------------
 
 
-At this stage, it is likely that there's a fundamental lack of understanding regarding how to build a rotation, and when to perform certain abilities. Starting out, it's recommended to use the following Revolution bar. Remember to use Death's Swiftness |DeathsSwift+513190158812839936| when it is off cooldown (Ult once every minute), and use a ring of vigour |vigour+615613235512737792| switch and an adrenaline potion |replen+634350514406162436| . It is extremely important to learn how to cancel channels at this stage. Otherwise your DPS will suffer greatly.
+At this stage, it is likely that there's a fundamental lack of understanding regarding how to build a rotation, and when to perform certain abilities. Starting out, it's recommended to use the following Revolution bar. Remember to use Death's Swiftness |513190158812839936.png| when it is off cooldown (Ult once every minute), and use a ring of vigour |615613235512737792.png| switch and an adrenaline potion |634350514406162436.png| . It is extremely important to learn how to cancel channels at this stage. Otherwise your DPS will suffer greatly.
 
 
 
@@ -512,7 +512,7 @@ Your threshold order in Death's Swiftness should be:
 
 With Adrenaline Potion:
 
-Rapid Fire |rapid+535541270521708566| > Snapshot |snap+535534127131394088| > Shadow Tendrils |shadowtend+642713547142332416| > Rapid Fire |rapid+535541270521708566| > Bombardment |bombard+535541306391265284| > Snapshot |snap+535534127131394088|
+Rapid Fire |535541270521708566.png| > Snapshot |535534127131394088.png| > Shadow Tendrils |642713547142332416.png| > Rapid Fire |535541270521708566.png| > Bombardment |535541306391265284.png| > Snapshot |535534127131394088.png|
 
 
 
@@ -520,13 +520,13 @@ OR
 
 
 
-Snapshot |snap+535534127131394088| > Rapid Fire |rapid+535541270521708566| > Shadow Tendrils |shadowtend+642713547142332416| > Bombardment |bombard+535541306391265284| > Snapshot |snap+535534127131394088| > Rapid Fire |rapid+535541270521708566|
+Snapshot |535534127131394088.png| > Rapid Fire |535541270521708566.png| > Shadow Tendrils |642713547142332416.png| > Bombardment |535541306391265284.png| > Snapshot |535534127131394088.png| > Rapid Fire |535541270521708566.png|
 
 
 
 Without Adrenaline Potion:
 
-Snapshot |snap+535534127131394088| > Shadow Tendrils |shadowtend+642713547142332416| > Rapid Fire |rapid+535541270521708566| > Snapshot |snap+535534127131394088| > Bombardment |bombard+535541306391265284|
+Snapshot |535534127131394088.png| > Shadow Tendrils |642713547142332416.png| > Rapid Fire |535541270521708566.png| > Snapshot |535534127131394088.png| > Bombardment |535541306391265284.png|
 
 
 
@@ -549,7 +549,7 @@ At this stage, pushing to the next will almost certainly require the usage of a 
 
 With Adrenaline Potion:
 
-Snapshot |snap+535534127131394088|  > Rapid Fire |rapid+535541270521708566| > Shadow Tendrils |shadowtend+642713547142332416| > Tight Bindings |tight+535541275957657600| > Snapshot |snap+535534127131394088| > Rapid Fire |rapid+535541270521708566| 
+Snapshot |535534127131394088.png|  > Rapid Fire |535541270521708566.png| > Shadow Tendrils |642713547142332416.png| > Tight Bindings |535541275957657600.png| > Snapshot |535534127131394088.png| > Rapid Fire |535541270521708566.png| 
 
 
 
@@ -557,23 +557,23 @@ OR
 
 
 
-Rapid Fire |rapid+535541270521708566| > Snapshot |snap+535534127131394088| > Shadow Tendrils |shadowtend+642713547142332416| > Rapid Fire |rapid+535541270521708566| > Tight Bindings |tight+535541275957657600| > Snapshot |snap+535534127131394088|
+Rapid Fire |535541270521708566.png| > Snapshot |535534127131394088.png| > Shadow Tendrils |642713547142332416.png| > Rapid Fire |535541270521708566.png| > Tight Bindings |535541275957657600.png| > Snapshot |535534127131394088.png|
 
 
 
 Without Adrenaline Potion:
 
-Snapshot |snap+535534127131394088| > Shadow Tendrils |shadowtend+642713547142332416| > Rapid Fire |rapid+535541270521708566| > Snapshot |snap+535534127131394088| > Tight Bindings |tight+535541275957657600|
+Snapshot |535534127131394088.png| > Shadow Tendrils |642713547142332416.png| > Rapid Fire |535541270521708566.png| > Snapshot |535534127131394088.png| > Tight Bindings |535541275957657600.png|
 
 
 
 Two notes:
 
-- We remove Bombardment |bombard+535541306391265284| from our threshold rotations as they are all replaced with Flanking. 
+- We remove Bombardment |535541306391265284.png| from our threshold rotations as they are all replaced with Flanking. 
 
 
 
-- Remember to use your flanking switch for basics, not just for thresholds. Using flanking on Binding Shot |bindingshot+535541306563231790| improves that ability from 100% ability damage to 220% ability damage and is often overlooked by inexperienced players.
+- Remember to use your flanking switch for basics, not just for thresholds. Using flanking on Binding Shot |535541306563231790.png| improves that ability from 100% ability damage to 220% ability damage and is often overlooked by inexperienced players.
 
 
 
@@ -598,7 +598,7 @@ Once you're at 160k DPM, reaching higher levels of DPM will require either lots 
 
 
 
-Assuming you have been DW camping until this point, obtaining an SGB |sgb+626466665848242186| or a Decimation |decimation+643848618477879328| bow will allow you to DW/2H switch without switching ammo. Start focusing on never using an ability worse than 157% ability damage. Any Tuska's or Sacrifice in your rotation should be swapped for a Dazing Shot. Maintain the same threshold order in Death's Swiftness and remember to needle strike before snapshot and shadow tendrils for higher damage. 
+Assuming you have been DW camping until this point, obtaining an SGB |626466665848242186.png| or a Decimation |643848618477879328.png| bow will allow you to DW/2H switch without switching ammo. Start focusing on never using an ability worse than 157% ability damage. Any Tuska's or Sacrifice in your rotation should be swapped for a Dazing Shot. Maintain the same threshold order in Death's Swiftness and remember to needle strike before snapshot and shadow tendrils for higher damage. 
 
 
 
@@ -608,9 +608,9 @@ From this point onwards we will also incorporate ways to force auto attacks.
 
 - For Death's Swiftness, using a DW MH for planted feet then switching to 2H will also force an auto attack, which can contribute significant damage. Sometimes clicking your target is necessary to force the auto attack. The sequence of actions goes as follows: 
 
-|<i>| Equip DW PF -> Activate Death's Swiftness |DeathsSwift+513190158812839936| -> Equip 2h within GCD -> Click target (auto attack will come out here) -> Activate Ability |</i>|
+|<i>| Equip DW PF -> Activate Death's Swiftness |513190158812839936.png| -> Equip 2h within GCD -> Click target (auto attack will come out here) -> Activate Ability |</i>|
 
-- Using Shadow Tendrils |shadowtend+642713547142332416| with 2H after using a DW ability with a 'fastest' speed weapon allows for stacking an auto on top of the tendrils.
+- Using Shadow Tendrils |642713547142332416.png| with 2H after using a DW ability with a 'fastest' speed weapon allows for stacking an auto on top of the tendrils.
 
 
 
@@ -650,7 +650,7 @@ Bolt switches are usually done between the four meta bolts: Ruby, Diamond, Onyx,
 
 
 
-For example, the most effective bolt when fighting <#534612663523737619> |Nex+513213159071547395| are Ruby bolts |RubyBakri+565726489413287956| as they are the best dps bolts. However, when attacking minions the most effective bolt becomes Hydrix |HydrixBakri+550834403136503822| as minions have a soft hitcap of 1000 so any Ruby procs are wasted. During the last phase, the most effective bolt on Nex becomes Onyx |OnyxBakri+565726489362956308| as she is lower than 100k hp thus reducing Ruby's effectiveness. 
+For example, the most effective bolt when fighting <#534612663523737619> |513213159071547395.png| are Ruby bolts |565726489413287956.png| as they are the best dps bolts. However, when attacking minions the most effective bolt becomes Hydrix |550834403136503822.png| as minions have a soft hitcap of 1000 so any Ruby procs are wasted. During the last phase, the most effective bolt on Nex becomes Onyx |565726489362956308.png| as she is lower than 100k hp thus reducing Ruby's effectiveness. 
 
 As a general rule: pick Ruby for DPS; pick Diamond for accuracy; pick Onyx for healing; pick Hydrix for adrenaline gain. Mix and match to gain the most out of all of these bolts in a boss fight!
 
@@ -723,11 +723,11 @@ This technique allows using Snipe in 3 ticks as opposed to its intended 4 tick d
 
  - Method requires Ability Queuing to be turned ON. 
 
- - Method requires Nightmare Gauntlets |nightmaregauntlets+679628668120727571| to be equipped.
+ - Method requires Nightmare Gauntlets |679628668120727571.png| to be equipped.
 
 
 
-Simply use Snipe, then queue up any other ability prior to GCD. For example: Snipe |snipe+535541258425204770| -> Queue piercing shot |piercing+535541258538450944| . This will cause Piercing shot to come out on the following GCD after Snipe instead of having to wait 4 ticks for the full channel of Snipe. After you fire the queued ability off your character will be rooted in place for 1 tick.
+Simply use Snipe, then queue up any other ability prior to GCD. For example: Snipe |535541258425204770.png| -> Queue piercing shot |535541258538450944.png| . This will cause Piercing shot to come out on the following GCD after Snipe instead of having to wait 4 ticks for the full channel of Snipe. After you fire the queued ability off your character will be rooted in place for 1 tick.
 
 
 
@@ -769,7 +769,7 @@ Demonstration: https://youtu.be/k_IxIyoZFww
 
 |<b>| Weapon override delaying/speeding up abilities |</b>|
 
-Certain weapon types for ranged can cause abilities that normally take 2 ticks to deal damage to only take 1 tick to deal damage depending on your distance from your target. These abilities include |snap+535534127131394088| , |rapid+535541270521708566| , |piercing+535541258538450944| , |ricochet+535541259566186521| , dazing |dazing+535541307142307860| . Slow abilities which are unaffected include: |needle+535541259108876293| , |bindingshot+535541306563231790| , and |tight+535541275957657600| .
+Certain weapon types for ranged can cause abilities that normally take 2 ticks to deal damage to only take 1 tick to deal damage depending on your distance from your target. These abilities include |535534127131394088.png| , |535541270521708566.png| , |535541258538450944.png| , |535541259566186521.png| , dazing |535541307142307860.png| . Slow abilities which are unaffected include: |535541259108876293.png| , |535541306563231790.png| , and |535541275957657600.png| .
 
  - Javelins (DW Override only mainhand required) cause piercing and ricochet to hit fast from md-1sq away, snapshot and rapidfire are only fast in md.
 

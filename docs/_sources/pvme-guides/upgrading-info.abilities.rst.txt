@@ -1,48 +1,68 @@
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |583430011948630016.png| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |535541258924326912.png| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |escapecodex+602561894443778115| image:: https://cdn.discordapp.com/emojis/602561894443778115.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |641339921814126594.png| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Tuskas+513201065513058306| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+.. |513190159085207555.png| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gfury+535532879334080527| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+.. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ds+535541258924326912| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+.. |583429757761224715.png| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Shard+583429757975396366| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sacrifice+513201065907322880| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+.. |602561894443778115.png| image:: https://cdn.discordapp.com/emojis/602561894443778115.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065513058306.png| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -50,69 +70,49 @@
 
     </b>
 
-.. |</u>| raw:: html
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |602561894414417944.png| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |<u>| raw:: html
+.. |641339921675845633.png| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <u>
+.. |641339922019516416.png| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159462694912.png| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065907322880.png| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |698816156961603654.png| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429757975396366.png| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259109138463.png| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |Reprisal+513190159462694912| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |demonslayer+641339921675845633| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Shatter+583429757761224715| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |undeadslayer+641339922019516416| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dragonslayer+641339921814126594| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |onsl+513190159085207555| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |surgecodex+602561894414417944| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |stw+535541259109138463| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 abilities
 =========
@@ -123,7 +123,7 @@ Abilities
 
 
 
-|Sunshine+583430011948630016| |ds+535541258924326912| |<b>| Sunshine/Death Swiftness |</b>|
+|583430011948630016.png| |535541258924326912.png| |<b>| Sunshine/Death Swiftness |</b>|
 
 - Unlocked upon completion of The World Wakes
 
@@ -145,9 +145,9 @@ Abilities
 
 
 
-|corruptblast+513190159194259467| |corruptshot+535541306294796299|  |<b>| Corruption Blast/Shot |</b>|
+|513190159194259467.png| |535541306294796299.png|  |<b>| Corruption Blast/Shot |</b>|
 
-- Unlocked using a Mazcab Codex |coins+698816156961603654| 30,334,577
+- Unlocked using a Mazcab Codex |698816156961603654.png| 30,334,577
 
 - A bleed ability, and a good basic. 100%-300% abil damage over the course of the bleed
 
@@ -161,7 +161,7 @@ Abilities
 
 
 
-|bd+535532854281764884| |<b>| Bladed Dive |</b>|
+|535532854281764884.png| |<b>| Bladed Dive |</b>|
 
 - Unlocked as a reward from Shattered Worlds
 
@@ -179,7 +179,7 @@ Abilities
 
 
 
-|mds+535541259033378827| |stw+535541259109138463| |<b>| Greater Dazing Shot/Salt the Wound |</b>|
+|535541259033378827.png| |535541259109138463.png| |<b>| Greater Dazing Shot/Salt the Wound |</b>|
 
 - Unlocked as a reward from Shattered Worlds
 
@@ -213,7 +213,7 @@ Abilities
 
 
 
-|devo+513190158728953857| |<b>| Devotion |</b>|
+|513190158728953857.png| |<b>| Devotion |</b>|
 
 - Chance to unlock after killing Kree'arra, General Graardor, or their followers in their respective encampments
 
@@ -231,7 +231,7 @@ Abilities
 
 
 
-|Sacrifice+513201065907322880| |<b>| Sacrifice |</b>|
+|513201065907322880.png| |<b>| Sacrifice |</b>|
 
 - Same as Devotion
 
@@ -247,7 +247,7 @@ Abilities
 
 
 
-|Tuskas+513201065513058306| |<b>| Tuska's Wrath |</b>|
+|513201065513058306.png| |<b>| Tuska's Wrath |</b>|
 
 - Unlocked as a reward from Anima Islands
 
@@ -267,9 +267,9 @@ Abilities
 
 
 
-|onsl+513190159085207555| |<b>| Onslaught |</b>|
+|513190159085207555.png| |<b>| Onslaught |</b>|
 
-- Unlocked using a Mazcab Codex |coins+698816156961603654| 30,334,577
+- Unlocked using a Mazcab Codex |698816156961603654.png| 30,334,577
 
 - An ability that deals 50-150% damage at first, with each hit increasing by 11-33% per hit. At first it uses 25% adren per hit, afterwards it takes life points dealing 25% of the damage you dealt as recoil. After 10 hits the damage against you starts increasing by 1k per hit (e.g. at 12 hits you will take +2k damage + the recoil)
 
@@ -281,9 +281,9 @@ Abilities
 
 
 
-|Shard+583429757975396366| |Shatter+583429757761224715| |<b>| Storm Shards/Shatter |</b>|
+|583429757975396366.png| |583429757761224715.png| |<b>| Storm Shards/Shatter |</b>|
 
-- Unlocked using a Mazcab Codex |coins+698816156961603654| 30,334,577
+- Unlocked using a Mazcab Codex |698816156961603654.png| 30,334,577
 
 
 
@@ -313,9 +313,9 @@ Abilities
 
 
 
-|limitless+641339233638023179| |<b>| Limitless |</b>|
+|641339233638023179.png| |<b>| Limitless |</b>|
 
-- Unlocked using a Limitless ability codex |coins+698816156961603654| 237,664,000
+- Unlocked using a Limitless ability codex |698816156961603654.png| 238,698,000
 
 - An ability that allows the usage of thresholds under 50% adrenaline for 6 seconds
 
@@ -331,9 +331,9 @@ Abilities
 
 
 
-|ingen+641339234111848463| |<b>| Ingenuity of the Humans |</b>|
+|641339234111848463.png| |<b>| Ingenuity of the Humans |</b>|
 
-- Unlocked using an Ingenuity of the Humans ability codex |coins+698816156961603654| 75,575,451
+- Unlocked using an Ingenuity of the Humans ability codex |698816156961603654.png| 75,575,451
 
 - An ability that guarantees your next attack within 6 seconds hits.
 
@@ -345,15 +345,15 @@ Abilities
 
 
 
-|undeadslayer+641339922019516416| |dragonslayer+641339921814126594| |demonslayer+641339921675845633| |<b>| |<u>| X |</u>| Slayers |</b>|
+|641339922019516416.png| |641339921814126594.png| |641339921675845633.png| |<b>| |<u>| X |</u>| Slayers |</b>|
 
 - Unlocked using a |<u>| X |</u>| Slayer ability codex
 
-    - |undeadslayer+641339922019516416| Undead Slayer |coins+698816156961603654| 28,463,718
+    - |641339922019516416.png| Undead Slayer |698816156961603654.png| 28,463,718
 
-    - |dragonslayer+641339921814126594| Dragon Slayer |coins+698816156961603654| 38,936,370
+    - |641339921814126594.png| Dragon Slayer |698816156961603654.png| 38,936,370
 
-    - |demonslayer+641339921675845633| Demon Slayer |coins+698816156961603654| 22,311,965
+    - |641339921675845633.png| Demon Slayer |698816156961603654.png| 22,311,965
 
 - There is one for Dragons, Undead and Demons
 
@@ -369,9 +369,9 @@ Abilities
 
 
 
-|surgecodex+602561894414417944| |<b>| Double Surge |</b>|
+|602561894414417944.png| |<b>| Double Surge |</b>|
 
-- Unlocked using a Double Surge codex |coins+698816156961603654| 41,145,123
+- Unlocked using a Double Surge codex |698816156961603654.png| 41,145,123
 
 - Gives Surge 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
 
@@ -389,9 +389,9 @@ Abilities
 
 
 
-|escapecodex+602561894443778115| |<b>| Double Escape |</b>|
+|602561894443778115.png| |<b>| Double Escape |</b>|
 
-- Unlocked using a Double Escape codex |coins+698816156961603654| 42,647,714
+- Unlocked using a Double Escape codex |698816156961603654.png| 42,647,714
 
 - Gives escape 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
 
@@ -409,9 +409,9 @@ Abilities
 
 
 
-|Reprisal+513190159462694912| |<b>| Reprisal |</b>|
+|513190159462694912.png| |<b>| Reprisal |</b>|
 
-- Unlocked using a Reprisal Ability Codex |coins+698816156961603654| 68,174,696
+- Unlocked using a Reprisal Ability Codex |698816156961603654.png| 68,174,696
 
 - When activated it tracks all damage taken from all sources for up to 6 seconds (can release early by clicking it again) with a damage cap of 10k
 
@@ -429,9 +429,9 @@ Abilities
 
 
 
-|gbarge+535532879250456578| |<b>| Greater Barge |</b>|
+|535532879250456578.png| |<b>| Greater Barge |</b>|
 
-- Unlocked using a Greater Barge ability codex |coins+698816156961603654| 237,503,167
+- Unlocked using a Greater Barge ability codex |698816156961603654.png| 237,503,167
 
 - Works like normal barge, except, each tick the player is not damaging an enemy barge gains +10% ability damage capping at 10 ticks. Additionally, if it has been atleast 4.8s (8 ticks) since you have last hit a target using barge will allow you to turn a channeled ability used within the next 6s (10 ticks) into a DoT
 
@@ -445,9 +445,9 @@ Abilities
 
 
 
-|gflurry+535532879283879977| |<b>| Greater Flurry |</b>|
+|535532879283879977.png| |<b>| Greater Flurry |</b>|
 
-- Unlocked using a Greater Flurry ability codex |coins+698816156961603654| 42,777,455
+- Unlocked using a Greater Flurry ability codex |698816156961603654.png| 42,777,455
 
 - When used against a single target it deals 94-157% damage per hit and reduces Berserk CD by 1.2s per successful hit up to a max of 4.8s reduction
 
@@ -465,9 +465,9 @@ Abilities
 
 
 
-|gfury+535532879334080527| |<b>| Greater Fury |</b>|
+|535532879334080527.png| |<b>| Greater Fury |</b>|
 
-- Unlocked using a Greater Fury ability codex |coins+698816156961603654| 141,425,454
+- Unlocked using a Greater Fury ability codex |698816156961603654.png| 141,425,454
 
 - Turns fury into a non-channeled 157% ability, as well as giving it the ability to guarantee your next hit is a critical hit if fury had been a critical hit.
 

@@ -1,58 +1,8 @@
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |mechchin+641669268722810881| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |backhand+535532854302605333| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eofor+745279787471470713| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ascoh+513190159362031631| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |quake+535532879506309150| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/yQIpVUl.png| image:: https://i.imgur.com/yQIpVUl.png
-
-.. |adrenrenewalflask+736298313980182541| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -60,87 +10,137 @@
 
     </u>
 
+.. |535533810004262912.png| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/eBU4tzx.png| image:: https://i.imgur.com/eBU4tzx.png
+
+.. |641669268722810881.png| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/YTosKHl.png| image:: https://i.imgur.com/YTosKHl.png
+
+.. |535532879506309150.png| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159362031631.png| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854302605333.png| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258425204770.png| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |<u>| raw:: html
 
     <u>
+
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |736298313980182541.png| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |745279787471470713.png| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |</b>| raw:: html
 
     </b>
 
-.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |746403211908481184.png| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/yQIpVUl.png| image:: https://i.imgur.com/yQIpVUl.png
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641339922019516416.png| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/nxKR1Io.png| image:: https://i.imgur.com/nxKR1Io.png
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643848618553507843.png| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541273755385885.png| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eofspec+746403211908481184| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/nxKR1Io.png| image:: https://i.imgur.com/nxKR1Io.png
-
-.. |https://i.imgur.com/eBU4tzx.png| image:: https://i.imgur.com/eBU4tzx.png
-
-.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |undeadslayer+641339922019516416| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbow+643848618553507843| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/YTosKHl.png| image:: https://i.imgur.com/YTosKHl.png
 
 rots
 ====
@@ -209,13 +209,13 @@ Bladed dive is critical to being able to exit tunnels efficiently and increase K
 
 |<u>| |<b>| Advanced Preset |</b>| |</u>|
 
-- |eofor+745279787471470713|  |<b>| Essence of Finality |</b>| Dark bow spec stored
+- |745279787471470713.png|  |<b>| Essence of Finality |</b>| Dark bow spec stored
 
-- |ascoh+513190159362031631|  |<b>| Off-hand Ascension crossbow |</b>| ``Flanking 4``
+- |513190159362031631.png|  |<b>| Off-hand Ascension crossbow |</b>| ``Flanking 4``
 
-- |adrenurn+656426717413507074|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``, can be removed if using Persistent Rage relic
+- |656426717413507074.png|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``, can be removed if using Persistent Rage relic
 
-- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
+- |656426717505650708.png|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
 
 
@@ -229,15 +229,15 @@ Bladed dive is critical to being able to exit tunnels efficiently and increase K
 
 |<u>| |<b>| Melee Preset |</b>| |</u>|
 
-Melee may be used on sides without Ahrim to deal high burst damage in order to minimize Karil specs. When meleeing you want to start every kill with 100% adrenaline. You will |zerk+535532854004678657| every single kill and in order to upkeep your adren you need to manage your adrenaline carefully. This is why you have multiple apots and dummies. As melee you will always incite.
+Melee may be used on sides without Ahrim to deal high burst damage in order to minimize Karil specs. When meleeing you want to start every kill with 100% adrenaline. You will |535532854004678657.png| every single kill and in order to upkeep your adren you need to manage your adrenaline carefully. This is why you have multiple apots and dummies. As melee you will always incite.
 
-- |adrenurn+656426717413507074|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``, can be removed if using Persistent Rage relic
+- |656426717413507074.png|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``, can be removed if using Persistent Rage relic
 
-- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
+- |656426717505650708.png|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
-- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
+- |690848914949144616.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252658961481769.png| |536252659301089280.png|
 
-(Runes for |disrupt+535614336207552523| )
+(Runes for |535614336207552523.png| )
 
 
 
@@ -321,7 +321,7 @@ Particular Rotations (Credit to <@!206832972035260416> for the video guides):
 
 - Make sure your chins are hitting every brother. Chin abilities affect a 3x3 square centered around your target. That is, they will hit any enemy that is on or adjacent to the square you are targeting. Sometimes, brothers will spread around you and you will need to target the center brother instead of any brother that may be on the side.
 
-- If meleeing you always want to start kills at 100% adrenaline and your adrenaline boosting potions are to be used after a kill ends to get you to 100%. (If you’re at 75%+ use an |enhreplen+634350450887622656| . If you’re at 60%-75%, use an |adrenrenewalflask+736298313980182541| . If you’re below 60%, you want to place a dummy and build on it. Remember when doing this you can use defensives and still gain adrenaline while not next to the dummy.
+- If meleeing you always want to start kills at 100% adrenaline and your adrenaline boosting potions are to be used after a kill ends to get you to 100%. (If you’re at 75%+ use an |634350450887622656.png| . If you’re at 60%-75%, use an |736298313980182541.png| . If you’re below 60%, you want to place a dummy and build on it. Remember when doing this you can use defensives and still gain adrenaline while not next to the dummy.
 
 
 
@@ -330,7 +330,7 @@ Particular Rotations (Credit to <@!206832972035260416> for the video guides):
 
 |<b>| Ahrim + 2 Melee |</b>| :
 
-Range: Auto → |mechchin+641669268722810881| 3t |snipe+535541258425204770| / |needle+535541259108876293| (Activate |undeadslayer+641339922019516416| as snipe/needle hits) → |corruptshot+535541306294796299| / |frag+535541273755385885| → |dbow+643848618553507843| |eofspec+746403211908481184| → Improvise
+Range: Auto → |641669268722810881.png| 3t |535541258425204770.png| / |535541259108876293.png| (Activate |641339922019516416.png| as snipe/needle hits) → |535541306294796299.png| / |535541273755385885.png| → |643848618553507843.png| |746403211908481184.png| → Improvise
 
 
 
@@ -344,9 +344,9 @@ West: <https://youtu.be/9DQL7TEYQ00?t=275>
 
 |<b>| Karil + 2 Melee |</b>| :
 
-Range: Auto → |mechchin+641669268722810881| 3t |snipe+535541258425204770| / |needle+535541259108876293| (Activate |undeadslayer+641339922019516416| as snipe/needle hits) → |dbow+643848618553507843| |eofspec+746403211908481184| → Improvise
+Range: Auto → |641669268722810881.png| 3t |535541258425204770.png| / |535541259108876293.png| (Activate |641339922019516416.png| as snipe/needle hits) → |643848618553507843.png| |746403211908481184.png| → Improvise
 
-Melee: |zerk+535532854004678657| → (Activate |undeadslayer+641339922019516416| ) Auto + |cleave+535532878616985610| → ( |limitless+641339233638023179| + |ingen+641339234111848463| ) |cane+535532878969438210| → |deci+535532879325822986| → |sever+535532879577612298| → |cleave+535532878616985610| / |backhand+535532854302605333| → improvise
+Melee: |535532854004678657.png| → (Activate |641339922019516416.png| ) Auto + |535532878616985610.png| → ( |641339233638023179.png| + |641339234111848463.png| ) |535532878969438210.png| → |535532879325822986.png| → |535532879577612298.png| → |535532878616985610.png| / |535532854302605333.png| → improvise
 
 
 
@@ -382,9 +382,9 @@ West: <https://youtu.be/9DQL7TEYQ00?t=326>
 
 |<b>| Triple Melee |</b>| :
 
-Range: Auto → |mechchin+641669268722810881| 3t |snipe+535541258425204770| / |needle+535541259108876293| (Activate |undeadslayer+641339922019516416| as snipe/needle hits) → |corruptshot+535541306294796299| / |frag+535541273755385885| → |dbow+643848618553507843| |eofspec+746403211908481184| → Improvise
+Range: Auto → |641669268722810881.png| 3t |535541258425204770.png| / |535541259108876293.png| (Activate |641339922019516416.png| as snipe/needle hits) → |535541306294796299.png| / |535541273755385885.png| → |643848618553507843.png| |746403211908481184.png| → Improvise
 
-Melee: (Activate |undeadslayer+641339922019516416| ) Auto + |cleave+535532878616985610| → ( |ingen+641339234111848463| ) |cane+535532878969438210| → |quake+535532879506309150| → |deci+535532879325822986| → |cleave+535532878616985610| → |sever+535532879577612298| / |backhand+535532854302605333| → improvise
+Melee: (Activate |641339922019516416.png| ) Auto + |535532878616985610.png| → ( |641339234111848463.png| ) |535532878969438210.png| → |535532879506309150.png| → |535532879325822986.png| → |535532878616985610.png| → |535532879577612298.png| / |535532854302605333.png| → improvise
 
 
 
@@ -401,9 +401,9 @@ West: <https://youtu.be/9DQL7TEYQ00?t=390>
 
 |<b>| AK (Middle) |</b>| :
 
-Range (Incite): ( |undeadslayer+641339922019516416| ) Auto + |corruptshot+535541306294796299| + |surge+535533810004262912| → |mechchin+641669268722810881| 3t |snipe+535541258425204770| / |needle+535541259108876293| → |dbow+643848618553507843| |eofspec+746403211908481184| → Improvise
+Range (Incite): ( |641339922019516416.png| ) Auto + |535541306294796299.png| + |535533810004262912.png| → |641669268722810881.png| 3t |535541258425204770.png| / |535541259108876293.png| → |643848618553507843.png| |746403211908481184.png| → Improvise
 
-Range (DPS): ( |undeadslayer+641339922019516416| ) Auto + |mds+535541259033378827| + |surge+535533810004262912| → |mechchin+641669268722810881| 3t |snipe+535541258425204770| / |needle+535541259108876293| → |dbow+643848618553507843| |eofspec+746403211908481184| → Improvise
+Range (DPS): ( |641339922019516416.png| ) Auto + |535541259033378827.png| + |535533810004262912.png| → |641669268722810881.png| 3t |535541258425204770.png| / |535541259108876293.png| → |643848618553507843.png| |746403211908481184.png| → Improvise
 
 
 
@@ -421,13 +421,13 @@ West: <https://youtu.be/9DQL7TEYQ00?t=342>
 
 Start on the east tile infront of the door, after your Auto + bleed, walk one tile west.
 
-Ranged (east): Auto + |corruptshot+535541306294796299| / |frag+535541273755385885| → |mechchin+641669268722810881| 3t |snipe+535541258425204770| / |needle+535541259108876293| (Activate |undeadslayer+641339922019516416| as snipe/needle hits) → |dbow+643848618553507843| |eofspec+746403211908481184| → Improvise
+Ranged (east): Auto + |535541306294796299.png| / |535541273755385885.png| → |641669268722810881.png| 3t |535541258425204770.png| / |535541259108876293.png| (Activate |641339922019516416.png| as snipe/needle hits) → |643848618553507843.png| |746403211908481184.png| → Improvise
 
 
 
 If you are west there is no effcient way to DD the brothers. The current meta is to DD north of Ahrim and finish Karil with high burst damage, then contunie on with the kill as normal.
 
-Ranged (west): Target Karil → Auto + 3t |snipe+535541258425204770| / |mds+535541259033378827| (Activate |undeadslayer+641339922019516416| as snipe/dazing hits) → |dbow+643848618553507843| |eofspec+746403211908481184| → |dbow+643848618553507843| |eofspec+746403211908481184| → Switch targets once Karil is dead and improvise
+Ranged (west): Target Karil → Auto + 3t |535541258425204770.png| / |535541259033378827.png| (Activate |641339922019516416.png| as snipe/dazing hits) → |643848618553507843.png| |746403211908481184.png| → |643848618553507843.png| |746403211908481184.png| → Switch targets once Karil is dead and improvise
 
 
 

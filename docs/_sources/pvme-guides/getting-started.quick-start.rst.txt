@@ -1,30 +1,30 @@
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</u>| raw:: html
+
+    </u>
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |<i>| raw:: html
-
-    <i>
-
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
 
 .. |</b>| raw:: html
 
     </b>
 
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |</i>| raw:: html
 
     </i>
+
+.. |<i>| raw:: html
+
+    <i>
 
 .. |<b>| raw:: html
 
@@ -210,7 +210,7 @@ Note: |<i>| The Grand Tree |</i>| gives a 18,750 experience lamp that you can us
 
 Note: It is important to make use of the highest tier chinchompa you are able to acquire when training range in the abyss.
 
-Note: Unlock |corruptshot+535541306294796299| ability ASAP.
+Note: Unlock |535541306294796299.png| ability ASAP.
 
 
 
@@ -230,7 +230,7 @@ Note: Unlock |corruptshot+535541306294796299| ability ASAP.
 
 |<b>| Magic |</b>|
 
-Note: Unlock |corruptblast+513190159194259467| ability ASAP.
+Note: Unlock |513190159194259467.png| ability ASAP.
 
 
 

@@ -1,30 +1,4 @@
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
-
-.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
 
 .. |https://i.imgur.com/bB0xUd0.png| image:: https://i.imgur.com/bB0xUd0.png
 
@@ -32,43 +6,69 @@
 
     </u>
 
-.. |</b>| raw:: html
+.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
 
-    </b>
+.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
+
+.. |689509250472476758.png| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |689504724159823906.png| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689504724403486920.png| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
-
-.. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<i>| raw:: html
-
-    <i>
-
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
 
 fight-kiln
 ==========
@@ -93,17 +93,17 @@ Fight kiln is a fairly easy fight once you know what you are doing and seems har
 
 
 
-- 1-9 are mostly weak to |Attack+689509250472476758|
+- 1-9 are mostly weak to |689509250472476758.png|
 
-- 11-19 are mostly weak to |Ranged+689504724403486920|
+- 11-19 are mostly weak to |689504724403486920.png|
 
-- 21-29 are mostly weak to |Magic+689504724159823906|
+- 21-29 are mostly weak to |689504724159823906.png|
 
-- 31 is weak to |Attack+689509250472476758|
+- 31 is weak to |689509250472476758.png|
 
-- 32 is weak to |Magic+689504724159823906|
+- 32 is weak to |689504724159823906.png|
 
-- 33 is weak to |Ranged+689504724403486920|
+- 33 is weak to |689504724403486920.png|
 
 
 
@@ -128,9 +128,9 @@ Basic Preset (with obsidian)
 
 Advanced Preset
 
-- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
+- |583430011868938283.png|  |<b>| Rune Pouch |</b>| |536252658986647589.png| |536252659422855188.png| |536252660333019136.png|
 
-(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
+(Runes for |543465115870035999.png| and |537349530551582720.png| )
 
 
 

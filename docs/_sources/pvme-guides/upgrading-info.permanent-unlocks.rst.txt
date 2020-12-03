@@ -1,100 +1,136 @@
-.. |fontoflife+698225967679930408| image:: https://cdn.discordapp.com/emojis/698225967679930408.png?v=1
+.. |689509250979987525.png| image:: https://cdn.discordapp.com/emojis/689509250979987525.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |heightenedsenses+697808773573771344| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |643505376917979138.png| image:: https://cdn.discordapp.com/emojis/643505376917979138.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |689509250887712902.png| image:: https://cdn.discordapp.com/emojis/689509250887712902.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Attack+689509250472476758| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+.. |704701746869567551.png| image:: https://cdn.discordapp.com/emojis/704701746869567551.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |death+641341976960172043| image:: https://cdn.discordapp.com/emojis/641341976960172043.png?v=1
+.. |704657054987452447.png| image:: https://cdn.discordapp.com/emojis/704657054987452447.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |furyofthesmall+697808773917573233| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+.. |580177869284835328.png| image:: https://cdn.discordapp.com/emojis/580177869284835328.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bond+513213538463121408| image:: https://cdn.discordapp.com/emojis/513213538463121408.png?v=1
+.. |643505652571963417.png| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bagrada+690136116992671875| image:: https://cdn.discordapp.com/emojis/690136116992671875.png?v=1
+.. |513190158477033474.png| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ilujankancomp+513190158674427906| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
+.. |583429936606347280.png| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+.. |690136117273821280.png| image:: https://cdn.discordapp.com/emojis/690136117273821280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |HoodedMax+580177869284835328| image:: https://cdn.discordapp.com/emojis/580177869284835328.png?v=1
+.. |704657943194501140.png| image:: https://cdn.discordapp.com/emojis/704657943194501140.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |torment+583429936958930964| image:: https://cdn.discordapp.com/emojis/583429936958930964.png?v=1
+.. |689509250472476758.png| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |teci+641332337451204608| image:: https://cdn.discordapp.com/emojis/641332337451204608.png?v=1
+.. |583430147538026496.png| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Reaperpoints+704657943194501140| image:: https://cdn.discordapp.com/emojis/704657943194501140.png?v=1
+.. |643505652865695767.png| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vamp+643505653079343144| image:: https://cdn.discordapp.com/emojis/643505653079343144.png?v=1
+.. |643505652634746881.png| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Araxxi+513213019543699466| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
+.. |513190158468907008.png| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corbicula+690136117273821280| image:: https://cdn.discordapp.com/emojis/690136117273821280.png?v=1
+.. |689509250879324165.png| image:: https://cdn.discordapp.com/emojis/689509250879324165.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sharp+643505377291534366| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
+.. |643505179378974748.png| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |loyaltypoint+704657054987452447| image:: https://cdn.discordapp.com/emojis/704657054987452447.png?v=1
+.. |690136117374484508.png| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+.. |583429936665198592.png| image:: https://cdn.discordapp.com/emojis/583429936665198592.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |MarksofWar+704701746869567551| image:: https://cdn.discordapp.com/emojis/704701746869567551.png?v=1
+.. |643505153709965322.png| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malletops+690136117374484508| image:: https://cdn.discordapp.com/emojis/690136117374484508.png?v=1
+.. |641332337451204608.png| image:: https://cdn.discordapp.com/emojis/641332337451204608.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Constitution+689509250887712902| image:: https://cdn.discordapp.com/emojis/689509250887712902.png?v=1
+.. |643505116347105290.png| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deathward+697808774068699286| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
+.. |513190158674427906.png| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |conservationofenergy+697808773711921195| image:: https://cdn.discordapp.com/emojis/697808773711921195.png?v=1
+.. |689509250946695292.png| image:: https://cdn.discordapp.com/emojis/689509250946695292.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641337999170207763.png| image:: https://cdn.discordapp.com/emojis/641337999170207763.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641341976960172043.png| image:: https://cdn.discordapp.com/emojis/641341976960172043.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |697808773573771344.png| image:: https://cdn.discordapp.com/emojis/697808773573771344.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643148943856762890.png| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159018098713.png| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641342351532621824.png| image:: https://cdn.discordapp.com/emojis/641342351532621824.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505653079343144.png| image:: https://cdn.discordapp.com/emojis/643505653079343144.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -102,117 +138,81 @@
 
     </b>
 
-.. |</u>| raw:: html
+.. |697808774068699286.png| image:: https://cdn.discordapp.com/emojis/697808774068699286.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |513190158917566485.png| image:: https://cdn.discordapp.com/emojis/513190158917566485.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |<u>| raw:: html
+.. |643505377211842582.png| image:: https://cdn.discordapp.com/emojis/643505377211842582.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <u>
+.. |697808774106185768.png| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |mani+643505153709965322| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+.. |643505653062565907.png| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |648976643687317532.png| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689504724403486920.png| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |662249620579155968.png| image:: https://cdn.discordapp.com/emojis/662249620579155968.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |698225967679930408.png| image:: https://cdn.discordapp.com/emojis/698225967679930408.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |697808773711921195.png| image:: https://cdn.discordapp.com/emojis/697808773711921195.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159416557573.png| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513213019543699466.png| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690136116992671875.png| image:: https://cdn.discordapp.com/emojis/690136116992671875.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |698816156961603654.png| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429936958930964.png| image:: https://cdn.discordapp.com/emojis/583429936958930964.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |697808773917573233.png| image:: https://cdn.discordapp.com/emojis/697808773917573233.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513213538463121408.png| image:: https://cdn.discordapp.com/emojis/513213538463121408.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505377291534366.png| image:: https://cdn.discordapp.com/emojis/643505377291534366.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |Armadylcomp+513190158477033474| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |brawler+643505376917979138| image:: https://cdn.discordapp.com/emojis/643505376917979138.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |excal+641337999170207763| image:: https://cdn.discordapp.com/emojis/641337999170207763.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Explosivecomp+513190158917566485| image:: https://cdn.discordapp.com/emojis/513190158917566485.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |anguish+583429936665198592| image:: https://cdn.discordapp.com/emojis/583429936665198592.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dommine+662249620579155968| image:: https://cdn.discordapp.com/emojis/662249620579155968.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |turmoil+583429936606347280| image:: https://cdn.discordapp.com/emojis/583429936606347280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Defence+689509250979987525| image:: https://cdn.discordapp.com/emojis/689509250979987525.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Invention+689509250946695292| image:: https://cdn.discordapp.com/emojis/689509250946695292.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Desolation+513190159018098713| image:: https://cdn.discordapp.com/emojis/513190159018098713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Affliction+513190158468907008| image:: https://cdn.discordapp.com/emojis/513190158468907008.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |achiev+641342351532621824| image:: https://cdn.discordapp.com/emojis/641342351532621824.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserkersfury+697808774106185768| image:: https://cdn.discordapp.com/emojis/697808774106185768.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |penance+643505653062565907| image:: https://cdn.discordapp.com/emojis/643505653062565907.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |runic+643505377211842582| image:: https://cdn.discordapp.com/emojis/643505377211842582.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Strength+689509250879324165| image:: https://cdn.discordapp.com/emojis/689509250879324165.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cywircomp+583430147538026496| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 permanent-unlocks
 =================
@@ -227,9 +227,9 @@ Permanent Unlocks
 
 
 
-|berserker+643505116347105290| |mani+643505153709965322| |reckless+643505179378974748| |<b>| Berserk Auras |</b>|
+|643505116347105290.png| |643505153709965322.png| |643505179378974748.png| |<b>| Berserk Auras |</b>|
 
-- Costs |MarksofWar+704701746869567551| 25,000 Marks of War
+- Costs |704701746869567551.png| 25,000 Marks of War
 
 - BIS auras at most places, they last 30 minutes but are extended to 1 hour via vis wax. Provide the following buffs:
 
@@ -252,9 +252,9 @@ Permanent Unlocks
 
 
 
-|brawler+643505376917979138| |runic+643505377211842582| |sharp+643505377291534366| |<b>| Accuracy Auras |</b>|
+|643505376917979138.png| |643505377211842582.png| |643505377291534366.png| |<b>| Accuracy Auras |</b>|
 
-- Costs |loyaltypoint+704657054987452447| 107,000 Loyalty Points per aura (cumulative cost for supreme variant)
+- Costs |704657054987452447.png| 107,000 Loyalty Points per aura (cumulative cost for supreme variant)
 
 - Increase melee/magic/range accuracy by 3%/5%/7%/10% per rank respectively. They last 1 hour by default and can be extended to 2 hours
 
@@ -267,11 +267,11 @@ Permanent Unlocks
 
 
 
-|mahj+643148943856762890| |dm+643505652571963417| |<b>| Mahjarrat & Dark Magic Aura |</b>|
+|643148943856762890.png| |643505652571963417.png| |<b>| Mahjarrat & Dark Magic Aura |</b>|
 
-- Dark Magic costs |MarksofWar+704701746869567551| 12,500 Marks of War
+- Dark Magic costs |704701746869567551.png| 12,500 Marks of War
 
-- Mahjarrat costs either |Reaperpoints+704657943194501140| 1000 Reaper Points or |Bond+513213538463121408| 3 Bonds
+- Mahjarrat costs either |704657943194501140.png| 1000 Reaper Points or |513213538463121408.png| 3 Bonds
 
 - Mahjarrat provides a 5% damage boost and Dark magic deals damage over time to your target
 
@@ -281,11 +281,11 @@ Permanent Unlocks
 
 
 
-|inspiration+643505652634746881| |invig+643505652865695767| |<b>| Inspiration & Invigorate Aura |</b>|
+|643505652634746881.png| |643505652865695767.png| |<b>| Inspiration & Invigorate Aura |</b>|
 
-- Inspiration costs |loyaltypoint+704657054987452447| 23,000 Loyalty Points
+- Inspiration costs |704657054987452447.png| 23,000 Loyalty Points
 
-- Invigorate costs |loyaltypoint+704657054987452447| 115,000 Loyalty Points (cumulative cost for supreme variant)
+- Invigorate costs |704657054987452447.png| 115,000 Loyalty Points (cumulative cost for supreme variant)
 
 - Inspiration causes successful attacks to give an extra 0.5% adrenaline. Invigorate saves 2.5%/5%/7.5%/10% adrenaline after an ultimate; this effect stacks with a ring of vigour
 
@@ -295,11 +295,11 @@ Permanent Unlocks
 
 
 
-|penance+643505653062565907| |vamp+643505653079343144| |<b>| Penance & Vampyrism Aura |</b>|
+|643505653062565907.png| |643505653079343144.png| |<b>| Penance & Vampyrism Aura |</b>|
 
-- Vampyrism costs |MarksofWar+704701746869567551| 5,000 Marks of War
+- Vampyrism costs |704701746869567551.png| 5,000 Marks of War
 
-- Penance costs |loyaltypoint+704657054987452447| 23,000 Loyalty Points
+- Penance costs |704657054987452447.png| 23,000 Loyalty Points
 
 - Penance restores prayer points equal to 5% of any damage taken, rounded down.
 
@@ -316,7 +316,7 @@ Permanent Unlocks
 
 
 
-|Explosivecomp+513190158917566485| |Armadylcomp+513190158477033474| |cywircomp+583430147538026496| |Ilujankancomp+513190158674427906| |<b>| Invention (Lvl 49/74/89) |</b>|
+|513190158917566485.png| |513190158477033474.png| |583430147538026496.png| |513190158674427906.png| |<b>| Invention (Lvl 49/74/89) |</b>|
 
 - Higher invention levels give you access to new components and perks. Important milestones are level 49/74/89 giving you crackling, precise, and planted feet/aftershock 
 
@@ -341,7 +341,7 @@ Permanent Unlocks
 
 
 
-|elderovlsalve+648976643687317532| |<b>| Overloads/Supreme Overloads/Elder Overloads |</b>|
+|648976643687317532.png| |<b>| Overloads/Supreme Overloads/Elder Overloads |</b>|
 
 - Overloads increase a players combat stats + 15% of the stat level + 3
 
@@ -362,7 +362,7 @@ Permanent Unlocks
 
 
 
-|turmoil+583429936606347280| |torment+583429936958930964| |anguish+583429936665198592| |<b>| T95 Curses |</b>|
+|583429936606347280.png| |583429936958930964.png| |583429936665198592.png| |<b>| T95 Curses |</b>|
 
 - Turmoil, torment and anguish provide combat boosts for melee/mage/range respectively 
 
@@ -389,9 +389,9 @@ Permanent Unlocks
 
 
 
-|Malevolence+513190159416557573| |Affliction+513190158468907008| |Desolation+513190159018098713| |<b>| T99 Curses |</b>|
+|513190159416557573.png| |513190158468907008.png| |513190159018098713.png| |<b>| T99 Curses |</b>|
 
-- Costs |coins+698816156961603654| 623,953,544 per prayer
+- Costs |698816156961603654.png| 623,953,544 per prayer
 
 - Stronger versions of the level 95 variants that does the following:
 
@@ -418,7 +418,7 @@ Permanent Unlocks
 
 
 
-|excal+641337999170207763| |<b>| Enhanced Excalibur (+ boost from Elite Seers) |</b>|
+|641337999170207763.png| |<b>| Enhanced Excalibur (+ boost from Elite Seers) |</b>|
 
 - A lossless source of healing with a cooldown of 5 minutes
 
@@ -433,7 +433,7 @@ Permanent Unlocks
 
 
 
-|teci+641332337451204608| |<b>| Imbues |</b>|
+|641332337451204608.png| |<b>| Imbues |</b>|
 
 - Applies mainly for RoD and Asr, but the general idea is the same for all imbueable rings
 
@@ -446,7 +446,7 @@ Permanent Unlocks
 
 
 
-|achiev+641342351532621824| |<b>| Reaper Crew |</b>|
+|641342351532621824.png| |<b>| Reaper Crew |</b>|
 
 - For killing each boss once you unlock the following benefits:
 
@@ -465,7 +465,7 @@ Permanent Unlocks
 
 
 
-|death+641341976960172043| |<b>| Reaper Store |</b>|
+|641341976960172043.png| |<b>| Reaper Store |</b>|
 
 - PvM related unlocks of the shop
 
@@ -528,7 +528,7 @@ Permanent Unlocks
 
 
 
-|Araxxi+513213019543699466| |<b>| NopeNopeNope Perk |</b>|
+|513213019543699466.png| |<b>| NopeNopeNope Perk |</b>|
 
 - A 2% (at tier 1) or 3% (at tier 2) damage increase against all spiders as well as Arraxor/Araxxi
 
@@ -539,7 +539,7 @@ Permanent Unlocks
 
 
 
-|bagrada+690136116992671875| |<b>| King of Beasts Perk |</b>|
+|690136116992671875.png| |<b>| King of Beasts Perk |</b>|
 
 - A 5% (at tier 1) or 10% (at tier 2) chance to conserve a bomb when thrown
 
@@ -550,7 +550,7 @@ Permanent Unlocks
 
 
 
-|corbicula+690136117273821280| |<b>| No Fear Perk |</b>|
+|690136117273821280.png| |<b>| No Fear Perk |</b>|
 
 - Increases the Critical Hit chance of Meteor Strike by 20% (at tier 1) or 40% (at tier 2)
 
@@ -561,7 +561,7 @@ Permanent Unlocks
 
 
 
-|malletops+690136117374484508| |<b>| Armoured Hide Perk |</b>|
+|690136117374484508.png| |<b>| Armoured Hide Perk |</b>|
 
 - Increases the duration of Barricade by 1.8 seconds (at tier 1) or 3.6 seconds (at tier 2)
 
@@ -583,19 +583,19 @@ Permanent Unlocks
 
 
 
-|HoodedMax+580177869284835328| |<b>| Max Cape Perks |</b>|
+|580177869284835328.png| |<b>| Max Cape Perks |</b>|
 
 - The max and comp capes can fit 3 perks, and the combatants cape can fit two. Generally, the following perks should be prioritized:
 
-      - |Defence+689509250979987525| This is a must, as it acts as a sign of life and frees up your pocket slot for much more useful items. It also saves you an inventory slot as you do not need portent of life.
+      - |689509250979987525.png| This is a must, as it acts as a sign of life and frees up your pocket slot for much more useful items. It also saves you an inventory slot as you do not need portent of life.
 
-      - |Strength+689509250879324165| Dismember hits 3 more times (from 5 to 8), effectively increasing its damage by 60%. Very powerful with Lunging perk. Only useful if meleeing, can skip if you do not melee.
+      - |689509250879324165.png| Dismember hits 3 more times (from 5 to 8), effectively increasing its damage by 60%. Very powerful with Lunging perk. Only useful if meleeing, can skip if you do not melee.
 
-      - |Constitution+689509250887712902| Useful for healing at bank as well as regen throughout fights, though the effect is rather minimal. Scales with maximum HP.
+      - |689509250887712902.png| Useful for healing at bank as well as regen throughout fights, though the effect is rather minimal. Scales with maximum HP.
 
-      - |Ranged+689504724403486920| Ammo proc chance is increased by 20%. For example, the base chance of ruby bakriminel (e) proccing is 5%. This cape boosts it to 6% (20% of 5% is +1%). Only useful if ranging, can skip if you do not range.
+      - |689504724403486920.png| Ammo proc chance is increased by 20%. For example, the base chance of ruby bakriminel (e) proccing is 5%. This cape boosts it to 6% (20% of 5% is +1%). Only useful if ranging, can skip if you do not range.
 
-	  - |Attack+689509250472476758| / |Invention+689509250946695292| The impact these have on upkeep costs is relatively minimal, and these capes are mostly just filler; the combatants cape cannot have invention on it.
+	  - |689509250472476758.png| / |689509250946695292.png| The impact these have on upkeep costs is relatively minimal, and these capes are mostly just filler; the combatants cape cannot have invention on it.
 
 
 
@@ -685,7 +685,7 @@ Quest Unlocks
 
 
 
-|<u>| |<b>| Quests for Dominion Mines |</b>| |dommine+662249620579155968| |</u>|
+|<u>| |<b>| Quests for Dominion Mines |</b>| |662249620579155968.png| |</u>|
 
 |<b>| The Chosen Commander |</b>| : Sigmund
 
@@ -752,7 +752,7 @@ Further examples may be seen here: <https://runescape.wiki/w/Optimal_PvM_Relic_P
 
 
 
-|fontoflife+698225967679930408| |<b>| Font of Life |</b>|
+|698225967679930408.png| |<b>| Font of Life |</b>|
 
 Increases maximum health by 500
 
@@ -763,7 +763,7 @@ It is obtained by completeing the Archaeology tutorial
 
 
 
-|berserkersfury+697808774106185768| |<b>| Berserker's Fury |</b>|
+|697808774106185768.png| |<b>| Berserker's Fury |</b>|
 
 Deal up to +5.5% damage the lower your current life points are below max. Averages to around 2-3% dpm increase
 
@@ -780,7 +780,7 @@ Detailed information can be found here:
 
 
 
-|deathward+697808774068699286| |<b>| Death Ward |</b>|
+|697808774068699286.png| |<b>| Death Ward |</b>|
 
 5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%
 
@@ -795,7 +795,7 @@ Note: if armadyl isnt at his tower, check your sliskes endgame quest log, if it 
 
 
 
-|furyofthesmall+697808773917573233| |<b>| Fury of the Small |</b>|
+|697808773917573233.png| |<b>| Fury of the Small |</b>|
 
 All basic abilities generate 1% more adrenaline
 
@@ -806,7 +806,7 @@ Solve: Out of the Cruicible mystery. 97 Archaeology (Boostable)
 
 
 
-|heightenedsenses+697808773573771344| |<b>| Heightened Senses |</b>|	
+|697808773573771344.png| |<b>| Heightened Senses |</b>|	
 
 Increases maximum adrenaline by 10%
 
@@ -817,7 +817,7 @@ Solve: The Everlight mystery. 105 Archaeology (Boostable)
 
 
 
-|conservationofenergy+697808773711921195| |<b>| Conservation of Energy |</b>|
+|697808773711921195.png| |<b>| Conservation of Energy |</b>|
 
 After using an ultimate ability, you will regain 10% adrenaline
 

@@ -1,8 +1,20 @@
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |656844963522281473.png| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dummy+656844963522281473| image:: https://cdn.discordapp.com/emojis/656844963522281473.png?v=1
+.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643162604725862410.png| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -10,43 +22,31 @@
 
     <u>
 
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/nRzOZDE.png| image:: https://i.imgur.com/nRzOZDE.png
-
-.. |ancientshard+656426717505650708| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |rottenfang+643162604725862410| image:: https://cdn.discordapp.com/emojis/643162604725862410.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenurn+656426717413507074| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/rZsWaTc.png| image:: https://i.imgur.com/rZsWaTc.png
 
-.. |</u>| raw:: html
-
-    </u>
-
 .. |</b>| raw:: html
 
     </b>
 
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/nRzOZDE.png| image:: https://i.imgur.com/nRzOZDE.png
+
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -73,7 +73,7 @@ Introduction
 ------------
 
 
-Another old boss, only camped for pet and title. Giant mole is very straightforward, only requiring the ability to do damage. The only relevant mechanic present is his dig, where he will dig to a different part of the arena, indicated by a dirt arrow on the ground. Falador Hard and Elite diaries provide buffs to the rewards from mole, but these are minimal, and not required for camping the boss. |soulsplit+615613924506599497| can be used to mitigate any damage done by the Mole.
+Another old boss, only camped for pet and title. Giant mole is very straightforward, only requiring the ability to do damage. The only relevant mechanic present is his dig, where he will dig to a different part of the arena, indicated by a dirt arrow on the ground. Falador Hard and Elite diaries provide buffs to the rewards from mole, but these are minimal, and not required for camping the boss. |615613924506599497.png| can be used to mitigate any damage done by the Mole.
 
 
 
@@ -91,7 +91,7 @@ Drops
 -----
 
 
-- |rottenfang+643162604725862410|  |<b>| Rotten fang |</b>| ``1/2500 Normal mode (500 threshold)``
+- |643162604725862410.png|  |<b>| Rotten fang |</b>| ``1/2500 Normal mode (500 threshold)``
 
                                       ``1/500 Hard mode (500 threshold)``
 
@@ -103,13 +103,13 @@ Preset
 
 Food is used for panic eating, excalibur is used for healing over time. Take as many prayer potions and overloads as needed for your desired trip length. Combat dummies are used to stall between kills. Vuln runes can be used to release stalled abilities.
 
-- |adrenurn+656426717413507074|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
+- |656426717413507074.png|  |<b>| Adrenaline urn |</b>| ``Prevents adren loss after dropping combat, stores up to 1000% adrenaline``
 
-- |ancientshard+656426717505650708|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
+- |656426717505650708.png|  |<b>| Ancient elven ritual shard |</b>| ``Restores prayer overtime, 5 minute cooldown``
 
-- |dummy+656844963522281473|  |<b>| Combat dummy |</b>| ``Used to stall adrenaline between kill``
+- |656844963522281473.png|  |<b>| Combat dummy |</b>| ``Used to stall adrenaline between kill``
 
-- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
+- |583430011868938283.png|  |<b>| Rune Pouch |</b>| |536252658986647589.png| |536252659422855188.png| |536252660333019136.png|
 
 
 

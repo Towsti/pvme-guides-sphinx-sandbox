@@ -1,50 +1,8 @@
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+.. |583430011948630016.png| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/oX4n5lR.png| image:: https://i.imgur.com/oX4n5lR.png
-
-.. |Body_rune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/yljks1T.png| image:: https://i.imgur.com/yljks1T.png
-
-.. |https://i.imgur.com/wvxkU0u.png| image:: https://i.imgur.com/wvxkU0u.png
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sd+537341954392850442| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |HealOther+567727985851891715| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |blackpouch+656786565359599626| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+.. |536252659615924258.png| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -52,129 +10,135 @@
 
     </u>
 
+.. |535533809978966037.png| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |657248051190300682.png| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159085207555.png| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |615612332521029632.png| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |567727985851891715.png| image:: https://cdn.discordapp.com/emojis/567727985851891715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537341954392850442.png| image:: https://cdn.discordapp.com/emojis/537341954392850442.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/f5MEPfJ.png| image:: https://i.imgur.com/f5MEPfJ.png
+
+.. |536252661406760970.png| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537338981747261446.png| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565359599626.png| image:: https://cdn.discordapp.com/emojis/656786565359599626.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659670188042.png| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/wvxkU0u.png| image:: https://i.imgur.com/wvxkU0u.png
+
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/6zSiikv.png| image:: https://i.imgur.com/6zSiikv.png
+
+.. |656786565149884427.png| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659850674186.png| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833072672778.png| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/yljks1T.png| image:: https://i.imgur.com/yljks1T.png
+
 .. |<u>| raw:: html
 
     <u>
+
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848915020447745.png| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543478434509357098.png| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |</b>| raw:: html
 
     </b>
 
-.. |Dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+.. |535533833358016512.png| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159462694912.png| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689504724159823906.png| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656785077883109407.png| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/oX4n5lR.png| image:: https://i.imgur.com/oX4n5lR.png
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833391702017.png| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |Cosmic_rune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Onslaught+513190159085207555| image:: https://cdn.discordapp.com/emojis/513190159085207555.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Water_rune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astral_rune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dustrune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Reprisal+513190159462694912| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cept+543478434509357098| image:: https://cdn.discordapp.com/emojis/543478434509357098.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Law_rune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |WM+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Blood_rune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Dust_rune+536252659670188042| image:: https://cdn.discordapp.com/emojis/536252659670188042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soul_rune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/f5MEPfJ.png| image:: https://i.imgur.com/f5MEPfJ.png
-
-.. |Fire_rune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/6zSiikv.png| image:: https://i.imgur.com/6zSiikv.png
 
 vorago-hardmode
 ===============
@@ -243,15 +207,15 @@ Take a yak if the food is needed, and a nihil if more comfortable.
 
 |<b>| Experienced Preset |</b>|
 
-- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
+- |656785077883109407.png|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
-- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
+- |690848915020447745.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252659850674186.png| |536252659301089280.png| 
 
-- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
+- |656786565149884427.png|  |<b>| Rune Pouch |</b>| |536252659615924258.png| |536252658961481769.png| |536252661406760970.png|
 
-- |blackpouch+656786565359599626|  |<b>| Rune Pouch |</b>| |Soulrune+536252660333019136| |Waterrune+536252660165115905| |Dustrune+536252659670188042|
+- |656786565359599626.png|  |<b>| Rune Pouch |</b>| |536252660333019136.png| |536252660165115905.png| |536252659670188042.png|
 
-(Runes for |bloodbarrage+537338981747261446| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |sd+537341954392850442| |Cept+543478434509357098| |HealOther+567727985851891715| )
+(Runes for |537338981747261446.png| |657248051190300682.png| |537349530551582720.png| |535614336207552523.png| |537341954392850442.png| |543478434509357098.png| |567727985851891715.png| )
 
 
 
@@ -311,7 +275,7 @@ The rotations listed below are for 6man and 7man. As team size is scaled down, t
 
 |<u>| P3 - Ceiling Collapse |</u>|
 
-|Asphyx+535533833072672778| > |WM+535533809978966037| > |Dbreath+535533833391702017| > |Deto+535533833358016512| > |Asphyx+535533833072672778| > |WM+535533809978966037|
+|535533833072672778.png| > |535533809978966037.png| > |535533833391702017.png| > |535533833358016512.png| > |535533833072672778.png| > |535533809978966037.png|
 
 
 
@@ -329,7 +293,7 @@ Do a normal sunshine rotation, using 4TAA Barrage + Dark Form, and prioritizing 
 
 Stand MD 
 
-|WM+535533809978966037| > |Asphyx+535533833072672778| > |Dbreath+535533833391702017| > |Deto+535533833358016512| > |WM+535533809978966037| > |Asphyx+535533833072672778|
+|535533809978966037.png| > |535533833072672778.png| > |535533833391702017.png| > |535533833358016512.png| > |535533809978966037.png| > |535533833072672778.png|
 
 
 
@@ -337,7 +301,7 @@ Stand MD
 
 |<u>| P6 |</u>|
 
-|Onslaught+513190159085207555| > Dummy at End
+|513190159085207555.png| > Dummy at End
 
 
 
@@ -345,19 +309,19 @@ Stand MD
 
 |<u>| P7 - TeamSplit |</u>|
 
-|WM+535533809978966037| > |Asphyx+535533833072672778| > |Dbreath+535533833391702017| > |Deto+535533833358016512| 
+|535533809978966037.png| > |535533833072672778.png| > |535533833391702017.png| > |535533833358016512.png| 
 
 
 
 |<b>| If less than 70k |</b>|
 
-Go to TS and |WM+535533809978966037| + |Asphyx+535533833072672778| Out
+Go to TS and |535533809978966037.png| + |535533833072672778.png| Out
 
 
 
 |<b>| If more than 70k |</b>|
 
-|Reprisal+513190159462694912|  TS, then |WM+535533809978966037|
+|513190159462694912.png|  TS, then |535533809978966037.png|
 
 
 
@@ -365,7 +329,7 @@ Go to TS and |WM+535533809978966037| + |Asphyx+535533833072672778| Out
 
 |<u>| P8 - Purple Bomb |</u>|
 
-|Asphyx+535533833072672778| >  |WM+535533809978966037| > |Dbreath+535533833391702017| > build to 100 while escaping arms, |Sunshine+583430011948630016|
+|535533833072672778.png| >  |535533809978966037.png| > |535533833391702017.png| > build to 100 while escaping arms, |583430011948630016.png|
 
 
 
@@ -383,15 +347,15 @@ This section will detail strategies for teams of 4 or 5.
 
 |<u>| Mager (Bomb Tank) Preset |</u>|
 
-- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
+- |656785077883109407.png|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
-- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
+- |690848915020447745.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252659850674186.png| |536252659301089280.png| 
 
-- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
+- |656786565149884427.png|  |<b>| Rune Pouch |</b>| |536252659615924258.png| |536252658961481769.png| |536252661406760970.png|
 
-- |blackpouch+656786565359599626|  |<b>| Rune Pouch |</b>| |Soulrune+536252660333019136| |Waterrune+536252660165115905| |Dustrune+536252659670188042|
+- |656786565359599626.png|  |<b>| Rune Pouch |</b>| |536252660333019136.png| |536252660165115905.png| |536252659670188042.png|
 
-(Runes for |bloodbarrage+537338981747261446| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |sd+537341954392850442| |Cept+543478434509357098| |HealOther+567727985851891715| )
+(Runes for |537338981747261446.png| |657248051190300682.png| |537349530551582720.png| |535614336207552523.png| |537341954392850442.png| |543478434509357098.png| |567727985851891715.png| )
 
 
 
@@ -412,11 +376,11 @@ Scythe is used for Green Bomb, P9, P10, and P11. A dummy should be used for shie
 
 
 
-``Pouch 1:`` |Blood_rune+536252658970001409| |Body_rune+536252659301089280| |Astral_rune+536252658961481769| 
+``Pouch 1:`` |536252658970001409.png| |536252659301089280.png| |536252658961481769.png| 
 
-``Pouch 2:`` |Dust_rune+536252659670188042| |Fire_rune+536252659850674186| |Water_rune+536252660165115905| 
+``Pouch 2:`` |536252659670188042.png| |536252659850674186.png| |536252660165115905.png| 
 
-``Pouch 3:`` |Cosmic_rune+536252659615924258| |Soul_rune+536252660333019136| |Law_rune+536252661406760970| 
+``Pouch 3:`` |536252659615924258.png| |536252660333019136.png| |536252661406760970.png| 
 
 
 
@@ -441,13 +405,13 @@ Scythe is used for Green Bomb, P9, P10, and P11. A dummy should be used for shie
 
 
 
-|Magic+689504724159823906|
+|689504724159823906.png|
 
 Dummy mid on drop. BT Disrupt ASAP after the end of P2. Sunshine, apot, and build to 65% (needs enh apot, otherwise sigil). Auto Asphyx, Wild Magic, Dragon Breath, and Tuska if time (If everything was tick perfect it should be on the last tick before ref). 1 BT should be cepting the other during ref. 2 defensives, and deto for reflect. Release with DB then Asphyx + WM. Basics or Gstaff depending on adren.
 
 
 
-|melee+615612332521029632|
+|615612332521029632.png|
 
 
 
@@ -459,13 +423,13 @@ Hammer into Quake. Shard on reflect and build with defensives. Berserk, 2 basics
 
 
 
-|Magic+689504724159823906|
+|689504724159823906.png|
 
 Don't sun, save it for scop. On drop, auto asphyx, WM, Gstaff, Dragon BReath. BTs should cept on reflect, everyone deto. From here, follow 4man rotation.
 
 
 
-|melee+615612332521029632|
+|615612332521029632.png|
 
 
 
@@ -484,19 +448,19 @@ Build on dummy after phase.
 
 
 
-|<b>| 4-man |Magic+689504724159823906| |</b>|
+|<b>| 4-man |689504724159823906.png| |</b>|
 
 Bomb tanks should Disrupt ASAP. Debuffs should be planned out before drop. The DPSer should be standing west of the west scop spawn. Sun off CD, and Wild Magic Deto with Sigil if you can. When the east and north scop arrive, move east, to the edge of the Sunshine to stack them. This is when you want to use detonate, and any other AoE Abilities as frequently as possible. The phase should be over after your 2nd Wild Magic. If not, use basics to phase. Dummy end if possible.
 
 
 
-|<b>| 4 or 5-man |melee+615612332521029632| |</b>|
+|<b>| 4 or 5-man |615612332521029632.png| |</b>|
 
 Stay close to the west scop spawn and tag with mutated barge, followed by an assault and a slaughter. Switch to souls this phase. You can ZGS spec, alternatively just use scythe and Meteor Strike. Take advantage of Quake, Hurricane, Flurry, and Bladed Dive, as they are all AoEs.
 
 
 
-|<b>| 5-man |Magic+689504724159823906| |</b>|
+|<b>| 5-man |689504724159823906.png| |</b>|
 
 Both mage DPSers stand west of the west scop spawn, one debuff west and north, and the other east. Sunshine apot when you can, and straight into Wild Magic + Detonate. Release with sigil ans Asphyx. The BT and DPS on the west should focus that scop, and the BT on the south should attack east with base, then change to north.
 
@@ -509,7 +473,7 @@ Both mage DPSers stand west of the west scop spawn, one debuff west and north, a
 
 
 
-|<b>| 4-man |Magic+689504724159823906| Mager |</b>|
+|<b>| 4-man |689504724159823906.png| Mager |</b>|
 
 
 
@@ -519,7 +483,7 @@ How this phase goes will depend on how quick you finished Scops. Either way, eve
 
 
 
-|<b>| 5-man |Magic+689504724159823906| Mager |</b>|
+|<b>| 5-man |689504724159823906.png| Mager |</b>|
 
 
 
@@ -527,7 +491,7 @@ If you are bomb tanking, detonate before dropdown on the L crack, and release wi
 
 
 
-|<b>| 5-man |melee+615612332521029632| Melee |</b>|
+|<b>| 5-man |615612332521029632.png| Melee |</b>|
 
 
 
@@ -542,13 +506,13 @@ Hammer, Quake, Hurricane, 188s, off. Build, barge, Assault, 188s, Hurricane or Q
 
 
 
-|<b>| 5-man |Magic+689504724159823906| Mager |</b>|
+|<b>| 5-man |689504724159823906.png| Mager |</b>|
 
 Disrupt on dropdown if you are a bomb tank. Onslaught and don't die. Cancel the Onslaught with either a resonance or a Dragon Breath followed by a resonance. Finish with strong basics.
 
 
 
-|<b>| 5-man |melee+615612332521029632| Melee |</b>|
+|<b>| 5-man |615612332521029632.png| Melee |</b>|
 
 Have aggro on vit before drop. Berserk when you land, and build with defensives. DO NOT lose target. A DPSer should place a dummy close to MD, and you can barge this. If not, barge Rago and Sigil Assault Hurricane, followed by a quake. This should finish the phase. Build on a dummy as high as you can.
 
@@ -571,13 +535,13 @@ https://www.youtube.com/watch?v=NgS_YH8PG2A&feature=youtu.be
 
 
 
-|<b>| 4 or 5-man |Magic+689504724159823906| Mager |</b>|
+|<b>| 4 or 5-man |689504724159823906.png| Mager |</b>|
 
 The bomb tanks should Sunshine drop, with the help of a dummy and adrenaline potion. Run to the first TeamSplit, and get back into Sunshine ASAP. Use Wild Magic, Dragon Breath, Asphyx, Resonance, and get off. Deto during reflect with Dragon Breath. Eat up to 9k+, Disrupt + Reprisal, release, Wild Magic + Asphyx to finish phase.
 
 
 
-|<b>| |melee+615612332521029632|  Meleer |</b>|
+|<b>| |615612332521029632.png|  Meleer |</b>|
 
 Barge, Hammer, Assault, Quake, and use 188s. On reflect, voke, build with defensives, spellbook swap, auto + hurricane, reprisal + disrupt, auto, use 188s, and finish with a forceful backhand.
 
@@ -590,7 +554,7 @@ Barge, Hammer, Assault, Quake, and use 188s. On reflect, voke, build with defens
 
 
 
-|<b>| |melee+615612332521029632| Meleer |</b>|
+|<b>| |615612332521029632.png| Meleer |</b>|
 
 
 
@@ -598,7 +562,7 @@ Hammer Spec, Quake, Hurricane, Build to 100%, Berserk, Auto + Cleave. Build with
 
 
 
-|<b>| |Magic+689504724159823906| Mager |</b>|
+|<b>| |689504724159823906.png| Mager |</b>|
 
 Tag reds (blues if you prefer it, not worth unless going for records). On first arm, do auto Asphyx, cancel asphyx with Wild Magic. The DPSer and tagging bomb tank do G Staff spec and build to 100%. Sunshine, apot, build, deto + Wild Magic, Asphyx. The tagging bomb tank cade cepts the team.
 

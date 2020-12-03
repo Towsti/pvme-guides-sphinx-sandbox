@@ -1,276 +1,204 @@
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+.. |690976219612708954.png| image:: https://cdn.discordapp.com/emojis/690976219612708954.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malevlegs+643846985513828400| image:: https://cdn.discordapp.com/emojis/643846985513828400.png?v=1
+.. |583428397397573659.png| image:: https://cdn.discordapp.com/emojis/583428397397573659.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |masterworklegs+643847042170355736| image:: https://cdn.discordapp.com/emojis/643847042170355736.png?v=1
+.. |580177869272121344.png| image:: https://cdn.discordapp.com/emojis/580177869272121344.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augdrygoremacemh+697485495684431902| image:: https://cdn.discordapp.com/emojis/697485495684431902.png?v=1
+.. |643846985513828400.png| image:: https://cdn.discordapp.com/emojis/643846985513828400.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elitesirenicbody+643846908305211413| image:: https://cdn.discordapp.com/emojis/643846908305211413.png?v=1
+.. |615612332521029632.png| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |harnessedcomp+583428397296910356| image:: https://cdn.discordapp.com/emojis/583428397296910356.png?v=1
+.. |615618531937222657.png| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tmwbody+536966366272552960| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
+.. |697405254265864244.png| image:: https://cdn.discordapp.com/emojis/697405254265864244.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Clockworkcomp+513206171549696000| image:: https://cdn.discordapp.com/emojis/513206171549696000.png?v=1
+.. |513190159362031631.png| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |oceaniccomp+607288026229506058| image:: https://cdn.discordapp.com/emojis/607288026229506058.png?v=1
+.. |583434337182154764.png| image:: https://cdn.discordapp.com/emojis/583434337182154764.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Virtusrobelegs+556591276036849682| image:: https://cdn.discordapp.com/emojis/556591276036849682.png?v=1
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |PernixChaps+556592058891239424| image:: https://cdn.discordapp.com/emojis/556592058891239424.png?v=1
+.. |581180369911414794.png| image:: https://cdn.discordapp.com/emojis/581180369911414794.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |decimation+643848618477879328| image:: https://cdn.discordapp.com/emojis/643848618477879328.png?v=1
+.. |583429876242186260.png| image:: https://cdn.discordapp.com/emojis/583429876242186260.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malevkite+513190159412625411| image:: https://cdn.discordapp.com/emojis/513190159412625411.png?v=1
+.. |641670143197446182.png| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphitedefender+643151141382651907| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
+.. |580176857140428828.png| image:: https://cdn.discordapp.com/emojis/580176857140428828.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |silentcomp+583435429563465730| image:: https://cdn.discordapp.com/emojis/583435429563465730.png?v=1
+.. |643846875681783824.png| image:: https://cdn.discordapp.com/emojis/643846875681783824.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vbook+656785078160195615| image:: https://cdn.discordapp.com/emojis/656785078160195615.png?v=1
+.. |536966366272552960.png| image:: https://cdn.discordapp.com/emojis/536966366272552960.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |Noxiouscomp+513203842473525248| image:: https://cdn.discordapp.com/emojis/513203842473525248.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |VirtusTop+556586038936600603| image:: https://cdn.discordapp.com/emojis/556586038936600603.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |pernixbody+641672159051120651| image:: https://cdn.discordapp.com/emojis/641672159051120651.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |fungalcomp+607289548661063688| image:: https://cdn.discordapp.com/emojis/607289548661063688.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |magicparts+583434336263602187| image:: https://cdn.discordapp.com/emojis/583434336263602187.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |evasivecomp+643829647049752586| image:: https://cdn.discordapp.com/emojis/643829647049752586.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ancientarmourgizmo2+697405383685308547| image:: https://cdn.discordapp.com/emojis/697405383685308547.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |arcanespiritshield+690976219612708954| image:: https://cdn.discordapp.com/emojis/690976219612708954.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbow+643848618553507843| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |organicparts+583434337182154764| image:: https://cdn.discordapp.com/emojis/583434337182154764.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |directcomp+583428397112492043| image:: https://cdn.discordapp.com/emojis/583428397112492043.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bbc+626714879218155521| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |vengeful_kiteshield+536258767344500746| image:: https://cdn.discordapp.com/emojis/536258767344500746.png?v=1
+.. |697405383685308547.png| image:: https://cdn.discordapp.com/emojis/697405383685308547.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elitesireniclegs+643846897525850165| image:: https://cdn.discordapp.com/emojis/643846897525850165.png?v=1
+.. |513190159261630467.png| image:: https://cdn.discordapp.com/emojis/513190159261630467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowsmalevlegs+580177522831130634| image:: https://cdn.discordapp.com/emojis/580177522831130634.png?v=1
+.. |607288026229506058.png| image:: https://cdn.discordapp.com/emojis/607288026229506058.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |sing+513190159261630467| image:: https://cdn.discordapp.com/emojis/513190159261630467.png?v=1
+.. |583434183465238536.png| image:: https://cdn.discordapp.com/emojis/583434183465238536.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |noxscythe+513190159341322240| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+.. |689504724159823906.png| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augglaive+643846875681783824| image:: https://cdn.discordapp.com/emojis/643846875681783824.png?v=1
+.. |643846897525850165.png| image:: https://cdn.discordapp.com/emojis/643846897525850165.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Core+625304432581672961| image:: https://cdn.discordapp.com/emojis/625304432581672961.png?v=1
+.. |697405254098092063.png| image:: https://cdn.discordapp.com/emojis/697405254098092063.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tmwlegs+643847107186524200| image:: https://cdn.discordapp.com/emojis/643847107186524200.png?v=1
+.. |643846849362657280.png| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowselitetectlegs+580177522700976138| image:: https://cdn.discordapp.com/emojis/580177522700976138.png?v=1
+.. |580177522503712781.png| image:: https://cdn.discordapp.com/emojis/580177522503712781.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |historiccomps+697405254676906018| image:: https://cdn.discordapp.com/emojis/697405254676906018.png?v=1
+.. |580177522700976138.png| image:: https://cdn.discordapp.com/emojis/580177522700976138.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowsbbcoh+580176857123651584| image:: https://cdn.discordapp.com/emojis/580176857123651584.png?v=1
+.. |643846908305211413.png| image:: https://cdn.discordapp.com/emojis/643846908305211413.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |seiswand+583429704837758997| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
+.. |643847107186524200.png| image:: https://cdn.discordapp.com/emojis/643847107186524200.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |powerfulcomp+583434604644663299| image:: https://cdn.discordapp.com/emojis/583434604644663299.png?v=1
+.. |580168050121113623.png| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |glaiveoh+643161561707446283| image:: https://cdn.discordapp.com/emojis/643161561707446283.png?v=1
+.. |626714879218155521.png| image:: https://cdn.discordapp.com/emojis/626714879218155521.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dragonfirecomp+583428397439516673| image:: https://cdn.discordapp.com/emojis/583428397439516673.png?v=1
+.. |580176857123651584.png| image:: https://cdn.discordapp.com/emojis/580176857123651584.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bandoscomp+583435429861261322| image:: https://cdn.discordapp.com/emojis/583435429861261322.png?v=1
+.. |556592058891239424.png| image:: https://cdn.discordapp.com/emojis/556592058891239424.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |inquisitorstaff+694566917553520680| image:: https://cdn.discordapp.com/emojis/694566917553520680.png?v=1
+.. |583434604644663299.png| image:: https://cdn.discordapp.com/emojis/583434604644663299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vintagecomps+697405254098092063| image:: https://cdn.discordapp.com/emojis/697405254098092063.png?v=1
+.. |643151141382651907.png| image:: https://cdn.discordapp.com/emojis/643151141382651907.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |noxstaff+513190159294922753| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
+.. |643847042170355736.png| image:: https://cdn.discordapp.com/emojis/643847042170355736.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Armadylcomp+513190158477033474| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
+.. |513206794752098327.png| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientweapongizmo2+697405383706411018| image:: https://cdn.discordapp.com/emojis/697405383706411018.png?v=1
+.. |513190159412625411.png| image:: https://cdn.discordapp.com/emojis/513190159412625411.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |variablecomp+583428408554291221| image:: https://cdn.discordapp.com/emojis/583428408554291221.png?v=1
+.. |694566917456789554.png| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |masterworkspearofannihilation+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+.. |643846849223983125.png| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |swh+641670143197446182| image:: https://cdn.discordapp.com/emojis/641670143197446182.png?v=1
+.. |583435429840420865.png| image:: https://cdn.discordapp.com/emojis/583435429840420865.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiterepriser+643846849362657280| image:: https://cdn.discordapp.com/emojis/643846849362657280.png?v=1
+.. |626714879230738434.png| image:: https://cdn.discordapp.com/emojis/626714879230738434.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |healthycomp+583428396994920521| image:: https://cdn.discordapp.com/emojis/583428396994920521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bladeparts+583434183465238536| image:: https://cdn.discordapp.com/emojis/583434183465238536.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Merciless_kiteshield+536258779730411531| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<u>| raw:: html
 
-.. |terramaul+602561894829522954| image:: https://cdn.discordapp.com/emojis/602561894829522954.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <u>
 
-.. |range+580168050121113623| image:: https://cdn.discordapp.com/emojis/580168050121113623.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</b>| raw:: html
 
-.. |maceoh+656785061059756032| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </b>
 
-.. |shadowcomp+583428397318012938| image:: https://cdn.discordapp.com/emojis/583428397318012938.png?v=1
+.. |552955120707698699.png| image:: https://cdn.discordapp.com/emojis/552955120707698699.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zaroscomp+583435429949341697| image:: https://cdn.discordapp.com/emojis/583435429949341697.png?v=1
+.. |602561894829522954.png| image:: https://cdn.discordapp.com/emojis/602561894829522954.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zamorakcomp+607288026334232576| image:: https://cdn.discordapp.com/emojis/607288026334232576.png?v=1
+.. |583435429500551169.png| image:: https://cdn.discordapp.com/emojis/583435429500551169.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Sos+626466320132734976| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
+.. |583428397296910356.png| image:: https://cdn.discordapp.com/emojis/583428397296910356.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ascoh+513190159362031631| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
+.. |694566917553520680.png| image:: https://cdn.discordapp.com/emojis/694566917553520680.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |precisecomp+583434604711510026| image:: https://cdn.discordapp.com/emojis/583434604711510026.png?v=1
+.. |583435429563465730.png| image:: https://cdn.discordapp.com/emojis/583435429563465730.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |khopeshmh+513206794844110858| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
+.. |583428397112492043.png| image:: https://cdn.discordapp.com/emojis/583428397112492043.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientrepriser+643150658891153428| image:: https://cdn.discordapp.com/emojis/643150658891153428.png?v=1
+.. |583434604711510026.png| image:: https://cdn.discordapp.com/emojis/583434604711510026.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -278,159 +206,231 @@
 
     <b>
 
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |583434183448330270.png| image:: https://cdn.discordapp.com/emojis/583434183448330270.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
+.. |656785061059756032.png| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ancientlantern+580177522503712781| image:: https://cdn.discordapp.com/emojis/580177522503712781.png?v=1
+.. |513203842473525248.png| image:: https://cdn.discordapp.com/emojis/513203842473525248.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowscore+615617138488639541| image:: https://cdn.discordapp.com/emojis/615617138488639541.png?v=1
+.. |607288026305134608.png| image:: https://cdn.discordapp.com/emojis/607288026305134608.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
+.. |513190158477033474.png| image:: https://cdn.discordapp.com/emojis/513190158477033474.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |crystalparts+583434317431046155| image:: https://cdn.discordapp.com/emojis/583434317431046155.png?v=1
+.. |697485495684431902.png| image:: https://cdn.discordapp.com/emojis/697485495684431902.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |pwand+583429876242186260| image:: https://cdn.discordapp.com/emojis/583429876242186260.png?v=1
+.. |626466320132734976.png| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |averniccomp+583435429840420865| image:: https://cdn.discordapp.com/emojis/583435429840420865.png?v=1
+.. |583434584679776256.png| image:: https://cdn.discordapp.com/emojis/583434584679776256.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |hexhunterbow+581180369911414794| image:: https://cdn.discordapp.com/emojis/581180369911414794.png?v=1
+.. |643848618477879328.png| image:: https://cdn.discordapp.com/emojis/643848618477879328.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dextrouscomp+607288026263191563| image:: https://cdn.discordapp.com/emojis/607288026263191563.png?v=1
+.. |607288026355466299.png| image:: https://cdn.discordapp.com/emojis/607288026355466299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |enhancingcomp+583434584113283072| image:: https://cdn.discordapp.com/emojis/583434584113283072.png?v=1
+.. |697405254676906018.png| image:: https://cdn.discordapp.com/emojis/697405254676906018.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |khopeshoh+513206794752098327| image:: https://cdn.discordapp.com/emojis/513206794752098327.png?v=1
+.. |583435543845797891.png| image:: https://cdn.discordapp.com/emojis/583435543845797891.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |baseparts+583434183448330270| image:: https://cdn.discordapp.com/emojis/583434183448330270.png?v=1
+.. |583428396994920521.png| image:: https://cdn.discordapp.com/emojis/583428396994920521.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |timeworncomps+697405254265864244| image:: https://cdn.discordapp.com/emojis/697405254265864244.png?v=1
+.. |583429704837758997.png| image:: https://cdn.discordapp.com/emojis/583429704837758997.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elitetectbody+552955120707698699| image:: https://cdn.discordapp.com/emojis/552955120707698699.png?v=1
+.. |536258779730411531.png| image:: https://cdn.discordapp.com/emojis/536258779730411531.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |coins+698816156961603654| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+.. |583428397439516673.png| image:: https://cdn.discordapp.com/emojis/583428397439516673.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ilujankancomp+513190158674427906| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
+.. |513190159294922753.png| image:: https://cdn.discordapp.com/emojis/513190159294922753.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |643161561707446283.png| image:: https://cdn.discordapp.com/emojis/643161561707446283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ascmh+513190158468775936| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
+.. |513190158917566485.png| image:: https://cdn.discordapp.com/emojis/513190158917566485.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |subtlecomp+607288026305134608| image:: https://cdn.discordapp.com/emojis/607288026305134608.png?v=1
+.. |583435429949341697.png| image:: https://cdn.discordapp.com/emojis/583435429949341697.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |elitetectlegs+580177869272121344| image:: https://cdn.discordapp.com/emojis/580177869272121344.png?v=1
+.. |625304432581672961.png| image:: https://cdn.discordapp.com/emojis/625304432581672961.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |livingcomp+583434584679776256| image:: https://cdn.discordapp.com/emojis/583434584679776256.png?v=1
+.. |643846996842512405.png| image:: https://cdn.discordapp.com/emojis/643846996842512405.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |fortunatecomp+583435543845797891| image:: https://cdn.discordapp.com/emojis/583435543845797891.png?v=1
+.. |643846874444595200.png| image:: https://cdn.discordapp.com/emojis/643846874444595200.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |kalphiterebounder+643846849223983125| image:: https://cdn.discordapp.com/emojis/643846849223983125.png?v=1
+.. |536258767344500746.png| image:: https://cdn.discordapp.com/emojis/536258767344500746.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Explosivecomp+513190158917566485| image:: https://cdn.discordapp.com/emojis/513190158917566485.png?v=1
+.. |607289548661063688.png| image:: https://cdn.discordapp.com/emojis/607289548661063688.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |undeadcomp+583428397397573659| image:: https://cdn.discordapp.com/emojis/583428397397573659.png?v=1
+.. |</u>| raw:: html
+
+    </u>
+
+.. |583435429861261322.png| image:: https://cdn.discordapp.com/emojis/583435429861261322.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Saradomincomp+583435429785632769| image:: https://cdn.discordapp.com/emojis/583435429785632769.png?v=1
+.. |643150658891153428.png| image:: https://cdn.discordapp.com/emojis/643150658891153428.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augdrygorerapieroh+697485495718117536| image:: https://cdn.discordapp.com/emojis/697485495718117536.png?v=1
+.. |513190158468775936.png| image:: https://cdn.discordapp.com/emojis/513190158468775936.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |augcywir+643846874444595200| image:: https://cdn.discordapp.com/emojis/643846874444595200.png?v=1
+.. |583430147538026496.png| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |malevbody+643846996842512405| image:: https://cdn.discordapp.com/emojis/643846996842512405.png?v=1
+.. |583434183674953728.png| image:: https://cdn.discordapp.com/emojis/583434183674953728.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |facetedcomp+607288026355466299| image:: https://cdn.discordapp.com/emojis/607288026355466299.png?v=1
+.. |656785078160195615.png| image:: https://cdn.discordapp.com/emojis/656785078160195615.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |culinarycomp+583435429500551169| image:: https://cdn.discordapp.com/emojis/583435429500551169.png?v=1
+.. |607288026263191563.png| image:: https://cdn.discordapp.com/emojis/607288026263191563.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |masterworkbody+643847056527458324| image:: https://cdn.discordapp.com/emojis/643847056527458324.png?v=1
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bbcoh+626714879230738434| image:: https://cdn.discordapp.com/emojis/626714879230738434.png?v=1
+.. |580177522831130634.png| image:: https://cdn.discordapp.com/emojis/580177522831130634.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |clearparts+583434183674953728| image:: https://cdn.discordapp.com/emojis/583434183674953728.png?v=1
+.. |697405383706411018.png| image:: https://cdn.discordapp.com/emojis/697405383706411018.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |barrowskhopeshoh+580176857140428828| image:: https://cdn.discordapp.com/emojis/580176857140428828.png?v=1
+.. |513206794844110858.png| image:: https://cdn.discordapp.com/emojis/513206794844110858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |cywircomp+583430147538026496| image:: https://cdn.discordapp.com/emojis/583430147538026496.png?v=1
+.. |513190158674427906.png| image:: https://cdn.discordapp.com/emojis/513190158674427906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |607288026334232576.png| image:: https://cdn.discordapp.com/emojis/607288026334232576.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |697485495718117536.png| image:: https://cdn.discordapp.com/emojis/697485495718117536.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |556586038936600603.png| image:: https://cdn.discordapp.com/emojis/556586038936600603.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643829647049752586.png| image:: https://cdn.discordapp.com/emojis/643829647049752586.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159341322240.png| image:: https://cdn.discordapp.com/emojis/513190159341322240.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |615617138488639541.png| image:: https://cdn.discordapp.com/emojis/615617138488639541.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583434336263602187.png| image:: https://cdn.discordapp.com/emojis/583434336263602187.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643847056527458324.png| image:: https://cdn.discordapp.com/emojis/643847056527458324.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656785077883109407.png| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641672159051120651.png| image:: https://cdn.discordapp.com/emojis/641672159051120651.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583435429785632769.png| image:: https://cdn.discordapp.com/emojis/583435429785632769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |556591276036849682.png| image:: https://cdn.discordapp.com/emojis/556591276036849682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513206171549696000.png| image:: https://cdn.discordapp.com/emojis/513206171549696000.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583434317431046155.png| image:: https://cdn.discordapp.com/emojis/583434317431046155.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |698816156961603654.png| image:: https://cdn.discordapp.com/emojis/698816156961603654.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583428408554291221.png| image:: https://cdn.discordapp.com/emojis/583428408554291221.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643848618553507843.png| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583434584113283072.png| image:: https://cdn.discordapp.com/emojis/583434584113283072.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583428397318012938.png| image:: https://cdn.discordapp.com/emojis/583428397318012938.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -465,39 +465,39 @@ These are very good perks to aim for, generally accepted as satisfactory startin
 
 
 
--    |seiswand+583429704837758997| |augdrygoremacemh+697485495684431902| |ascmh+513190158468775936| |<b>| Main Hand |</b>|
+-    |583429704837758997.png| |697485495684431902.png| |513190158468775936.png| |<b>| Main Hand |</b>|
 
      Precise 6
 
--    |augseissing+656785077883109407| |augdrygorerapieroh+697485495718117536| |ascoh+513190159362031631| |<b>| Off-hand |</b>|
+-    |656785077883109407.png| |697485495718117536.png| |513190159362031631.png| |<b>| Off-hand |</b>|
 
      Equilibrium 4
 
--    |vbook+656785078160195615| |maceoh+656785061059756032| |glaiveoh+643161561707446283| |<b>| Flanking switch |</b>|
+-    |656785078160195615.png| |656785061059756032.png| |643161561707446283.png| |<b>| Flanking switch |</b>|
 
      Flanking 4 
 
--    |noxstaff+513190159294922753| |noxscythe+513190159341322240| |ecb+615618531937222657| |<b>| Two Hand |</b>|
+-    |513190159294922753.png| |513190159341322240.png| |615618531937222657.png| |<b>| Two Hand |</b>|
 
      Precise 6 + Equilibrium 4
 
--    |augcywir+643846874444595200| |augglaive+643846875681783824| |<b>| Planted Feet switch |</b>|
+-    |643846874444595200.png| |643846875681783824.png| |<b>| Planted Feet switch |</b>|
 
      Aftershock 1 Planted Feet
 
--    |VirtusTop+556586038936600603| |masterworkbody+643847056527458324| |pernixbody+641672159051120651| |<b>| Body |</b>|
+-    |556586038936600603.png| |643847056527458324.png| |641672159051120651.png| |<b>| Body |</b>|
 
      Biting 3 + Impatient 4
 
--    |Virtusrobelegs+556591276036849682| |masterworklegs+643847042170355736| |PernixChaps+556592058891239424| |<b>| Legs |</b>|
+-    |556591276036849682.png| |643847042170355736.png| |556592058891239424.png| |<b>| Legs |</b>|
 
      Crackling 4 + Enhanced Devoted 4
 
--    |Merciless_kiteshield+536258779730411531| |malevkite+513190159412625411| |vengeful_kiteshield+536258767344500746| |<b>| Shield |</b>|
+-    |536258779730411531.png| |513190159412625411.png| |536258767344500746.png| |<b>| Shield |</b>|
 
      Turtling 4
 
--    |swh+641670143197446182| |<b>| Statius' Warhammer |</b>|
+-    |641670143197446182.png| |<b>| Statius' Warhammer |</b>|
 
      Aftershock 1
 
@@ -520,117 +520,117 @@ Advanced PvM perks
 
 
 
-|Magic+689504724159823906| Magic  
---------------------------------
+|689504724159823906.png| Magic  
+------------------------------
 
 
 
 
--    |pwand+583429876242186260|  |<b>| Wand of the Praesul |</b>| - Precise 6 Aftershock 1
+-    |583429876242186260.png|  |<b>| Wand of the Praesul |</b>| - Precise 6 Aftershock 1
 
--    |Core+625304432581672961|  |<b>| Imperium Core |</b>| - Aftershock 4 Equilibrium 2
+-    |625304432581672961.png|  |<b>| Imperium Core |</b>| - Aftershock 4 Equilibrium 2
 
--    |Core+625304432581672961|  |<b>| Imperium Core (Optional) |</b>| - Equilibrium 4 Ruthless 3
+-    |625304432581672961.png|  |<b>| Imperium Core (Optional) |</b>| - Equilibrium 4 Ruthless 3
 
--    |sing+513190159261630467| / |barrowscore+615617138488639541| |<b>| Seismic Singularity or Dyed Imperium Core |</b>| - Flanking 4 Equilibrium 1
+-    |513190159261630467.png| / |615617138488639541.png| |<b>| Seismic Singularity or Dyed Imperium Core |</b>| - Flanking 4 Equilibrium 1
 
--    |Sos+626466320132734976| |<b>| Staff of Sliske |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1 (If you specifically do not want ruthless 1, and will not be using Invigorating 4 on armor, you may switch this with Aftershock 4 Invigorating 2 + Precise 6 Equilibrium 2)
+-    |626466320132734976.png| |<b>| Staff of Sliske |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1 (If you specifically do not want ruthless 1, and will not be using Invigorating 4 on armor, you may switch this with Aftershock 4 Invigorating 2 + Precise 6 Equilibrium 2)
 
--    |inquisitorstaff+694566917553520680| |<b>| Inquisitor Staff |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1 (If you specifically do not want ruthless 1, and will not be using Invigorating 4 on armor, you may switch this with Aftershock 4 Invigorating 2 + Precise 6 Equilibrium 2)
+-    |694566917553520680.png| |<b>| Inquisitor Staff |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1 (If you specifically do not want ruthless 1, and will not be using Invigorating 4 on armor, you may switch this with Aftershock 4 Invigorating 2 + Precise 6 Equilibrium 2)
 
--    |augcywir+643846874444595200| |<b>| Planted Feet switch |</b>| - Aftershock 1 Planted Feet
+-    |643846874444595200.png| |<b>| Planted Feet switch |</b>| - Aftershock 1 Planted Feet
 
--    |elitetectbody+552955120707698699| |<b>| Elite Tectonic Robe Top |</b>| - Biting 4 X + Relentless 5 Crackling 4
+-    |552955120707698699.png| |<b>| Elite Tectonic Robe Top |</b>| - Biting 4 X + Relentless 5 Crackling 4
 
--    |elitetectlegs+580177869272121344| |<b>| Elite Tectonic Robe Bottom |</b>| - Impatient 4 X + Invigorating 4 X
+-    |580177869272121344.png| |<b>| Elite Tectonic Robe Bottom |</b>| - Impatient 4 X + Invigorating 4 X
 
--    |barrowselitetectlegs+580177522700976138| |<b>| Dyed Elite Tectonic Robe Bottom |</b>| - Impatient 4 X + Enhanced Devoted 4
+-    |580177522700976138.png| |<b>| Dyed Elite Tectonic Robe Bottom |</b>| - Impatient 4 X + Enhanced Devoted 4
 
--    |Merciless_kiteshield+536258779730411531| |<b>| Merciless Kiteshield |</b>| - Turtling 4
+-    |536258779730411531.png| |<b>| Merciless Kiteshield |</b>| - Turtling 4
 
--    |arcanespiritshield+690976219612708954| |<b>| Arcane Spirit Shield |</b>| - Lucky 4 Absorbative 2
+-    |690976219612708954.png| |<b>| Arcane Spirit Shield |</b>| - Lucky 4 Absorbative 2
 
--    |kalphiterebounder+643846849223983125| |<b>| Kalphite Rebounder |</b>| - Equilibrium 4 Ruthless 3
+-    |643846849223983125.png| |<b>| Kalphite Rebounder |</b>| - Equilibrium 4 Ruthless 3
 
--    |ancientlantern+580177522503712781| |<b>| Ancient Lantern |</b>| - Planted Feet
-
-
-
-
-
-
-|melee+615612332521029632| Melee  
---------------------------------
-
-
-
-
--    |khopeshmh+513206794844110858|  |<b>| Khopesh of Tumeken |</b>| - Precise 6 Aftershock 1
-
--    |khopeshoh+513206794752098327|  |<b>| Khopesh of Elidnis |</b>| - Aftershock 4 Equilibrium 2
-
--    |khopeshoh+513206794752098327|  |<b>| Khopesh of Elidnis (Optional) |</b>| - Equilibrium 4 Ruthless 3
-
--    |maceoh+656785061059756032| / |barrowskhopeshoh+580176857140428828|  |<b>| Off-Hand Drygore or Dyed Off-Hand Khopesh |</b>| - Flanking 4 Equilibrium 1
-
--    |zgs+626465964325601290| |<b>| Zaros Godsword |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
-
--    |terramaul+602561894829522954| |<b>| Terrasaur Maul |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
-
--    |noxscythe+513190159341322240| |<b>| Noxious Scythe |</b>| - Aftershock 4 Precise 2 + Equilibrium 4 Ruthless 3
-
--    |tmwbody+536966366272552960| / |malevbody+643846996842512405|  |<b>| Custom-fit TMW Platebody/Malevolent Cuirass |</b>| - Biting 4 X + Relentless 5 Crackling 4
-
--    |tmwlegs+643847107186524200|  / |malevlegs+643846985513828400| |<b>| Custom-fit TMW Platelegs/Malevolent Greaves |</b>| - Impatient 4 X + Enhanced Devoted 4
-
--    |masterworklegs+643847042170355736|  / |barrowsmalevlegs+580177522831130634| |<b>| MW Platelegs/Dyed Malevolent Greaves |</b>| - Impatient 4 X + Invigorating 4 Mobile
-
--    |malevkite+513190159412625411| |<b>| Malevolent Kiteshield |</b>| - Turtling 4
-
--    |masterworkspearofannihilation+694566917456789554| |<b>| Masterwork Spear of Annihilation |</b>| - Lunging 4 Equilibrium 2 + Precise 6 Aftershock 1 (Can replace with Lunging 4 + Aftershock 1 if only using as switch)
-
--    |kalphitedefender+643151141382651907|  |<b>| Kalphite Defender |</b>| - Equilibrium 4 Ruthless 3
+-    |580177522503712781.png| |<b>| Ancient Lantern |</b>| - Planted Feet
 
 
 
 
 
 
-|range+580168050121113623| Ranged  
----------------------------------
+|615612332521029632.png| Melee  
+------------------------------
 
 
 
 
--    |bbc+626714879218155521| |<b>| Blightbound Crossbow |</b>| - Precise 6 Aftershock 1
+-    |513206794844110858.png|  |<b>| Khopesh of Tumeken |</b>| - Precise 6 Aftershock 1
 
--    |bbcoh+626714879230738434| |<b>| Off-hand Blightbound Crossbow |</b>| -  Aftershock 4 Equilibrium 2
+-    |513206794752098327.png|  |<b>| Khopesh of Elidnis |</b>| - Aftershock 4 Equilibrium 2
 
--    |bbcoh+626714879230738434| |<b>| Off-hand Blightbound Crossbow (Optional) |</b>| -  Equilibrium 4 Ruthless 3
+-    |513206794752098327.png|  |<b>| Khopesh of Elidnis (Optional) |</b>| - Equilibrium 4 Ruthless 3
 
--    |ascoh+513190159362031631| / |barrowsbbcoh+580176857123651584| |<b>| Off hand Ascension XBow or Off hand dyed Blightbound XBow |</b>| - Flanking 4 Equilibrium 1
+-    |656785061059756032.png| / |580176857140428828.png|  |<b>| Off-Hand Drygore or Dyed Off-Hand Khopesh |</b>| - Flanking 4 Equilibrium 1
 
--    |sgb+626466665848242186| |<b>| Seren Godbow |</b>| - Precise 6 Aftershock 1 + Equilibrium 4 Ruthless 3 (Ruthless 3 isnt required but can be situationally useful)
+-    |626465964325601290.png| |<b>| Zaros Godsword |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
 
--    |ecb+615618531937222657| |<b>| Eldritch Crossbow |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
+-    |602561894829522954.png| |<b>| Terrasaur Maul |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
 
--    |augglaive+643846875681783824| |<b>| Shadow Glaive |</b>| - Aftershock 1 Planted Feet
+-    |513190159341322240.png| |<b>| Noxious Scythe |</b>| - Aftershock 4 Precise 2 + Equilibrium 4 Ruthless 3
 
--    |elitesirenicbody+643846908305211413| |<b>| Elite Sirenic Hauberk |</b>| - Biting 4 X + Relentless 5 Crackling 4
+-    |536966366272552960.png| / |643846996842512405.png|  |<b>| Custom-fit TMW Platebody/Malevolent Cuirass |</b>| - Biting 4 X + Relentless 5 Crackling 4
 
--    |elitesireniclegs+643846897525850165| |<b>| Elite Sirenic Chaps |</b>| - Impatient 4 X + Enhanced Devoted 4
+-    |643847107186524200.png|  / |643846985513828400.png| |<b>| Custom-fit TMW Platelegs/Malevolent Greaves |</b>| - Impatient 4 X + Enhanced Devoted 4
 
--    |vengeful_kiteshield+536258767344500746| |<b>| Vengeful Kiteshield |</b>| - Turtling 4
+-    |643847042170355736.png|  / |580177522831130634.png| |<b>| MW Platelegs/Dyed Malevolent Greaves |</b>| - Impatient 4 X + Invigorating 4 Mobile
 
--    |kalphiterepriser+643846849362657280| |<b>| Kalphite Repriser |</b>| - Equilibrium 4 Ruthless 3
+-    |513190159412625411.png| |<b>| Malevolent Kiteshield |</b>| - Turtling 4
 
--    |dbow+643848618553507843| |<b>| Dark bow |</b>| -  Precise 6 Aftershock 1 + Invigorating 4 
+-    |694566917456789554.png| |<b>| Masterwork Spear of Annihilation |</b>| - Lunging 4 Equilibrium 2 + Precise 6 Aftershock 1 (Can replace with Lunging 4 + Aftershock 1 if only using as switch)
 
--    |decimation+643848618477879328| |<b>| Decimation |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
+-    |643151141382651907.png|  |<b>| Kalphite Defender |</b>| - Equilibrium 4 Ruthless 3
 
--    |hexhunterbow+581180369911414794| |<b>| Hexhunter Bow |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
 
--    |ancientrepriser+643150658891153428| |<b>| Ancient Repriser |</b>| - Aftershock 1 Planted Feet
+
+
+
+
+|580168050121113623.png| Ranged  
+-------------------------------
+
+
+
+
+-    |626714879218155521.png| |<b>| Blightbound Crossbow |</b>| - Precise 6 Aftershock 1
+
+-    |626714879230738434.png| |<b>| Off-hand Blightbound Crossbow |</b>| -  Aftershock 4 Equilibrium 2
+
+-    |626714879230738434.png| |<b>| Off-hand Blightbound Crossbow (Optional) |</b>| -  Equilibrium 4 Ruthless 3
+
+-    |513190159362031631.png| / |580176857123651584.png| |<b>| Off hand Ascension XBow or Off hand dyed Blightbound XBow |</b>| - Flanking 4 Equilibrium 1
+
+-    |626466665848242186.png| |<b>| Seren Godbow |</b>| - Precise 6 Aftershock 1 + Equilibrium 4 Ruthless 3 (Ruthless 3 isnt required but can be situationally useful)
+
+-    |615618531937222657.png| |<b>| Eldritch Crossbow |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
+
+-    |643846875681783824.png| |<b>| Shadow Glaive |</b>| - Aftershock 1 Planted Feet
+
+-    |643846908305211413.png| |<b>| Elite Sirenic Hauberk |</b>| - Biting 4 X + Relentless 5 Crackling 4
+
+-    |643846897525850165.png| |<b>| Elite Sirenic Chaps |</b>| - Impatient 4 X + Enhanced Devoted 4
+
+-    |536258767344500746.png| |<b>| Vengeful Kiteshield |</b>| - Turtling 4
+
+-    |643846849362657280.png| |<b>| Kalphite Repriser |</b>| - Equilibrium 4 Ruthless 3
+
+-    |643848618553507843.png| |<b>| Dark bow |</b>| -  Precise 6 Aftershock 1 + Invigorating 4 
+
+-    |643848618477879328.png| |<b>| Decimation |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
+
+-    |581180369911414794.png| |<b>| Hexhunter Bow |</b>| - Aftershock 4 Equilibrium 2 + Precise 6 Ruthless 1
+
+-    |643150658891153428.png| |<b>| Ancient Repriser |</b>| - Aftershock 1 Planted Feet
 
 
 
@@ -643,39 +643,39 @@ Advanced PvM perks
 
 
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Precise 6: |</b>| 9 |historiccomps+697405254676906018| ``(1/3 at 137 invention)`` |coins+698816156961603654| 679,014 
+- |697405383706411018.png| |<b>| Precise 6: |</b>| 9 |697405254676906018.png| ``(1/3 at 137 invention)`` |698816156961603654.png| 679,014 
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Equilibrium 4: |</b>| 8 |timeworncomps+697405254265864244| ``(1/1.01 at 137 invention)`` |coins+698816156961603654| 533,988
+- |697405383706411018.png| |<b>| Equilibrium 4: |</b>| 8 |697405254265864244.png| ``(1/1.01 at 137 invention)`` |698816156961603654.png| 533,988
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Flanking 4: |</b>| 9 |Clockworkcomp+513206171549696000| ``(1/1.22 at 53 invention, do not boost)`` |coins+698816156961603654| 5,357,662      
+- |697405383706411018.png| |<b>| Flanking 4: |</b>| 9 |513206171549696000.png| ``(1/1.22 at 53 invention, do not boost)`` |698816156961603654.png| 5,357,662      
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Lunging 4: |</b>| 6 |averniccomp+583435429840420865| |coins+698816156961603654| 30,833,910
+- |697405383706411018.png| |<b>| Lunging 4: |</b>| 6 |583435429840420865.png| |698816156961603654.png| 30,833,910
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Caroming 4: |</b>| 7 |shadowcomp+583428397318012938| |coins+698816156961603654| 14,169,280      
+- |697405383706411018.png| |<b>| Caroming 4: |</b>| 7 |583428397318012938.png| |698816156961603654.png| 14,161,969      
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Crackling 4: |</b>| 7 |Explosivecomp+513190158917566485| 1 |magicparts+583434336263602187|  |coins+698816156961603654| 872,208 
+- |697405383685308547.png| |<b>| Crackling 4: |</b>| 7 |513190158917566485.png| 1 |583434336263602187.png|  |698816156961603654.png| 872,208 
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Impatient 4: |</b>| 4 |zamorakcomp+607288026334232576| 3 |zaroscomp+583435429949341697| ``(1/1.05 at 137 invention)`` |coins+698816156961603654| 6,660,505
-
-
+- |697405383685308547.png| |<b>| Impatient 4: |</b>| 4 |607288026334232576.png| 3 |583435429949341697.png| ``(1/1.05 at 137 invention)`` |698816156961603654.png| 6,828,265
 
 
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Biting 3 Cautious: |</b>| ``(1/7.85 at 137 invention)`` 9 |directcomp+583428397112492043| |coins+698816156961603654| 5,824,776
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Biting 3: |</b>| ``(1/20.5 at 69 invention)`` 9 |directcomp+583428397112492043| |coins+698816156961603654| 14,572,776
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Turtling 4: |</b>| ``(1/2.37 at 137 invention)`` 3 |evasivecomp+643829647049752586| 6 |historiccomps+697405254676906018| |coins+698816156961603654| 529,549
+- |697405383685308547.png| |<b>| Biting 3 Cautious: |</b>| ``(1/7.85 at 137 invention)`` 9 |583428397112492043.png| |698816156961603654.png| 5,824,776
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Turtling 4 Ultimatums 4: |</b>| 9 |historiccomps+697405254676906018| ``(1/19.1 at 137 invention)`` |coins+698816156961603654| 4,323,054
+- |697405383685308547.png| |<b>| Biting 3: |</b>| ``(1/20.5 at 69 invention)`` 9 |583428397112492043.png| |698816156961603654.png| 14,572,776
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Absorbative 4: |</b>| 8 |fungalcomp+607289548661063688| |coins+698816156961603654| 259,431     
+- |697405383685308547.png| |<b>| Turtling 4: |</b>| ``(1/2.37 at 137 invention)`` 3 |643829647049752586.png| 6 |697405254676906018.png| |698816156961603654.png| 529,549
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Lucky 4 Absorbative 2: |</b>| 5 |silentcomp+583435429563465730| 4 |fungalcomp+607289548661063688| ``(1/1.76 at 137 invention)`` |coins+698816156961603654| 11,231,742
+- |697405383685308547.png| |<b>| Turtling 4 Ultimatums 4: |</b>| 9 |697405254676906018.png| ``(1/19.1 at 137 invention)`` |698816156961603654.png| 4,323,054
 
-- |<b>| Aftershock 1 Planted Feet: |</b>| 3 |cywircomp+583430147538026496|  2 |Ilujankancomp+513190158674427906| ``(Guaranteed above 101 invention)`` |coins+698816156961603654| 46,005,866 (d/a level 9 items), |coins+698816156961603654| 39,198,573 (d/a level 9 refined legs)
+- |697405383685308547.png| |<b>| Absorbative 4: |</b>| 8 |607289548661063688.png| |698816156961603654.png| 259,431     
 
-- |<b>| Planted Feet: |</b>| 2 |cywircomp+583430147538026496| |coins+698816156961603654| 18,150,042      
+- |697405383685308547.png| |<b>| Lucky 4 Absorbative 2: |</b>| 5 |583435429563465730.png| 4 |607289548661063688.png| ``(1/1.76 at 137 invention)`` |698816156961603654.png| 11,231,742
+
+- |<b>| Aftershock 1 Planted Feet: |</b>| 3 |583430147538026496.png|  2 |513190158674427906.png| ``(Guaranteed above 101 invention)`` |698816156961603654.png| 46,003,838 (d/a level 9 items), |698816156961603654.png| 39,197,463 (d/a level 9 refined legs)
+
+- |<b>| Planted Feet: |</b>| 2 |583430147538026496.png| |698816156961603654.png| 18,150,042      
 
 
 
@@ -688,43 +688,43 @@ Advanced PvM perks
 
 
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Precise 6 Aftershock 1: |</b>| 2 |Ilujankancomp+513190158674427906| 7 |Armadylcomp+513190158477033474| ``(1/1.67 at 137 invention)`` |coins+698816156961603654| 65,202,858 (d/a level 9 items), |coins+698816156961603654| 53,834,678 (d/a level 9 refined legs)        
+- |697405383706411018.png| |<b>| Precise 6 Aftershock 1: |</b>| 2 |513190158674427906.png| 7 |513190158477033474.png| ``(1/1.67 at 137 invention)`` |698816156961603654.png| 65,199,471 (d/a level 9 items), |698816156961603654.png| 53,832,825 (d/a level 9 refined legs)        
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Aftershock 4 Equilibrium 2: |</b>| 6 |Ilujankancomp+513190158674427906| 3 |timeworncomps+697405254265864244| ``(1/3.38 at 137 invention)`` |coins+698816156961603654| 191,472,454 (d/a level 9 items), |coins+698816156961603654| 122,446,503 (d/a level 9 refined legs) 
+- |697405383706411018.png| |<b>| Aftershock 4 Equilibrium 2: |</b>| 6 |513190158674427906.png| 3 |697405254265864244.png| ``(1/3.38 at 137 invention)`` |698816156961603654.png| 191,451,891 (d/a level 9 items), |698816156961603654.png| 122,435,248 (d/a level 9 refined legs) 
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Equilibrium 4 Ruthless 3: |</b>| 8 |timeworncomps+697405254265864244| ``(1/19.2 at 137 invention)`` |coins+698816156961603654| 10,151,053     
+- |697405383706411018.png| |<b>| Equilibrium 4 Ruthless 3: |</b>| 8 |697405254265864244.png| ``(1/19.2 at 137 invention)`` |698816156961603654.png| 10,151,053     
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Precise 6 Equilibrium 2: |</b>| 3 |Armadylcomp+513190158477033474| 6 |precisecomp+583434604711510026| ``(1/63.4 at 137 invention)`` |coins+698816156961603654| 556,829,321
+- |697405383706411018.png| |<b>| Precise 6 Equilibrium 2: |</b>| 3 |513190158477033474.png| 6 |583434604711510026.png| ``(1/63.4 at 137 invention)`` |698816156961603654.png| 556,829,321
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Precise 6 Equilibrium 2: |</b>| 3 |historiccomps+697405254676906018| 6 |precisecomp+583434604711510026| ``(1/585 at 137 invention)`` |coins+698816156961603654| 111,518,480
-
-
-
-
-
-- |ancientweapongizmo2+697405383706411018| |<b>| Aftershock 4 Invigorating 2: |</b>| 6 |Ilujankancomp+513190158674427906| 2 |oceaniccomp+607288026229506058| 1 |culinarycomp+583435429500551169| ``(1/2.19 at 137 invention)`` |coins+698816156961603654| 126,715,968 (d/a level 9 items), |coins+698816156961603654| 81,992,053 (d/a level 9 refined legs) 
-
-- |ancientweapongizmo2+697405383706411018| |<b>| Flanking 4 Equilibrium 1: |</b>| 5 |Clockworkcomp+513206171549696000| 4 |precisecomp+583434604711510026| ``(1/20.6 at 134/135 invention)`` |coins+698816156961603654| 51,840,433
-
-- |ancientweapongizmo2+697405383706411018| |<b>| Flanking 4 Equilibrium 2: |</b>| 3 |Clockworkcomp+513206171549696000| 6 |precisecomp+583434604711510026| ``(1/327 at 137 invention)`` |coins+698816156961603654| 516,341,456
-
-- |ancientweapongizmo2+697405383706411018| |<b>| Precise 6 Ruthless 1: |</b>| 2 |timeworncomps+697405254265864244| 7 |Armadylcomp+513190158477033474| ``(1/1.77 at 137 invention)`` |coins+698816156961603654| 36,022,697
-
-- |ancientweapongizmo2+697405383706411018| |<b>| Lunging 4 Equilibrium 2: |</b>| 6 |averniccomp+583435429840420865| 3 |timeworncomps+697405254265864244| ``(1/3.26 at 137 invention)`` |coins+698816156961603654| 100,953,664
+- |697405383706411018.png| |<b>| Precise 6 Equilibrium 2: |</b>| 3 |697405254676906018.png| 6 |583434604711510026.png| ``(1/585 at 137 invention)`` |698816156961603654.png| 111,518,480
 
 
 
 
 
-- |ancientweapongizmo2+697405383706411018| |<b>| Aftershock 4 Precise 2: |</b>| 6 |Ilujankancomp+513190158674427906| 2 |Armadylcomp+513190158477033474| 1 |historiccomps+697405254676906018| ``(1/1.83 at 137 invention)`` |coins+698816156961603654| 113,937,902 (d/a level 9 items), |coins+698816156961603654| 76,565,864 (d/a level 9 refined legs)  
+- |697405383706411018.png| |<b>| Aftershock 4 Invigorating 2: |</b>| 6 |513190158674427906.png| 2 |607288026229506058.png| 1 |583435429500551169.png| ``(1/2.19 at 137 invention)`` |698816156961603654.png| 126,702,644 (d/a level 9 items), |698816156961603654.png| 81,984,760 (d/a level 9 refined legs) 
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Relentless 5 Crackling 4: |</b>| 8 |vintagecomps+697405254098092063| ``(1/20.2 at 137 invention)`` |coins+698816156961603654| 13,167,585     
+- |697405383706411018.png| |<b>| Flanking 4 Equilibrium 1: |</b>| 5 |513206171549696000.png| 4 |583434604711510026.png| ``(1/20.6 at 134/135 invention)`` |698816156961603654.png| 51,840,433
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Impatient 4 Devoted 4: |</b>| 7 |zamorakcomp+607288026334232576|  2 |Saradomincomp+583435429785632769| ``(1/10.5 at 137 invention)`` |coins+698816156961603654| 35,551,109
+- |697405383706411018.png| |<b>| Flanking 4 Equilibrium 2: |</b>| 3 |513206171549696000.png| 6 |583434604711510026.png| ``(1/327 at 137 invention)`` |698816156961603654.png| 516,341,456
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Clear Headed 4: |</b>| 9 |variablecomp+583428408554291221| ``(1/15.6 at 74 invention)`` |coins+698816156961603654| 2,695,303
+- |697405383706411018.png| |<b>| Precise 6 Ruthless 1: |</b>| 2 |697405254265864244.png| 7 |513190158477033474.png| ``(1/1.77 at 137 invention)`` |698816156961603654.png| 36,022,697
 
-- |ancientarmourgizmo2+697405383685308547| |<b>| Enhanced Devoted 4: |</b>| 8 |facetedcomp+607288026355466299| ``(1/1.38 at 137 invention)`` |coins+698816156961603654| 930,669
+- |697405383706411018.png| |<b>| Lunging 4 Equilibrium 2: |</b>| 6 |583435429840420865.png| 3 |697405254265864244.png| ``(1/3.26 at 137 invention)`` |698816156961603654.png| 100,953,664
+
+
+
+
+
+- |697405383706411018.png| |<b>| Aftershock 4 Precise 2: |</b>| 6 |513190158674427906.png| 2 |513190158477033474.png| 1 |697405254676906018.png| ``(1/1.83 at 137 invention)`` |698816156961603654.png| 113,926,768 (d/a level 9 items), |698816156961603654.png| 76,559,770 (d/a level 9 refined legs)  
+
+- |697405383685308547.png| |<b>| Relentless 5 Crackling 4: |</b>| 8 |697405254098092063.png| ``(1/20.2 at 137 invention)`` |698816156961603654.png| 13,167,585     
+
+- |697405383685308547.png| |<b>| Impatient 4 Devoted 4: |</b>| 7 |607288026334232576.png|  2 |583435429785632769.png| ``(1/10.5 at 137 invention)`` |698816156961603654.png| 37,125,479
+
+- |697405383685308547.png| |<b>| Clear Headed 4: |</b>| 9 |583428408554291221.png| ``(1/15.6 at 74 invention)`` |698816156961603654.png| 2,695,303
+
+- |697405383685308547.png| |<b>| Enhanced Devoted 4: |</b>| 8 |607288026355466299.png| ``(1/1.38 at 137 invention)`` |698816156961603654.png| 915,750
 
 
 
@@ -741,71 +741,71 @@ Advanced PvM perks
 
 Can be used in replacement of Biting 4, until you're able to afford the latter
 
-- |<b>| Biting 2: |</b>| 5 |directcomp+583428397112492043|  ``(1/2.23 at 34/35 invention)``
+- |<b>| Biting 2: |</b>| 5 |583428397112492043.png|  ``(1/2.23 at 34/35 invention)``
 
-- |<b>| Biting 2 Reflexes: |</b>| 4 |directcomp+583428397112492043| 1 |harnessedcomp+583428397296910356| ``(1/5.22 at 120 and 137 invention)``
+- |<b>| Biting 2 Reflexes: |</b>| 4 |583428397112492043.png| 1 |583428397296910356.png| ``(1/5.22 at 120 and 137 invention)``
 
-- |<b>| Biting 2 Mobile: |</b>| 4 |directcomp+583428397112492043| 1 |subtlecomp+607288026305134608| ``(1/14.3 at 120 and 137 | Do not put subtle in the middle)``
+- |<b>| Biting 2 Mobile: |</b>| 4 |583428397112492043.png| 1 |607288026305134608.png| ``(1/14.3 at 120 and 137 | Do not put subtle in the middle)``
 
-- |<b>| Biting 2 Mobile: |</b>| 4 |directcomp+583428397112492043| 1 |dextrouscomp+607288026263191563| ``(1/15.1 at 120 and 137 | Do not put dexterous in the middle)``
+- |<b>| Biting 2 Mobile: |</b>| 4 |583428397112492043.png| 1 |607288026263191563.png| ``(1/15.1 at 120 and 137 | Do not put dexterous in the middle)``
 
-- |<b>| Biting 2 Genocidal: |</b>| 3 |directcomp+583428397112492043| 2 |bandoscomp+583435429861261322|  ``(1/13.8 at 137 invention)``
+- |<b>| Biting 2 Genocidal: |</b>| 3 |583428397112492043.png| 2 |583435429861261322.png|  ``(1/13.8 at 137 invention)``
 
-- |<b>| Biting 2 Venomblood: |</b>| 3 |directcomp+583428397112492043| 2 |healthycomp+583428396994920521| ``(1/29.5 at 120 and 137 invention | Do not put healthy in the middle)``
+- |<b>| Biting 2 Venomblood: |</b>| 3 |583428397112492043.png| 2 |583428396994920521.png| ``(1/29.5 at 120 and 137 invention | Do not put healthy in the middle)``
 
-- |<b>| Biting 2 Venomblood: |</b>| |ancientarmourgizmo2+697405383685308547| 6 |directcomp+583428397112492043| 3 |healthycomp+583428396994920521| ``(1/1.72 at 120 and 137 invention | Do not put healthy in the middle)``
-
-
-
-
-
-
-|ancientarmourgizmo2+697405383685308547| |<u>| Biting 4 X |</u>|
-
-- |<b>| Biting 4: |</b>| 7 |Noxiouscomp+513203842473525248| 1 |directcomp+583428397112492043| 1 |bladeparts+583434183465238536| |coins+698816156961603654| 49,296,825
-
-- |<b>| Biting 4 Mobile: |</b>| 7 |Noxiouscomp+513203842473525248| 1 |dextrouscomp+607288026263191563| 1 |subtlecomp+607288026305134608| ``(1/3.03 at 137 invention)`` |coins+698816156961603654| 149,369,379
-
-- |<b>| Biting 4 Reflexes: |</b>| 7 |Noxiouscomp+513203842473525248| 1 |dextrouscomp+607288026263191563| 1 |harnessedcomp+583428397296910356| ``(1/1.9 at 137 invention)`` |coins+698816156961603654| 93,663,967
-
-- |<b>| Biting 4 Crystal Shield 1: |</b>| 7 |Noxiouscomp+513203842473525248| 2 |facetedcomp+607288026355466299| ``(1/1.72 at 137 invention)`` |coins+698816156961603654| 85,006,236
-
-- |<b>| Biting 4 Lucky 1: |</b>| 7 |Noxiouscomp+513203842473525248| 1 |fortunatecomp+583435543845797891| 1 |silentcomp+583435429563465730| ``(1.1.91 at 137 invention)`` |coins+698816156961603654| 98,383,933
-
-- |<b>| Biting 4 Dragon Slayer: |</b>| 7 |Noxiouscomp+513203842473525248| 2 |dragonfirecomp+583428397439516673| ``(1/1.76 at 137 invention)`` |coins+698816156961603654| 88,167,193
-
-- |<b>| Biting 4 Undead Slayer: |</b>| 7 |Noxiouscomp+513203842473525248| 1 |undeadcomp+583428397397573659| 1 |livingcomp+583434584679776256| ``(1/2.02 at 137 invention)`` |coins+698816156961603654| 101,941,860
-
-- |<b>| Biting 4 Genocidal: |</b>| 7 |Noxiouscomp+513203842473525248| 2 |bandoscomp+583435429861261322| ``(1/1.9 at 137 invention)`` |coins+698816156961603654| 94,078,307
+- |<b>| Biting 2 Venomblood: |</b>| |697405383685308547.png| 6 |583428397112492043.png| 3 |583428396994920521.png| ``(1/1.72 at 120 and 137 invention | Do not put healthy in the middle)``
 
 
 
 
 
 
-|ancientarmourgizmo2+697405383685308547| |<u>| Impatient 4 X |</u>|
+|697405383685308547.png| |<u>| Biting 4 X |</u>|
 
-- |<b>| Impatient 4 Devoted 2: |</b>| 3 |zaroscomp+583435429949341697| 4 |zamorakcomp+607288026334232576| ``(1/1.76 at 137 invention)`` |coins+698816156961603654| 11,164,275
+- |<b>| Biting 4: |</b>| 7 |513203842473525248.png| 1 |583428397112492043.png| 1 |583434183465238536.png| |698816156961603654.png| 49,295,405
 
-- |<b>| Impatient 4 Devoted 4: |</b>| 7 |zamorakcomp+607288026334232576| 2 |Saradomincomp+583435429785632769| ``(1/10.5 at 137 invention | Can replace 1 Zamorak component with Zaros)`` |coins+698816156961603654| 35,551,109
+- |<b>| Biting 4 Mobile: |</b>| 7 |513203842473525248.png| 1 |607288026263191563.png| 1 |607288026305134608.png| ``(1/3.03 at 137 invention)`` |698816156961603654.png| 149,365,077
 
-- |<b>| Impatient 4 Mobile: |</b>| 6 |zaroscomp+583435429949341697| 1 |zamorakcomp+607288026334232576| 1 |subtlecomp+607288026305134608| 1 |dextrouscomp+607288026263191563| ``(1/3.16 at 113 invention)`` |coins+698816156961603654| 29,677,432
+- |<b>| Biting 4 Reflexes: |</b>| 7 |513203842473525248.png| 1 |607288026263191563.png| 1 |583428397296910356.png| ``(1/1.9 at 137 invention)`` |698816156961603654.png| 93,661,270
 
-- |<b>| Impatient 4 Reflexes: |</b>| 6 |zaroscomp+583435429949341697| 1 |zamorakcomp+607288026334232576| 1 |dextrouscomp+607288026263191563| + 1 |harnessedcomp+583428397296910356| ``(1/1.97 at 113 invention)`` |coins+698816156961603654| 18,501,437
+- |<b>| Biting 4 Crystal Shield 1: |</b>| 7 |513203842473525248.png| 2 |607288026355466299.png| ``(1/1.72 at 137 invention)`` |698816156961603654.png| 84,999,145
+
+- |<b>| Biting 4 Lucky 1: |</b>| 7 |513203842473525248.png| 1 |583435543845797891.png| 1 |583435429563465730.png| ``(1.1.91 at 137 invention)`` |698816156961603654.png| 98,334,519
+
+- |<b>| Biting 4 Dragon Slayer: |</b>| 7 |513203842473525248.png| 2 |583428397439516673.png| ``(1/1.76 at 137 invention)`` |698816156961603654.png| 88,164,694
+
+- |<b>| Biting 4 Undead Slayer: |</b>| 7 |513203842473525248.png| 1 |583428397397573659.png| 1 |583434584679776256.png| ``(1/2.02 at 137 invention)`` |698816156961603654.png| 101,938,992
+
+- |<b>| Biting 4 Genocidal: |</b>| 7 |513203842473525248.png| 2 |583435429861261322.png| ``(1/1.9 at 137 invention)`` |698816156961603654.png| 94,076,161
 
 
 
 
 
-- |<b>| Impatient 4 Crystal Shield 1: |</b>| 3 |zaroscomp+583435429949341697| 4 |zamorakcomp+607288026334232576| 2 |facetedcomp+607288026355466299| ``(1/2.3 at 100 invention)`` |coins+698816156961603654| 14,878,110
 
-- |<b>| Impatient 4 Lucky 1/2: |</b>| 6 |zaroscomp+583435429949341697| 1 |zamorakcomp+607288026334232576| 1 |fortunatecomp+583435543845797891| 1 |silentcomp+583435429563465730| ``(1/1.98 at 113 invention)`` |coins+698816156961603654| 22,977,267 / |coins+698816156961603654| 1,086,198,082
+|697405383685308547.png| |<u>| Impatient 4 X |</u>|
 
-- |<b>| Impatient 4 Dragon Slayer: |</b>| 6 |zaroscomp+583435429949341697| 1 |zamorakcomp+607288026334232576| 2 |dragonfirecomp+583428397439516673| ``(1/1.82 at 113 invention)`` |coins+698816156961603654| 18,545,370
+- |<b>| Impatient 4 Devoted 2: |</b>| 3 |583435429949341697.png| 4 |607288026334232576.png| ``(1/1.76 at 137 invention)`` |698816156961603654.png| 11,445,472
 
-- |<b>| Impatient 4 Undead Slayer: |</b>| 6 |zaroscomp+583435429949341697| 1 |zamorakcomp+607288026334232576| 1 |undeadcomp+583428397397573659| 1 |livingcomp+583434584679776256| ``(1/2.09 at 113 invention)`` |coins+698816156961603654| 22,072,563
+- |<b>| Impatient 4 Devoted 4: |</b>| 7 |607288026334232576.png| 2 |583435429785632769.png| ``(1/10.5 at 137 invention | Can replace 1 Zamorak component with Zaros)`` |698816156961603654.png| 37,125,479
 
-- |<b>| Impatient 4 Genocidal: |</b>| 6 |zaroscomp+583435429949341697| 1 |zamorakcomp+607288026334232576| 2 |bandoscomp+583435429861261322| ``(1/2.22 at 113 invention)`` |coins+698816156961603654| 21,333,459
+- |<b>| Impatient 4 Mobile: |</b>| 6 |583435429949341697.png| 1 |607288026334232576.png| 1 |607288026305134608.png| 1 |607288026263191563.png| ``(1/3.16 at 113 invention)`` |698816156961603654.png| 30,213,374
+
+- |<b>| Impatient 4 Reflexes: |</b>| 6 |583435429949341697.png| 1 |607288026334232576.png| 1 |607288026263191563.png| + 1 |583428397296910356.png| ``(1/1.97 at 113 invention)`` |698816156961603654.png| 18,835,553
+
+
+
+
+
+- |<b>| Impatient 4 Crystal Shield 1: |</b>| 3 |583435429949341697.png| 4 |607288026334232576.png| 2 |607288026355466299.png| ``(1/2.3 at 100 invention)`` |698816156961603654.png| 15,239,367
+
+- |<b>| Impatient 4 Lucky 1/2: |</b>| 6 |583435429949341697.png| 1 |607288026334232576.png| 1 |583435543845797891.png| 1 |583435429563465730.png| ``(1/1.98 at 113 invention)`` |698816156961603654.png| 23,264,665 / |698816156961603654.png| 1,099,784,168
+
+- |<b>| Impatient 4 Dragon Slayer: |</b>| 6 |583435429949341697.png| 1 |607288026334232576.png| 2 |583428397439516673.png| ``(1/1.82 at 113 invention)`` |698816156961603654.png| 18,854,046
+
+- |<b>| Impatient 4 Undead Slayer: |</b>| 6 |583435429949341697.png| 1 |607288026334232576.png| 1 |583428397397573659.png| 1 |583434584679776256.png| ``(1/2.09 at 113 invention)`` |698816156961603654.png| 22,427,031
+
+- |<b>| Impatient 4 Genocidal: |</b>| 6 |583435429949341697.png| 1 |607288026334232576.png| 2 |583435429861261322.png| ``(1/2.22 at 113 invention)`` |698816156961603654.png| 21,710,620
 
 |<b>| Note: |</b>| The highest rates for the perks are listed.
 
@@ -814,31 +814,31 @@ Can be used in replacement of Biting 4, until you're able to afford the latter
 
 
 
-|ancientarmourgizmo2+697405383685308547| |<u>| Invigorating 4 X |</u>|
+|697405383685308547.png| |<u>| Invigorating 4 X |</u>|
 
-- |<b>| Invigorating 4: |</b>| 7 |culinarycomp+583435429500551169| 1 |organicparts+583434337182154764| 1 |enhancingcomp+583434584113283072| ``1/1.0008 at 137 invention`` |coins+698816156961603654| 172,776
-
-
-
-
-
-- |<b>| Invigorating 4 Mobile: |</b>| 6 |culinarycomp+583435429500551169| 1 |oceaniccomp+607288026229506058| 1 |dextrouscomp+607288026263191563| 1 |subtlecomp+607288026305134608| ``(1/3.67 at 120 invention)`` |coins+698816156961603654| 3,103,978
-
-- |<b>| Invigorating 4 Reflexes: |</b>| 6 |culinarycomp+583435429500551169| 1 |oceaniccomp+607288026229506058| 1 |dextrouscomp+607288026263191563| 1 |harnessedcomp+583428397296910356| ``(1/2.44 at 137 invention)`` |coins+698816156961603654| 2,063,680
-
-- |<b>| Invigorating 4 Crystal Shield 1: |</b>| 6 |oceaniccomp+607288026229506058| 1 |culinarycomp+583435429500551169| 2 |facetedcomp+607288026355466299| ``(1/1.15 at 137 invention | Must be input in same order as displayed)`` |coins+698816156961603654| 4,986,572
+- |<b>| Invigorating 4: |</b>| 7 |583435429500551169.png| 1 |583434337182154764.png| 1 |583434584113283072.png| ``1/1.0008 at 137 invention`` |698816156961603654.png| 172,776
 
 
 
 
 
-- |<b>| Invigorating 4 Lucky 1/2: |</b>| 6 |oceaniccomp+607288026229506058| 1 |culinarycomp+583435429500551169| 1 |fortunatecomp+583435543845797891| 1 |silentcomp+583435429563465730| ``(1/1.28 at 137 invention)`` |coins+698816156961603654| 8,222,505 / |coins+698816156961603654| 287,787,667
+- |<b>| Invigorating 4 Mobile: |</b>| 6 |583435429500551169.png| 1 |607288026229506058.png| 1 |607288026263191563.png| 1 |607288026305134608.png| ``(1/3.67 at 120 invention)`` |698816156961603654.png| 3,103,978
 
-- |<b>| Invigorating 4 Dragon Slayer: |</b>| 4 |oceaniccomp+607288026229506058| 2 |culinarycomp+583435429500551169| 2 |enhancingcomp+583434584113283072| 1 |dragonfirecomp+583428397439516673| ``(1/1.21 at 137 invention)`` |coins+698816156961603654| 3,949,247
+- |<b>| Invigorating 4 Reflexes: |</b>| 6 |583435429500551169.png| 1 |607288026229506058.png| 1 |607288026263191563.png| 1 |583428397296910356.png| ``(1/2.44 at 137 invention)`` |698816156961603654.png| 2,063,680
 
-- |<b>| Invigorating 4 Undead Slayer: |</b>| 6 |oceaniccomp+607288026229506058| 1 |culinarycomp+583435429500551169| 1 |undeadcomp+583428397397573659| 1 |livingcomp+583434584679776256| ``(1/1.35 at 137 invention)`` |coins+698816156961603654| 7,263,252
+- |<b>| Invigorating 4 Crystal Shield 1: |</b>| 6 |607288026229506058.png| 1 |583435429500551169.png| 2 |607288026355466299.png| ``(1/1.15 at 137 invention | Must be input in same order as displayed)`` |698816156961603654.png| 4,983,464
 
-- |<b>| Invigorating 4 Genocidal: |</b>| 5 |oceaniccomp+607288026229506058| 2 |culinarycomp+583435429500551169| 2 |bandoscomp+583435429861261322| ``(1/1.27 at 137 invention)`` |coins+698816156961603654| 4,769,895
+
+
+
+
+- |<b>| Invigorating 4 Lucky 1/2: |</b>| 6 |607288026229506058.png| 1 |583435429500551169.png| 1 |583435543845797891.png| 1 |583435429563465730.png| ``(1/1.28 at 137 invention)`` |698816156961603654.png| 8,191,207 / |698816156961603654.png| 286,692,240
+
+- |<b>| Invigorating 4 Dragon Slayer: |</b>| 4 |607288026229506058.png| 2 |583435429500551169.png| 2 |583434584113283072.png| 1 |583428397439516673.png| ``(1/1.21 at 137 invention)`` |698816156961603654.png| 3,949,247
+
+- |<b>| Invigorating 4 Undead Slayer: |</b>| 6 |607288026229506058.png| 1 |583435429500551169.png| 1 |583428397397573659.png| 1 |583434584679776256.png| ``(1/1.35 at 137 invention)`` |698816156961603654.png| 7,263,252
+
+- |<b>| Invigorating 4 Genocidal: |</b>| 5 |607288026229506058.png| 2 |583435429500551169.png| 2 |583435429861261322.png| ``(1/1.27 at 137 invention)`` |698816156961603654.png| 4,770,264
 
 |<b>| Note: |</b>| The highest rates for the perks are listed.
 
@@ -853,17 +853,17 @@ Can be used in replacement of Biting 4, until you're able to afford the latter
 
 
 
-- |<b>| Dragon Slayer Undead Slayer: |</b>| 1 |baseparts+583434183448330270| 1 |dragonfirecomp+583428397439516673| 1 |livingcomp+583434584679776256| 1 |undeadcomp+583428397397573659| 1 |enhancingcomp+583434584113283072| ``(1/1.15 | Must be input in same order as displayed)``
+- |<b>| Dragon Slayer Undead Slayer: |</b>| 1 |583434183448330270.png| 1 |583428397439516673.png| 1 |583434584679776256.png| 1 |583428397397573659.png| 1 |583434584113283072.png| ``(1/1.15 | Must be input in same order as displayed)``
 
-- |<b>| Dragon Slayer Demon Slayer: |</b>| 3 |dextrouscomp+607288026263191563| 2 |dragonfirecomp+583428397439516673| ``(Do not place dragonfire in middle)``
+- |<b>| Dragon Slayer Demon Slayer: |</b>| 3 |607288026263191563.png| 2 |583428397439516673.png| ``(Do not place dragonfire in middle)``
 
-- |<b>| Demon Slayer Undead Slayer: |</b>| 4 |dextrouscomp+607288026263191563| 1 |undeadcomp+583428397397573659| ``(1/1.67 | Do not put undead in the middle)``
+- |<b>| Demon Slayer Undead Slayer: |</b>| 4 |607288026263191563.png| 1 |583428397397573659.png| ``(1/1.67 | Do not put undead in the middle)``
 
-- |<b>| Genocidal Dragon Slayer: |</b>| 2 |dragonfirecomp+583428397439516673| 1 |bandoscomp+583435429861261322| |powerfulcomp+583434604644663299| ``(1/1.34 | bandos in middle powerful on top)``
+- |<b>| Genocidal Dragon Slayer: |</b>| 2 |583428397439516673.png| 1 |583435429861261322.png| |583434604644663299.png| ``(1/1.34 | bandos in middle powerful on top)``
 
-- |<b>| Genocidal Demon Slayer: |</b>| 1 |bandoscomp+583435429861261322| 1 |powerfulcomp+583434604644663299| 2 |dextrouscomp+607288026263191563| 1 |clearparts+583434183674953728| ``(1/1.71 at 120 and 137 invention | bandos in middle powerful on top clear on bottom)``
+- |<b>| Genocidal Demon Slayer: |</b>| 1 |583435429861261322.png| 1 |583434604644663299.png| 2 |607288026263191563.png| 1 |583434183674953728.png| ``(1/1.71 at 120 and 137 invention | bandos in middle powerful on top clear on bottom)``
 
-- |<b>| Genocidal Undead Slayer: |</b>| 1 |powerfulcomp+583434604644663299| 1 |bandoscomp+583435429861261322| 1 |undeadcomp+583428397397573659| 1 |crystalparts+583434317431046155| / |livingcomp+583434584679776256| ``(1/1.04 | powerful in middle bandos on top undead on left)``
+- |<b>| Genocidal Undead Slayer: |</b>| 1 |583434604644663299.png| 1 |583435429861261322.png| 1 |583428397397573659.png| 1 |583434317431046155.png| / |583434584679776256.png| ``(1/1.04 | powerful in middle bandos on top undead on left)``
 
 
 

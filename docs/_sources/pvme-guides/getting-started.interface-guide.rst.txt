@@ -1,28 +1,28 @@
-.. |https://i.imgur.com/gh0lwgt.jpg| image:: https://i.imgur.com/gh0lwgt.jpg
+.. |</u>| raw:: html
 
-.. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
+    </u>
 
-.. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
+.. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
-
-.. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
-
 .. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
+.. |https://i.imgur.com/gh0lwgt.jpg| image:: https://i.imgur.com/gh0lwgt.jpg
 
 .. |</b>| raw:: html
 
     </b>
+
+.. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
+
+.. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
+
+.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
+
+.. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
 
 .. |<b>| raw:: html
 

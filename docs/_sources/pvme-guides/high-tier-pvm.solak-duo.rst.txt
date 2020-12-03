@@ -1,92 +1,16 @@
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+.. |583430011948630016.png| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |536252659615924258.png| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |603979368850653216.png| image:: https://cdn.discordapp.com/emojis/603979368850653216.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ingen+641339234111848463| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |maceoh+656785061059756032| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |fbackhand+535532879346794516| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |enhreplen+634350450887622656| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/nbZUoHz_f2Y| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/nbZUoHz_f2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |backhand+535532854302605333| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Airrune+536252658986647589| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |deto+535533833358016512| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Malevolence+513190159416557573| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |destroy+535532879330148352| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -94,177 +18,253 @@
 
     </u>
 
-.. |</b>| raw:: html
+.. |537340400185245701.png| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </b>
+.. |656785061059756032.png| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/uH9ndIo.png| image:: https://i.imgur.com/uH9ndIo.png
+
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/8SuqL0V.png| image:: https://i.imgur.com/8SuqL0V.png
+
+.. |535533809978966037.png| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |657248051190300682.png| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505652571963417.png| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854302605333.png| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689525476158472288.png| image:: https://cdn.discordapp.com/emojis/689525476158472288.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505652865695767.png| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505652634746881.png| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252661406760970.png| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537338981747261446.png| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656790558177755169.png| image:: https://cdn.discordapp.com/emojis/656790558177755169.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543478434953822208.png| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505179378974748.png| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429757761224715.png| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158468907012.png| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/mU0m4as.png| image:: https://i.imgur.com/mU0m4as.png
+
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565149884427.png| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659850674186.png| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505153709965322.png| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643505116347105290.png| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |runepouch+583430011868938283| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |mani+643505153709965322| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+.. |690848915020447745.png| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643148943856762890.png| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833358016512.png| image:: https://cdn.discordapp.com/emojis/535533833358016512.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/nbZUoHz_f2Y| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/nbZUoHz_f2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |648976643687317532.png| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656785077883109407.png| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532853979512842.png| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879346794516.png| image:: https://cdn.discordapp.com/emojis/535532879346794516.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159416557573.png| image:: https://cdn.discordapp.com/emojis/513190159416557573.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/kNo0sEJ.png| image:: https://i.imgur.com/kNo0sEJ.png
+
+.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |<b>| raw:: html
 
     <b>
-
-.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Berserk+513190158468907012| image:: https://cdn.discordapp.com/emojis/513190158468907012.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |berserker+643505116347105290| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |reckless+643505179378974748| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Chaosrune+536252659422855188| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |elderovlsalve+648976643687317532| image:: https://cdn.discordapp.com/emojis/648976643687317532.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Shatter+583429757761224715| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/mU0m4as.png| image:: https://i.imgur.com/mU0m4as.png
-
-.. |https://i.imgur.com/uH9ndIo.png| image:: https://i.imgur.com/uH9ndIo.png
-
-.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/kNo0sEJ.png| image:: https://i.imgur.com/kNo0sEJ.png
-
-.. |dm+643505652571963417| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |AirSurge+543465115870035999| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Soulrune+536252660333019136| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |DBA+603979368850653216| image:: https://cdn.discordapp.com/emojis/603979368850653216.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |weppoison+689525476158472288| image:: https://cdn.discordapp.com/emojis/689525476158472288.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |assault+535532853979512842| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sunshine+583430011948630016| image:: https://cdn.discordapp.com/emojis/583430011948630016.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |caloriebomb+656790558177755169| image:: https://cdn.discordapp.com/emojis/656790558177755169.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |invig+643505652865695767| image:: https://cdn.discordapp.com/emojis/643505652865695767.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/8SuqL0V.png| image:: https://i.imgur.com/8SuqL0V.png
-
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mahj+643148943856762890| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |inspiration+643505652634746881| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 solak-duo
 =========
@@ -295,9 +295,9 @@ Solak can be found in The Lost Grove. The encounter scales according to the numb
 
 Auras: Players have 100% hit chance on Solak using the recommended gear, so accuracy auras are useless.
 
-- For hybriding: |mahj+643148943856762890| > |dm+643505652571963417| > |invig+643505652865695767| > |inspiration+643505652634746881|
+- For hybriding: |643148943856762890.png| > |643505652571963417.png| > |643505652865695767.png| > |643505652634746881.png|
 
-- For camping one style (recommended when learning): |mani+643505153709965322| / |berserker+643505116347105290| / |reckless+643505179378974748|
+- For camping one style (recommended when learning): |643505153709965322.png| / |643505116347105290.png| / |643505179378974748.png|
 
 
 
@@ -317,11 +317,11 @@ Presets
 
 - Defender is used as a shield and planted feet switch
 
-- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
+- |656785077883109407.png|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
-- |runepouch+583430011868938283|  |<b>| Rune Pouch |</b>| |Airrune+536252658986647589| |Chaosrune+536252659422855188| |Soulrune+536252660333019136|
+- |583430011868938283.png|  |<b>| Rune Pouch |</b>| |536252658986647589.png| |536252659422855188.png| |536252660333019136.png|
 
-(Runes for |AirSurge+543465115870035999| and |Vuln+537349530551582720| )
+(Runes for |543465115870035999.png| and |537349530551582720.png| )
 
 
 
@@ -336,21 +336,21 @@ Presets
 
 |<b>| Hybrid: |</b>|
 
-- |elderovlsalve+648976643687317532| + |weppoison+689525476158472288| at bank
+- |648976643687317532.png| + |689525476158472288.png| at bank
 
-- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
+- |656785077883109407.png|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
-- |maceoh+656785061059756032|  |<b>| Off-hand Drygore mace |</b>| ``Flanking 4``
+- |656785061059756032.png|  |<b>| Off-hand Drygore mace |</b>| ``Flanking 4``
 
-- |caloriebomb+656790558177755169|  |<b>| Calorie bomb |</b>|
+- |656790558177755169.png|  |<b>| Calorie bomb |</b>|
 
-- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
+- |690848915020447745.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252659850674186.png| |536252659301089280.png| 
 
-- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
+- |656786565149884427.png|  |<b>| Rune Pouch |</b>| |536252659615924258.png| |536252658961481769.png| |536252661406760970.png|
 
-- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
+- |656786565527502858.png|  |<b>| Rune Pouch |</b>| |536252660165115905.png| |536252659586433024.png| |536252659808731137.png|
 
-(Runes for |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |Veng+543478434953822208| )
+(Runes for |537338981747261446.png| |537340400185245701.png| |657248051190300682.png| |537349530551582720.png| |535614336207552523.png| |543478434953822208.png| )
 
 
 
@@ -365,7 +365,7 @@ Presets
 
 |<b>| |<u>| Pre-fight |</u>| |</b>|
 
-- Use a preperation preset to |DBA+603979368850653216| |spec+537340400273195028| + |elderovlsalve+648976643687317532| + |weppoison+689525476158472288|
+- Use a preperation preset to |603979368850653216.png| |537340400273195028.png| + |648976643687317532.png| + |689525476158472288.png|
 
 - Start by placing two of your mines on either the southermost roots of the east side or the west side of the arena.
 
@@ -443,7 +443,7 @@ Presets
 
 - Communicate with your partner your root attack spawn and spend as little time not attacking Solak as possible.
 
-- DPS should res the first anima bomb to heal the damage and tank the second. You'll |soulsplit+615613924506599497|  all of your health back on arms and legs.
+- DPS should res the first anima bomb to heal the damage and tank the second. You'll |615613924506599497.png|  all of your health back on arms and legs.
 
 - If you are camping mage and Solak is still relatively high hp, sun as late into legs as possible to have your sun carry through after core to help get root skip.
 
@@ -633,13 +633,13 @@ Optimally somewhere during eruptions the dpser will calory bomb solak so that yo
 
 ~~ |<u>| |<b>| 1-cycle core Rotation (vulnerability) |</b>| |</u>| ~~ (Outdated)
 
-|DBA+603979368850653216| |spec+537340400273195028| → |Berserk+513190158468907012| → |gbarge+535532879250456578| leg → Target core |ingen+641339234111848463| |Vuln+537349530551582720| |backhand+535532854302605333| → |assault+535532853979512842| → |deci+535532879325822986| → |cleave+535532878616985610| → |destroy+535532879330148352| → |deci+535532879325822986| → 2 Hit |gflurry+535532879283879977| → |backhand+535532854302605333| → |deci+535532879325822986| 
+|603979368850653216.png| |537340400273195028.png| → |513190158468907012.png| → |535532879250456578.png| leg → Target core |641339234111848463.png| |537349530551582720.png| |535532854302605333.png| → |535532853979512842.png| → |535532879325822986.png| → |535532878616985610.png| → |535532879330148352.png| → |535532879325822986.png| → 2 Hit |535532879283879977.png| → |535532854302605333.png| → |535532879325822986.png| 
 
 
 
 |<u>| |<b>| 1-cycle core Rotation (no vuln) |</b>| |</u>|
 
-|DBA+603979368850653216| |spec+537340400273195028| → |Berserk+513190158468907012| → |gbarge+535532879250456578| leg → Target core |backhand+535532854302605333| → |assault+535532853979512842| → |deci+535532879325822986| → |limitless+641339233638023179| |destroy+535532879330148352| → |fbackhand+535532879346794516| → 3? Hit |gflurry+535532879283879977| → |deci+535532879325822986| → |backhand+535532854302605333| → |cleave+535532878616985610|
+|603979368850653216.png| |537340400273195028.png| → |513190158468907012.png| → |535532879250456578.png| leg → Target core |535532854302605333.png| → |535532853979512842.png| → |535532879325822986.png| → |641339233638023179.png| |535532879330148352.png| → |535532879346794516.png| → 3? Hit |535532879283879977.png| → |535532879325822986.png| → |535532854302605333.png| → |535532878616985610.png|
 
 
 
@@ -649,7 +649,7 @@ Optimally somewhere during eruptions the dpser will calory bomb solak so that yo
 
 |<u>| |<b>| No-mind realm Rotation |</b>| |</u>|
 
-( |Vuln+537349530551582720| prior to starting) > |gbarge+535532879250456578| (5 ticks before attackable) > |Berserk+513190158468907012| + |enhreplen+634350450887622656| (2 ticks before attackable) - auto on 2nd tick of zerk > |backhand+535532854302605333| > |assault+535532853979512842| > |deci+535532879325822986| > |cleave+535532878616985610| > |destroy+535532879330148352| > |limitless+641339233638023179| |gflurry+535532879283879977| > |fbackhand+535532879346794516|  (one person)/ |Shatter+583429757761224715| (other person)
+( |537349530551582720.png| prior to starting) > |535532879250456578.png| (5 ticks before attackable) > |513190158468907012.png| + |634350450887622656.png| (2 ticks before attackable) - auto on 2nd tick of zerk > |535532854302605333.png| > |535532853979512842.png| > |535532879325822986.png| > |535532878616985610.png| > |535532879330148352.png| > |641339233638023179.png| |535532879283879977.png| > |535532879346794516.png|  (one person)/ |583429757761224715.png| (other person)
 
 
 
@@ -662,7 +662,7 @@ Optimally somewhere during eruptions the dpser will calory bomb solak so that yo
 
 
 
-~~ |<u>| |<b>| 1cc Rotation Notes ( |ingen+641339234111848463| method): |</b>| |</u>| ~~ <@!204612155364999168> (Outdated)
+~~ |<u>| |<b>| 1cc Rotation Notes ( |641339234111848463.png| method): |</b>| |</u>| ~~ <@!204612155364999168> (Outdated)
 
 
 
@@ -680,13 +680,13 @@ Damage the legs until 1 leg has 8-12k hp remaining, while both players keep tita
 
 ~~ |<b>| Vulner: |</b>| ~~
 
-|anti+535541306475151390| > |Berserk+513190158468907012| > |gbarge+535532879250456578| leg > |ingen+641339234111848463| > Tag core, |Vuln+537349530551582720| + |cleave+535532878616985610| (unless you bd to the right spot it's hard to get north of core by the time it spawns after barging leg) > |assault+535532853979512842| > |deci+535532879325822986| > Flank > |destroy+535532879330148352| > |deci+535532879325822986| > |gflurry+535532879283879977| (3hit)> |sever+535532879577612298|
+|535541306475151390.png| > |513190158468907012.png| > |535532879250456578.png| leg > |641339234111848463.png| > Tag core, |537349530551582720.png| + |535532878616985610.png| (unless you bd to the right spot it's hard to get north of core by the time it spawns after barging leg) > |535532853979512842.png| > |535532879325822986.png| > Flank > |535532879330148352.png| > |535532879325822986.png| > |535532879283879977.png| (3hit)> |535532879577612298.png|
 
 
 
 ~~ |<b>| Non Vulner (Sigil): |</b>| ~~
 
-|anti+535541306475151390| > |freedom+535541258240786434| > |gbarge+535532879250456578| (either Solak's body if leg is dead or the leg if vulner's barge failed to kill it) > |Berserk+513190158468907012| > Auto > |cleave+535532878616985610| > |assault+535532853979512842| > ( |limitless+641339233638023179| ) |destroy+535532879330148352| > |gflurry+535532879283879977| (3hit)> Flank > |deci+535532879325822986| > |cleave+535532878616985610|
+|535541306475151390.png| > |535541258240786434.png| > |535532879250456578.png| (either Solak's body if leg is dead or the leg if vulner's barge failed to kill it) > |513190158468907012.png| > Auto > |535532878616985610.png| > |535532853979512842.png| > ( |641339233638023179.png| ) |535532879330148352.png| > |535532879283879977.png| (3hit)> Flank > |535532879325822986.png| > |535532878616985610.png|
 
 
 
@@ -695,7 +695,7 @@ Damage the legs until 1 leg has 8-12k hp remaining, while both players keep tita
 
 ~~ |<b>| Non Vulner (No Sigil): |</b>| ~~
 
-|anti+535541306475151390| > |freedom+535541258240786434| > |gbarge+535532879250456578| (either Solak's body if leg is dead or the leg if vulner's barge failed to kill it) > |Berserk+513190158468907012| > Auto > |cleave+535532878616985610| > |assault+535532853979512842| > |deci+535532879325822986| > |sever+535532879577612298| > |destroy+535532879330148352| > Flank > 5t auto > |cleave+535532878616985610|
+|535541306475151390.png| > |535541258240786434.png| > |535532879250456578.png| (either Solak's body if leg is dead or the leg if vulner's barge failed to kill it) > |513190158468907012.png| > Auto > |535532878616985610.png| > |535532853979512842.png| > |535532879325822986.png| > |535532879577612298.png| > |535532879330148352.png| > Flank > 5t auto > |535532878616985610.png|
 
 
 
@@ -740,14 +740,14 @@ There are 1cc vuln rotations which require less setup and coordination. In desce
 
 |<b>| Vuln Deto WM (Requires vulner to lose target at legs while dpser finishes off legs): |</b>|
 
-|Sunshine+583430011948630016| while killing arms/legs > |deto+535533833358016512| > (Target Cycle) |Vuln+537349530551582720| + release |deto+535533833358016512| + |wm+535533809978966037| on core > |enhreplen+634350450887622656| (Equip |zgs+626465964325601290| + melee armor + |Malevolence+513190159416557573| ) > |Berserk+513190158468907012| > Auto > |cleave+535532878616985610| > |deci+535532879325822986| > Flank > ( |limitless+641339233638023179| ) |assault+535532853979512842| > |destroy+535532879330148352| (3hit)> |deci+535532879325822986|
+|583430011948630016.png| while killing arms/legs > |535533833358016512.png| > (Target Cycle) |537349530551582720.png| + release |535533833358016512.png| + |535533809978966037.png| on core > |634350450887622656.png| (Equip |626465964325601290.png| + melee armor + |513190159416557573.png| ) > |513190158468907012.png| > Auto > |535532878616985610.png| > |535532879325822986.png| > Flank > ( |641339233638023179.png| ) |535532853979512842.png| > |535532879330148352.png| (3hit)> |535532879325822986.png|
 
 
 
 
 
 
-If you cannot target cycle the core, you will not get the |deci+535532879325822986| at the end
+If you cannot target cycle the core, you will not get the |535532879325822986.png| at the end
 
 
 
@@ -756,11 +756,11 @@ If you cannot target cycle the core, you will not get the |deci+5355328793258229
 
 ~~ |<b>| Vuln Zerk: |</b>| ~~ (Outdated)
 
-|Vuln+537349530551582720| core + Equip |zgs+626465964325601290| + |Berserk+513190158468907012| > (Equip melee armor + |Malevolence+513190159416557573| ) > 5t auto > |cleave+535532878616985610| > |assault+535532853979512842| > |limitless+641339233638023179| > |destroy+535532879330148352| > |gflurry+535532879283879977| (3hit) > Flank 
+|537349530551582720.png| core + Equip |626465964325601290.png| + |513190158468907012.png| > (Equip melee armor + |513190159416557573.png| ) > 5t auto > |535532878616985610.png| > |535532853979512842.png| > |641339233638023179.png| > |535532879330148352.png| > |535532879283879977.png| (3hit) > Flank 
 
 With target cycling, you can do this instead:
 
-|Vuln+537349530551582720| core + Equip |zgs+626465964325601290| + |Berserk+513190158468907012| > (Equip melee armor + |Malevolence+513190159416557573| ) > |cleave+535532878616985610| > |deci+535532879325822986| > |assault+535532853979512842| > |limitless+641339233638023179| |destroy+535532879330148352| > |gflurry+535532879283879977| (3hit)> Flank 
+|537349530551582720.png| core + Equip |626465964325601290.png| + |513190158468907012.png| > (Equip melee armor + |513190159416557573.png| ) > |535532878616985610.png| > |535532879325822986.png| > |535532853979512842.png| > |641339233638023179.png| |535532879330148352.png| > |535532879283879977.png| (3hit)> Flank 
 
 
 
@@ -775,13 +775,13 @@ With target cycling, you can do this instead:
 
 ~~ |<b>| Vuln Corr: |</b>| ~~
 
-|Vuln+537349530551582720| + |corruptblast+513190159194259467| > (Equip |zgs+626465964325601290| + melee armor + |Malevolence+513190159416557573| ) > |Berserk+513190158468907012| > Auto + |cleave+535532878616985610| > |assault+535532853979512842| > ( |limitless+641339233638023179| ) |destroy+535532879330148352| > |gflurry+535532879283879977| (3hit)> Flank
+|537349530551582720.png| + |513190159194259467.png| > (Equip |626465964325601290.png| + melee armor + |513190159416557573.png| ) > |513190158468907012.png| > Auto + |535532878616985610.png| > |535532853979512842.png| > ( |641339233638023179.png| ) |535532879330148352.png| > |535532879283879977.png| (3hit)> Flank
 
 
 
 ``Pros:`` Can be used when legs die too fast and you only have 92 adren
 
-``Cons:`` Requires Target Cycling (if you fail to TC, you have to do a 2hit |gflurry+535532879283879977| instead, this makes it worse than vuln zerk rotation with or without tc)
+``Cons:`` Requires Target Cycling (if you fail to TC, you have to do a 2hit |535532879283879977.png| instead, this makes it worse than vuln zerk rotation with or without tc)
 
 
 
@@ -849,7 +849,7 @@ Example Video: https://youtu.be/nbZUoHz_f2Y
 
 
 
-Both players should cancel their |gflurry+535532879283879977| and |Shatter+583429757761224715| + |fbackhand+535532879346794516| when Solak reaches 40k hp as that will likely kill the boss instantly (Shatter will hit 30k with 7 shards in zerk, use the time at the start of p4 to add 2 more shards)
+Both players should cancel their |535532879283879977.png| and |583429757761224715.png| + |535532879346794516.png| when Solak reaches 40k hp as that will likely kill the boss instantly (Shatter will hit 30k with 7 shards in zerk, use the time at the start of p4 to add 2 more shards)
 
 |https://youtu.be/nbZUoHz_f2Y|
 

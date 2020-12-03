@@ -1,154 +1,36 @@
-.. |Magic+689504724159823906| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Ranged+689504724403486920| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |567727987274022924.png| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/wxoyeMobO_o| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/wxoyeMobO_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |wrack+535533809823645697| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+.. |535541258429661215.png| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |BloodTend+513190158431158274| image:: https://cdn.discordapp.com/emojis/513190158431158274.png?v=1
+.. |535533809978966037.png| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |meteorstrike+535532879359377439| image:: https://cdn.discordapp.com/emojis/535532879359377439.png?v=1
+.. |615612332521029632.png| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |corruptblast+513190159194259467| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+.. |535541275957657600.png| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |piercing+535541258538450944| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |conc+535533833106489365| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |omni+535533809664262179| image:: https://cdn.discordapp.com/emojis/535533809664262179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/3vIVqAYj4Xk| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/3vIVqAYj4Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |comb+535533833098100745| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |incend+535541258429661215| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sonic+535533809924571136| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |asphyx+535533833072672778| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |quake+535532879506309150| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dbreath+535533833391702017| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |tight+535541275957657600| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |dazing+535541307142307860| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/OxXEWwHODwQ| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/OxXEWwHODwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |prep+535541258546970624| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |ent+567727987274022924| image:: https://cdn.discordapp.com/emojis/567727987274022924.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/sba5tN6.png| image:: https://i.imgur.com/sba5tN6.png
-
-.. |wm+535533809978966037| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |impact+535533809655873556| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bindingshot+535541306563231790| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |melee+615612332521029632| image:: https://cdn.discordapp.com/emojis/615612332521029632.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |fury+535532879510372352| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://youtu.be/k_IxIyoZFww| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/k_IxIyoZFww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |slaughter+535532879237873666| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+.. |535532879506309150.png| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -156,59 +38,177 @@
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/YydKrY05Kc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |ricochet+535541259566186521| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
+.. |535534127131394088.png| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Smoke_Tendrils+536257336130404372| image:: https://cdn.discordapp.com/emojis/536257336130404372.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |535533809655873556.png| image:: https://cdn.discordapp.com/emojis/535533809655873556.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/kPq4stX.png| image:: https://i.imgur.com/kPq4stX.png
 
-.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+.. |https://youtu.be/OxXEWwHODwQ| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/OxXEWwHODwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |536257336130404372.png| image:: https://cdn.discordapp.com/emojis/536257336130404372.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |chain+535533833056026624| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+.. |535532879376023572.png| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |assault+535532853979512842| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+.. |535541258538450944.png| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |stw+535541259109138463| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
+.. |535541258546970624.png| image:: https://cdn.discordapp.com/emojis/535541258546970624.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dismember+535532879376023572| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+.. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |deep+535533833139912724| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+.. |https://youtu.be/3vIVqAYj4Xk| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/3vIVqAYj4Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833072672778.png| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833098100745.png| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879510372352.png| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879237873666.png| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541270521708566.png| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/k_IxIyoZFww| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/k_IxIyoZFww" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |535533833056026624.png| image:: https://cdn.discordapp.com/emojis/535533833056026624.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833139912724.png| image:: https://cdn.discordapp.com/emojis/535533833139912724.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306563231790.png| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809664262179.png| image:: https://cdn.discordapp.com/emojis/535533809664262179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/sba5tN6.png| image:: https://i.imgur.com/sba5tN6.png
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://youtu.be/bd64iILPqJM| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/bd64iILPqJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |689504724159823906.png| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689504724403486920.png| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/wxoyeMobO_o| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/wxoyeMobO_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |535532853979512842.png| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |642713547142332416.png| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879359377439.png| image:: https://cdn.discordapp.com/emojis/535532879359377439.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259566186521.png| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158431158274.png| image:: https://cdn.discordapp.com/emojis/513190158431158274.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259109138463.png| image:: https://cdn.discordapp.com/emojis/535541259109138463.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833391702017.png| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809823645697.png| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541273755385885.png| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 ability-information
 ===================
@@ -240,15 +240,15 @@ In RS, there are some abilities whose damage will go through one tick after they
 
 
 
-|Ranged+689504724403486920| Abilities
+|689504724403486920.png| Abilities
 
-|corruptshot+535541306294796299| |frag+535541273755385885| |piercing+535541258538450944| |bindingshot+535541306563231790| |tight+535541275957657600| |needle+535541259108876293| |dazing+535541307142307860| / |mds+535541259033378827| |snap+535534127131394088| |rapid+535541270521708566| |shadowtend+642713547142332416| |incend+535541258429661215| |stw+535541259109138463|
+|535541306294796299.png| |535541273755385885.png| |535541258538450944.png| |535541306563231790.png| |535541275957657600.png| |535541259108876293.png| |535541307142307860.png| / |535541259033378827.png| |535534127131394088.png| |535541270521708566.png| |642713547142332416.png| |535541258429661215.png| |535541259109138463.png|
 
 
 
-|Magic+689504724159823906| Abilities
+|689504724159823906.png| Abilities
 
-|comb+535533833098100745| |corruptblast+513190159194259467| |sonic+535533809924571136| and DW |wm+535533809978966037| |Smoke_Tendrils+536257336130404372| |omni+535533809664262179|
+|535533833098100745.png| |513190159194259467.png| |535533809924571136.png| and DW |535533809978966037.png| |536257336130404372.png| |535533809664262179.png|
 
 
 
@@ -258,7 +258,7 @@ Additionally, for auto attacks, all surge spells and all blitz spells will hit a
 
 
 
-|sonic+535533809924571136| with DW (stalled) hits instant from any distance
+|535533809924571136.png| with DW (stalled) hits instant from any distance
 
 Additionally, most abilities hit slower when cast from a distance.
 
@@ -266,19 +266,19 @@ Mage:
 
 (Counting md as square 1)
 
-5 squares: |wm+535533809978966037|
+5 squares: |535533809978966037.png|
 
-8 squares: |dbreath+535533833391702017| |conc+535533833106489365| |chain+535533833056026624| |impact+535533809655873556| |wrack+535533809823645697| |deep+535533833139912724| |asphyx+535533833072672778|
-
-
-
-|melee+615612332521029632| Abilities
-
-|quake+535532879506309150| (dw) |assault+535532853979512842| |meteorstrike+535532879359377439| |dismember+535532879376023572| |slaughter+535532879237873666| |bd+535532854281764884| |fury+535532879510372352| |BloodTend+513190158431158274| 
+8 squares: |535533833391702017.png| |535533833106489365.png| |535533833056026624.png| |535533809655873556.png| |535533809823645697.png| |535533833139912724.png| |535533833072672778.png|
 
 
 
-|cleave+535532878616985610| |cane+535532878969438210| are slow if stalled.
+|615612332521029632.png| Abilities
+
+|535532879506309150.png| (dw) |535532853979512842.png| |535532879359377439.png| |535532879376023572.png| |535532879237873666.png| |535532854281764884.png| |535532879510372352.png| |513190158431158274.png| 
+
+
+
+|535532878616985610.png| |535532878969438210.png| are slow if stalled.
 
 
 
@@ -343,7 +343,7 @@ Weapon override speeding up abilities (Courtesy of <@158293690001915904>)
 -------------------------------------------------------------------------
 
 
-Certain weapon overrides for ranged can cause abilities that normally take 2 ticks to deal damage to only take 1 tick to deal damage depending on your distance from your target. These abilities include snapshot |snap+535534127131394088| , rapid fire |rapid+535541270521708566| , piercing shot |piercing+535541258538450944| , dazing shot |dazing+535541307142307860| , and ricochet |ricochet+535541259566186521| slow abilities which are unaffected include: needle strike, binding shot, and tight bindings.
+Certain weapon overrides for ranged can cause abilities that normally take 2 ticks to deal damage to only take 1 tick to deal damage depending on your distance from your target. These abilities include snapshot |535534127131394088.png| , rapid fire |535541270521708566.png| , piercing shot |535541258538450944.png| , dazing shot |535541307142307860.png| , and ricochet |535541259566186521.png| slow abilities which are unaffected include: needle strike, binding shot, and tight bindings.
 
 - Javelins (DW Override only mainhand required.) causes piercing and ricochet to hit fast from md-1sq away, snapshot and rapidfire are only fast in md. 
 
@@ -481,7 +481,7 @@ Forcing an auto with defensives
 -------------------------------
 
 
-When using a defensive, an auto attack will be fired. When using |Magic+689504724159823906| , this auto attack can be changed from a normal auto into a utility spell, such as |Vuln+537349530551582720| or |ent+567727987274022924| . This is done by pressing the keybind for |Vuln+537349530551582720| or |ent+567727987274022924| , followed by the keybind for |freedom+535541258240786434| , |anti+535541306475151390| , |res+535541258844635148| , or |prep+535541258546970624| .
+When using a defensive, an auto attack will be fired. When using |689504724159823906.png| , this auto attack can be changed from a normal auto into a utility spell, such as |537349530551582720.png| or |567727987274022924.png| . This is done by pressing the keybind for |537349530551582720.png| or |567727987274022924.png| , followed by the keybind for |535541258240786434.png| , |535541306475151390.png| , |535541258844635148.png| , or |535541258546970624.png| .
 
 
 

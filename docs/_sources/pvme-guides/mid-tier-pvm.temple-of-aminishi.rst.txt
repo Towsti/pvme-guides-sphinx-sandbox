@@ -1,250 +1,202 @@
-.. |meteorstrike+535532879359377439| image:: https://cdn.discordapp.com/emojis/535532879359377439.png?v=1
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/2sX87wo.png| image:: https://i.imgur.com/2sX87wo.png
-
-.. |HydrixBakri+550834403136503822| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |accel+756236265472524418| image:: https://cdn.discordapp.com/emojis/756236265472524418.png?v=1
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |devo+513190158728953857| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+.. |689530593901412578.png| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |grest+689530593901412578| image:: https://cdn.discordapp.com/emojis/689530593901412578.png?v=1
+.. |535541258429661215.png| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |vulnbomb+655341074235129858| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+.. |615618531937222657.png| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Shatter+536256673904328704| image:: https://cdn.discordapp.com/emojis/536256673904328704.png?v=1
+.. |513190159362031631.png| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |OnyxBakri+565726489362956308| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
+.. |513190159429271562.png| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Firerune+536252659850674186| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
+.. |537336877900890135.png| image:: https://cdn.discordapp.com/emojis/537336877900890135.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dazing+535541307142307860| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+.. |565726489362956308.png| image:: https://cdn.discordapp.com/emojis/565726489362956308.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |nat+535541258131865633| image:: https://cdn.discordapp.com/emojis/535541258131865633.png?v=1
+.. |535532879376023572.png| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |deci+535532879325822986| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |nip+537336877900890135| image:: https://cdn.discordapp.com/emojis/537336877900890135.png?v=1
+.. |535532854327640064.png| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/88sDPyf.png| image:: https://i.imgur.com/88sDPyf.png
-
-.. |Lawrune+536252661406760970| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
+.. |543478434953822208.png| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Bloodrune+536252658970001409| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |redpouch+690848915020447745| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |borrowedpower+657248051190300682| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
+.. |535532879237873666.png| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |surge+535533810004262912| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |slaughter+535532879237873666| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+.. |535541306563231790.png| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |icebarrage+537340400185245701| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
+.. |655341074235129858.png| image:: https://cdn.discordapp.com/emojis/655341074235129858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |745279787471470713.png| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |756236265472524418.png| image:: https://cdn.discordapp.com/emojis/756236265472524418.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |565726489413287956.png| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259566186521.png| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/YXIoRgl.png| image:: https://i.imgur.com/YXIoRgl.png
+
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/iW6qRt5.png| image:: https://i.imgur.com/iW6qRt5.png
 
-.. |augseissing+656785077883109407| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
+.. |https://i.imgur.com/15ucDnm.png| image:: https://i.imgur.com/15ucDnm.png
+
+.. |537340400185245701.png| image:: https://cdn.discordapp.com/emojis/537340400185245701.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |assault+535532853979512842| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+.. |655341074306301964.png| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dbow+643848618553507843| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+.. |641669268722810881.png| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |spec+537340400273195028| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+.. |657248051190300682.png| image:: https://cdn.discordapp.com/emojis/657248051190300682.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |smoketend+583429557672083505| image:: https://cdn.discordapp.com/emojis/583429557672083505.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |soulsplit+615613924506599497| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |corruptshot+535541306294796299| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |anti+535541306475151390| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |piercing+535541258538450944| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cane+535532878969438210| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |eofor+745279787471470713| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |disrupt+535614336207552523| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |res+535541258844635148| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |destroy+535532879330148352| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Sacrifice+513201065907322880| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |adrenrenewalflask+736298313980182541| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |freedom+535541258240786434| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |RubyBakri+565726489413287956| image:: https://cdn.discordapp.com/emojis/565726489413287956.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |Astralrune+536252658961481769| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |cleave+535532878616985610| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bindingshot+535541306563231790| image:: https://cdn.discordapp.com/emojis/535541306563231790.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |bloodbarrage+537338981747261446| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/tykiTgx.png| image:: https://i.imgur.com/tykiTgx.png
-
-.. |Deathrune+536252659586433024| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |needle+535541259108876293| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/W7030su.png| image:: https://i.imgur.com/W7030su.png
-
-.. |shadowtend+642713547142332416| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/9kTcwBw.png| image:: https://i.imgur.com/9kTcwBw.png
-
-.. |bloodtendrils+535532854327640064| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mechchin+641669268722810881| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/1LxKntU.png| image:: https://i.imgur.com/1LxKntU.png
-
-.. |maceoh+656785061059756032| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/3Z1iimV.png| image:: https://i.imgur.com/3Z1iimV.png
-
-.. |snipe+535541258425204770| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |blueblubber+689530593742291033| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
+.. |535532854302605333.png| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/cUGy1Ad.png| image:: https://i.imgur.com/cUGy1Ad.png
 
-.. |DTB+513190159429271562| image:: https://cdn.discordapp.com/emojis/513190159429271562.png?v=1
+.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ascoh+513190159362031631| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
+.. |513190158812839936.png| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |frag+535541273755385885| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
+.. |694566917456789554.png| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |tight+535541275957657600| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |quake+535532879506309150| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |https://i.imgur.com/2sX87wo.png| image:: https://i.imgur.com/2sX87wo.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |536256663641128971.png| image:: https://cdn.discordapp.com/emojis/536256663641128971.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |purppouch+656786565149884427| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
+.. |https://i.imgur.com/jVliUwq.png| image:: https://i.imgur.com/jVliUwq.png
+
+.. |662249620579155968.png| image:: https://cdn.discordapp.com/emojis/662249620579155968.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429557672083505.png| image:: https://cdn.discordapp.com/emojis/583429557672083505.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879359377439.png| image:: https://cdn.discordapp.com/emojis/535532879359377439.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/88sDPyf.png| image:: https://i.imgur.com/88sDPyf.png
+
+.. |544195488447201300.png| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |544195487926845462.png| image:: https://cdn.discordapp.com/emojis/544195487926845462.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -252,49 +204,31 @@
 
     <b>
 
-.. |sgb+626466665848242186| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
+.. |536252659615924258.png| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |yellowpouch+690848914949144616| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |https://i.imgur.com/3Z1iimV.png| image:: https://i.imgur.com/3Z1iimV.png
+
+.. |603979368850653216.png| image:: https://cdn.discordapp.com/emojis/603979368850653216.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |eofspec+746403211908481184| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+.. |656785061059756032.png| image:: https://cdn.discordapp.com/emojis/656785061059756032.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/Deiql3G.png| image:: https://i.imgur.com/Deiql3G.png
-
-.. |Bodyrune+536252659301089280| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |535533810004262912.png| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |StormShards+536256663641128971| image:: https://cdn.discordapp.com/emojis/536256663641128971.png?v=1
+.. |544195488317046812.png| image:: https://cdn.discordapp.com/emojis/544195488317046812.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |ecb+615618531937222657| image:: https://cdn.discordapp.com/emojis/615618531937222657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/FPOOp1C.png| image:: https://i.imgur.com/FPOOp1C.png
 
-.. |ricochet+535541259566186521| image:: https://cdn.discordapp.com/emojis/535541259566186521.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |sever+535532879577612298| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |assault+535532855191928842| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |snap+535534127131394088| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |mds+535541259033378827| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+.. |535534127131394088.png| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -302,129 +236,195 @@
 
     <i>
 
-.. |bd+535532854281764884| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/FPOOp1C.png| image:: https://i.imgur.com/FPOOp1C.png
-
-.. |limitless+641339233638023179| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+.. |535541258538450944.png| image:: https://cdn.discordapp.com/emojis/535541258538450944.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |LotD+566453486913323042| image:: https://cdn.discordapp.com/emojis/566453486913323042.png?v=1
+.. |536252661406760970.png| image:: https://cdn.discordapp.com/emojis/536252661406760970.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gbarge+535532879250456578| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |537338981747261446.png| image:: https://cdn.discordapp.com/emojis/537338981747261446.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Waterrune+536252660165115905| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DeathsSwift+513190158812839936| image:: https://cdn.discordapp.com/emojis/513190158812839936.png?v=1
+.. |656786565149884427.png| image:: https://cdn.discordapp.com/emojis/656786565149884427.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |bluepouch+656786565527502858| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/15ucDnm.png| image:: https://i.imgur.com/15ucDnm.png
+.. |535541258425204770.png| image:: https://cdn.discordapp.com/emojis/535541258425204770.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |backhand+535532854302605333| image:: https://cdn.discordapp.com/emojis/535532854302605333.png?v=1
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |689530593742291033.png| image:: https://cdn.discordapp.com/emojis/689530593742291033.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |736298313980182541.png| image:: https://cdn.discordapp.com/emojis/736298313980182541.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532855191928842.png| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065907322880.png| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |642713547142332416.png| image:: https://cdn.discordapp.com/emojis/642713547142332416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532853979512842.png| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536256673904328704.png| image:: https://cdn.discordapp.com/emojis/536256673904328704.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/Deiql3G.png| image:: https://i.imgur.com/Deiql3G.png
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |736298121704767538.png| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/9kTcwBw.png| image:: https://i.imgur.com/9kTcwBw.png
+
+.. |https://i.imgur.com/1LxKntU.png| image:: https://i.imgur.com/1LxKntU.png
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |https://i.imgur.com/tykiTgx.png| image:: https://i.imgur.com/tykiTgx.png
+
+.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541275957657600.png| image:: https://cdn.discordapp.com/emojis/535541275957657600.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258131865633.png| image:: https://cdn.discordapp.com/emojis/535541258131865633.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879506309150.png| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/W7030su.png| image:: https://i.imgur.com/W7030su.png
+
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/Ewd7OE8.png| image:: https://i.imgur.com/Ewd7OE8.png
 
-.. |Cosmicrune+536252659615924258| image:: https://cdn.discordapp.com/emojis/536252659615924258.png?v=1
+.. |626466665848242186.png| image:: https://cdn.discordapp.com/emojis/626466665848242186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |incend+535541258429661215| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
+.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |zgs+626465964325601290| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+.. |536252659850674186.png| image:: https://cdn.discordapp.com/emojis/536252659850674186.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Earthrune+536252659808731137| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |535541270521708566.png| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Veng+543478434953822208| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |rapid+535541270521708566| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+.. |690848915020447745.png| image:: https://cdn.discordapp.com/emojis/690848915020447745.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/jVliUwq.png| image:: https://i.imgur.com/jVliUwq.png
-
-.. |armourspike+756235792053174332| image:: https://cdn.discordapp.com/emojis/756235792053174332.png?v=1
+.. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |Vuln+537349530551582720| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |550834403136503822.png| image:: https://cdn.discordapp.com/emojis/550834403136503822.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |DeflectMage+544195487926845462| image:: https://cdn.discordapp.com/emojis/544195487926845462.png?v=1
+.. |746403211908481184.png| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |dommine+662249620579155968| image:: https://cdn.discordapp.com/emojis/662249620579155968.png?v=1
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DeflectRange+544195488317046812| image:: https://cdn.discordapp.com/emojis/544195488317046812.png?v=1
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |gflurry+535532879283879977| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+.. |656785077883109407.png| image:: https://cdn.discordapp.com/emojis/656785077883109407.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DeflectMelee+544195488447201300| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
+.. |566453486913323042.png| image:: https://cdn.discordapp.com/emojis/566453486913323042.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |stickybomb+655341074306301964| image:: https://cdn.discordapp.com/emojis/655341074306301964.png?v=1
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |mwspear+694566917456789554| image:: https://cdn.discordapp.com/emojis/694566917456789554.png?v=1
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |DBA+603979368850653216| image:: https://cdn.discordapp.com/emojis/603979368850653216.png?v=1
+.. |643848618553507843.png| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |adrenrenewal+736298121704767538| image:: https://cdn.discordapp.com/emojis/736298121704767538.png?v=1
+.. |756235792053174332.png| image:: https://cdn.discordapp.com/emojis/756235792053174332.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/YXIoRgl.png| image:: https://i.imgur.com/YXIoRgl.png
-
-.. |dismember+535532879376023572| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |zerk+535532854004678657| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+.. |535541273755385885.png| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -464,17 +464,17 @@ Presets
 
 |<b>| Magic (experienced/solo) |</b>|
 
-- Useful items for Seiryu: |DTB+513190159429271562|
+- Useful items for Seiryu: |513190159429271562.png|
 
-- |augseissing+656785077883109407|  |<b>| Seismic singularity |</b>| ``Flanking 4``
+- |656785077883109407.png|  |<b>| Seismic singularity |</b>| ``Flanking 4``
 
-- |redpouch+690848915020447745|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Firerune+536252659850674186| |Bodyrune+536252659301089280| 
+- |690848915020447745.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252659850674186.png| |536252659301089280.png| 
 
-- |purppouch+656786565149884427|  |<b>| Rune Pouch |</b>| |Cosmicrune+536252659615924258| |Astralrune+536252658961481769| |Lawrune+536252661406760970|
+- |656786565149884427.png|  |<b>| Rune Pouch |</b>| |536252659615924258.png| |536252658961481769.png| |536252661406760970.png|
 
-- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
+- |656786565527502858.png|  |<b>| Rune Pouch |</b>| |536252660165115905.png| |536252659586433024.png| |536252659808731137.png|
 
-(Runes for |bloodbarrage+537338981747261446| |icebarrage+537340400185245701| |borrowedpower+657248051190300682| |Vuln+537349530551582720| |disrupt+535614336207552523| |Veng+543478434953822208| )
+(Runes for |537338981747261446.png| |537340400185245701.png| |657248051190300682.png| |537349530551582720.png| |535614336207552523.png| |543478434953822208.png| )
 
 
 
@@ -492,13 +492,13 @@ Presets
 
 |<b>| Ranged (experienced/solo) |</b>|
 
-- Useful items for Seiryu: |LotD+566453486913323042| |stickybomb+655341074306301964|
+- Useful items for Seiryu: |566453486913323042.png| |655341074306301964.png|
 
-- |ascoh+513190159362031631|  |<b>| Off-hand Ascension crossbow |</b>| ``Flanking 4``
+- |513190159362031631.png|  |<b>| Off-hand Ascension crossbow |</b>| ``Flanking 4``
 
-- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
+- |690848914949144616.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252658961481769.png| |536252659301089280.png|
 
-(Runes for |disrupt+535614336207552523| )
+(Runes for |535614336207552523.png| )
 
 
 
@@ -516,15 +516,15 @@ Presets
 
 |<b>| Melee (experienced/solo) |</b>|
 
-- Useful items for Seiryu: |DTB+513190159429271562| |armourspike+756235792053174332|
+- Useful items for Seiryu: |513190159429271562.png| |756235792053174332.png|
 
-- |maceoh+656785061059756032|  |<b>| Off-hand Drygore mace |</b>| ``Flanking 4``
+- |656785061059756032.png|  |<b>| Off-hand Drygore mace |</b>| ``Flanking 4``
 
-- |yellowpouch+690848914949144616|  |<b>| Rune Pouch |</b>| |Bloodrune+536252658970001409| |Astralrune+536252658961481769| |Bodyrune+536252659301089280|
+- |690848914949144616.png|  |<b>| Rune Pouch |</b>| |536252658970001409.png| |536252658961481769.png| |536252659301089280.png|
 
-- |bluepouch+656786565527502858|  |<b>| Rune Pouch |</b>| |Waterrune+536252660165115905| |Deathrune+536252659586433024| |Earthrune+536252659808731137|
+- |656786565527502858.png|  |<b>| Rune Pouch |</b>| |536252660165115905.png| |536252659586433024.png| |536252659808731137.png|
 
-(Runes for |disrupt+535614336207552523| |Veng+543478434953822208| )
+(Runes for |535614336207552523.png| |543478434953822208.png| )
 
 
 
@@ -603,11 +603,11 @@ Start with 100% adrenaline from the PvM hub.
 
 
 
-Room 1 - Run east until you are able to |gbarge+535532879250456578| into the northernmost of the first Elite Sotapannas, then |bd+535532854281764884| next to the northern barrier, walk south to lure the 4x Elite Sotapanna together and drop 2 |dommine+662249620579155968| . Use |assault+535532855191928842| (bled) followed by AoEs (save |meteorstrike+535532879359377439| for later).
+Room 1 - Run east until you are able to |535532879250456578.png| into the northernmost of the first Elite Sotapannas, then |535532854281764884.png| next to the northern barrier, walk south to lure the 4x Elite Sotapanna together and drop 2 |662249620579155968.png| . Use |535532855191928842.png| (bled) followed by AoEs (save |535532879359377439.png| for later).
 
 
 
-Room 2 - Once the first barrier is cleared Run/ |surge+535533810004262912| / |bd+535532854281764884| all the way east to the area with 9x Elite Sotapanna. These enemies use Melee, so have them gather around you and use |meteorstrike+535532879359377439| , followed by whatever AoEs you deem necessary to kill all of the 9 afromentioned enemies and unlock the next barrier.
+Room 2 - Once the first barrier is cleared Run/ |535533810004262912.png| / |535532854281764884.png| all the way east to the area with 9x Elite Sotapanna. These enemies use Melee, so have them gather around you and use |535532879359377439.png| , followed by whatever AoEs you deem necessary to kill all of the 9 afromentioned enemies and unlock the next barrier.
 
 
 
@@ -629,25 +629,25 @@ Room 3 - Go east, kill the 3x Elite Sakadagami and enter the door. These enemies
 
 
 
-Room 1 - |surge+535533810004262912| + |bd+535532854281764884| as shown on picture: https://i.imgur.com/dZYWf7E.png
+Room 1 - |535533810004262912.png| + |535532854281764884.png| as shown on picture: https://i.imgur.com/dZYWf7E.png
 
-After |bd+535532854281764884| stay in place until sotapanna #2 moves 1 tile west, then walk 2 tiles east from |bd+535532854281764884| spot.
+After |535532854281764884.png| stay in place until sotapanna #2 moves 1 tile west, then walk 2 tiles east from |535532854281764884.png| spot.
 
-If done just in time then sotapanna #1 will be middle target for |mechchin+641669268722810881| , #2 if late.
+If done just in time then sotapanna #1 will be middle target for |641669268722810881.png| , #2 if late.
 
 If lured correctly, they should stand like this: https://i.imgur.com/4J70MjN.png
 
-While waiting, use |corruptshot+535541306294796299| on any sotapanna (ideally with target cycle to avoid moving in case of missclick) then |snipe+535541258425204770| → q |snap+535534127131394088| on middle sotapanna. Target cycle+basic to check whether any of them survived.
+While waiting, use |535541306294796299.png| on any sotapanna (ideally with target cycle to avoid moving in case of missclick) then |535541258425204770.png| → q |535534127131394088.png| on middle sotapanna. Target cycle+basic to check whether any of them survived.
 
 
 
 Room 2 - After opening gate, get a target on any of the 2 sotapannas behind it and get to 100% adren.
 
-|accel+756236265472524418| → |bd+535532854281764884| + surge to wall with 9 sotapannas and use |incend+535541258429661215| + click under yourself to stall it, equip |mechchin+641669268722810881| → release incend shot on approx. middle target with |corruptshot+535541306294796299| → |needle+535541259108876293| . This should kill all of the 9 sotapannas.
+|756236265472524418.png| → |535532854281764884.png| + surge to wall with 9 sotapannas and use |535541258429661215.png| + click under yourself to stall it, equip |641669268722810881.png| → release incend shot on approx. middle target with |535541306294796299.png| → |535541259108876293.png| . This should kill all of the 9 sotapannas.
 
 
 
-Room 3 - |bd+535532854281764884| and walk to middle of next gate and target middle of the 3 sakadagami, wait to release your non combat spell with long range weapon then |ricochet+535541259566186521| + run west for 1 tick and run back east (this should lure them together)> equip |mechchin+641669268722810881| → |bindingshot+535541306563231790| > |snipe+535541258425204770| → q |snap+535534127131394088| . Finish with basics if needed and continue to next section.
+Room 3 - |535532854281764884.png| and walk to middle of next gate and target middle of the 3 sakadagami, wait to release your non combat spell with long range weapon then |535541259566186521.png| + run west for 1 tick and run back east (this should lure them together)> equip |641669268722810881.png| → |535541306563231790.png| > |535541258425204770.png| → q |535534127131394088.png| . Finish with basics if needed and continue to next section.
 
 
 
@@ -662,15 +662,15 @@ Room 3 - |bd+535532854281764884| and walk to middle of next gate and target midd
 
 
 
-Room 1 - |anti+535541306475151390| while getting into |gbarge+535532879250456578| range of the enemies. |gbarge+535532879250456578| into the Elite Sotapanna (standing in the centre) and prioritise finishing him off quickly, as he is able to heal himself and the other enemies nearby. Your |dommine+662249620579155968| should be off cooldown by now, so place 2 of them here. AoE down the entire room to unlock the barrier.
+Room 1 - |535541306475151390.png| while getting into |535532879250456578.png| range of the enemies. |535532879250456578.png| into the Elite Sotapanna (standing in the centre) and prioritise finishing him off quickly, as he is able to heal himself and the other enemies nearby. Your |662249620579155968.png| should be off cooldown by now, so place 2 of them here. AoE down the entire room to unlock the barrier.
 
 
 
-Room 2 - Go to either side of the room (doesn't matter which) and kill the 3x Elite Sakadagami on the side you chose. |meteorstrike+535532879359377439| should be off cooldown by now, so you should use that followed by other AoEs.
+Room 2 - Go to either side of the room (doesn't matter which) and kill the 3x Elite Sakadagami on the side you chose. |535532879359377439.png| should be off cooldown by now, so you should use that followed by other AoEs.
 
 
 
-Room 3 - Run/ |surge+535533810004262912| / |bd+535532854281764884| all the way to the southern end of the room and kill 3x Elite Sakadagami on either side of the area. After the barrier is unlocked, teleport to the PvM hub to avoid tanking all of the Arhats/Anagami. At the PvM hub, bank if you wish to, |DBA+603979368850653216| |spec+537340400273195028| if you wish to, get 100% adrenaline via crystal, and return to the dungeon to kill The Sanctum Guardian.
+Room 3 - Run/ |535533810004262912.png| / |535532854281764884.png| all the way to the southern end of the room and kill 3x Elite Sakadagami on either side of the area. After the barrier is unlocked, teleport to the PvM hub to avoid tanking all of the Arhats/Anagami. At the PvM hub, bank if you wish to, |603979368850653216.png| |537340400273195028.png| if you wish to, get 100% adrenaline via crystal, and return to the dungeon to kill The Sanctum Guardian.
 
 
 
@@ -682,19 +682,19 @@ Room 3 - Run/ |surge+535533810004262912| / |bd+535532854281764884| all the way t
 
 
 
-Room 1 - In next section use |anti+535541306475151390| immediately + start running around corner, then |surge+535533810004262912| during gcd and |ricochet+535541259566186521| with long range weapon sakadagami targeted in picture: https://i.imgur.com/zcs9BlH.png
+Room 1 - In next section use |535541306475151390.png| immediately + start running around corner, then |535533810004262912.png| during gcd and |535541259566186521.png| with long range weapon sakadagami targeted in picture: https://i.imgur.com/zcs9BlH.png
 
-After you release |ricochet+535541259566186521| , run north 2 tiles and use |corruptshot+535541306294796299| → equip |mechchin+641669268722810881| → |dbow+643848618553507843| |eofspec+746403211908481184| if high adren, otherwise move closer and use |rapid+535541270521708566| . Finish rest with basics/ thresholds as needed while prioritizing killing sakadagami with low hp first as those can get healed. Make sure to end on high adren. 
+After you release |535541259566186521.png| , run north 2 tiles and use |535541306294796299.png| → equip |641669268722810881.png| → |643848618553507843.png| |746403211908481184.png| if high adren, otherwise move closer and use |535541270521708566.png| . Finish rest with basics/ thresholds as needed while prioritizing killing sakadagami with low hp first as those can get healed. Make sure to end on high adren. 
 
 
 
 Room 2 - Stand on either spot shown in picture: https://i.imgur.com/aAQI4pY.png
 
-|ricochet+535541259566186521| middle one of the 3 sakadagami on your chosen side and wait until they group up (3 ticks). Equip |mechchin+641669268722810881| → use |eofspec+746403211908481184| |dbow+643848618553507843| if high adren, |shadowtend+642713547142332416| if low, finish with basics. Continue to last gate before Sanctum while building on anagamis and arhats. As you walk onto the last path with sakadagamis, equip |mechchin+641669268722810881| → use |corruptshot+535541306294796299| on middle sakadagami. Wait to run into distance and once your character releases |corruptshot+535541306294796299| , use |tight+535541275957657600| (or |bindingshot+535541306563231790| if low adren)> |snipe+535541258425204770| → q |snap+535534127131394088| . Finish with basics if needed.
+|535541259566186521.png| middle one of the 3 sakadagami on your chosen side and wait until they group up (3 ticks). Equip |641669268722810881.png| → use |746403211908481184.png| |643848618553507843.png| if high adren, |642713547142332416.png| if low, finish with basics. Continue to last gate before Sanctum while building on anagamis and arhats. As you walk onto the last path with sakadagamis, equip |641669268722810881.png| → use |535541306294796299.png| on middle sakadagami. Wait to run into distance and once your character releases |535541306294796299.png| , use |535541275957657600.png| (or |535541306563231790.png| if low adren)> |535541258425204770.png| → q |535534127131394088.png| . Finish with basics if needed.
 
 
 
-Room 3 - Build to 100% on anagamis/ arhats and |bd+535532854281764884| + |surge+535533810004262912| to south wall of sanctum's arena, then run to spot shown in picture (or mirrored if you chose other side): https://i.imgur.com/WaGAzLg.png
+Room 3 - Build to 100% on anagamis/ arhats and |535532854281764884.png| + |535533810004262912.png| to south wall of sanctum's arena, then run to spot shown in picture (or mirrored if you chose other side): https://i.imgur.com/WaGAzLg.png
 
 This should block all arhats/anagamis behind sanctum (you should wait there until they have all stopped moving before dodging Sanctum's attacks).
 
@@ -710,26 +710,26 @@ This should block all arhats/anagamis behind sanctum (you should wait there unti
 
 
 
-Room 1 - Head to the barrier on the bridge southeast of the room's entrance. As you will likely be on low adrenaline for this room, use mostly basics to kill 2x Cloaked Zealot. You should also drop 2 |dommine+662249620579155968| here. You want to be on high adrenaline when starting the next room. Be wary of your HP as the room contains a Hanto Sellsword, which can deal heavy damage.
+Room 1 - Head to the barrier on the bridge southeast of the room's entrance. As you will likely be on low adrenaline for this room, use mostly basics to kill 2x Cloaked Zealot. You should also drop 2 |662249620579155968.png| here. You want to be on high adrenaline when starting the next room. Be wary of your HP as the room contains a Hanto Sellsword, which can deal heavy damage.
 
 
 
-Room 2 - Somewhere in the long north-south hallway, there will be 3 Death Lotus rogues. They will attack you with a very deadly Ranged attack. Block this by using |devo+513190158728953857| + |DeflectRange+544195488317046812| . (remember to use |devo+513190158728953857| before targetting anything to prevent adrenaline loss.) Use your |adrenrenewalflask+736298313980182541| if it is off cooldown. Go to the 3x Cloaked Zealot and AoE them down(meteor strike here as clearing this barrier quickly is vital). Summoned Crassian Warriors should die nearly instantly, extending your |devo+513190158728953857| .
+Room 2 - Somewhere in the long north-south hallway, there will be 3 Death Lotus rogues. They will attack you with a very deadly Ranged attack. Block this by using |513190158728953857.png| + |544195488317046812.png| . (remember to use |513190158728953857.png| before targetting anything to prevent adrenaline loss.) Use your |736298313980182541.png| if it is off cooldown. Go to the 3x Cloaked Zealot and AoE them down(meteor strike here as clearing this barrier quickly is vital). Summoned Crassian Warriors should die nearly instantly, extending your |513190158728953857.png| .
 
 
 
-Room 3 - Run/ |surge+535533810004262912| / |bd+535532854281764884| along the northern half of the circle walkway until you reach the next barrier. Barge a Waterfiend or Sea Crocodile towards the east side of the circle and kill the lone Cloaked Zealot in front of the barrier with a bled |assault+535532853979512842| + |cane+535532878969438210| .
+Room 3 - Run/ |535533810004262912.png| / |535532854281764884.png| along the northern half of the circle walkway until you reach the next barrier. Barge a Waterfiend or Sea Crocodile towards the east side of the circle and kill the lone Cloaked Zealot in front of the barrier with a bled |535532853979512842.png| + |535532878969438210.png| .
 
 
 
 
 
 
-Room 4 - Head east, then north towards the 3x Cloaked Zealot in front of the next barrier. Kill them with |gflurry+535532879283879977| and basics, building adrenaline towards |zerk+535532854004678657| in preparation for the next room.
+Room 4 - Head east, then north towards the 3x Cloaked Zealot in front of the next barrier. Kill them with |535532879283879977.png| and basics, building adrenaline towards |535532854004678657.png| in preparation for the next room.
 
 
 
-Room 5 - Head all the way east, up the stairs. If you aren't at 100% adrenaline, tag any nearby mob to build while moving. |zerk+535532854004678657| as soon as you can and build adrenaline. Next to the door, there will be 6x Cloaked Zealot, 5 of them standing in a line and 1 right beside the barrier. Position yourself along the centre of the line and |cane+535532878969438210| + basics until all 6 zealots are dead, then enter the door.
+Room 5 - Head all the way east, up the stairs. If you aren't at 100% adrenaline, tag any nearby mob to build while moving. |535532854004678657.png| as soon as you can and build adrenaline. Next to the door, there will be 6x Cloaked Zealot, 5 of them standing in a line and 1 right beside the barrier. Position yourself along the centre of the line and |535532878969438210.png| + basics until all 6 zealots are dead, then enter the door.
 
 
 
@@ -745,30 +745,30 @@ Room 5 - Head all the way east, up the stairs. If you aren't at 100% adrenaline,
 
 
 
-Room 1 - After leaving Sanctum's arena run south, east, them south again and |surge+535533810004262912| after you go around corner. Keep running south and |surge+535533810004262912| + |bd+535532854281764884| around corner as soon as you can |surge+535533810004262912| again (if low adren, grab a target before first |surge+535533810004262912| and use a defensive). Run towards the bridge with 2 zealots, equip |mechchin+641669268722810881| → |needle+535541259108876293| → |snipe+535541258425204770| → |snap+535534127131394088| (if adren too low for |snap+535534127131394088| : |bindingshot+535541306563231790| → |corruptshot+535541306294796299| → |snipe+535541258425204770| → |piercing+535541258538450944| ).
+Room 1 - After leaving Sanctum's arena run south, east, them south again and |535533810004262912.png| after you go around corner. Keep running south and |535533810004262912.png| + |535532854281764884.png| around corner as soon as you can |535533810004262912.png| again (if low adren, grab a target before first |535533810004262912.png| and use a defensive). Run towards the bridge with 2 zealots, equip |641669268722810881.png| → |535541259108876293.png| → |535541258425204770.png| → |535534127131394088.png| (if adren too low for |535534127131394088.png| : |535541306563231790.png| → |535541306294796299.png| → |535541258425204770.png| → |535541258538450944.png| ).
 
 
 
-Room 2 -  After killing the 2 zealots, continue south over the bridge, then east and |surge+535533810004262912| as soon as you go around corner, keep running and |bd+535532854281764884| + |surge+535533810004262912| south after going around next corner. Equip |mechchin+641669268722810881| and use basics/ |rapid+535541270521708566| to kill the 3 zealots ( |devo+513190158728953857| and |DeflectRange+544195488317046812| if death lotus rogues use their spec). 
+Room 2 -  After killing the 2 zealots, continue south over the bridge, then east and |535533810004262912.png| as soon as you go around corner, keep running and |535532854281764884.png| + |535533810004262912.png| south after going around next corner. Equip |641669268722810881.png| and use basics/ |535541270521708566.png| to kill the 3 zealots ( |513190158728953857.png| and |544195488317046812.png| if death lotus rogues use their spec). 
 
 
 
-Room 3 - Use |accel+756236265472524418| to get around the lake area (take north route). Use auto → |snipe+535541258425204770| → q |snap+535534127131394088| to kill the zealot guarding the gate.
+Room 3 - Use |756236265472524418.png| to get around the lake area (take north route). Use auto → |535541258425204770.png| → q |535534127131394088.png| to kill the zealot guarding the gate.
 
 
 
 
 
 
-Room 4 -  |surge+535533810004262912| east and run towards the next gate with 3 zealots. It's possible to |bd+535532854281764884| diagonally across the bridge: https://i.imgur.com/9IQRudo.png
+Room 4 -  |535533810004262912.png| east and run towards the next gate with 3 zealots. It's possible to |535532854281764884.png| diagonally across the bridge: https://i.imgur.com/9IQRudo.png
 
-Using |mechchin+641669268722810881| , kill the 3 zealots with |corruptshot+535541306294796299| / |rapid+535541270521708566| / basics while targetting the middle one (try to stand south, next to northern most zealot to be able to |surge+535533810004262912| instantly onto strairs after killing them).
+Using |641669268722810881.png| , kill the 3 zealots with |535541306294796299.png| / |535541270521708566.png| / basics while targetting the middle one (try to stand south, next to northern most zealot to be able to |535533810004262912.png| instantly onto strairs after killing them).
 
 
 
-Room 5 - |surge+535533810004262912| / |bd+535532854281764884| east, equip |mechchin+641669268722810881| and target one of the underlined zealots: https://i.imgur.com/Sh696XE.png
+Room 5 - |535533810004262912.png| / |535532854281764884.png| east, equip |641669268722810881.png| and target one of the underlined zealots: https://i.imgur.com/Sh696XE.png
 
-|snipe+535541258425204770| → q |snap+535534127131394088| , (on the other one you didnt target): |corruptshot+535541306294796299| → |shadowtend+642713547142332416| . Use |eofspec+746403211908481184| |dbow+643848618553507843| on the zealot next to the gate if high adren and finish whatever zealots are left with basics.
+|535541258425204770.png| → q |535534127131394088.png| , (on the other one you didnt target): |535541306294796299.png| → |642713547142332416.png| . Use |746403211908481184.png| |643848618553507843.png| on the zealot next to the gate if high adren and finish whatever zealots are left with basics.
 
 
 
@@ -783,25 +783,25 @@ Room 5 - |surge+535533810004262912| / |bd+535532854281764884| east, equip |mechc
 
 
 
-Room 1 - |gbarge+535532879250456578| into either Elite Sakadagami, drop 2 |dommine+662249620579155968| and use |assault+535532855191928842| . Kill both Elite Sakadagami in front of the barrier.
+Room 1 - |535532879250456578.png| into either Elite Sakadagami, drop 2 |662249620579155968.png| and use |535532855191928842.png| . Kill both Elite Sakadagami in front of the barrier.
 
 
 
-Room 2 - |surge+535533810004262912| down the stairs to get the attention of the 2x Eastern mercenary, then |surge+535533810004262912| + |bd+535532854281764884| northwest to get the attention of 4x Renegade Menaphite soldier. Kill the 6 afromentioned enemies with AoEs. Be wary of the Hanto sellswords in the room.
+Room 2 - |535533810004262912.png| down the stairs to get the attention of the 2x Eastern mercenary, then |535533810004262912.png| + |535532854281764884.png| northwest to get the attention of 4x Renegade Menaphite soldier. Kill the 6 afromentioned enemies with AoEs. Be wary of the Hanto sellswords in the room.
 
 
 
-If you are low on food and HP, an alternative, safer method to clear this room is to kill the 2x Elite Sotapanna in room 1, then kill the 2x Eastern Mercenary before you |surge+535533810004262912| + |bd+535532854281764884| northwest and kill the 4x Renegade Menaphite soldier. This lets you avoid getting attacked by the dangerous Hanto sellswords.
+If you are low on food and HP, an alternative, safer method to clear this room is to kill the 2x Elite Sotapanna in room 1, then kill the 2x Eastern Mercenary before you |535533810004262912.png| + |535532854281764884.png| northwest and kill the 4x Renegade Menaphite soldier. This lets you avoid getting attacked by the dangerous Hanto sellswords.
 
 ``Example:`` <https://streamable.com/klcaap>
 
 
 
-Room 3 - This room contains two Death Lotus rogues(marked on map: yellow dots), which will not aggro on you when dealt with correctly. |surge+535533810004262912| + |bd+535532854281764884| through the central area of the room as is shown here
+Room 3 - This room contains two Death Lotus rogues(marked on map: yellow dots), which will not aggro on you when dealt with correctly. |535533810004262912.png| + |535532854281764884.png| through the central area of the room as is shown here
 
 ``Example:`` <https://streamable.com/ryakvz>
 
-If this is not done correctly, you will end up taking a lot of unnecessary damage and potentially even dying. After you have successfully |bd+535532854281764884| into the west corridor, head up north and kill 4x Cloaked Zealot. Finish clearing the barrier with 100% adrenaline. Once the barrier is clear, |freedom+535541258240786434| out of any bleeds you may have on you, |surge+535533810004262912| to the bank chest, load your preset and kill Masuta, the Ascended.
+If this is not done correctly, you will end up taking a lot of unnecessary damage and potentially even dying. After you have successfully |535532854281764884.png| into the west corridor, head up north and kill 4x Cloaked Zealot. Finish clearing the barrier with 100% adrenaline. Once the barrier is clear, |535541258240786434.png| out of any bleeds you may have on you, |535533810004262912.png| to the bank chest, load your preset and kill Masuta, the Ascended.
 
 
 
@@ -819,19 +819,19 @@ If this is not done correctly, you will end up taking a lot of unnecessary damag
 
 
 
-Room 1 - Use |ricochet+535541259566186521| with long range weapon on one of the 2 sakadagamis, then step 2 tiles south + 1 tile west and manually run 2 tiles back towards them (https://i.imgur.com/tWzdnt5.png) (dont get pulled in by using an ability, otherwise the 2 sotapannas to west will start attacking you). Equip |mechchin+641669268722810881| and kill them with basics/ |snap+535534127131394088| (using stuns on them will delay their stuns).
+Room 1 - Use |535541259566186521.png| with long range weapon on one of the 2 sakadagamis, then step 2 tiles south + 1 tile west and manually run 2 tiles back towards them (https://i.imgur.com/tWzdnt5.png) (dont get pulled in by using an ability, otherwise the 2 sotapannas to west will start attacking you). Equip |641669268722810881.png| and kill them with basics/ |535534127131394088.png| (using stuns on them will delay their stuns).
 
 
 
-Room 2 -  |surge+535533810004262912| down the stairs and kill the 2 eastern mercenaries with basics/ thresholds (save |rapid+535541270521708566| ). |bd+535532854281764884| north and stand on any of the tiles shown on picture: https://i.imgur.com/hoyklQH.png
+Room 2 -  |535533810004262912.png| down the stairs and kill the 2 eastern mercenaries with basics/ thresholds (save |535541270521708566.png| ). |535532854281764884.png| north and stand on any of the tiles shown on picture: https://i.imgur.com/hoyklQH.png
 
-If standing in white outline(1), target menaphite soldier #3; If in green outline(2), target menaphite soldier #2 or #3. (Make sure to not walk into them because this can mess up the lure. You can always walk east, however, as long as none of them are bound/stunned). Use |corruptshot+535541306294796299| > |rapid+535541270521708566| → when all of the soldiers are below 13k hp: |snipe+535541258425204770| → q |snap+535534127131394088| → finish with basics if needed.
+If standing in white outline(1), target menaphite soldier #3; If in green outline(2), target menaphite soldier #2 or #3. (Make sure to not walk into them because this can mess up the lure. You can always walk east, however, as long as none of them are bound/stunned). Use |535541306294796299.png| > |535541270521708566.png| → when all of the soldiers are below 13k hp: |535541258425204770.png| → q |535534127131394088.png| → finish with basics if needed.
 
 
 
-Room 3 -  |surge+535533810004262912| + |bd+535532854281764884| towards west gate. Target either of the 2 middle zealots /w |mechchin+641669268722810881| and use |corruptshot+535541306294796299| / |needle+535541259108876293| > |shadowtend+642713547142332416| > |needle+535541259108876293| / |corruptshot+535541306294796299| . Finish the rest with basics (dont use |rapid+535541270521708566| , otherwise it will be on cooldown for masuta). 
+Room 3 -  |535533810004262912.png| + |535532854281764884.png| towards west gate. Target either of the 2 middle zealots /w |641669268722810881.png| and use |535541306294796299.png| / |535541259108876293.png| > |642713547142332416.png| > |535541259108876293.png| / |535541306294796299.png| . Finish the rest with basics (dont use |535541270521708566.png| , otherwise it will be on cooldown for masuta). 
 
-|surge+535533810004262912| towards chest and bank.
+|535533810004262912.png| towards chest and bank.
 
 
 
@@ -858,7 +858,7 @@ Room 3 -  |surge+535533810004262912| + |bd+535532854281764884| towards west gate
 
 
 
-- |surge+535533810004262912| + |bd+535532854281764884| on minimap onto west stairs (https://i.imgur.com/RXYeRnR.png), target middle pylon and use |corruptshot+535541306294796299| → |dazing+535541307142307860| + |surge+535533810004262912| after releasing |corruptshot+535541306294796299| > |needle+535541259108876293| > (either of the 2 south pylons): |snipe+535541258425204770| > q |mds+535541259033378827| → |needle+535541259108876293| → snap the last pylon (basics if not 100% adren), get to 88%+ with defensive on the remaining pylons without attacking them.
+- |535533810004262912.png| + |535532854281764884.png| on minimap onto west stairs (https://i.imgur.com/RXYeRnR.png), target middle pylon and use |535541306294796299.png| → |535541307142307860.png| + |535533810004262912.png| after releasing |535541306294796299.png| > |535541259108876293.png| > (either of the 2 south pylons): |535541258425204770.png| > q |535541259033378827.png| → |535541259108876293.png| → snap the last pylon (basics if not 100% adren), get to 88%+ with defensive on the remaining pylons without attacking them.
 
 
 
@@ -887,7 +887,7 @@ Sanctum Guardian
 
 
 
-The first boss of the Temple of Aminishi follows a straightforward attack pattern containing highly damaging attacks which are capable of KOing someone unprepared. Once learned, this boss will essentially become a DPS dummy in where your killtime is reflective of your capability to deal raw damage. Stand to the north of the boss and DPS. Meleers should stand south, otherwise AoEs will not work ( |cleave+535532878616985610| , |gflurry+535532879283879977| , |vulnbomb+655341074235129858| )
+The first boss of the Temple of Aminishi follows a straightforward attack pattern containing highly damaging attacks which are capable of KOing someone unprepared. Once learned, this boss will essentially become a DPS dummy in where your killtime is reflective of your capability to deal raw damage. Stand to the north of the boss and DPS. Meleers should stand south, otherwise AoEs will not work ( |535532878616985610.png| , |535532879283879977.png| , |655341074235129858.png| )
 
 
 
@@ -922,7 +922,7 @@ For experienced players, this is not necessary or worthwhile, as you will be abl
 
 The water jet attack is a beam of water that rotates around the arena once, starting from north and rotating counter-clockwise. Should you get hit by this attack, it will deal ~6000 soft typeless damage. This attack can be dealt with in several ways, such as dodging with Bladed Dive or blocking with Disruption shield or Resonance.
 
-``Example clip of how to avoid the water jet with |bd+535532854281764884| :`` <https://streamable.com/bj1ee1>
+``Example clip of how to avoid the water jet with |535532854281764884.png| :`` <https://streamable.com/bj1ee1>
 
 During this attack, the boss will face north, so you will be able to use Flanking here.
 
@@ -939,11 +939,11 @@ Purple smoke is the most dangerous attack of the boss. You will get a blue bar a
 
 |<b>| Melee Rotation: |</b>|
 
-Start with |zerk+535532854004678657| + |adrenrenewal+736298121704767538| → |gbarge+535532879250456578| → |cleave+535532878616985610| → |assault+535532853979512842| (bled) → |destroy+535532879330148352| → |cleave+535532878616985610| → |sever+535532879577612298| → |gflurry+535532879283879977| → 188s.
+Start with |535532854004678657.png| + |736298121704767538.png| → |535532879250456578.png| → |535532878616985610.png| → |535532853979512842.png| (bled) → |535532879330148352.png| → |535532878616985610.png| → |535532879577612298.png| → |535532879283879977.png| → 188s.
 
-Build with basics and use your |zgs+626465964325601290| |spec+537340400273195028| while keeping track of boss HP and your adrenaline. Ideally you will get the boss's HP low enough to comfortably finish him off within your 2nd |zerk+535532854004678657| . Pay attention to both adrenaline gained and damage dealt, and decide on which abilities to use accordingly. Do not use |assault+535532855191928842| here as should you use your 2nd |zerk+535532854004678657| quickly, |assault+535532855191928842| will not be off cooldown when needed.
+Build with basics and use your |626465964325601290.png| |537340400273195028.png| while keeping track of boss HP and your adrenaline. Ideally you will get the boss's HP low enough to comfortably finish him off within your 2nd |535532854004678657.png| . Pay attention to both adrenaline gained and damage dealt, and decide on which abilities to use accordingly. Do not use |535532855191928842.png| here as should you use your 2nd |535532854004678657.png| quickly, |535532855191928842.png| will not be off cooldown when needed.
 
-Once you have 100% adrenaline after lowering the boss HP, |zerk+535532854004678657| → |gbarge+535532879250456578| → 188 → 188 → |limitless+641339233638023179| + |assault+535532853979512842| → 188 → 2-hit |gflurry+535532879283879977| → |destroy+535532879330148352| → basics until the boss is dead.
+Once you have 100% adrenaline after lowering the boss HP, |535532854004678657.png| → |535532879250456578.png| → 188 → 188 → |641339233638023179.png| + |535532853979512842.png| → 188 → 2-hit |535532879283879977.png| → |535532879330148352.png| → basics until the boss is dead.
 
 
 
@@ -952,11 +952,11 @@ Once you have 100% adrenaline after lowering the boss HP, |zerk+5355328540046786
 
 |<b>| Ranged Rotation: |</b>|
 
-throw |vulnbomb+655341074235129858| on south edge of sanctum's "pool" + |DeathsSwift+513190158812839936| → auto → |snipe+535541258425204770| → q |needle+535541259108876293| → |sgb+626466665848242186| |spec+537340400273195028| → |limitless+641339233638023179| + |rapid+535541270521708566| → dw |snap+535534127131394088| → |freedom+535541258240786434| → auto → dw |snipe+535541258425204770| → q |needle+535541259108876293| → |shadowtend+642713547142332416| + |disrupt+535614336207552523| → |bindingshot+535541306563231790| (flank)> 4t |ecb+615618531937222657| |spec+537340400273195028| → auto → |corruptshot+535541306294796299| → |snipe+535541258425204770| → q |rapid+535541270521708566| → |snap+535534127131394088| → if |eofspec+746403211908481184| |sgb+626466665848242186| : |sgb+626466665848242186| |spec+537340400273195028| → |needle+535541259108876293| , 
+throw |655341074235129858.png| on south edge of sanctum's "pool" + |513190158812839936.png| → auto → |535541258425204770.png| → q |535541259108876293.png| → |626466665848242186.png| |537340400273195028.png| → |641339233638023179.png| + |535541270521708566.png| → dw |535534127131394088.png| → |535541258240786434.png| → auto → dw |535541258425204770.png| → q |535541259108876293.png| → |642713547142332416.png| + |535614336207552523.png| → |535541306563231790.png| (flank)> 4t |615618531937222657.png| |537340400273195028.png| → auto → |535541306294796299.png| → |535541258425204770.png| → q |535541270521708566.png| → |535534127131394088.png| → if |746403211908481184.png| |626466665848242186.png| : |626466665848242186.png| |537340400273195028.png| → |535541259108876293.png| , 
 
-if normal |sgb+626466665848242186| : |needle+535541259108876293| → |sgb+626466665848242186| |spec+537340400273195028| → |mds+535541259033378827| → |snipe+535541258425204770| → q |needle+535541259108876293| → |bindingshot+535541306563231790| (flank)> 4t |ecb+615618531937222657| |spec+537340400273195028| → auto → |corruptshot+535541306294796299| → |rapid+535541270521708566| → |snipe+535541258425204770| → q |snap+535534127131394088| → |eofspec+746403211908481184| |dbow+643848618553507843| ( |mds+535541259033378827| if low) → improvise till finished
+if normal |626466665848242186.png| : |535541259108876293.png| → |626466665848242186.png| |537340400273195028.png| → |535541259033378827.png| → |535541258425204770.png| → q |535541259108876293.png| → |535541306563231790.png| (flank)> 4t |615618531937222657.png| |537340400273195028.png| → auto → |535541306294796299.png| → |535541270521708566.png| → |535541258425204770.png| → q |535534127131394088.png| → |746403211908481184.png| |643848618553507843.png| ( |535541259033378827.png| if low) → improvise till finished
 
-Use ruby at start of kill, switch to hydrix after proc, switch to hydrix after snap if no ruby proc and camp until you get enough adren to be able to use all thresholds in time in |DeathsSwift+513190158812839936| (67% before |ecb+615618531937222657| to be in the clear) use rubies after and switch to hydrix for 2 abilities after proc, camp hydrix after |DeathsSwift+513190158812839936| until end of kill
+Use ruby at start of kill, switch to hydrix after proc, switch to hydrix after snap if no ruby proc and camp until you get enough adren to be able to use all thresholds in time in |513190158812839936.png| (67% before |615618531937222657.png| to be in the clear) use rubies after and switch to hydrix for 2 abilities after proc, camp hydrix after |513190158812839936.png| until end of kill
 
 
 
@@ -1014,7 +1014,7 @@ Masuta usually starts by doing 4 autoattacks before using Hurricane, however he 
 
 
 
-Masuta's Hurricane attack lasts for about 12 seconds, hitting nearby players for increasing Melee damage once per tick. Masuta will chase after you at walking speed during this attack. The best way to deal with this is |DeflectMelee+544195488447201300| + |devo+513190158728953857| about 1 GCD after the attack starts. This allows you to continue dealing damage in MD and nullifies most of the damage you take. Note that you can flank Masuta from the north side during his Hurricane attack.
+Masuta's Hurricane attack lasts for about 12 seconds, hitting nearby players for increasing Melee damage once per tick. Masuta will chase after you at walking speed during this attack. The best way to deal with this is |544195488447201300.png| + |513190158728953857.png| about 1 GCD after the attack starts. This allows you to continue dealing damage in MD and nullifies most of the damage you take. Note that you can flank Masuta from the north side during his Hurricane attack.
 
 
 
@@ -1064,7 +1064,7 @@ The amount of Ranged attacks done before a Magic attack is 3-6.
 
 
 
-The magic attack has a travel time based on distance. Due to this, while in MD of the boss, the attack hits you instantly, while Ranged autoattacks take 1 tick to hit you. As Masuta has an attack speed of 4 ticks, by rotating your overhead prayers |soulsplit+615613924506599497| → |soulsplit+615613924506599497| → |DeflectMage+544195487926845462| → |DeflectRange+544195488317046812| → repeat, you will always be praying correctly against whatever attack is used.
+The magic attack has a travel time based on distance. Due to this, while in MD of the boss, the attack hits you instantly, while Ranged autoattacks take 1 tick to hit you. As Masuta has an attack speed of 4 ticks, by rotating your overhead prayers |615613924506599497.png| → |615613924506599497.png| → |544195487926845462.png| → |544195488317046812.png| → repeat, you will always be praying correctly against whatever attack is used.
 
 
 
@@ -1075,31 +1075,31 @@ The magic attack has a travel time based on distance. Due to this, while in MD o
 
 
 
-Phase 1: |zerk+535532854004678657| + |adrenrenewal+736298121704767538| → |gbarge+535532879250456578| → |cleave+535532878616985610| → |assault+535532853979512842| → |destroy+535532879330148352| →
+Phase 1: |535532854004678657.png| + |736298121704767538.png| → |535532879250456578.png| → |535532878616985610.png| → |535532853979512842.png| → |535532879330148352.png| →
 
 
 
-- If Hurricane starts after 2 autos: Cancel |destroy+535532879330148352| with |deci+535532879325822986| + |surge+535533810004262912| / |bd+535532854281764884| away, stall |cleave+535532878616985610| from out of distance -> run back in and release |cleave+535532878616985610| with |devo+513190158728953857| . 
+- If Hurricane starts after 2 autos: Cancel |535532879330148352.png| with |535532879325822986.png| + |535533810004262912.png| / |535532854281764884.png| away, stall |535532878616985610.png| from out of distance -> run back in and release |535532878616985610.png| with |513190158728953857.png| . 
 
-- If Hurricane starts later: Build with 188s. When Masuta starts his Hurricane, time |devo+513190158728953857| appropriately.
-
-
-
-
-
-
-Build with strong basics until |zerk+535532854004678657| ends, after which use |dismember+535532879376023572| → |slaughter+535532879237873666| → |zgs+626465964325601290| |spec+537340400273195028| → 188s until |assault+535532855191928842| has 6 seconds of cooldown left, after which |limitless+641339233638023179| → |destroy+535532879330148352| → |assault+535532853979512842| . Finish the phase with strong basics. Remember to manage Masuta's Tsunami properly, even if it requires early cancellation of channeled abilities.
-
-
-
-Flight phase: The waters die fairly quickly simply by using strong basics and whatever thresholds you have off cooldown. Be sure to utilise |bd+535532854281764884| resets when moving from water to water. |DBA+603979368850653216| |spec+537340400273195028| when ~70 seconds of the flight phase have passed, then build to 100% adrenaline with basics. It is recommended (though not necessary) to kill off any remaining waters before moving onto Masuta when phase 2 starts.
+- If Hurricane starts later: Build with 188s. When Masuta starts his Hurricane, time |513190158728953857.png| appropriately.
 
 
 
 
 
 
-Phase 2: |zerk+535532854004678657| + |adrenrenewal+736298121704767538| → |gbarge+535532879250456578| → |cleave+535532878616985610| → |assault+535532853979512842| → |destroy+535532879330148352| → build with basics until |zerk+535532854004678657| ends → |dismember+535532879376023572| → |slaughter+535532879237873666| → |zgs+626465964325601290| |spec+537340400273195028| → build with basics and use strong thresholds. Masuta should die here. Note: don't use |limitless+641339233638023179| during phase 2, as it should be saved for Seiryu.
+Build with strong basics until |535532854004678657.png| ends, after which use |535532879376023572.png| → |535532879237873666.png| → |626465964325601290.png| |537340400273195028.png| → 188s until |535532855191928842.png| has 6 seconds of cooldown left, after which |641339233638023179.png| → |535532879330148352.png| → |535532853979512842.png| . Finish the phase with strong basics. Remember to manage Masuta's Tsunami properly, even if it requires early cancellation of channeled abilities.
+
+
+
+Flight phase: The waters die fairly quickly simply by using strong basics and whatever thresholds you have off cooldown. Be sure to utilise |535532854281764884.png| resets when moving from water to water. |603979368850653216.png| |537340400273195028.png| when ~70 seconds of the flight phase have passed, then build to 100% adrenaline with basics. It is recommended (though not necessary) to kill off any remaining waters before moving onto Masuta when phase 2 starts.
+
+
+
+
+
+
+Phase 2: |535532854004678657.png| + |736298121704767538.png| → |535532879250456578.png| → |535532878616985610.png| → |535532853979512842.png| → |535532879330148352.png| → build with basics until |535532854004678657.png| ends → |535532879376023572.png| → |535532879237873666.png| → |626465964325601290.png| |537340400273195028.png| → build with basics and use strong thresholds. Masuta should die here. Note: don't use |641339233638023179.png| during phase 2, as it should be saved for Seiryu.
 
 
 
@@ -1110,24 +1110,24 @@ Phase 2: |zerk+535532854004678657| + |adrenrenewal+736298121704767538| → |gbar
 
 |<b>| Ranged Rotation |</b>|
 
-It is recommended to take as much food as you can ( |grest+689530593901412578| / |blueblubber+689530593742291033| because with how much you have to eat you would lose too much adrenaline/ brew down too much with solids/ sara brews) and because of this it's recommended to have a separate preset for masuta as banking would lose more time than you would save on a faster kill. 
+It is recommended to take as much food as you can ( |689530593901412578.png| / |689530593742291033.png| because with how much you have to eat you would lose too much adrenaline/ brew down too much with solids/ sara brews) and because of this it's recommended to have a separate preset for masuta as banking would lose more time than you would save on a faster kill. 
 
 Preset example: https://i.imgur.com/KMBXcjN.png
 
-After banking step east so you are looking into masutas arena, use defensive and |surge+535533810004262912| + |bd+535532854281764884| onto stairs to masuta. Entire p1 should be ruby camp and equip hydrix for 2 abilities after ruby proc. 
+After banking step east so you are looking into masutas arena, use defensive and |535533810004262912.png| + |535532854281764884.png| onto stairs to masuta. Entire p1 should be ruby camp and equip hydrix for 2 abilities after ruby proc. 
 
 
 
 
 
 
-Phase 1: Target cycle (tc is used to avoid missclicks) + |ecb+615618531937222657| |spec+537340400273195028| → |vulnbomb+655341074235129858| → 4t auto → |rapid+535541270521708566| → |snap+535534127131394088| → |snipe+535541258425204770| → q |frag+535541273755385885| → |corruptshot+535541306294796299| → |dazing+535541307142307860| → |Sacrifice+513201065907322880| → |needle+535541259108876293| → |DeathsSwift+513190158812839936| → |adrenrenewalflask+736298313980182541| + auto> |snipe+535541258425204770| → q |needle+535541259108876293| → 4t |ecb+615618531937222657| |spec+537340400273195028| → auto → |corruptshot+535541306294796299| → |frag+535541273755385885| → |rapid+535541270521708566| → |snipe+535541258425204770| → |snap+535534127131394088| → |eofspec+746403211908481184| |dbow+643848618553507843| (use basics if low adren and |eofspec+746403211908481184| |dbow+643848618553507843| asap). Improvise till phased (can use |limitless+641339233638023179| to dump w/e thresholds are left because masuta doesn't always phase 
+Phase 1: Target cycle (tc is used to avoid missclicks) + |615618531937222657.png| |537340400273195028.png| → |655341074235129858.png| → 4t auto → |535541270521708566.png| → |535534127131394088.png| → |535541258425204770.png| → q |535541273755385885.png| → |535541306294796299.png| → |535541307142307860.png| → |513201065907322880.png| → |535541259108876293.png| → |513190158812839936.png| → |736298313980182541.png| + auto> |535541258425204770.png| → q |535541259108876293.png| → 4t |615618531937222657.png| |537340400273195028.png| → auto → |535541306294796299.png| → |535541273755385885.png| → |535541270521708566.png| → |535541258425204770.png| → |535534127131394088.png| → |746403211908481184.png| |643848618553507843.png| (use basics if low adren and |746403211908481184.png| |643848618553507843.png| asap). Improvise till phased (can use |641339233638023179.png| to dump w/e thresholds are left because masuta doesn't always phase 
 
-immediately once he reaches his threshold hp). Throw |StormShards+536256663641128971| once masuta becomes invulnerable.
+immediately once he reaches his threshold hp). Throw |536256663641128971.png| once masuta becomes invulnerable.
 
-Note the time u phased on and add 1min20s to it (this will be when you use |nat+535541258131865633| on geysers)
+Note the time u phased on and add 1min20s to it (this will be when you use |535541258131865633.png| on geysers)
 
-Surge away when masuta starts his spin spec and keep kiting until your |ecb+615618531937222657| |spec+537340400273195028| runs out (should be at |Sacrifice+513201065907322880| in your rotation). Eat to full while kiting. If masuta does late spin, use |bd+535532854281764884| / |surge+535533810004262912| to get far enough away to not have to leave your |DeathsSwift+513190158812839936| . 
+Surge away when masuta starts his spin spec and keep kiting until your |615618531937222657.png| |537340400273195028.png| runs out (should be at |513201065907322880.png| in your rotation). Eat to full while kiting. If masuta does late spin, use |535532854281764884.png| / |535533810004262912.png| to get far enough away to not have to leave your |513190158812839936.png| . 
 
 
 
@@ -1138,7 +1138,7 @@ Surge away when masuta starts his spin spec and keep kiting until your |ecb+6156
 
 Geysers: 
 
-Camp onyx bolts; use |devo+513190158728953857| / |res+535541258844635148| in downtime; Try to |bd+535532854281764884| directly into geysers so when you kill them, your |bd+535532854281764884| comes off cooldown; Try to md geysers when you're killing them to gain damage reduction from masutas mage attack; Stack 2 more |StormShards+536256663641128971| for a total of 3 stacks; |nat+535541258131865633| on p1 phase time+ 1min20s and equip hydrix bolts.
+Camp onyx bolts; use |513190158728953857.png| / |535541258844635148.png| in downtime; Try to |535532854281764884.png| directly into geysers so when you kill them, your |535532854281764884.png| comes off cooldown; Try to md geysers when you're killing them to gain damage reduction from masutas mage attack; Stack 2 more |536256663641128971.png| for a total of 3 stacks; |535541258131865633.png| on p1 phase time+ 1min20s and equip hydrix bolts.
 
 If last geyser spawns far enough so you can attack masuta without it attacking you then you can ignore it, otherwise make sure to kill it.
 
@@ -1151,7 +1151,7 @@ If last geyser spawns far enough so you can attack masuta without it attacking y
 
 Phase 2:  (camp ruby and switch to hydric for 2 abils after proc until ~130k  hp, camp hydrix after that)
 
-|DeathsSwift+513190158812839936| → auto + |vulnbomb+655341074235129858| → |snipe+535541258425204770| → q |needle+535541259108876293| → 4t |ecb+615618531937222657| |spec+537340400273195028| → auto |corruptshot+535541306294796299| → |frag+535541273755385885| → |snipe+535541258425204770| → q |rapid+535541270521708566| + |adrenrenewalflask+736298313980182541| when it comes off cooldown> |snap+535534127131394088| → |eofspec+746403211908481184| |dbow+643848618553507843| (skip for basic if low adren)> improvise basics till |ecb+615618531937222657| |spec+537340400273195028| ends → |needle+535541259108876293| → |smoketend+583429557672083505| → |Shatter+536256673904328704| → |ecb+615618531937222657| |spec+537340400273195028| → improvise basics> |rapid+535541270521708566| → |snap+535534127131394088| → improv till finished.
+|513190158812839936.png| → auto + |655341074235129858.png| → |535541258425204770.png| → q |535541259108876293.png| → 4t |615618531937222657.png| |537340400273195028.png| → auto |535541306294796299.png| → |535541273755385885.png| → |535541258425204770.png| → q |535541270521708566.png| + |736298313980182541.png| when it comes off cooldown> |535534127131394088.png| → |746403211908481184.png| |643848618553507843.png| (skip for basic if low adren)> improvise basics till |615618531937222657.png| |537340400273195028.png| ends → |535541259108876293.png| → |583429557672083505.png| → |536256673904328704.png| → |615618531937222657.png| |537340400273195028.png| → improvise basics> |535541270521708566.png| → |535534127131394088.png| → improv till finished.
 
 
 
@@ -1257,7 +1257,7 @@ Notes for 2 cycle seiryu:
 
 |<b>| Melee: |</b>|
 
-Start the fight with a |zerk+535532854004678657| → |gbarge+535532879250456578| → 188 → 188 → |limitless+641339233638023179| + |assault+535532853979512842| -> |destroy+535532879330148352| → build with strong basics until Zerk ends → |dismember+535532879376023572| → |zgs+626465964325601290| |spec+537340400273195028| . Optimally when Seiryu reaches 7.2M HP, you will have 100% adrenaline ready for the crystal phase. With this in mind, decide on which/how many thresholds to use depending on how much damage you've dealt to the boss. If your damage output is high, prioritise |gflurry+535532879283879977| to ensure |zerk+535532854004678657| is off cooldown for the crystal phase.
+Start the fight with a |535532854004678657.png| → |535532879250456578.png| → 188 → 188 → |641339233638023179.png| + |535532853979512842.png| -> |535532879330148352.png| → build with strong basics until Zerk ends → |535532879376023572.png| → |626465964325601290.png| |537340400273195028.png| . Optimally when Seiryu reaches 7.2M HP, you will have 100% adrenaline ready for the crystal phase. With this in mind, decide on which/how many thresholds to use depending on how much damage you've dealt to the boss. If your damage output is high, prioritise |535532879283879977.png| to ensure |535532854004678657.png| is off cooldown for the crystal phase.
 
 
 
@@ -1268,26 +1268,26 @@ When Seiryu phases at 7.2M HP, swiftly move to either side's jump spot (marked h
 
 
 
-|zerk+535532854004678657| + |adrenrenewal+736298121704767538| → |gbarge+535532879250456578| + drop |dommine+662249620579155968| → thresholds+basics until the first crystal is dead.
+|535532854004678657.png| + |736298121704767538.png| → |535532879250456578.png| + drop |662249620579155968.png| → thresholds+basics until the first crystal is dead.
 
 
 
-Before the wave of heals reaches the crystals, be sure to have used a fully channeled |gflurry+535532879283879977| twice and to be on 100% adrenaline. |nat+535541258131865633| before the first enigma reaches Seiryu and build to 100%, then, either 1 or 2 ticks after the first Uber heal hitsplat appears:
+Before the wave of heals reaches the crystals, be sure to have used a fully channeled |535532879283879977.png| twice and to be on 100% adrenaline. |535541258131865633.png| before the first enigma reaches Seiryu and build to 100%, then, either 1 or 2 ticks after the first Uber heal hitsplat appears:
 
-|zerk+535532854004678657| → |dismember+535532879376023572| → 2x Defensive(not |freedom+535541258240786434| ) → |gbarge+535532879250456578| + drop |dommine+662249620579155968| → |cleave+535532878616985610| → |assault+535532853979512842| → |destroy+535532879330148352| → 3 hit |gflurry+535532879283879977| → |deci+535532879325822986| → |freedom+535541258240786434| . (Example clip: https://streamable.com/h2y1qo) You will be teleported down after |deci+535532879325822986| .
-
-
+|535532854004678657.png| → |535532879376023572.png| → 2x Defensive(not |535541258240786434.png| ) → |535532879250456578.png| + drop |662249620579155968.png| → |535532878616985610.png| → |535532853979512842.png| → |535532879330148352.png| → 3 hit |535532879283879977.png| → |535532879325822986.png| → |535541258240786434.png| . (Example clip: https://streamable.com/h2y1qo) You will be teleported down after |535532879325822986.png| .
 
 
 
 
-If the second crystal was destroyed, you can ignore the enigmas and attack Seiryu: |zgs+626465964325601290| |spec+537340400273195028| → basics → |destroy+535532879330148352| → |gflurry+535532879283879977| → build to 100%.
-
-If not, |ricochet+535541259566186521| with your Caroming switch on the 3rd or 4th enigma to make all of them attack you. Move up to Seiryu and |zgs+626465964325601290| |spec+537340400273195028| → basics until the enigmas are gathered around you → |cane+535532878969438210| → |quake+535532879506309150| → |gflurry+535532879283879977| → build to 100%.
 
 
+If the second crystal was destroyed, you can ignore the enigmas and attack Seiryu: |626465964325601290.png| |537340400273195028.png| → basics → |535532879330148352.png| → |535532879283879977.png| → build to 100%.
 
-After reaching 100%, |zerk+535532854004678657| → |gbarge+535532879250456578| → |backhand+535532854302605333| → 188 → |limitless+641339233638023179| + |assault+535532853979512842| → |destroy+535532879330148352| → build to 50% → |gflurry+535532879283879977| → strong abilities until Seiryu is phased. You will not have |zerk+535532854004678657| available immediately for the second crystal phase. If the second crystal was not destroyed, jump up from the same side as you did earlier and use whatever abilities you deem necessary to finish it off. Ideally, when the second crystal is destroyed, you have 100% adrenaline and both |zerk+535532854004678657| and |gbarge+535532879250456578| off cooldown. For the final crystal, |zerk+535532854004678657| + |adrenrenewal+736298121704767538| → |gbarge+535532879250456578| + Drop |dommine+662249620579155968| → 188s and thresholds until the third crystal is destroyed.
+If not, |535541259566186521.png| with your Caroming switch on the 3rd or 4th enigma to make all of them attack you. Move up to Seiryu and |626465964325601290.png| |537340400273195028.png| → basics until the enigmas are gathered around you → |535532878969438210.png| → |535532879506309150.png| → |535532879283879977.png| → build to 100%.
+
+
+
+After reaching 100%, |535532854004678657.png| → |535532879250456578.png| → |535532854302605333.png| → 188 → |641339233638023179.png| + |535532853979512842.png| → |535532879330148352.png| → build to 50% → |535532879283879977.png| → strong abilities until Seiryu is phased. You will not have |535532854004678657.png| available immediately for the second crystal phase. If the second crystal was not destroyed, jump up from the same side as you did earlier and use whatever abilities you deem necessary to finish it off. Ideally, when the second crystal is destroyed, you have 100% adrenaline and both |535532854004678657.png| and |535532879250456578.png| off cooldown. For the final crystal, |535532854004678657.png| + |736298121704767538.png| → |535532879250456578.png| + Drop |662249620579155968.png| → 188s and thresholds until the third crystal is destroyed.
 
 
 
@@ -1296,46 +1296,46 @@ After reaching 100%, |zerk+535532854004678657| → |gbarge+535532879250456578| �
 
 |<b>| Ranged: |</b>| (Credit to <@!198930220663701504>)
 
-|<i>| Note: |</i>| These rotations assume you are using 3T |snipe+535541258425204770|
+|<i>| Note: |</i>| These rotations assume you are using 3T |535541258425204770.png|
 
 
 
-(Camp |HydrixBakri+550834403136503822| )
+(Camp |550834403136503822.png| )
 
-Use a defensive then |surge+535533810004262912| |bd+535532854281764884| during gcd
+Use a defensive then |535533810004262912.png| |535532854281764884.png| during gcd
 
-Auto → DW |corruptshot+535541306294796299| → |DeathsSwift+513190158812839936| → Auto + |snipe+535541258425204770| (with flanking offhand) → |bindingshot+535541306563231790| → |limitless+641339233638023179| |rapid+535541270521708566| → DW |snap+535534127131394088| → |freedom+535541258240786434| AA → DW |snipe+535541258425204770| → |needle+535541259108876293| → |shadowtend+642713547142332416| → |bindingshot+535541306563231790| → 4T |ecb+615618531937222657| |spec+537340400273195028| → Auto + |snipe+535541258425204770| → |corruptshot+535541306294796299| → |rapid+535541270521708566| → |snap+535534127131394088| → |sgb+626466665848242186| |eofor+745279787471470713| ( |bindingshot+535541306563231790| if you dont have sgb amulet) → |snipe+535541258425204770| (with flanking offhand) → |bindingshot+535541306563231790| → Improvise till phase
-
-
-
-
-
-
-P1 notes: |DeathsSwift+513190158812839936| further away from head (east/west) so u can dodge Seiryu's tendril attack without leaving flank distance, lower hp to ~5k before shadow tendrils, only heal up to ~3k before each mage hit after shadow tendrils, camp mage prayer after |ecb+615618531937222657| |spec+537340400273195028| spec to lower your hp even more (~1.5k).
-
-
-
-|<b>| Crystal 1 |</b>| (Camp |RubyBakri+565726489413287956| , swap to |HydrixBakri+550834403136503822| if you get a ruby proc)
-
-|vulnbomb+655341074235129858| + Auto + |nip+537336877900890135| + |dommine+662249620579155968| → |ecb+615618531937222657| |spec+537340400273195028| → |snipe+535541258425204770| → |corruptshot+535541306294796299| → |rapid+535541270521708566| → |mds+535541259033378827| + |stickybomb+655341074306301964| → DW |piercing+535541258538450944| → |HydrixBakri+550834403136503822| |DeathsSwift+513190158812839936| + |stickybomb+655341074306301964| → Auto + |snipe+535541258425204770| → |piercing+535541258538450944| → |freedom+535541258240786434| AA → |snap+535534127131394088| + |stickybomb+655341074306301964| → |piercing+535541258538450944| → |needle+535541259108876293| → Improvise till crystal is finished
+Auto → DW |535541306294796299.png| → |513190158812839936.png| → Auto + |535541258425204770.png| (with flanking offhand) → |535541306563231790.png| → |641339233638023179.png| |535541270521708566.png| → DW |535534127131394088.png| → |535541258240786434.png| AA → DW |535541258425204770.png| → |535541259108876293.png| → |642713547142332416.png| → |535541306563231790.png| → 4T |615618531937222657.png| |537340400273195028.png| → Auto + |535541258425204770.png| → |535541306294796299.png| → |535541270521708566.png| → |535534127131394088.png| → |626466665848242186.png| |745279787471470713.png| ( |535541306563231790.png| if you dont have sgb amulet) → |535541258425204770.png| (with flanking offhand) → |535541306563231790.png| → Improvise till phase
 
 
 
 
 
 
-|<b>| Crystal 2 |</b>| (Camp |HydrixBakri+550834403136503822| , swap to |RubyBakri+565726489413287956| if you get to 90%+ before |dbow+643848618553507843| |eofspec+746403211908481184| , camp |HydrixBakri+550834403136503822| after |dbow+643848618553507843| |eofspec+746403211908481184| )
-
-|vulnbomb+655341074235129858| + |ecb+615618531937222657| |spec+537340400273195028| + |nip+537336877900890135| → Auto + |corruptshot+535541306294796299| + |stickybomb+655341074306301964| → |snipe+535541258425204770| → |piercing+535541258538450944| → |rapid+535541270521708566| → |HydrixBakri+550834403136503822| |dbow+643848618553507843| |eofspec+746403211908481184| + |stickybomb+655341074306301964| → |piercing+535541258538450944| → |stickybomb+655341074306301964| + |snipe+535541258425204770| → |piercing+535541258538450944| → |mds+535541259033378827| / |snap+535534127131394088| → Improvise till crystal is finished
+P1 notes: |513190158812839936.png| further away from head (east/west) so u can dodge Seiryu's tendril attack without leaving flank distance, lower hp to ~5k before shadow tendrils, only heal up to ~3k before each mage hit after shadow tendrils, camp mage prayer after |615618531937222657.png| |537340400273195028.png| spec to lower your hp even more (~1.5k).
 
 
 
+|<b>| Crystal 1 |</b>| (Camp |565726489413287956.png| , swap to |550834403136503822.png| if you get a ruby proc)
+
+|655341074235129858.png| + Auto + |537336877900890135.png| + |662249620579155968.png| → |615618531937222657.png| |537340400273195028.png| → |535541258425204770.png| → |535541306294796299.png| → |535541270521708566.png| → |535541259033378827.png| + |655341074306301964.png| → DW |535541258538450944.png| → |550834403136503822.png| |513190158812839936.png| + |655341074306301964.png| → Auto + |535541258425204770.png| → |535541258538450944.png| → |535541258240786434.png| AA → |535534127131394088.png| + |655341074306301964.png| → |535541258538450944.png| → |535541259108876293.png| → Improvise till crystal is finished
 
 
 
-|<b>| Crystal 3 |</b>| (Camp |RubyBakri+565726489413287956| , swap to |OnyxBakri+565726489362956308| if you get a ruby proc)
 
-Build to 100% before the 1st heal splat → |vulnbomb+655341074235129858| + |nip+537336877900890135| → 2 ticks after 2nd heal |needle+535541259108876293| → |ecb+615618531937222657| |spec+537340400273195028| (Place |dommine+662249620579155968| when cooldown ends)  → |snipe+535541258425204770| → |corruptshot+535541306294796299| → |rapid+535541270521708566| + |adrenrenewal+736298121704767538| (around ~6-7th tick of rpaid fire)  → |snap+535534127131394088| → |OnyxBakri+565726489362956308| |dbow+643848618553507843| |eofspec+746403211908481184| → |snipe+535541258425204770| → |dbow+643848618553507843| |eofspec+746403211908481184|
+
+
+|<b>| Crystal 2 |</b>| (Camp |550834403136503822.png| , swap to |565726489413287956.png| if you get to 90%+ before |643848618553507843.png| |746403211908481184.png| , camp |550834403136503822.png| after |643848618553507843.png| |746403211908481184.png| )
+
+|655341074235129858.png| + |615618531937222657.png| |537340400273195028.png| + |537336877900890135.png| → Auto + |535541306294796299.png| + |655341074306301964.png| → |535541258425204770.png| → |535541258538450944.png| → |535541270521708566.png| → |550834403136503822.png| |643848618553507843.png| |746403211908481184.png| + |655341074306301964.png| → |535541258538450944.png| → |655341074306301964.png| + |535541258425204770.png| → |535541258538450944.png| → |535541259033378827.png| / |535534127131394088.png| → Improvise till crystal is finished
+
+
+
+
+
+
+|<b>| Crystal 3 |</b>| (Camp |565726489413287956.png| , swap to |565726489362956308.png| if you get a ruby proc)
+
+Build to 100% before the 1st heal splat → |655341074235129858.png| + |537336877900890135.png| → 2 ticks after 2nd heal |535541259108876293.png| → |615618531937222657.png| |537340400273195028.png| (Place |662249620579155968.png| when cooldown ends)  → |535541258425204770.png| → |535541306294796299.png| → |535541270521708566.png| + |736298121704767538.png| (around ~6-7th tick of rpaid fire)  → |535534127131394088.png| → |565726489362956308.png| |643848618553507843.png| |746403211908481184.png| → |535541258425204770.png| → |643848618553507843.png| |746403211908481184.png|
 
 
 
@@ -1371,13 +1371,13 @@ Phase 1 has no noteworthy changes from the 2-cycle rotation, but the importance 
 
 |<b>| Crystal 1 |</b>|
 
-|zerk+535532854004678657| + |adrenrenewal+736298121704767538| + |vulnbomb+655341074235129858| → |gbarge+535532879250456578| + |dommine+662249620579155968| → |cleave+535532878616985610| → |assault+535532855191928842| → |destroy+535532879330148352| → |deci+535532879325822986| → |gflurry+535532879283879977| /188s until crystal 1 dies
+|535532854004678657.png| + |736298121704767538.png| + |655341074235129858.png| → |535532879250456578.png| + |662249620579155968.png| → |535532878616985610.png| → |535532855191928842.png| → |535532879330148352.png| → |535532879325822986.png| → |535532879283879977.png| /188s until crystal 1 dies
 
 
 
 |<b>| Crystal 2 |</b>|
 
-|vulnbomb+655341074235129858| + 188/ |gflurry+535532879283879977| → 188s until Zerk runs out → |dismember+535532879376023572| → |bloodtendrils+535532854327640064| → 188s → out of distance |zgs+626465964325601290| |spec+537340400273195028| → Defensive → |gbarge+535532879250456578| → 188s → |assault+535532855191928842| |<i>| → |destroy+535532879330148352| → 188s/thresholds according to HP/adrenaline, kill crystal 2 before it gets healed and build to 100% adrenaline.
+|655341074235129858.png| + 188/ |535532879283879977.png| → 188s until Zerk runs out → |535532879376023572.png| → |535532854327640064.png| → 188s → out of distance |626465964325601290.png| |537340400273195028.png| → Defensive → |535532879250456578.png| → 188s → |535532855191928842.png| |<i>| → |535532879330148352.png| → 188s/thresholds according to HP/adrenaline, kill crystal 2 before it gets healed and build to 100% adrenaline.
 
 
 
@@ -1390,11 +1390,11 @@ Phase 1 has no noteworthy changes from the 2-cycle rotation, but the importance 
 
 |<b>| Crystal 3 |</b>|
 
-If you have a |mwspear+694566917456789554| , |dismember+535532879376023572| before Zerk.
+If you have a |694566917456789554.png| , |535532879376023572.png| before Zerk.
 
 
 
-1 tick after the first heal appears, |zerk+535532854004678657| → Defensive → |gbarge+535532879250456578| → |cleave+535532878616985610| (Stall) → release |cleave+535532878616985610| + |sever+535532879577612298| + |dommine+662249620579155968| → |limitless+641339233638023179| + |assault+535532855191928842| → 3hit |gflurry+535532879283879977| → |destroy+535532879330148352| → |deci+535532879325822986| → |cleave+535532878616985610|
+1 tick after the first heal appears, |535532854004678657.png| → Defensive → |535532879250456578.png| → |535532878616985610.png| (Stall) → release |535532878616985610.png| + |535532879577612298.png| + |662249620579155968.png| → |641339233638023179.png| + |535532855191928842.png| → 3hit |535532879283879977.png| → |535532879330148352.png| → |535532879325822986.png| → |535532878616985610.png|
 
 
 
