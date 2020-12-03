@@ -1,25 +1,3 @@
-.. |<b>| raw:: html
-
-    <b>
-
-.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/UcXWBwd.png| image:: https://i.imgur.com/UcXWBwd.png
-
-.. |643162769520066570.png| image:: https://cdn.discordapp.com/emojis/643162769520066570.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
@@ -28,11 +6,7 @@
 
     </b>
 
-.. |643150841280200717.png| image:: https://cdn.discordapp.com/emojis/643150841280200717.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -40,23 +14,49 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/QyyXACA.png| image:: https://i.imgur.com/QyyXACA.png
-
-.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |643507594794631198.png| image:: https://cdn.discordapp.com/emojis/643507594794631198.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |643150841280200717.png| image:: https://cdn.discordapp.com/emojis/643150841280200717.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |https://i.imgur.com/UcXWBwd.png| image:: https://i.imgur.com/UcXWBwd.png
+
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/QyyXACA.png| image:: https://i.imgur.com/QyyXACA.png
+
+.. |643162769520066570.png| image:: https://cdn.discordapp.com/emojis/643162769520066570.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |</u>| raw:: html
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </u>
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 gwd1
 ====

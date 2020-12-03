@@ -1,14 +1,8 @@
-.. |https://i.imgur.com/Gfay885.png| image:: https://i.imgur.com/Gfay885.png
-
-.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |535532853979512842.png| image:: https://cdn.discordapp.com/emojis/535532853979512842.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -16,43 +10,17 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |643161541931171872.png| image:: https://cdn.discordapp.com/emojis/643161541931171872.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |643163068846702596.png| image:: https://cdn.discordapp.com/emojis/643163068846702596.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/7Fq2gcD.png| image:: https://i.imgur.com/7Fq2gcD.png
 
 .. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |643162860830326824.png| image:: https://cdn.discordapp.com/emojis/643162860830326824.png?v=1
+.. |643163068846702596.png| image:: https://cdn.discordapp.com/emojis/643163068846702596.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/p0r46NJ.png| image:: https://i.imgur.com/p0r46NJ.png
-
-.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/2Gchgth.png| image:: https://i.imgur.com/2Gchgth.png
-
-.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -60,7 +28,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -68,11 +36,11 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -80,11 +48,31 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |656426717295935500.png| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
+.. |https://i.imgur.com/wvJNWxy.png| image:: https://i.imgur.com/wvJNWxy.png
+
+.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |https://i.imgur.com/2Gchgth.png| image:: https://i.imgur.com/2Gchgth.png
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -92,39 +80,127 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+.. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</b>| raw:: html
 
-.. |https://i.imgur.com/wvJNWxy.png| image:: https://i.imgur.com/wvJNWxy.png
-
-.. |https://i.imgur.com/7Fq2gcD.png| image:: https://i.imgur.com/7Fq2gcD.png
-
-.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    </b>
 
 .. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |<u>| raw:: html
+.. |626465964325601290.png| image:: https://cdn.discordapp.com/emojis/626465964325601290.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <u>
+.. |</u>| raw:: html
+
+    </u>
 
 .. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643161541931171872.png| image:: https://cdn.discordapp.com/emojis/643161541931171872.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/jhKDHW5ePfw| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/jhKDHW5ePfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |615613924506599497.png| image:: https://cdn.discordapp.com/emojis/615613924506599497.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/p0r46NJ.png| image:: https://i.imgur.com/p0r46NJ.png
+
+.. |535532879376023572.png| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/Gfay885.png| image:: https://i.imgur.com/Gfay885.png
+
+.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879237873666.png| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656426717295935500.png| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643162860830326824.png| image:: https://cdn.discordapp.com/emojis/643162860830326824.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -317,6 +393,40 @@ Once Vindicta reaches 100k hp she will mount Gorvek, signalling the start of pha
 
 
 
+
+
+
+|<u>| |<b>| The Fight (~65 kph, Credit to <@!235999428622811137>) |</b>| |</u>|
+
+|<i>| Note: These rotations assume you are using the Fury of the small relic and instance hopping |</i>|
+
+
+
+|<b>| Kill 1: (100% adrenaline required) |</b>|
+
+|535532854004678657.png| → TC + |535532879250456578.png| → |535532878616985610.png| → |535532879325822986.png| → |641339233638023179.png| + |535532879330148352.png| → |535532879283879977.png| → |535532878616985610.png| → |535532853979512842.png| → |535532879325822986.png| → 5t Auto + |535532878616985610.png| → |535532879376023572.png| → |535541258240786434.png| AA → Improvise (Finish kill on 82%+ adrenaline, if you triple imp proc or asr/relentless 3hit flurry under sigil and dont 5t auto later)
+
+
+
+|<b>| Kill 2: (82% adrenaline required) |</b>|
+
+|535532879250456578.png| → |535532879237873666.png| → |535532879376023572.png| → |535532879330148352.png| → |634350450887622656.png| + |535532854004678657.png| → Auto + |535532878616985610.png| → |535532879325822986.png| → |535532879577612298.png| → |535541258240786434.png| AA → |535532878616985610.png| → |535532853979512842.png| → |535532879325822986.png| → 5t Auto + |535532878616985610.png| |<b>| OR |</b>| 5t Auto + |535532879283879977.png| > |535532878969438210.png| → Basics till kill ends
+
+
+
+|<b>| Kill 3: (Improvise) |</b>|
+
+|535532879250456578.png| → |535532879376023572.png| → |535532879237873666.png| (if high adren) |<b>| OR |</b>| |535532879325822986.png| (if low adren) → |535532879330148352.png| → |626465964325601290.png| |537340400273195028.png| → Auto + |535532878616985610.png| → |535532853979512842.png| → 3 Hit |535532879283879977.png| → |535532878969438210.png| → |535532879237873666.png| (if still high HP, finish kill on 100% adrenaline)
+
+
+
+Rotate these three rotations with 30 minute trips
+
+
+
+https://youtu.be/jhKDHW5ePfw
+
+|https://youtu.be/jhKDHW5ePfw|
 
 
 

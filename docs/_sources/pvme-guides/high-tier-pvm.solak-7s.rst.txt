@@ -1,8 +1,40 @@
-.. |<b>| raw:: html
+.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
 
-    <b>
+.. |</b>| raw:: html
 
-.. |643505652634746881.png| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
+    </b>
+
+.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
+
+.. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
+
+.. |643505652571963417.png| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
+
+.. |643505179378974748.png| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/ab02YuY.png| image:: https://i.imgur.com/ab02YuY.png
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |643505153709965322.png| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643148943856762890.png| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
+
+.. |643505116347105290.png| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -10,51 +42,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |643505153709965322.png| image:: https://cdn.discordapp.com/emojis/643505153709965322.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<b>| raw:: html
 
-.. |https://i.imgur.com/ab02YuY.png| image:: https://i.imgur.com/ab02YuY.png
-
-.. |643505116347105290.png| image:: https://cdn.discordapp.com/emojis/643505116347105290.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/D0gwXF0.png| image:: https://i.imgur.com/D0gwXF0.png
-
-.. |https://i.imgur.com/iaSSt6n.png| image:: https://i.imgur.com/iaSSt6n.png
-
-.. |643505179378974748.png| image:: https://cdn.discordapp.com/emojis/643505179378974748.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/lcLrVON.png| image:: https://i.imgur.com/lcLrVON.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |https://i.imgur.com/wC2Rpu5.png| image:: https://i.imgur.com/wC2Rpu5.png
-
-.. |https://i.imgur.com/oExT8r7.png| image:: https://i.imgur.com/oExT8r7.png
-
-.. |https://i.imgur.com/eR0Uk6v.png| image:: https://i.imgur.com/eR0Uk6v.png
-
-.. |643148943856762890.png| image:: https://cdn.discordapp.com/emojis/643148943856762890.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <b>
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |643505652571963417.png| image:: https://cdn.discordapp.com/emojis/643505652571963417.png?v=1
+.. |https://i.imgur.com/oExT8r7.png| image:: https://i.imgur.com/oExT8r7.png
+
+.. |643505652634746881.png| image:: https://cdn.discordapp.com/emojis/643505652634746881.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
 
 solak-7s
 ========
@@ -392,6 +392,12 @@ When Solak does his pulling root attack, he will place his arm on the ground. Th
 - You CAN resonance the hurricane and blight rain hits, although you have to time the blight rain hit res, as a range hit will hit just before the blight rain hit.
 
 - If on a slow team and you struggle with phasing before hurricane, you can shatter during arm climbing.
+
+
+
+
+
+
 
 
 

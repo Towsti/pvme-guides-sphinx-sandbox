@@ -1,32 +1,36 @@
-.. |<b>| raw:: html
+.. |</b>| raw:: html
 
-    <b>
+    </b>
 
-.. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
+.. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
 
 .. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
 
 .. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
 
-.. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
+.. |</u>| raw:: html
+
+    </u>
+
+.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
+
+.. |https://www.youtube.com/watch?v=zn_y-_2giZg| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/zn_y-_2giZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |https://i.imgur.com/gh0lwgt.jpg| image:: https://i.imgur.com/gh0lwgt.jpg
 
-.. |</b>| raw:: html
+.. |<b>| raw:: html
 
-    </b>
-
-.. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
+    <b>
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
+.. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
 
-.. |</u>| raw:: html
-
-    </u>
+.. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
 
 interface-guide
 ===============
@@ -222,6 +226,16 @@ At the end of the day, a good interface is one that works for |<b>| you |</b>| .
 ``DEATHSOFFICE`` - <https://i.imgur.com/oZuuGxV.jpg>
 
 
+
+
+
+In addition to the interface guide, check out this very well thought out guide to setting up your keybinds made by <@158292421724209152> 
+
+
+
+https://www.youtube.com/watch?v=zn_y-_2giZg
+
+|https://www.youtube.com/watch?v=zn_y-_2giZg|
 
 
 

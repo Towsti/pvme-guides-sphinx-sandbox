@@ -1,48 +1,68 @@
-.. |<b>| raw:: html
-
-    <b>
-
 .. |https://youtu.be/3bMTu1YJIbQ| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/3bMTu1YJIbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-.. |https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4| image:: https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4
-
-.. |https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4| image:: https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4
-
 .. |https://i.imgur.com/h7dRWus.gif| image:: https://i.imgur.com/h7dRWus.gif
 
-.. |</b>| raw:: html
+.. |https://www.youtube.com/watch?v=sgnThNnO9W8&feature=youtu.be| raw:: html
 
-    </b>
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/sgnThNnO9W8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://i.imgur.com/64bHib9.png| image:: https://i.imgur.com/64bHib9.png
-
-.. |https://youtu.be/UtBBbOpRx84| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/UtBBbOpRx84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-.. |https://youtu.be/5MMV0_JraMw| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/5MMV0_JraMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-.. |https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4| image:: https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4
+.. |https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4| image:: https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4
 
 .. |<u>| raw:: html
 
     <u>
 
+.. |https://www.youtube.com/watch?v=Mzyfjey6IwQ&feature=youtu.be| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Mzyfjey6IwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |</b>| raw:: html
+
+    </b>
+
 .. |https://youtu.be/-HOB3kLpHgI| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/-HOB3kLpHgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+.. |https://www.youtube.com/watch?v=OmYO-xwpxjo&feature=youtu.be| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/OmYO-xwpxjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://www.youtube.com/watch?v=CXqNT7XOOHk&feature=youtu.be| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/CXqNT7XOOHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |</u>| raw:: html
 
     </u>
+
+.. |https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4| image:: https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4
+
+.. |https://youtu.be/5MMV0_JraMw| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/5MMV0_JraMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |https://www.youtube.com/watch?v=Mu_EvH4Y_Xg| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Mu_EvH4Y_Xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://clips.twitch.tv/FrigidDeafMooseThisIsSparta| raw:: html
+
+    <iframe class="media" src="https://clips.twitch.tv/embed?autoplay=false&clip=FrigidDeafMooseThisIsSparta" frameborder="0" allowfullscreen="true" scrolling="no" height="335" width="550"></iframe>
+
+.. |https://youtu.be/UtBBbOpRx84| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/UtBBbOpRx84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4| image:: https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4
+
+.. |https://i.imgur.com/64bHib9.png| image:: https://i.imgur.com/64bHib9.png
 
 vorago-tips-and-tricks
 ======================
@@ -181,7 +201,7 @@ Unless stated otherwise, all of these apply to both normal mode and hard mode.
 
 		 - Potential applications: Avoid voking Vorago while standing behind another player. See clip: https://clips.twitch.tv/FrigidDeafMooseThisIsSparta
 
-
+|https://clips.twitch.tv/FrigidDeafMooseThisIsSparta|
 
 
 
@@ -403,7 +423,7 @@ Lure to TL5 spot in small teams (Credit to <@373844901273796608>)
 
 https://www.youtube.com/watch?v=OmYO-xwpxjo&feature=youtu.be
 
-
+|https://www.youtube.com/watch?v=OmYO-xwpxjo&feature=youtu.be|
 
 
 
@@ -419,7 +439,7 @@ Proper climbing as TL5 (Credit to <@373844901273796608>)
 
 https://www.youtube.com/watch?v=Mzyfjey6IwQ&feature=youtu.be
 
-
+|https://www.youtube.com/watch?v=Mzyfjey6IwQ&feature=youtu.be|
 
 
 
@@ -435,7 +455,7 @@ How to tick shatter on P2 (Credit to <@373844901273796608>)
 
 https://www.youtube.com/watch?v=CXqNT7XOOHk&feature=youtu.be
 
-
+|https://www.youtube.com/watch?v=CXqNT7XOOHk&feature=youtu.be|
 
 
 
@@ -451,7 +471,7 @@ Stalling Wild Magic as Top Lure (Credit to <@185315527571406848>)
 
 https://www.youtube.com/watch?v=sgnThNnO9W8&feature=youtu.be
 
-
+|https://www.youtube.com/watch?v=sgnThNnO9W8&feature=youtu.be|
 
 
 
@@ -769,11 +789,41 @@ If Vorago is north, step 2 squares south instead.
 https://www.youtube.com/watch?v=Mu_EvH4Y_Xg
 
 
+|https://www.youtube.com/watch?v=Mu_EvH4Y_Xg|
 
 
 
 
 
+
+
+
+
+- |<b>| TL5 Lure spot |</b>| - $linkmsg_tl5lure$
+
+- |<b>| Proper TL5 climbing |</b>| - $linkmsg_tl5climb$
+
+- |<b>| Tick Shatter P2 |</b>| - $linkmsg_p2shatter$
+
+- |<b>| Stalling Wild Magic as Top Lure |</b>| - $linkmsg_wmtlstall$
+
+- |<b>| Crack Healing |</b>| - $linkmsg_crackheal$
+
+- |<b>| How to get entry HP |</b>| - $linkmsg_entryhp$
+
+- |<b>| Skipping Debilitate on P5 |</b>| - $linkmsg_debil$
+
+- |<b>| DD Scops using Target Cycle |</b>| - $linkmsg_scoptc$
+
+- |<b>| Scop flank as base |</b>| - $linkmsg_scopflank$
+
+- |<b>| Breaking Teamsplits |</b>| - $linkmsg_brokents$
+
+- |<b>| Target Cycling |</b>| - $linkmsg_tc$
+
+- |<b>| Centring |</b>| - $linkmsg_centre$
+
+- |<b>| Solo P1 Lure |</b>| - $linkmsg_sololure$
 
 
 

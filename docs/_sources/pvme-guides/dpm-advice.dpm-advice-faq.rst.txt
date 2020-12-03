@@ -1,26 +1,62 @@
-.. |<b>| raw:: html
+.. |</b>| raw:: html
 
-    <b>
+    </b>
+
+.. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |<i>| raw:: html
 
     <i>
 
+.. |</u>| raw:: html
+
+    </u>
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |</i>| raw:: html
 
     </i>
 
-.. |</b>| raw:: html
+.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    </b>
+.. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://www.youtube.com/watch?v=unCtj7IosVA| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/unCtj7IosVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |<b>| raw:: html
+
+    <b>
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |</u>| raw:: html
-
-    </u>
+.. |535532879510372352.png| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 dpm-advice-faq
 ==============
@@ -69,7 +105,7 @@ longgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
 |<b>| How to fix: |</b>| Evil Luracio’s video guide on correct canceling timing https://www.youtube.com/watch?v=unCtj7IosVA
 
-
+|https://www.youtube.com/watch?v=unCtj7IosVA|
 
 
 
@@ -122,6 +158,36 @@ Two scenarios: missing auto all together OR getting an auto but it’s a dual wi
 |<b>| Why it's important: |</b>| Prioritizing weak abilities over strong abilities when choosing the next ability just leads to lower damage.
 
 |<b>| How to fix: |</b>| if on Revo, take a look at the official RS Wiki and set up an optimized revolution bar. For full manual, take a look at this spreadsheet and familiarize yourself in what abilities are better damage and therefore should be prioritized. https://docs.google.com/spreadsheets/d/1OetEUz4xU5sg7pqmJBkkafmZIye8qoPOXprUPGhin14/edit?usp=sharing
+
+
+
+
+
+|<u>| |<b>| 8. Managing cooldowns of good abilities |</b>| |</u>|
+
+Using and putting all of the good abilities on cooldown right away and being stuck with only weak basics afterwards.
+
+|<b>| Why it’s important: |</b>| the good abilities (dbreath, impact-flanking, corruption blast, snipe, binding shot-flanking, corruption shot) often come with a long cooldown. If you use all of the good abilities at once, you will be stuck with the lower damage abilities until all of the good abilities are back off cd. 
+
+|<b>| How to fix: |</b>| by using ‘filler’ abilities such as Sonic Wave |535533809924571136.png| , Concentrated Blast |535533833106489365.png| , Dazing Shot |535541307142307860.png| , Needle Strike |535541259108876293.png| , Fury |535532879510372352.png| |535532879334080527.png| , Cleave |535532878616985610.png| , and Decimate |535532879325822986.png| (abilities that have decent damage with a short cooldown) in-between the strong abilities, you can craft a rotation where you will never run into a scenario where you have to resort to low damage abilities.  
+
+
+
+|<u>| |<b>| 9. Losing ticks |</b>| |</u>|
+
+This can be caused by: a) not inputting the next ability fast enough, b) having trouble determining what is the next ability, c) clicking and/or being slow on weapon switches
+
+|<b>| Why it’s important: |</b>| same rational as canceling channeled abilities. Losing ticks here and there will snowball over the course of a 5 minute gem.
+
+|<b>| How to fix: |</b>| practice, practice, practice. Try and think 2 abilities ahead and plan out your rotation. 
+
+
+
+|<u>| |<b>| 10. Changing weapons mid-channel ability |</b>| |</u>|
+
+|<b>| Why it’s important: |</b>| Changing from wand and orb to Staff mid-concentrated blast will lose you the crit bonus from the conc blast. This requires precise timing to make sure you’re still getting 2 hits from your conc blast. Moreover, this resets your auto cooldown which is bad for 4taa
+
+|<b>| How to fix: |</b>| just don’t do it.
 
 
 

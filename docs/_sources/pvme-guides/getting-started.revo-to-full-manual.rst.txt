@@ -1,28 +1,28 @@
-.. |<b>| raw:: html
+.. |</b>| raw:: html
 
-    <b>
-
-.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
+    </b>
 
 .. |<i>| raw:: html
 
     <i>
 
+.. |</u>| raw:: html
+
+    </u>
+
 .. |</i>| raw:: html
 
     </i>
 
-.. |</b>| raw:: html
+.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
 
-    </b>
+.. |<b>| raw:: html
+
+    <b>
 
 .. |<u>| raw:: html
 
     <u>
-
-.. |</u>| raw:: html
-
-    </u>
 
 revo-to-full-manual
 ===================
@@ -169,6 +169,30 @@ When using an ability that does not do damage, sometimes an auto attack will occ
 
 
 Similar to 4taa, 5 tick auto attack is used in Melee and Range rotations in substitution of an 100% damaging ability. An auto attack in Melee and Range deal an average of 130% ability damage, thus is better than a slice or a piercing shot basic ability. In dps-reliant phases, a 5taa can be used instead of a weaker basic ability as the 5taa is more damage. Revo users cannot do 5taa as there is no auto attack button for melee/range.
+
+
+
+
+
+
+
+Positioning:  
+------------
+
+
+On Revo, clicking underneath your character will not stop you deactivating revo. On full manual, clicking underneath your character will stop you from attacking (will stop auto attacks too). While it may seem small, staying on a particular square is important in certain boss mechanics. Examples include but not limited to: 
+
+-    Vorago p5, dpsers must stay on the South wall
+
+-    Vorago base, must keep Vorago in base spot for convenience
+
+-    Vorago green bomb in 5 man teams, must form a square between 3 other players and stay in formation
+
+-    Aod base, must keep her in the center of the arena for chinner and minions on p2 and p3.
+
+
+
+|<b>| Final thoughts |</b>| : This is just a reminder that Full Manual is not needed to be proficient at pvm or bossing at all. You can do raids, Telos, duo Vorago, duo Solak, 7man Aod, etc using Revo and many players already do. However, if you’re looking to up your combat capabilities and squeeze in some more dps, full manual offers a range of benefits listed above that revo just cannot replicate.
 
 
 

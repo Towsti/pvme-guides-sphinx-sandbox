@@ -1,32 +1,8 @@
-.. |<b>| raw:: html
-
-    <b>
-
-.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |643155113023635461.png| image:: https://cdn.discordapp.com/emojis/643155113023635461.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |703581275453128714.png| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |643155112948400128.png| image:: https://cdn.discordapp.com/emojis/643155112948400128.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |643155112809988118.png| image:: https://cdn.discordapp.com/emojis/643155112809988118.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |535541273755385885.png| image:: https://cdn.discordapp.com/emojis/535541273755385885.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -34,17 +10,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/XXXQnIA.png| image:: https://i.imgur.com/XXXQnIA.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+.. |703581275453128714.png| image:: https://cdn.discordapp.com/emojis/703581275453128714.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+.. |535533833072672778.png| image:: https://cdn.discordapp.com/emojis/535533833072672778.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532855191928842.png| image:: https://cdn.discordapp.com/emojis/535532855191928842.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -54,13 +32,107 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |https://i.imgur.com/XXXQnIA.png| image:: https://i.imgur.com/XXXQnIA.png
+
+.. |643155113023635461.png| image:: https://cdn.discordapp.com/emojis/643155113023635461.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854327640064.png| image:: https://cdn.discordapp.com/emojis/535532854327640064.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |643155112809988118.png| image:: https://cdn.discordapp.com/emojis/643155112809988118.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |<u>| raw:: html
 
     <u>
 
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809823645697.png| image:: https://cdn.discordapp.com/emojis/535533809823645697.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535534127131394088.png| image:: https://cdn.discordapp.com/emojis/535534127131394088.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541270521708566.png| image:: https://cdn.discordapp.com/emojis/535541270521708566.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |</u>| raw:: html
 
     </u>
+
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |643155112948400128.png| image:: https://cdn.discordapp.com/emojis/643155112948400128.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879577612298.png| image:: https://cdn.discordapp.com/emojis/535532879577612298.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833391702017.png| image:: https://cdn.discordapp.com/emojis/535533833391702017.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533809978966037.png| image:: https://cdn.discordapp.com/emojis/535533809978966037.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879376023572.png| image:: https://cdn.discordapp.com/emojis/535532879376023572.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879237873666.png| image:: https://cdn.discordapp.com/emojis/535532879237873666.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533833098100745.png| image:: https://cdn.discordapp.com/emojis/535533833098100745.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 dagannoth-kings
 ===============
@@ -130,6 +202,38 @@ Preset
 |https://i.imgur.com/XXXQnIA.png|
 
 
+
+
+
+
+
+|<b>| |<u>| Optimal Strategy Breakdown (Courtesy of <@!244845124712923137>) |</u>| |</b>|
+
+
+
+Camp Soulsplit and switch to the respective Prayer as you kill the Kings. Cancel channels with basics to gain free adren if the king is about to die.
+
+
+
+|<u>| Supreme |</u>|
+
+|535532879376023572.png| → Walked |535532879237873666.png| → |535532854327640064.png| → |535532855191928842.png| (cancel with |535532878616985610.png| / |535532879577612298.png| )
+
+
+
+|<u>| Prime |</u>|
+
+|535541273755385885.png| → |535541306294796299.png| → |535541259033378827.png| → |535534127131394088.png| → |535541270521708566.png| (cancel with |535541259033378827.png| )
+
+
+
+|<u>| Rex |</u>|
+
+Walked |535533833098100745.png| → |535533833391702017.png| → |513190159194259467.png| → |535533809924571136.png| → |535533809978966037.png| → |535533833072672778.png| (cancel with |535533833391702017.png| / |535533809823645697.png| )
+
+
+
+Video: <https://youtu.be/SdFGL1LHkjk>
 
 
 

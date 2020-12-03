@@ -1,8 +1,8 @@
-.. |<b>| raw:: html
+.. |</b>| raw:: html
 
-    <b>
+    </b>
 
-.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+.. |643163047275266094.png| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -10,29 +10,29 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |643163047275266094.png| image:: https://cdn.discordapp.com/emojis/643163047275266094.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/CP0Xelp.png| image:: https://i.imgur.com/CP0Xelp.png
 
 .. |</u>| raw:: html
 
     </u>
 
-.. |https://i.imgur.com/CP0Xelp.png| image:: https://i.imgur.com/CP0Xelp.png
+.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/nLzoV07.png| image:: https://i.imgur.com/nLzoV07.png
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 king-black-dragon
 =================

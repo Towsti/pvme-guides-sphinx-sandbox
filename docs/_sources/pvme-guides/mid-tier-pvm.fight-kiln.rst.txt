@@ -1,4 +1,30 @@
-.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
+.. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
+
+.. |689509250472476758.png| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
+
+.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -6,69 +32,43 @@
 
     </b>
 
-.. |689504724403486920.png| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
 
 .. |</u>| raw:: html
 
     </u>
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |543465115870035999.png| image:: https://cdn.discordapp.com/emojis/543465115870035999.png?v=1
+.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |https://i.imgur.com/bB0xUd0.png| image:: https://i.imgur.com/bB0xUd0.png
+
+.. |689504724403486920.png| image:: https://cdn.discordapp.com/emojis/689504724403486920.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
 
 .. |<i>| raw:: html
 
     <i>
 
+.. |<b>| raw:: html
+
+    <b>
+
 .. |689504724159823906.png| image:: https://cdn.discordapp.com/emojis/689504724159823906.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/gLDiYck.png| image:: https://i.imgur.com/gLDiYck.png
-
-.. |https://i.imgur.com/bB0xUd0.png| image:: https://i.imgur.com/bB0xUd0.png
-
-.. |https://i.imgur.com/EPXLkov.png| image:: https://i.imgur.com/EPXLkov.png
-
-.. |https://i.imgur.com/O63i4K2.png| image:: https://i.imgur.com/O63i4K2.png
-
-.. |689509250472476758.png| image:: https://cdn.discordapp.com/emojis/689509250472476758.png?v=1
+.. |536252659422855188.png| image:: https://cdn.discordapp.com/emojis/536252659422855188.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |537349530551582720.png| image:: https://cdn.discordapp.com/emojis/537349530551582720.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |583430011868938283.png| image:: https://cdn.discordapp.com/emojis/583430011868938283.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |https://i.imgur.com/hLsQnEw.png| image:: https://i.imgur.com/hLsQnEw.png
-
-.. |https://i.imgur.com/Ofhv2P6.png| image:: https://i.imgur.com/Ofhv2P6.png
-
-.. |536252658986647589.png| image:: https://cdn.discordapp.com/emojis/536252658986647589.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |536252660333019136.png| image:: https://cdn.discordapp.com/emojis/536252660333019136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
 
 fight-kiln
 ==========
@@ -309,6 +309,26 @@ Wave 33: Use Range
 
 - Spawns after ~72 seconds and is up for ~30 seconds
 
+
+
+
+
+
+|<b>| |<u>| Tips/Tricks/Extra Thoughts |</u>| |</b>|
+
+- You can use crystals of regeneration in emergencies and to extend onslaught on har-aken if you wanted to (make sure you have sign up just in case because the hits start to add up very quickly)
+
+- Use soul split for the whole fight and use deflects as you see needed as well as devotion (on wave 19 there are a lot of magers so using devotion can help)
+
+- Even though you should be soul splitting the fight |<b>| USE PROTECTION PRAYERS ON JAD |</b>|
+
+- Make sure to take advantage of the combat triangle whenever possible
+
+- Invuln crystal does not protect you from dill special attack so you should use restoration crystal if getting low and brew is not enough
+
+- Feel free to use tokkul zo if you have excess tokkul from cauldron as that would be the best in slot ring of you are able to sustain it otherwise use ring of death or asylum surgeons ring
+
+- It is helpful to use lantadyme, kwuarm, and spirit weed incense sticks for increased potion duration, weapon poison damage, and scrolls used per hour
 
 
 

@@ -1,34 +1,34 @@
-.. |<b>| raw:: html
-
-    <b>
-
-.. |<i>| raw:: html
-
-    <i>
-
-.. |</i>| raw:: html
-
-    </i>
-
 .. |</b>| raw:: html
 
     </b>
-
-.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
 
 .. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
+.. |<b>| raw:: html
+
+    <b>
+
 .. |</u>| raw:: html
 
     </u>
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |<i>| raw:: html
+
+    <i>
+
+.. |<u>| raw:: html
+
+    <u>
 
 quick-start
 ===========
@@ -394,6 +394,20 @@ Note: You are able to use invention potions to boost and discover blueprints for
 ``27-60:`` Research lvl 10 max items, then disassemble items once they hit level 10
 
 ``60-99/120:`` Either augment relatively cheap halberd/staff weapons and go to wilderness abyss to level (or abyssal demons if you have the slayer level) and disassemble at level 10 OR Augment a relatively expensive (t80+) weapon and level it to 12 then siphon. Item experience is directly tied to combat experience, so high combat xp training methods such as ED3 are recommended, or afking at abyssal demons should you have trained slayer enough.
+
+
+
+
+
+|<u>| |<b>| Quests |</b>| |</u>|
+
+
+
+For a breakdown of quests you should focus on getting done, read them over in <#689234925064290323>. However, you should especially be focused on doing the |<i>| The Temple at Senntisten |</i>| , as it unlocks curses.
+
+
+
+Moreover, it is worth noting that quest themselves are more rewarding the sooner you do them.
 
 
 

@@ -1,8 +1,8 @@
-.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+.. |643162860867813396.png| image:: https://cdn.discordapp.com/emojis/643162860867813396.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+.. |643161512172716038.png| image:: https://cdn.discordapp.com/emojis/643161512172716038.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -10,75 +10,15 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |</b>| raw:: html
-
-    </b>
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |https://i.imgur.com/IdX39Xz.png| image:: https://i.imgur.com/IdX39Xz.png
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |643161512172716038.png| image:: https://cdn.discordapp.com/emojis/643161512172716038.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |643161561988595782.png| image:: https://cdn.discordapp.com/emojis/643161561988595782.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/YS5o6sL.png| image:: https://i.imgur.com/YS5o6sL.png
-
 .. |https://i.imgur.com/3fbOjP9.png| image:: https://i.imgur.com/3fbOjP9.png
-
-.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 .. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |543478434953822208.png| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |544195488447201300.png| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |656426717295935500.png| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |643162860867813396.png| image:: https://cdn.discordapp.com/emojis/643162860867813396.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://i.imgur.com/KkDdux5.png| image:: https://i.imgur.com/KkDdux5.png
 
-.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+.. |543478434953822208.png| image:: https://cdn.discordapp.com/emojis/543478434953822208.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -86,7 +26,59 @@
 
     <u>
 
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/IdX39Xz.png| image:: https://i.imgur.com/IdX39Xz.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |643161561988595782.png| image:: https://cdn.discordapp.com/emojis/643161561988595782.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
 .. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |544195488447201300.png| image:: https://cdn.discordapp.com/emojis/544195488447201300.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |544200033847869443.png| image:: https://cdn.discordapp.com/emojis/544200033847869443.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252660165115905.png| image:: https://cdn.discordapp.com/emojis/536252660165115905.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658961481769.png| image:: https://cdn.discordapp.com/emojis/536252658961481769.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/YS5o6sL.png| image:: https://i.imgur.com/YS5o6sL.png
+
+.. |536252659586433024.png| image:: https://cdn.discordapp.com/emojis/536252659586433024.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656426717295935500.png| image:: https://cdn.discordapp.com/emojis/656426717295935500.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -94,7 +86,15 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+.. |536252659808731137.png| image:: https://cdn.discordapp.com/emojis/536252659808731137.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656786565527502858.png| image:: https://cdn.discordapp.com/emojis/656786565527502858.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -198,6 +198,48 @@ It is important to use the |739965637056659567.png| relic.
 |https://i.imgur.com/IdX39Xz.png|
 
 
+
+
+
+
+
+Mechanics:  
+----------
+
+
+
+
+At 140k health he will summon 2 clones, and at 60k he will summon 3 clones, they have 3k health each and Greg may teleport to them at random.
+
+
+
+The following specs are his main spec rotation, there are 3 autos between each spec, and the fight is started with 3 autos before the first spec occurs
+
+
+
+|<b>| Bouncing blade |</b>|
+
+The first special attack occurs after 3 autos and he will throw a blade that bounces between you, other players if available, and then himself (it will not damage him), it will hit players 3 times, whether thats one player 3 times or 3 players 1 time each.
+
+
+
+|<b>| Summon Spirits |</b>|
+
+He will summon a spirit dependent on the area of the room that he's standing in, that will walk towards him. If it reaches melee distance of him it will be consumed granting Greg a buff based on the spirit summoned.
+
+The ghosts that are summoned are the spirts of Mania, Rage, and Delirium.
+
+Spirit of Mania connecting causes his attack speed to increase.
+
+Spirit of Rage connecting with him causes his damage to increase.
+
+Spirit of Delirium connecting causes his poison damage to increase. If using vb as advised you can entirely ignore this spirit. By standing in the northwest corner he will only spawn this spirit.
+
+
+
+|<b>| Shadow spots |</b>|
+
+Finally he will do a shadow spot attack similar to the twin furies, certain areas are marked with shadows that you must move out of to avoid a large mage hit, they come in small clusters with one being directly on the spot you are standing on and a few nearby.
 
 
 

@@ -1,20 +1,28 @@
-.. |<b>| raw:: html
-
-    <b>
-
 .. |</b>| raw:: html
 
     </b>
 
-.. |<u>| raw:: html
-
-    <u>
+.. |643162730827874324.png| image:: https://cdn.discordapp.com/emojis/643162730827874324.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |https://i.imgur.com/EdELnZI.png| image:: https://i.imgur.com/EdELnZI.png
 
 .. |</u>| raw:: html
 
     </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |643162714557906965.png| image:: https://cdn.discordapp.com/emojis/643162714557906965.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 chaos-elemental
 ===============
@@ -42,6 +50,20 @@ Chaos Elemental is another old boss, and also one with the distinction of being 
 More specific information is available here:
 
 <https://runescape.wiki/w/Chaos_elemental>
+
+
+
+
+
+
+
+Drops  
+-----
+
+
+- |643162730827874324.png|  |<b>| Ancient warriors equipment |</b>| ``1/847``
+
+- |643162714557906965.png|  |<b>| Ribs of chaos |</b>| ``1/2500 (500 threshold)``
 
 
 
