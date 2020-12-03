@@ -17,9 +17,13 @@ img {
     height: auto !important;
 }
 
+/* for whatever reason, iframes only scale inside divs */
+/*
 .embed-container {
     max-width: 5600px !important;
 }
+*/
+
 
 iframe {
     max-width: 100vw !important;
@@ -33,9 +37,11 @@ iframe {
         max-width: 100% !important;
     }
 
+    /*
     .embed-container {
         max-width: 100% !important;
     }
+    */
 
     iframe {
         max-width: 100% !important;

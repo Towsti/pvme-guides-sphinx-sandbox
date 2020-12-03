@@ -218,9 +218,8 @@ class EmbedLink(SphinxRstMixIn):
                 doc_info.add(textwrap.dedent('''\
 .. |{}| raw:: html
     
-    <div class="embed-container">
-        <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed{}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed{}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
                 '''.format(link, link_components.path)))
 
 
