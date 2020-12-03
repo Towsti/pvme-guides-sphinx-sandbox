@@ -1,6 +1,7 @@
 import os
 import textwrap
 import shutil
+import time
 
 from pvme_docs_generator.rules import *
 
@@ -141,6 +142,9 @@ The bottom of every page displays when the site was last updated. The site is up
 **Theme**
 
 - the site is build with Sphinx using the Read the Docs theme
+
+    - support for mobile and desktop
+  
 - the dark-mode styling is created using the Dark Reader extension 
 
 **Links**
@@ -239,7 +243,9 @@ if __name__ == "__main__":
     # For testing
     # generate_channel("../sphinx/source", "../pvme-guides/high-tier-pvm/araxxor-melee.txt", "high-tier-pvm", "araxxor-melee")
     # generate_channel("../sphinx/source", "../pvme-guides/getting-started/perks.txt", "getting-started", "perks")
-    generate_channel("../sphinx/source", "../pvme-guides/miscellaneous-information/ability-information.txt", "miscellaneous-information", "ability-information")
+    # generate_channel("../sphinx/source", "../pvme-guides/miscellaneous-information/ability-information.txt", "miscellaneous-information", "ability-information")
 
+
+    start = time.time()
     generate_sphinx_rst("../pvme-guides", "../sphinx/source")
-    pass
+    print("format duration: {} seconds".format(time.time() - start))

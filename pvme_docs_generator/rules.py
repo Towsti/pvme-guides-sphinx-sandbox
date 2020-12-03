@@ -3,6 +3,7 @@ import textwrap
 from urllib.parse import urlparse
 from functools import lru_cache
 import pathlib
+import requests
 
 import gspread
 from gspread.utils import a1_to_rowcol
@@ -10,6 +11,13 @@ from gspread.utils import a1_to_rowcol
 
 __all__ = ['Bot', 'TableOfContents', 'Section', 'InlineLiteral', 'PVMESpreadsheet',
            'LineBreak', 'ListSection', 'Emoji', 'EmbedLink', 'DiscordMarkdownHTML', 'Cleanup', 'CodeBlock']
+
+# set the credentials.json file path, by default, the file is searched in the pvme_docs_generator/ folder
+module_path = pathlib.Path(__file__).parent.absolute()
+CREDENTIALS_FILE = "{}/credentials.json".format(module_path)
+
+# set the PVME price spreadsheet link (full link)
+PVME_SPREADSHEET = "https://docs.google.com/spreadsheets/d/1nFepmgXBFh1Juc0Qh5nd1HLk50iiFTt3DHapILozuIM/edit#gid=0"
 
 
 def align_inline_substitution(msg_content, substitution, start, end):
@@ -91,21 +99,23 @@ class TableOfContents(SphinxRstMixIn):
 
 
 class Emoji(SphinxRstMixIn):
-    PATTERN = re.compile(r"<:([^:]+):([0-9]+)>")
+    PATTERNS = [(re.compile(r"<:([^:]{2,}):([0-9]+)>"), ".png"),
+                (re.compile(r"<:a:([^:]+):([0-9]+)>"), ".gif")]
 
     @staticmethod
     def format_sphinx_html(msg, doc_info):
-        matches = [match for match in re.finditer(Emoji.PATTERN, msg.content)]
-        for match in reversed(matches):
-            substitution = "|{}+{}|".format(match.group(1), match.group(2))
-            emoji_formatted = align_inline_substitution(msg.content, substitution, match.start(), match.end())
-            msg.content = msg.content[:match.start()] + emoji_formatted + msg.content[match.end():]
+        for pattern, extension in Emoji.PATTERNS:
+            matches = [match for match in re.finditer(pattern, msg.content)]
+            for match in reversed(matches):
+                substitution = "|{}{}|".format(match.group(2), extension)
+                substitution_aligned = align_inline_substitution(msg.content, substitution, match.start(), match.end())
+                msg.content = msg.content[:match.start()] + substitution_aligned + msg.content[match.end():]
 
-            doc_info.add(textwrap.dedent('''\
-.. {} image:: https://cdn.discordapp.com/emojis/{}.png?v=1
+                doc_info.add(textwrap.dedent('''\
+.. {} image:: https://cdn.discordapp.com/emojis/{}{}?v=1
     :width: 1.375em
     :height: 1.375em
-            '''.format(substitution, match.group(2))))
+                '''.format(substitution, match.group(2), extension)))
 
 
 class PVMESpreadsheet(SphinxRstMixIn):
@@ -115,9 +125,9 @@ class PVMESpreadsheet(SphinxRstMixIn):
     @staticmethod
     @lru_cache(maxsize=None)
     def obtain_pvme_spreadsheet_data(worksheet):
-        module_path = pathlib.Path(__file__).parent.absolute()
-        gc = gspread.service_account(filename="{}/credentials.json".format(module_path))
-        sh = gc.open_by_url("https://docs.google.com/spreadsheets/d/1nFepmgXBFh1Juc0Qh5nd1HLk50iiFTt3DHapILozuIM/edit#gid=0")
+
+        gc = gspread.service_account(filename=CREDENTIALS_FILE)
+        sh = gc.open_by_url(PVME_SPREADSHEET)
 
         worksheet = sh.worksheet(worksheet)
         return worksheet.get_all_values()
@@ -198,7 +208,6 @@ class EmbedLink(SphinxRstMixIn):
 
     @staticmethod
     def format_sphinx_html(msg, doc_info):
-
         for link in re.findall(EmbedLink.PATTERN, msg.content):
             embed_formatted = "|{}|".format(link)
 
