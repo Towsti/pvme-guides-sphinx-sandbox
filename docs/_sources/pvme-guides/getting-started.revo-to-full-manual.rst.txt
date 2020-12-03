@@ -1,28 +1,28 @@
-.. |<u>| raw:: html
+.. |</u>| raw:: html
 
-    <u>
+    </u>
 
-.. |</i>| raw:: html
-
-    </i>
+.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
 
 .. |<b>| raw:: html
 
     <b>
 
-.. |</u>| raw:: html
+.. |<i>| raw:: html
 
-    </u>
+    <i>
+
+.. |</i>| raw:: html
+
+    </i>
 
 .. |</b>| raw:: html
 
     </b>
 
-.. |<i>| raw:: html
+.. |<u>| raw:: html
 
-    <i>
-
-.. |https://i.imgur.com/Y6XWNaF.jpg| image:: https://i.imgur.com/Y6XWNaF.jpg
+    <u>
 
 revo-to-full-manual
 ===================
