@@ -1,12 +1,20 @@
-.. |513213159071547395.png| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |513213019543699466.png| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |580167371365548042.png| image:: https://cdn.discordapp.com/emojis/580167371365548042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
 
 .. |580167371310891029.png| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |641696573272621086.png| image:: https://cdn.discordapp.com/emojis/641696573272621086.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -14,25 +22,13 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |513213019543699466.png| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
+.. |513213159071547395.png| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |</b>| raw:: html
 
     </b>
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |580167371365548042.png| image:: https://cdn.discordapp.com/emojis/580167371365548042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<i>| raw:: html
-
-    <i>
 
 .. |583430542809235458.png| image:: https://cdn.discordapp.com/emojis/583430542809235458.png?v=1
     :width: 1.375em
@@ -42,9 +38,13 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
+.. |<i>| raw:: html
 
-    <b>
+    <i>
+
+.. |641696573272621086.png| image:: https://cdn.discordapp.com/emojis/641696573272621086.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 mastery-system-reqs
 ===================

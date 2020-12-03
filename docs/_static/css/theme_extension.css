@@ -17,8 +17,13 @@ img {
     height: auto !important;
 }
 
-.media {
-    max-width: 560px !important;
+.embed-container {
+    max-width: 5600px !important;
+}
+
+iframe {
+    max-width: 100vw !important;
+    max-height: 56.25vw !important;
     /* height: auto !important; */
 }
 
@@ -28,7 +33,11 @@ img {
         max-width: 100% !important;
     }
 
-    .media {
+    .embed-container {
+        max-width: 100% !important;
+    }
+
+    iframe {
         max-width: 100% !important;
     }
 }

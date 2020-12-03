@@ -1,4 +1,8 @@
-.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |643162983543078922.png| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -6,57 +10,11 @@
 
     </u>
 
-.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |535541258429661215.png| image:: https://cdn.discordapp.com/emojis/535541258429661215.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/uisDoTEmFSI| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/uisDoTEmFSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |643162983543078922.png| image:: https://cdn.discordapp.com/emojis/643162983543078922.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
-
-.. |<u>| raw:: html
-
-    <u>
-
 .. |535541258844635148.png| image:: https://cdn.discordapp.com/emojis/535541258844635148.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |513190158900658180.png| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -64,15 +22,59 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
+.. |643162983220117605.png| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/uisDoTEmFSI| raw:: html
+
+    <div class="embed-container">
+        <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/uisDoTEmFSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+.. |513190158900658180.png| image:: https://cdn.discordapp.com/emojis/513190158900658180.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/laEY0Ft.png| image:: https://i.imgur.com/laEY0Ft.png
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
 .. |https://i.imgur.com/SHdAj7o.png| image:: https://i.imgur.com/SHdAj7o.png
 
-.. |643162983220117605.png| image:: https://cdn.discordapp.com/emojis/643162983220117605.png?v=1
+.. |535541306475151390.png| image:: https://cdn.discordapp.com/emojis/535541306475151390.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |535532879330148352.png| image:: https://cdn.discordapp.com/emojis/535532879330148352.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541258240786434.png| image:: https://cdn.discordapp.com/emojis/535541258240786434.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<u>| raw:: html
+
+    <u>
 
 kalphite-king
 =============
