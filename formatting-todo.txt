@@ -1,0 +1,28 @@
+EDGE CASES:
+upgrading-info > abilities:
+remove the message separator (.) in the table of contents (line 173)
+
+high-tier-pvm > telos 0-999:
+remove the message separator (.pin:delete) in the table of contents (line 276)
+
+high-tier-pvme > AOD:
+space between "`Example` <https://...>" (line 104)
+
+dpm-advice > dpm-advice-ranged:
+youtube links
+
+
+GENERAL:
+1. mentions/courtesy (discord links) should not be included in a section title but instead a line below it:
+	"
+	> __**Ability stalling**__
+	courtesy of <@ID>
+	"
+
+2. logical section names with consistent styling:
+	"> __**Presets**__", "> __**Drops**__"
+
+3. consistent spacing for (bullet) lists
+
+
+

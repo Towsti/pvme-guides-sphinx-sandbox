@@ -209,29 +209,29 @@ def generate_embed(link):
     :param link: raw unparsed link
     :return: html formatted embed link or None (link cannot be parsed)
     """
-
+    # todo: clips.twitch and twitch/videos are not formatted correctly
     # youtu.be
-    match = re.match(r"https://youtu\.be/([a-zA-Z0-9_\-]+)", link)
+    match = re.match(r"https?://youtu\.be/([a-zA-Z0-9_\-]+)", link)
     if match:
         return "<iframe class=\"media\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/{}\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>".format(match.group(1))
 
     # youtube.com
-    match = re.match(r"https://(www\.)?youtube\.[a-z0-9.]*?/watch\?([0-9a-zA-Z$\-_.+!*'(),;/?:@=&#]*&)?v=([a-zA-Z0-9_\-]+)", link)
+    match = re.match(r"https?://(www\.)?youtube\.[a-z0-9.]*?/watch\?([0-9a-zA-Z$\-_.+!*'(),;/?:@=&#]*&)?v=([a-zA-Z0-9_\-]+)", link)
     if match:
         return "<iframe class=\"media\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/{}\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>".format(match.group(3))
 
     # clips.twitch.tv
-    match = re.match(r"https://clips\.twitch\.tv/([a-zA-Z]+)", link)
+    match = re.match(r"https?://clips\.twitch\.tv/([a-zA-Z]+)", link)
     if match:
         return "<iframe class=\"media\" src=\"https://clips.twitch.tv/embed?autoplay=false&clip={}\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"315\" width=\"560\"></iframe>".format(match.group(1))
 
     # twitch.tv/videos
-    match = re.match(r"https://www\.twitch\.tv/videos/([0-9a-zA-Z]+)", link)
+    match = re.match(r"https?://www\.twitch\.tv/videos/([0-9a-zA-Z]+)", link)
     if match:
         return "<iframe class=\"media\" src=\"https://player.twitch.tv/?autoplay=false&video=v{}\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"335\" width=\"550\"></iframe>".format(match.group(1))
 
     # streamable
-    match = re.match(r"https://streamable.com/([a-zA-Z0-9]+)", link)
+    match = re.match(r"https?://streamable.com/([a-zA-Z0-9]+)", link)
     if match:
         return "<iframe class=\"media\" src=\"https://streamable.com/o/{}\" frameborder=\"0\" scrolling=\"no\" width=\"560\" height=\"315\" allowfullscreen></iframe>".format(match.group(1))
 

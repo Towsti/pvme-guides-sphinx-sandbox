@@ -75,8 +75,6 @@ def get_messages(channel_file):
         if prev_i < len(file_lines):
             messages.append(Message('\n\n'.join(file_lines[prev_i:]), '.'))
 
-        # print("{}\n{}, {}".format(channel_file, prev_i, len(file_lines)))
-
     return messages
 
 
