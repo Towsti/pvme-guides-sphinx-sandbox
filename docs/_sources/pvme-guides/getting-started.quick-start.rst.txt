@@ -1,3 +1,19 @@
+.. |<u>| raw:: html
+
+    <u>
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<b>| raw:: html
+
+    <b>
+
 .. |</b>| raw:: html
 
     </b>
@@ -6,29 +22,13 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
 .. |<i>| raw:: html
 
     <i>
 
-.. |<u>| raw:: html
-
-    <u>
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 quick-start
 ===========

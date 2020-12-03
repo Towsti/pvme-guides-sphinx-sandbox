@@ -2,67 +2,67 @@
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/3bMTu1YJIbQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://i.imgur.com/h7dRWus.gif| image:: https://i.imgur.com/h7dRWus.gif
-
-.. |https://www.youtube.com/watch?v=sgnThNnO9W8&feature=youtu.be| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/sgnThNnO9W8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4| image:: https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |https://www.youtube.com/watch?v=Mzyfjey6IwQ&feature=youtu.be| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Mzyfjey6IwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |https://youtu.be/-HOB3kLpHgI| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/-HOB3kLpHgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. |https://i.imgur.com/64bHib9.png| image:: https://i.imgur.com/64bHib9.png
 
 .. |https://www.youtube.com/watch?v=OmYO-xwpxjo&feature=youtu.be| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/OmYO-xwpxjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://www.youtube.com/watch?v=CXqNT7XOOHk&feature=youtu.be| raw:: html
+.. |https://clips.twitch.tv/FrigidDeafMooseThisIsSparta| raw:: html
 
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/CXqNT7XOOHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="media" src="https://clips.twitch.tv/embed?autoplay=false&clip=FrigidDeafMooseThisIsSparta" frameborder="0" allowfullscreen="true" scrolling="no" height="315" width="560"></iframe>
 
-.. |</u>| raw:: html
+.. |https://youtu.be/-HOB3kLpHgI| raw:: html
 
-    </u>
-
-.. |https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4| image:: https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/-HOB3kLpHgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |https://youtu.be/5MMV0_JraMw| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/5MMV0_JraMw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |<b>| raw:: html
-
-    <b>
-
 .. |https://www.youtube.com/watch?v=Mu_EvH4Y_Xg| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Mu_EvH4Y_Xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://clips.twitch.tv/FrigidDeafMooseThisIsSparta| raw:: html
+.. |<u>| raw:: html
 
-    <iframe class="media" src="https://clips.twitch.tv/embed?autoplay=false&clip=FrigidDeafMooseThisIsSparta" frameborder="0" allowfullscreen="true" scrolling="no" height="335" width="550"></iframe>
+    <u>
+
+.. |https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4| image:: https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://www.youtube.com/watch?v=CXqNT7XOOHk&feature=youtu.be| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/CXqNT7XOOHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://www.youtube.com/watch?v=sgnThNnO9W8&feature=youtu.be| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/sgnThNnO9W8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://www.youtube.com/watch?v=Mzyfjey6IwQ&feature=youtu.be| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/Mzyfjey6IwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4| image:: https://thumbs.gfycat.com/BossyTallElephant-mobile.mp4
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |https://i.imgur.com/h7dRWus.gif| image:: https://i.imgur.com/h7dRWus.gif
+
+.. |https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4| image:: https://thumbs.gfycat.com/RepentantVillainousArthropods-mobile.mp4
 
 .. |https://youtu.be/UtBBbOpRx84| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/UtBBbOpRx84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4| image:: https://thumbs.gfycat.com/SorrowfulFewBumblebee-mobile.mp4
-
-.. |https://i.imgur.com/64bHib9.png| image:: https://i.imgur.com/64bHib9.png
 
 vorago-tips-and-tricks
 ======================

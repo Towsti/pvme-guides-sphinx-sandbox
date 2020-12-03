@@ -1,6 +1,38 @@
+.. |<u>| raw:: html
+
+    <u>
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</i>| raw:: html
+
+    </i>
+
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |<b>| raw:: html
+
+    <b>
+
+.. |</u>| raw:: html
+
+    </u>
+
 .. |</b>| raw:: html
 
     </b>
+
+.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
     :width: 1.375em
@@ -10,15 +42,7 @@
 
     <i>
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+.. |535532879510372352.png| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -26,35 +50,11 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |https://www.youtube.com/watch?v=unCtj7IosVA| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/unCtj7IosVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |<b>| raw:: html
-
-    <b>
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |535532879510372352.png| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
     :width: 1.375em
     :height: 1.375em
 

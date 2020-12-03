@@ -1,4 +1,46 @@
+.. |https://i.imgur.com/eBU4tzx.png| image:: https://i.imgur.com/eBU4tzx.png
+
+.. |https://i.imgur.com/YTosKHl.png| image:: https://i.imgur.com/YTosKHl.png
+
+.. |641339922019516416.png| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |746403211908481184.png| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879506309150.png| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://i.imgur.com/nxKR1Io.png| image:: https://i.imgur.com/nxKR1Io.png
+
 .. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |745279787471470713.png| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535533810004262912.png| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -14,75 +56,17 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/nxKR1Io.png| image:: https://i.imgur.com/nxKR1Io.png
-
-.. |535532879506309150.png| image:: https://cdn.discordapp.com/emojis/535532879506309150.png?v=1
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |641339922019516416.png| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |513190159362031631.png| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://i.imgur.com/YTosKHl.png| image:: https://i.imgur.com/YTosKHl.png
-
-.. |745279787471470713.png| image:: https://cdn.discordapp.com/emojis/745279787471470713.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |634350450887622656.png| image:: https://cdn.discordapp.com/emojis/634350450887622656.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |746403211908481184.png| image:: https://cdn.discordapp.com/emojis/746403211908481184.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |https://i.imgur.com/yQIpVUl.png| image:: https://i.imgur.com/yQIpVUl.png
 
 .. |<u>| raw:: html
 
     <u>
 
-.. |536252659301089280.png| image:: https://cdn.discordapp.com/emojis/536252659301089280.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |656426717505650708.png| image:: https://cdn.discordapp.com/emojis/656426717505650708.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535533810004262912.png| image:: https://cdn.discordapp.com/emojis/535533810004262912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
+.. |641669268722810881.png| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -90,29 +74,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |</u>| raw:: html
-
-    </u>
-
-.. |536252658970001409.png| image:: https://cdn.discordapp.com/emojis/536252658970001409.png?v=1
+.. |535532854004678657.png| image:: https://cdn.discordapp.com/emojis/535532854004678657.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |https://i.imgur.com/eBU4tzx.png| image:: https://i.imgur.com/eBU4tzx.png
-
-.. |643848618553507843.png| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+.. |513190159362031631.png| image:: https://cdn.discordapp.com/emojis/513190159362031631.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -120,11 +94,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |641669268722810881.png| image:: https://cdn.discordapp.com/emojis/641669268722810881.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+.. |656426717413507074.png| image:: https://cdn.discordapp.com/emojis/656426717413507074.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -132,13 +102,43 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://i.imgur.com/yQIpVUl.png| image:: https://i.imgur.com/yQIpVUl.png
+.. |535614336207552523.png| image:: https://cdn.discordapp.com/emojis/535614336207552523.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-.. |690848914949144616.png| image:: https://cdn.discordapp.com/emojis/690848914949144616.png?v=1
+.. |<b>| raw:: html
+
+    <b>
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |643848618553507843.png| image:: https://cdn.discordapp.com/emojis/643848618553507843.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532878969438210.png| image:: https://cdn.discordapp.com/emojis/535532878969438210.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
 

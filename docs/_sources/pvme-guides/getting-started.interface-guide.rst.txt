@@ -1,36 +1,36 @@
-.. |</b>| raw:: html
+.. |<u>| raw:: html
 
-    </b>
-
-.. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
-
-.. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
-
-.. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
+    <u>
 
 .. |https://www.youtube.com/watch?v=zn_y-_2giZg| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/zn_y-_2giZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-.. |https://i.imgur.com/gh0lwgt.jpg| image:: https://i.imgur.com/gh0lwgt.jpg
+.. |https://i.imgur.com/rJ9iYfS.jpg| image:: https://i.imgur.com/rJ9iYfS.jpg
 
 .. |<b>| raw:: html
 
     <b>
 
-.. |<u>| raw:: html
+.. |</u>| raw:: html
 
-    <u>
+    </u>
+
+.. |</b>| raw:: html
+
+    </b>
+
+.. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
+
+.. |https://i.imgur.com/w3KN6uG.jpg| image:: https://i.imgur.com/w3KN6uG.jpg
+
+.. |https://i.imgur.com/gh0lwgt.jpg| image:: https://i.imgur.com/gh0lwgt.jpg
+
+.. |https://i.imgur.com/ss5kjLS.jpg| image:: https://i.imgur.com/ss5kjLS.jpg
 
 .. |https://i.imgur.com/t39aJyj.jpg| image:: https://i.imgur.com/t39aJyj.jpg
 
-.. |https://i.imgur.com/fEP7v4n.jpg| image:: https://i.imgur.com/fEP7v4n.jpg
+.. |https://i.imgur.com/NbMVwsX.jpg| image:: https://i.imgur.com/NbMVwsX.jpg
 
 interface-guide
 ===============
