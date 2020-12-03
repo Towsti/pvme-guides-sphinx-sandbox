@@ -2,6 +2,10 @@
 
     <b>
 
+.. |<u>| raw:: html
+
+    <u>
+
 .. |</b>| raw:: html
 
     </b>
@@ -9,10 +13,6 @@
 .. |</u>| raw:: html
 
     </u>
-
-.. |<u>| raw:: html
-
-    <u>
 
 perk-info
 =========
