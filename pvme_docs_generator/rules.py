@@ -32,6 +32,13 @@ def align_inline_substitution(msg_content, substitution, start, end):
     return substitution
 
 
+class SphinxRstMixIn(object):
+
+    @staticmethod
+    def format_sphinx_html(msg, doc_info):
+        pass
+
+
 class Bot:
     @staticmethod
     def format_sphinx_html(line, doc_info):
@@ -39,7 +46,7 @@ class Bot:
             formatted_line = ''
 
         elif line.startswith(".img:"):
-            # note: extra enter mandatory for RST formatting
+            # todo: use embed parser since images can also be gifs/mp4 etc
             image_link = line[len(".img:"):]
             formatted_line = "|{}|".format(image_link)
             doc_info.add(textwrap.dedent('''\
@@ -52,17 +59,16 @@ class Bot:
         elif line.startswith(".pin:"):
             formatted_line = ''
 
+        elif line.startswith(".."):
+            formatted_line = '.'
+
         else:
             formatted_line = ''
 
         return formatted_line
 
 
-class SphinxRstMixIn(object):
 
-    @staticmethod
-    def format_sphinx_html(msg, doc_info):
-        pass
 
 
 class Section(SphinxRstMixIn):
