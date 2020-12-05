@@ -1,14 +1,8 @@
-.. |https://i.imgur.com/Un81lbK.png| image:: https://i.imgur.com/Un81lbK.png
+.. |https://clips.twitch.tv/CorrectConcernedGrouseNerfRedBlaster| raw:: html
 
-.. |<b>| raw:: html
+    <iframe class="media" src="https://clips.twitch.tv/embed?autoplay=false&clip=CorrectConcernedGrouseNerfRedBlaster" frameborder="0" allowfullscreen="true" scrolling="no" height="315" width="560"></iframe>
 
-    <b>
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |583429876242186260.png| image:: https://cdn.discordapp.com/emojis/583429876242186260.png?v=1
+.. |625304432581672961.png| image:: https://cdn.discordapp.com/emojis/625304432581672961.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -16,9 +10,27 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/M65xdRYYxJ4| raw:: html
+.. |</i>| raw:: html
 
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/M65xdRYYxJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </i>
+
+.. |<u>| raw:: html
+
+    <u>
+
+.. |https://i.gyazo.com/a3b13b217022a8523de01b4e50b3cc9f.mp4| image:: https://i.gyazo.com/a3b13b217022a8523de01b4e50b3cc9f.mp4
+
+.. |https://youtu.be/fInvWvnSI18| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/fInvWvnSI18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://youtu.be/IUmvGm4Z374| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/IUmvGm4Z374" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |https://youtu.be/9YejOAvquQk| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/9YejOAvquQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. |</u>| raw:: html
 
@@ -28,55 +40,43 @@
 
     <i>
 
-.. |https://youtu.be/IUmvGm4Z374| raw:: html
+.. |</b>| raw:: html
 
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/IUmvGm4Z374" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |https://i.imgur.com/Apqq3Th.png| image:: https://i.imgur.com/Apqq3Th.png
-
-.. |<u>| raw:: html
-
-    <u>
+    </b>
 
 .. |https://i.imgur.com/cPreXnV.png| image:: https://i.imgur.com/cPreXnV.png
-
-.. |https://i.gyazo.com/a3b13b217022a8523de01b4e50b3cc9f.mp4| image:: https://i.gyazo.com/a3b13b217022a8523de01b4e50b3cc9f.mp4
 
 .. |https://youtu.be/jqeed0LKPUU| raw:: html
 
     <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/jqeed0LKPUU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+.. |https://i.imgur.com/Un81lbK.png| image:: https://i.imgur.com/Un81lbK.png
+
+.. |583429876242186260.png| image:: https://cdn.discordapp.com/emojis/583429876242186260.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://youtu.be/M65xdRYYxJ4| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/M65xdRYYxJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 .. |https://i.imgur.com/7JT4mVE.png| image:: https://i.imgur.com/7JT4mVE.png
-
-.. |</b>| raw:: html
-
-    </b>
-
-.. |https://youtu.be/fInvWvnSI18| raw:: html
-
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/fInvWvnSI18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-.. |https://i.imgur.com/e678FYp.png| image:: https://i.imgur.com/e678FYp.png
-
-.. |625304432581672961.png| image:: https://cdn.discordapp.com/emojis/625304432581672961.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |https://clips.twitch.tv/CorrectConcernedGrouseNerfRedBlaster| raw:: html
-
-    <iframe class="media" src="https://clips.twitch.tv/embed?autoplay=false&clip=CorrectConcernedGrouseNerfRedBlaster" frameborder="0" allowfullscreen="true" scrolling="no" height="315" width="560"></iframe>
-
-.. |626466320132734976.png| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
-    :width: 1.375em
-    :height: 1.375em
 
 .. |537340400273195028.png| image:: https://cdn.discordapp.com/emojis/537340400273195028.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |https://youtu.be/9YejOAvquQk| raw:: html
+.. |<b>| raw:: html
 
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/9YejOAvquQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <b>
+
+.. |https://i.imgur.com/Apqq3Th.png| image:: https://i.imgur.com/Apqq3Th.png
+
+.. |https://i.imgur.com/e678FYp.png| image:: https://i.imgur.com/e678FYp.png
+
+.. |626466320132734976.png| image:: https://cdn.discordapp.com/emojis/626466320132734976.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 mechanics
 =========

@@ -1,40 +1,16 @@
-.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</u>| raw:: html
-
-    </u>
-
-.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |<b>| raw:: html
 
     <b>
 
-.. |https://www.youtube.com/watch?v=unCtj7IosVA| raw:: html
+.. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
-    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/unCtj7IosVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+    :width: 1.375em
+    :height: 1.375em
 
 .. |535532879334080527.png| image:: https://cdn.discordapp.com/emojis/535532879334080527.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<i>| raw:: html
-
-    <i>
-
-.. |</i>| raw:: html
-
-    </i>
-
-.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -42,11 +18,23 @@
 
     </b>
 
-.. |535533833106489365.png| image:: https://cdn.discordapp.com/emojis/535533833106489365.png?v=1
+.. |535541259108876293.png| image:: https://cdn.discordapp.com/emojis/535541259108876293.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |535541307142307860.png| image:: https://cdn.discordapp.com/emojis/535541307142307860.png?v=1
+.. |</i>| raw:: html
+
+    </i>
+
+.. |535532878616985610.png| image:: https://cdn.discordapp.com/emojis/535532878616985610.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |https://www.youtube.com/watch?v=unCtj7IosVA| raw:: html
+
+    <iframe class="media" width="560" height="315" src="https://www.youtube.com/embed/unCtj7IosVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+.. |535533809924571136.png| image:: https://cdn.discordapp.com/emojis/535533809924571136.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -57,6 +45,18 @@
 .. |535532879510372352.png| image:: https://cdn.discordapp.com/emojis/535532879510372352.png?v=1
     :width: 1.375em
     :height: 1.375em
+
+.. |535532879325822986.png| image:: https://cdn.discordapp.com/emojis/535532879325822986.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |</u>| raw:: html
+
+    </u>
+
+.. |<i>| raw:: html
+
+    <i>
 
 dpm-advice-faq
 ==============

@@ -1,20 +1,12 @@
-.. |580167371310891029.png| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |<b>| raw:: html
 
-.. |513213159071547395.png| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |513212949033123840.png| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |513212996948983809.png| image:: https://cdn.discordapp.com/emojis/513212996948983809.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+    <b>
 
 .. |572867742613635082.png| image:: https://cdn.discordapp.com/emojis/572867742613635082.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513213019543699466.png| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -22,31 +14,39 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |580167371365548042.png| image:: https://cdn.discordapp.com/emojis/580167371365548042.png?v=1
-    :width: 1.375em
-    :height: 1.375em
+.. |</b>| raw:: html
 
-.. |641696573272621086.png| image:: https://cdn.discordapp.com/emojis/641696573272621086.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |<i>| raw:: html
-
-    <i>
+    </b>
 
 .. |</i>| raw:: html
 
     </i>
 
-.. |</b>| raw:: html
+.. |<i>| raw:: html
 
-    </b>
+    <i>
 
-.. |513213019543699466.png| image:: https://cdn.discordapp.com/emojis/513213019543699466.png?v=1
+.. |513212996948983809.png| image:: https://cdn.discordapp.com/emojis/513212996948983809.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |580167371310891029.png| image:: https://cdn.discordapp.com/emojis/580167371310891029.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513212949033123840.png| image:: https://cdn.discordapp.com/emojis/513212949033123840.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |580167371365548042.png| image:: https://cdn.discordapp.com/emojis/580167371365548042.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513213159071547395.png| image:: https://cdn.discordapp.com/emojis/513213159071547395.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |641696573272621086.png| image:: https://cdn.discordapp.com/emojis/641696573272621086.png?v=1
     :width: 1.375em
     :height: 1.375em
 

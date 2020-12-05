@@ -1,12 +1,4 @@
-.. |602561894414417944.png| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<b>| raw:: html
-
-    <b>
-
-.. |641339921814126594.png| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
+.. |535541258924326912.png| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -14,11 +6,19 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
+.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |641339921675845633.png| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
+.. |<u>| raw:: html
+
+    <u>
+
+.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |602561894414417944.png| image:: https://cdn.discordapp.com/emojis/602561894414417944.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -26,15 +26,39 @@
 
     </u>
 
-.. |513190159462694912.png| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
+.. |</b>| raw:: html
+
+    </b>
+
+.. |641339921814126594.png| image:: https://cdn.discordapp.com/emojis/641339921814126594.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |535532879250456578.png| image:: https://cdn.discordapp.com/emojis/535532879250456578.png?v=1
+.. |641339922019516416.png| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429757761224715.png| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |513201065513058306.png| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |535532854281764884.png| image:: https://cdn.discordapp.com/emojis/535532854281764884.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -42,7 +66,7 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |513190158728953857.png| image:: https://cdn.discordapp.com/emojis/513190158728953857.png?v=1
+.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -54,35 +78,11 @@
     :width: 1.375em
     :height: 1.375em
 
-.. |583429757975396366.png| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535541259033378827.png| image:: https://cdn.discordapp.com/emojis/535541259033378827.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |513190159194259467.png| image:: https://cdn.discordapp.com/emojis/513190159194259467.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |641339922019516416.png| image:: https://cdn.discordapp.com/emojis/641339922019516416.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |<u>| raw:: html
-
-    <u>
-
-.. |513201065513058306.png| image:: https://cdn.discordapp.com/emojis/513201065513058306.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
 .. |513201065907322880.png| image:: https://cdn.discordapp.com/emojis/513201065907322880.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |583429757761224715.png| image:: https://cdn.discordapp.com/emojis/583429757761224715.png?v=1
+.. |641339921675845633.png| image:: https://cdn.discordapp.com/emojis/641339921675845633.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -90,27 +90,27 @@
     :width: 1.375em
     :height: 1.375em
 
+.. |<b>| raw:: html
+
+    <b>
+
+.. |513190159462694912.png| image:: https://cdn.discordapp.com/emojis/513190159462694912.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
+.. |583429757975396366.png| image:: https://cdn.discordapp.com/emojis/583429757975396366.png?v=1
+    :width: 1.375em
+    :height: 1.375em
+
 .. |535541306294796299.png| image:: https://cdn.discordapp.com/emojis/535541306294796299.png?v=1
     :width: 1.375em
     :height: 1.375em
-
-.. |535541258924326912.png| image:: https://cdn.discordapp.com/emojis/535541258924326912.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |</b>| raw:: html
-
-    </b>
 
 .. |602561894443778115.png| image:: https://cdn.discordapp.com/emojis/602561894443778115.png?v=1
     :width: 1.375em
     :height: 1.375em
 
-.. |641339233638023179.png| image:: https://cdn.discordapp.com/emojis/641339233638023179.png?v=1
-    :width: 1.375em
-    :height: 1.375em
-
-.. |535532879283879977.png| image:: https://cdn.discordapp.com/emojis/535532879283879977.png?v=1
+.. |641339234111848463.png| image:: https://cdn.discordapp.com/emojis/641339234111848463.png?v=1
     :width: 1.375em
     :height: 1.375em
 
@@ -147,7 +147,7 @@ Abilities
 
 |513190159194259467.png| |535541306294796299.png|  |<b>| Corruption Blast/Shot |</b>|
 
-- Unlocked using a Mazcab Codex |698816156961603654.png| 30,334,577
+- Unlocked using a Mazcab Codex |698816156961603654.png| 29,735,212
 
 - A bleed ability, and a good basic. 100%-300% abil damage over the course of the bleed
 
@@ -269,7 +269,7 @@ Abilities
 
 |513190159085207555.png| |<b>| Onslaught |</b>|
 
-- Unlocked using a Mazcab Codex |698816156961603654.png| 30,334,577
+- Unlocked using a Mazcab Codex |698816156961603654.png| 29,735,212
 
 - An ability that deals 50-150% damage at first, with each hit increasing by 11-33% per hit. At first it uses 25% adren per hit, afterwards it takes life points dealing 25% of the damage you dealt as recoil. After 10 hits the damage against you starts increasing by 1k per hit (e.g. at 12 hits you will take +2k damage + the recoil)
 
@@ -283,7 +283,7 @@ Abilities
 
 |583429757975396366.png| |583429757761224715.png| |<b>| Storm Shards/Shatter |</b>|
 
-- Unlocked using a Mazcab Codex |698816156961603654.png| 30,334,577
+- Unlocked using a Mazcab Codex |698816156961603654.png| 29,735,212
 
 
 
@@ -315,7 +315,7 @@ Abilities
 
 |641339233638023179.png| |<b>| Limitless |</b>|
 
-- Unlocked using a Limitless ability codex |698816156961603654.png| 238,698,000
+- Unlocked using a Limitless ability codex |698816156961603654.png| 234,262,000
 
 - An ability that allows the usage of thresholds under 50% adrenaline for 6 seconds
 
@@ -371,7 +371,7 @@ Abilities
 
 |602561894414417944.png| |<b>| Double Surge |</b>|
 
-- Unlocked using a Double Surge codex |698816156961603654.png| 41,145,123
+- Unlocked using a Double Surge codex |698816156961603654.png| 43,040,157
 
 - Gives Surge 2 uses per CD cycle, these can both grant adrenaline if both are used off GCD
 
